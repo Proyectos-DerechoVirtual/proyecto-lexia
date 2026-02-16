@@ -1,0 +1,59 @@
+# El Poder Judicial
+
+## Carrera judicial y fiscal II
+
+**Tema:** El Poder Judicial  
+**Clase:** T06_C19  
+**Archivo:** T06_C19_Carrera judicial y fiscal II.txt  
+**Tipo:** Material de Clase  
+**Categoría:** Oposiciones de Justicia  
+
+---
+
+Muy buenas, bienvenido a un nuevo vídeo de Derecho Virtual. Hoy vamos a ver el sistema de acceso a la carrera judicial y fiscal. En esta clase nos centraremos en los sistemas de acceso a la carrera judicial y fiscal.
+
+
+En concreto hablaremos en qué consiste la oposición. Antes de empezar veamos un índice. En primer lugar cómo se puede acceder a la carrera judicial y fiscal.
+
+
+Una vez aprobada la oposición, ¿qué ocurre? ¿Son ya jueces y fiscales? Veremos también el periodo de prácticas y por último veremos cuál es la manera de acceder a la condición de magistrado. Comenzamos. El acceso a la carrera judicial en España está regulado en los artículos 301 y siguientes de la ley orgánica 6.1985 de 1 de julio del Poder Judicial y se basa en los principios de mérito y capacidad para el ejercicio de la función jurisdiccional.
+
+
+Es decir, que sólo accedan los mejores, los que más competencia y conocimientos tengan. El proceso de selección garantiza con objetividad y transparencia la igualdad en el acceso a todos los ciudadanos que reúnan las condiciones y aptitudes necesarias, así como la idoneidad y suficiencia profesional para el ejercicio de la función jurisdiccional. Quiere decir que cualquier ciudadano que reúna los requisitos que establece la ley y que demuestre sus sólidos conocimientos al superar el proceso selectivo va a poder acceder a ser juez o fiscal.
+
+
+¿Cómo se puede acceder a la carrera judicial y fiscal? El ingreso a la carrera judicial se puede hacer de acuerdo al artículo 315 de la ley orgánica del Poder Judicial, por categoría de juez, por categoría de magistrado o por categoría de magistrado del Tribunal Supremo. El ingreso a la carrera fiscal se realiza por la categoría de fiscal. ¿Y cómo se accede a la carrera judicial por la categoría de juez? A la categoría de juez se ingresa superando una oposición libre y un curso teórico y práctico de selección que se realiza en la escuela judicial por aquellos candidatos que han superado la fase de oposición.
+
+
+¿Y a la carrera fiscal? Pues bien, el acceso a la carrera judicial por la categoría de juez y el acceso a la carrera fiscal se hace a través de la misma oposición. Esta unificación de convocatoria se produce en el año 2000, así por la ley orgánica 9-2000 de 22 de diciembre sobre medidas urgentes para la agilización de la Administración de Justicia, por la que se modifica la ley orgánica del Poder Judicial, se unifica el acceso a las carreras judicial y fiscal y, por tanto, los opositores concurren en una única convocatoria a las plazas de las dos carreras, judicial y fiscal. Una vez que el opositor supera los ejercicios tiene que optar, en el plazo que fije la comisión de selección, bien por la carrera judicial o bien por la carrera fiscal, en función de la puntuación obtenida al final de la fase de oposición y el número de plazas que se han ofertado en esa convocatoria.
+
+
+Por ejemplo, en la convocatoria de acceso a la carrera judicial y fiscal del año 2023 se han ofertado 120 plazas para acceder a la carrera judicial y 80 plazas para acceder a la carrera fiscal. Los aprobados, por el número de orden que haya quedado al final de la oposición, irán optando por una u otra carrera, primero elige el número 1 de la oposición, luego el número 2 y así sucesivamente hasta que se vayan agotando las plazas convocadas. Si se da el caso de que los 81 han optado por la carrera fiscal, los siguientes ya no podrán elegir entre ambas carreras ya que solo quedarían plazas de la carrera judicial.
+
+
+¿Y una vez los candidatos superan las pruebas selectivas ya se consideran jueces o fiscales? Todavía no. Los candidatos que hubieran superado la oposición tendrán la consideración de funcionarios en prácticas y deberán realizar el curso teórico práctico en la escuela judicial o en el centro de estudios jurídicos dependiendo si han optado por ser jueces o fiscales. ¿Y en qué consiste el curso que realiza la escuela judicial? El curso de selección incluirá un programa teórico de formación multidisciplinar, un periodo de prácticas tuteladas en diferentes órganos de todos los órdenes jurisdiccionales y un periodo en el que los jueces y las juezas en prácticas desempeñarán funciones de sustitución y refuerzo.
+
+
+Solamente la superación de cada uno de ellos posibilitará el acceso al siguiente. Superada la fase teórica de formación multidisciplinar, que tendrá un periodo mínimo de nueve meses, se iniciará el periodo de prácticas. ¿En qué consiste el periodo de prácticas? Pues bien, los jueces en prácticas tuteladas se denominarán jueces adjuntos y ejercerán funciones de auxilio y colaboración con los jueces titulares.
+
+
+Sus funciones solo podrán consistir en redactar borradores o proyectos de resolución que el juez oponente titular podrá, en su caso, asumir con las modificaciones que estime pertinentes. También podrán dirigir vistas o actuaciones bajo la supervisión y dirección del juez titular. Es decir, estos jueces adjuntos tendrán como tutores a los jueces titulares de los órganos judiciales y, bajo su supervisión, van a poder dirigir vistas y redactar el borrador de resolución relativo al asunto que tienen que resolver.
+
+
+Las prácticas tuteladas tendrán una duración mínima de cuatro meses. Superada esta fase de prácticas tuteladas, existirá un periodo obligatorio en el que los jueces en prácticas desempeñarán labores de sustitución y refuerzo. ¿Y en qué consiste la última fase? En los órganos judiciales, ejercerá la jurisdicción con idéntica amplitud a la de los titulares del órgano judicial, es decir, tendrán las mismas facultades como si fueran jueces titulares del órgano y quedarán a disposición del presidente de una superior de justicia correspondiente, que deberá elaborar un informe sobre la dedicación y rendimiento en el desempeño de sus funciones para su valoración por la Escuela Judicial.
+
+
+Esta fase tendrá una duración mínima de cuatro meses. Finalmente, los que superen el curso teórico práctico serán nombrados jueces. La propuesta de aspirantes a ser nombrados jueces se elabora por la Escuela Judicial por el orden en que hayan sido calificados y esta relación se eleva al Consejo General del Poder Judicial, ya que a su comisión permanente le corresponderá dictar una orden realizando el nombramiento.
+
+
+¿Y los que no superen el curso? Los candidatos que no superen el curso podrán repetirlo al año siguiente y se incorporarán con la nueva promoción de acuerdo con lo que dispone el artículo 309 de la Ley Orgánica del Poder Judicial. Si tampoco superas en este curso quedarán definitivamente excluidos y decaídos en la expectativa de ingreso en la carrera judicial derivada de las pruebas de acceso que hubieran aprobado, es decir, si quieren acceder a la carrera judicial deberán volver a superar todo el proceso selectivo. Si a algún aspirante que haya aprobado no se le puede designar una plaza como titular, estos ingresarán en la carrera judicial como jueces en expectativa de destino y tomarán posesión ante el presidente del Consejo General del Poder Judicial.
+
+
+¿Cómo se accede por la categoría de magistrado? El artículo 305 de la Ley Orgánica del Poder Judicial dispone que también ingresarán en la carrera judicial por la categoría de magistrado del Tribunal Supremo o de magistrado juristas de reconocida competencia los cuales precisarán también superar un curso de formación en la escuela judicial. De cada cuatro vacantes en la categoría de magistrado, una se va a cubrir por concurso entre juristas de reconocida competencia y con más de 10 años de ejercicio profesional que superen el curso de formación. La tercera parte de estas vacantes se van a reservar a los letrados de la Administración de Justicia.
+
+
+Es decir, si existen 12 vacantes de magistrados, tres se reservarán para cubrir por medio de valoración de méritos a juristas que acrediten tener años de trabajo, al menos 10, y otras circunstancias que avalen su nombramiento y de estas tres plazas una se reservará para los miembros del cuerpo de letrados que deseen acceder a la carrera judicial. En el caso que desee acceder a la carrera judicial por la categoría de magistrado del Tribunal Supremo, la Ley Orgánica del Poder Judicial en su artículo 343 establece que podrán optar aquellos abogados y juristas que acrediten tener reconocida competencia, es decir, que reúnan los méritos suficientes que serán valorados por el Consejo General del Poder Judicial y hayan desempeñado su actividad profesional por tiempo superior a 15 años preferentemente en la rama del derecho correspondiente al orden jurisdiccional de la sala para la que hubieran sido designados. Y hasta aquí el primer vídeo relativo al acceso a la carrera judicial y fiscal.
+
+
+En esta clase hemos visto que existe una única oposición para acceder a la carrera judicial y fiscal, nos hemos centrado en cómo se desarrolla la fase de oposición para acceder a la carrera judicial por la categoría de juez, hemos explicado en qué casos la ley permite acceder a través de la categoría de magistrado o magistrado del Tribunal Supremo. Concluimos por hoy la explicación, nos vemos en la próxima clase y ánimo con el estudio de temas de esta materia.
+

@@ -1,0 +1,71 @@
+# Procedimientos Especiales
+
+## Procedimientos especiales parte IV
+
+**Tema:** Procedimientos Especiales  
+**Clase:** T63_C04  
+**Archivo:** T63_C04_Procedimientos especiales parte IV.txt  
+**Tipo:** Material de Clase  
+**Categoría:** Oposiciones de Justicia  
+
+---
+
+Muy buenas opositores, bienvenidos a una nueva clase. Esta vez nos reunimos para ver un tema muy importante, las disposiciones generales de los procesos especiales. ¿Qué es esto de un proceso especial? Pues bien, es la denominación que le otorga el libro cuarto de la ley de enjuiciamiento civil a algunos procesos.
+
+
+En concreto, se ordenan en estos tres típulos. Primero, proceso sobre capacidad de afiliación matrimonio y menores. Segundo, división judicial del patrimonio, concretamente división judicial de la herencia y procedimiento para la liquidación del régimen económico matrimonial.
+
+
+Y tercero, procesos monitorio y cambiario. Nosotros no vamos a entrar en esta clase en cada uno de estos procesos, pero sí vamos a ver reglas comunes a todos ellos. Ubícate en los artículos 752 a 755 de la ley y no pierdas de vista que algunos de estos preceptos están reformados por el Real Decreto Ley 6.2023. Empezamos con la prueba en estos procesos especiales.
+
+
+Para seguir la clase, tenga mano en los artículos 752 de la ley de enjuiciamiento civil. Estos procesos se decidirán con arreglo de los hechos que hayan sido objeto del debate y resulten probados, con independencia del momento en que hubieran sido alegados o introducidos de otra manera en el procedimiento. Vamos, que hay que estar a lo que haya sido probado.
+
+
+En términos más simples, sin perjuicio de las pruebas que se practiquen a instancia del Ministerio Fiscal y de las demás partes, el Tribunal podrá decretar de oficio cuantas estimes pertinentes. Ojo, quiero que tengas estos muy presentes porque esto no suele ser tan común. Se podrá proponer por las partes o acordar de oficio por el Tribunal la práctica de toda aquella prueba anticipada que se considere pertinente y útil al objeto del procedimiento.
+
+
+En este caso, se procurará que el resultado de dicha prueba, admitida o acordada, obre en las actuaciones con anterioridad a la celebración de la vista, estando a disposición de las partes. Por ejemplo, en un proceso de custodia de menores, durante el procedimiento, Pedro presenta pruebas de su capacidad económica y estabilidad emocional en las etapas finales del juicio, informando que no había sido discutida anteriormente. A su vez, Ana, la otra parte, introduce testigos de última hora sobre el interés superior del menor.
+
+
+A pesar de la tardanza de la presentación de estas pruebas, el Tribunal decide considerarlas, basando su decisión final en todos los hechos probados relevantes, independientemente del momento en que se introdujeron en el procedimiento. Además, el Ministerio Fiscal, preocupado por el bienestar del menor, solicita una evaluación psicológica del niño. El Tribunal, considerando esto insuficiente y de oficio, ordena una investigación social del entorno familiar de ambas partes.
+
+
+También, preveyendo la necesidad de resolver el caso con la máxima información disponible, el Tribunal acuerda de oficio una prueba anticipada de testimonio de expertos en psicología infantil, asegurando que los resultados estén disponibles antes de la vista principal, facilitando así una decisión informada y en el mejor interés del menor. Visto esto, seguimos con el apartado segundo, donde nos advierte que la conformidad de las partes sobre los hechos no vinculará al Tribunal. Tampoco estará el Tribunal vinculado en los procesos a que se refiere este título a las disposiciones de esta ley en materia de fuerza probatoria del interrogatorio de las partes, de los documentos públicos y los documentos privados reconocidos.
+
+
+Imagínate en un litigio sobre la validez de un testamento. Ambas partes llegan a un acuerdo sobre la autenticidad de un documento privado que favorece a una de ellas. Sin embargo, al revisar el caso, el Tribunal decide de oficio examinar más a fondo la validez del documento sin estar vinculado por la conformidad de las partes a este respecto.
+
+
+Además, aunque normalmente los documentos públicos y los privados reconocidos tienen un valor probatorio bajo en la ley, el Tribunal opta por evaluar estos elementos con un criterio más amplio considerando otras pruebas presentadas que podrían contradecir la validez del testamento, como testimonios adicionales o pruebas periciales sobre la capacidad mental del testador en el momento de la firma del testamento. Como siempre, el artículo termina dándonos una decepción al replicado, ya que respecto de las pretensiones que se formulen en los procesos a que se refiere este título y que tengan por objeto materias sobre las que las partes puedan disponer libremente según la legislación civil aplicable, no serán aplicables las excepciones contenidas en el apartado anterior. Entonces, visto esto, vamos a proseguir con la tramitación del artículo 753 de la ley de enjuiciamiento civil.
+
+
+Lo primero de todo que debes saber es que se regirá por los cauces del juicio verbal. El letrado o letada de la Administración de Justicia dará traslado de la demanda al Ministerio Fiscal cuando proceda, y a las demás personas que, conforme a la ley, deban ser parte en el procedimiento, hayan sido o no demandados, emplazándoles para que la contesten en el plazo de 20 días, conforme a lo establecido en el artículo 405 de la ley. Cuando se presente ante un juzgado civil una demanda relativa a los procesos a que se refiere este título, de la que pueda ser competente por razón de la materia un juzgado de violencia sobre la mujer, conforme a lo dispuesto en la Ley Orgánica 6.1985 de 1 de julio del Poder Judicial, se recabará la oportuna consulta al Sistema de Registros Administrativos de Apoyo a la Administración de Justicia, así como el Sistema de Gestión Procesal correspondiente, a fin de verificar la competencia conforme al artículo 49 bis de esta ley.
+
+
+Imagina un escenario donde Laura presenta una demanda de divorcio en un juzgado civil, alegando también episodios de violencia doméstica por parte de su esposo durante el matrimonio. Dado el contexto de violencia, este caso podría caer bajo la jurisdicción de un juzgado de violencia sobre la mujer, según lo establecido por la Ley Orgánica 6.1985 de 1 de julio del Poder Judicial. Ahora, imagina que Laura presenta su demanda de divorcio incluyendo en ellas las alegaciones de violencia doméstica.
+
+
+Antes de proceder, el juzgado civil consulta el Sistema de Registros Administrativos de Apoyo a la Administración de Justicia y el Sistema de Gestión Procesal para verificar si, debido a las alegaciones de violencia, el caso debe ser transferido a un juzgado especializado en violencia sobre la mujer, conforme al artículo 49E de la Ley Orgánica del Poder Judicial. Tras la consulta, se confirman que existen registros previos de denuncias por violencia doméstica contra el esposo de Laura. Con esta información, el juzgado civil determina que el caso debe ser competencia de un juzgado de violencia sobre la mujer y procede a transferir el expediente para su gestión y resolución adecuada.
+
+
+La consulta al Sistema de Registros Administrativos de Apoyo a la Administración de Justicia y el Sistema de Gestión Procesal se reiterará antes de la celebración de la vista o comparecencia del procedimiento convencioso o de jurisdicción voluntaria o del acto de ratificación de los procedimientos de mutuo acuerdo. Del mismo modo, en el discreto de admisión se requerirá a las partes para que comuniquen, en el plazo de cinco días, si existen o han existido procedimientos de violencia sobre la mujer entre los cónyuges o protogenitores, su estado procesal actual y si consta la adopción de medidas civiles o penales. Igualmente, se advertirá a ambas partes de la obligación de comunicar inmediatamente cualquier procedimiento que inicie ante un juzgado de violencia sobre la mujer durante la tramitación del procedimiento civil, así como cualquier incidente de violencia sobre la mujer que se produzca.
+
+
+Una vez entendido esto, decir que, una vez practicadas las pruebas, el Tribunal permitirá a las partes formular oralmente sus conclusiones, siendo de aplicación a tal fin lo establecido en los apartados 2, 3 y 4 del artículo 433 de la Ley de Encuicamiento Civil. No pierdas de vista este último detalle para entender bien la tramitación. Los procesos a los que se refiere este título serán de tramitación preferente, siempre que alguno de los interesados en el procedimiento sea menor, persona con discapacidad, con medidas judiciales de apoyo en las que se designe un apoyo con funciones representativas o esté en situación de ausencia de él.
+
+
+Por último, quiero que entiendas un par de cuestiones. Primero, con arreglo al artículo 754 de la Ley, ¿hay posibilidades de que se excluya la publicidad en estos procesos? Vamos, ¿que podrán decidir los Tribunales, mediante providencia de oficio de estancia de parte, que los actos y vistas se celebren a puerta cerrada y que las actuaciones sean reservadas, siempre que las circunstancias lo aconsejen y aunque no se esté en ninguno de los supuestos del apartado 2 del artículo 138 de la presente Ley? Imaginemos un caso de custodia de menores donde se involucran alegaciones sensibles como abuso o situaciones de violencia doméstica. Dada la circunstancia delicada y el interés en proteger la privacidad de los menores, las partes involucradas, una de ellas solicita que los procedimientos se realicen a puerta cerrada.
+
+
+El abogado de la parte solicitante argumenta ante el Tribunal la necesidad de mantener la confidencialidad para proteger el bienestar emocional de los niños y evitar la exposición pública de detalles sensibles. Finalmente, evaluando las circunstancias particulares del caso y considerando el bienestar de los menores como prioritario, el Tribunal emite una providencia de oficio o atendiendo a la solicitud de la parte, ordenando que las vistas y actos se celebren a puerta cerrada y que las actuaciones sean reservadas. Bueno, hasta aquí bien, ¿verdad? Pues ahora, vamos a por la segunda cuestión, el acceso de las sentencias a los registros públicos.
+
+
+El letrado de la Administración de Justicia acordará que las sentencias y demás resoluciones dictadas en los procedimientos a que se refiere este título se comuniquen de oficio a los registros civiles para la práctica de los asientos que correspondan. A petición de parte se comunicarán también al registro de la propiedad, al registro mercantil, al registro de bienes muebles o a cualquier otro registro público a los efectos que en cada caso correspondan. En el caso de medidas de apoyo, la comunicación será únicamente a petición de la persona a favor de la cual el apoyo haya sido constituido.
+
+
+Y bueno, hasta aquí la clase de hoy, opositores. Hemos visto las disposiciones generales sobre los procesos especiales, concretamente los artículos 752 a 755 de nuestra querida Ley de Juiciamiento Civil. Quédate con que la tramitación de estos procesos especiales y la exclusión de la publicidad en los mismos es muy importante.
+
+
+Hasta la siguiente clase y mucho ánimo.
+

@@ -1,0 +1,59 @@
+# El Sumario
+
+## Sumario y plazo para la instruccion
+
+**Tema:** El Sumario  
+**Clase:** T45_C03  
+**Archivo:** T45_C03_Sumario y plazo para la instruccion.txt  
+**Tipo:** Material de Clase  
+**Categoría:** Oposiciones de Justicia  
+
+---
+
+Muy buenas a todos chicos, bienvenidos a esta nueva clase. En la clase de hoy vamos a estudiar el sumario y vamos a ver el modelo de instrucción que aparece previsto en la ley de enjuiciamiento criminal. Bien, en este caso recordáis en qué consistía el sumario.
+
+
+Se trataba de esa famosa fase de investigación judicial que vimos en su momento al principio del curso, y la cual aparece conceptuada de una manera muy adecuada en el artículo 299 de la ley de enjuiciamiento criminal. Este artículo dispone que constituya el sumario, el conjunto de actuaciones encaminadas para preparar el juicio, y practicadas para averiguar y hacer constar la perpetración de delitos con todas las circunstancias que puedan influir en su calificación y la culpabilidad de los delincuentes, asegurando sus personas y las responsabilidades pecuniarias de los mismos. Así, en un delito de robo, el sumario estaría integrado por todas aquellas actuaciones que tendrían lugar precisamente para averiguar qué fue lo que robaron, qué valor tenía, quién fue la persona que lo robó, y todas las circunstancias que puedan influir en el hecho delictivo, que podrían ser atenuantes o agravantes, y todo ello para una finalidad fundamental que menciona el propio artículo 299 de la ley de enjuiciamiento criminal.
+
+
+¿Sabéis cuál es? Se trata de la preparación del juicio oral en el que se practicarán las pruebas de cargo y de descargo, y en el que se condenará o solverá a la persona en cuestión que ha sido acusada según se demuestre o no su culpabilidad. A continuación vamos a ver unas pequeñas cuestiones del sumario que ya vimos en su día en clase pero que conviene refrescar. La primera de ellas es la competencia.
+
+
+¿Recordáis quién era el competente para llevar a cabo esta investigación judicial o sumario? Se trata del juez de instrucción, y así el artículo 303 de la ley de enjuiciamiento criminal dispone que la formación del sumario, ya en pieza de oficio, ya en instancia de parte, corresponderá a los jueces de instrucción por los delitos que se cometan dentro de su partido o demarcación respectiva. Por tanto, volviendo al ejemplo del robo, el juez competente para instruir el sumario en este supuesto será el juez de instrucción del partido judicial en que dicho robo haya tenido lugar. La siguiente cuestión a examinar del sumario son los principios por los que se rige.
+
+
+¿Recordáis cuáles eran estos? Se trata fundamentalmente del principio de oficialidad, de escritura y de secreto. Y vamos a centrarnos en este último para ver ciertas cuestiones respecto al mismo. Lo primero de todo, la regla general aparece en el artículo 301 de la ley de enjuiciamiento criminal cuyo párrafo primero dispone que las diligencias del sumario serán reservadas y no tendrán carácter público hasta que se abra el juicio oral con las excepciones determinadas en la presente ley.
+
+
+Esto la verdad es que suena fenomenal, pero vamos a ver un pequeño ejemplo para ver si es tan bueno como parece. Imaginémonos ahora que tenemos a una persona que está siendo investigada porque le atribuyen un delito de violación y a raíz de esto pues no se le comunica ninguna de las diligencias que están practicando. ¿Creéis que podrá defenderse adecuadamente? Pues no va a poder defenderse adecuadamente porque no está conociendo las diligencias que se están practicando ni está pudiendo intervenir en ellas.
+
+
+Ahora bien, esto realmente no es así. Hay que destacar que las diligencias del sumario realmente no son reservadas para las partes, ya que el artículo 302 de la ley de enjuiciamiento criminal dispone que las partes personadas podrán tomar conocimiento de las actuaciones e intervenir en todas las diligencias del procedimiento. Por tanto, este investigado por un presunto delito de violación podría intervenir en todas las diligencias del procedimiento y de esta manera ejercer adecuadamente su derecho de defensa.
+
+
+Ahora bien, hay que destacar que bajo supuestos muy tasados es posible también que se acuerde el secreto de las actuaciones incluso para lo que serían las personas investigadas y las partes personadas, salvo el Ministerio Fiscal. ¿Sabéis cómo se llama esta situación? La verdad es que se trata de una situación muy frecuentemente comentada en noticias y que recibe el nombre de secreto de sumario. Y aparece también mencionada precisamente en el párrafo segundo del artículo 302, el cual establece que no obstante, si el delito fuere público, podrá el juez de instrucción a propuesta del Ministerio Fiscal de cualquiera de las partes personadas o de oficio declararlo mediante auto, total o parcialmente secreto para todas las partes personadas por tiempo no superior a un mes para evitar alguna de las siguientes situaciones que vamos a analizar individualmente con ejemplos.
+
+
+La primera de ellas, evitar un riesgo grave para la vida, libertad o integridad física de otra persona. Así podríamos quitar el caso de un secuestro en que hay una organización criminal y uno de los autores ha sido detenido y los demás están en paradero desconocido con la víctima, la cual se encuentra viva. Así podría llegar a acordarse el secreto de sumario si se cree que alguna de las diligencias de saberse por los demás secuestradores puede hacer que estos decidan acabar con la vida de la víctima ante el temor de que los puedan descubrir.
+
+
+Y la segunda de las causas es para prevenir una situación que pueda comprometer de forma grave el resultado de la investigación o del proceso. Aquí podríamos citar aquellos casos de delitos en que están implicadas organizaciones criminales y tramas complejas en cuyo caso puede ser conveniente acordar el secreto del sumario con el fin de evitar que estas personas puedan llegar a tener conocimiento de las diligencias que se están practicando y adelantarse a ello huyendo o precisamente realizando cualquier tipo de acto que frustre precisamente esa investigación judicial, como podría ser esconder pruebas, cambiarlas de sitio, si por ejemplo estuviese relacionado con el tráfico de droga, trasladar la droga a otro lugar diferente para esconderla y otras medidas similares. Y ya para terminar con el sumario hay que tener en cuenta que el secreto del sumario deberá alzarse necesariamente con al menos 10 días de antelación a la conclusión del sumario.
+
+
+A continuación y para terminar el tema vamos a examinar muy brevemente el modelo de instrucción temporal que fue introducido por la reforma de 2015 en la ley de enjuiciamiento criminal. A día de hoy la instrucción tiene que realizarse en un plazo determinado que aparece en el artículo 324. Y bien, ¿cuál es este plazo? Pues el mismo dispone que la investigación judicial se desarrollará en un plazo máximo de 12 meses desde la incoación de la causa.
+
+
+Así, volviendo a nuestro ejemplo al principio de la clase, en el caso del delito de robo, una vez iniciado el procedimiento penal e incoado el sumario, deberá finalizar el mismo dentro de los 12 meses siguientes a la incoación del proceso penal. Imaginémonos que por cualquier causa el juez no es capaz de finalizar el sumario en el plazo indicado. ¿Qué sucede en estos casos? Pues cabe la posibilidad de acordar de oficio a instancia de parte una prórroga por periodos iguales o inferiores a seis meses.
+
+
+Ahora bien, vamos a ver aquí un pequeño ejemplo que puede dar pie a una cuestión importante. Imaginémonos que un juez acuerda durante el plazo de instrucción de una causa un acto pericial en el que se va a analizar, pues, podría ser, pues, unas sustancias que se encuentran en la camisa de una de las víctimas. Bien, pues mientras se van realizando estos análisis por parte del perito correspondiente, resulta que finaliza el plazo para la instrucción.
+
+
+¿Qué sucede con esos análisis y esas diligencias? ¿Son válidas? ¿No lo son? La respuesta la encontramos aquí en el apartado 2 del artículo 324, el cual establece que las diligencias de investigación acordadas con anterioridad al transcurso del plazo o de sus prórrogas serán válidas, aunque se reciban tras la expiración del mismo. Por tanto, estos actos en principio serán plenamente válidos aun cuando el resultado de estos exámenes se entregue con posterioridad a la fecha de finalización de la instrucción correspondiente. Con esto podemos dar ya por finalizada la clase y vamos a ver un muy breve resumen de lo visto en ella como repaso.
+
+
+Así, el sumar es el conjunto de actuaciones judiciales encaminadas para preparar el juicio y practicadas para averiguar y hacer constar la perpetración de delitos con todas las circunstancias que puedan influir en su calificación y la culpabilidad de los delincuentes, asegurando sus personas y las responsabilidades pecuniarias de los mismos. Por tanto, el sumario es una fase de investigación judicial cuya competencia le corresponde al juez de instrucción y está regida por los principios de oficialidad, escritura y secreto de actuaciones, salvo para las partes personadas, las cuales podrán tomar conocimiento de las mismas e intervenir en ellas. Aunque este último puede encontrar ciertas excepciones para aquellos casos en que se acuerde el secreto de sumario, concretamente previsto en el artículo 302 de la ley de enjuiciamiento criminal cuando sea necesario para evitar un riesgo grave para la vida e integridad física de otra persona o para prevenir una situación que pueda comprometer de forma grave el resultado de la investigación o del proceso.
+
+
+Y para terminar, la instrucción debe realizarse en un plazo máximo de 12 meses desde la incoación del proceso penal pero puede prorrogarse de oficio a instancia de parte por periodos iguales o inferiores a seis meses. Y con esto ya podemos dar por finalizada la clase. Un saludo y nos vemos en la próxima.
+

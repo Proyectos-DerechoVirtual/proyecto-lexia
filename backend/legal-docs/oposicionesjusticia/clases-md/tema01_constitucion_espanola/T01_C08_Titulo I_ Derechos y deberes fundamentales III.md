@@ -1,0 +1,80 @@
+# Constitución Española
+
+## Titulo I  Derechos y deberes fundamentales III
+
+**Tema:** Constitución Española  
+**Clase:** T01_C08  
+**Archivo:** T01_C08_Titulo I_ Derechos y deberes fundamentales III.txt  
+**Tipo:** Material de Clase  
+**Categoría:** Oposiciones de Justicia  
+
+---
+
+Bienvenidos todos y todas a la tercera y última clase sobre los derechos fundamentales. Hoy nos vamos a centrar en los que nos faltan, que son los relativos a los artículos 25 a 29 de la Constitución. Además de estos, abordaremos brevemente el contenido de la sección segunda del capítulo segundo.
+
+
+Vamos a empezar por el artículo 25. Este, en realidad, lo que afirma es que nadie puede ser condenado o sancionado por acciones u omisiones que, en el momento de producirse, no constituyan falta, delito o infracción administrativa. En otras palabras, contiene el principio de irretroactividad de las disposiciones sancionadoras no favorables o restrictivas de derechos individuales.
+
+
+Esto, más que un derecho fundamental, es un principio, pero es importantísimo ubicarlo en este artículo. Lo que sí se regula en relación con los derechos fundamentales es el contenido del apartado segundo. En este, se dice que los condenados a pena de prisión tienen todos los derechos fundamentales de esta sección primera, salvo que la condena les haya privado específicamente de ellos.
+
+
+Por ejemplo, se puede imponer por sentencia la inhabilitación para ejercer cargos públicos o la privación del derecho de sufragio. Lo que nunca van a poder limitar es el derecho a un trabajo remunerado y a los beneficios de la seguridad social, además del acceso a la cultura y al desarrollo integrante de su personalidad. Dicho esto, vamos a ver el artículo 26.
+
+
+Este, para tu información, no contiene un derecho fundamental, aunque se incluyó aquí porque en la transición española era importante darle a este artículo la máxima protección por lo que pudiera pasar. Verás, lo que dice es que en España están prohibidos los tribunales de honor en la administración civil. Estos sí existieron durante el franquismo y consistían en tribunales en los que se juzgaba a las personas por cuestiones morales y subjetivas, para determinar si alguien podía ejercer ciertos trabajos.
+
+
+Evidentemente, esto ni es democrático ni tiene sentido su existencia en un estado de derecho que reconoce las libertades ciudadanas. Vamos a pasar al artículo 27. Este sí contiene un derecho fundamental, aunque complementado con preceptos que no lo son.
+
+
+El derecho fundamental es la educación, que se desarrolla por la Ley Orgánica 2-2006 de Educación, modificada por última vez por la LOMLOE de 2020. Este derecho implica que todos tenemos derecho a recibir una educación básica, para lo cual se configura la enseñanza básica obligatoria y gratuita que se acaba tras la ESO. Para complementar este derecho, el artículo también reconoce, por ejemplo, la libertad de enseñanza, la libertad de creación de los centros docentes y la autonomía de las universidades.
+
+
+Ojo, que también contempla ciertas actuaciones positivas que deben realizar los poderes públicos. Por ejemplo, deben programar la enseñanza con la participación de los sectores afectados, crear centros docentes públicos, inspeccionar y homologar el sistema educativo e incluso garantizar el derecho que tienen los padres a que sus hijos reciban la formación religiosa y moral que esté de acuerdo con sus propias convicciones. Si nos centramos a continuación en el artículo 28, aquí encontraremos dos derechos fundamentales que comparte el artículo.
+
+
+El primero es el derecho a la libre sindicación, que se desarrolla en la Ley Orgánica 11.1985 de libertad sindical. Este derecho fundamental, como ya intuyes, se refiere a que los trabajadores pueden pertenecer y salir libremente de los sindicatos y que además pueden crear los sindicatos que quieran. Ojo, ten en cuenta que hay algunos colectivos de empleados públicos que no tienen este derecho, como las fuerzas armadas o los cuerpos sometidos a disciplina militar, particularmente la Guardia Civil.
+
+
+El segundo derecho es el derecho fundamental a la huelga. Este derecho pertenece sólo a los trabajadores y sólo se puede ejercer colectivamente por ellos. Debes saber respecto del mismo que es uno de los pocos derechos fundamentales que están sin regular y, aunque ha habido intentos de hacerlo, todavía hoy está regulado en el Real Decreto Ley 17.1977 sobre las relaciones de trabajo.
+
+
+En cualquier caso, la huelga es un conflicto colectivo que implica que los trabajadores cesen en sus prestaciones laborales y, por tanto, en el cobro de sus salarios, para poner en valor sus peticiones o intereses como grupo frente al empresario. La huelga normalmente se acompaña de negociación colectiva entre sindicatos y patronal con el fin de llegar a resolver el conflicto y conseguir un acuerdo. Llegamos, en último lugar, al artículo de cierre de la sección primera del capítulo segundo del título primero, el 29.
+
+
+Aquí se regula un derecho fundamental menos conocido que el resto, que es el derecho de petición individual y colectiva. Este se regula en la Ley Orgánica 4.2001 reguladora del derecho de petición y se refiere al derecho que tienen todas las personas de hacer una petición a las entidades gubernamentales por escrito para que éstas les expliquen una determinada situación. Para que lo sepas, este derecho se puede ejercer hoy en día por trámites electrónicos.
+
+
+Con esto, hemos terminado de ver los derechos fundamentales que contiene la Constitución Española. Hemos visto, entre otros muchos, la libertad de expresión, de reunión, el derecho a la asociación, a participar en los asuntos públicos, la tutela judicial efectiva, la educación o la libre asignación. Todos ellos son derechos fundamentales que corresponden a las personas.
+
+
+Recuerda que todos ellos gozan de la máxima protección constitucional a través de las garantías jurídicas que se dibujan en el artículo 53 de la Constitución. Nos toca centrarnos, por último, en la sección segunda del capítulo 2, que va de los artículos 30 a 38 de la Constitución. Verás, en esta lo que se regula es el conjunto de derechos y deberes de los ciudadanos.
+
+
+En otras palabras, un conjunto de derechos que no tienen la protección que reciben los derechos fundamentales, pero sí se consideran lo suficientemente relevantes como para otorgarles ciertas garantías jurídicas. Por ejemplo, sólo se podrán regular mediante ley ordinaria y, además, vincularán a los poderes públicos. Junto a estos, encontramos también deberes que tienen los ciudadanos españoles.
+
+
+Vamos a verlos. Respecto de los derechos de esta sección, que llamamos constitucionales, encontramos algunos tan simbólicos como el derecho al matrimonio del artículo 32 de la Constitución, que, entre otras cosas, dice que los cónyuges tienen plena igualdad jurídica. También encontramos el derecho a la propiedad privada y la herencia del artículo 33, pero cuidado, que este derecho está limitado por las denominadas causas de utilidad pública o interés social.
+
+
+En otras palabras, que si, por ejemplo, tienes una casa en primera línea de playa en Cádiz, te la pueden expropiar, dándote la indemnización correspondiente, que se llama justiprecio, si la línea del mar ha retrocedido y hay que ampliar la playa pública, que es de uso general. Por otra parte, el artículo 34 concibe el derecho a crear fundaciones para fines de interés general. Imagínate una ONG con la forma de fundación.
+
+
+De la misma forma, el artículo 36 reconoce el derecho a crear los colegios profesionales para el ejercicio de profesiones tituladas. Imagínate, por ejemplo, los colegios de abogados, de arquitectos o de psicólogos. En siguiente lugar, el artículo 37 de la Constitución hace referencia a la negociación colectiva y los conflictos laborales.
+
+
+Esto, básicamente, es el derecho que tienen los trabajadores a que sus representantes sindicales negocien sus condiciones de trabajo con la patronal y los empresarios, con el fin de crear convenios colectivos que regulen sus derechos y condiciones laborales. Por último, el artículo 38 reconoce la libertad de empresa, vamos, la libertad que tiene cualquier ciudadano de crear los negocios que quiera, respetando la ley y el ordenamiento jurídico. Si te fijas, nos hemos dejado algunos artículos en el tintero, particularmente el 30, el 31 y el 35.
+
+
+En estos es donde se regulan, además de derechos, deberes para los españoles. Vamos a verlos. Si nos centramos primero en el artículo 30, aquí encontramos el derecho y el deber de defender a España.
+
+
+En base a este deber existió en nuestro país la MILI, ahora desaparecida, pero debes conocer que en todo caso existe la objeción de conciencia, que se reguló en la ley 22.998 y que es protegible en amparo. Por otra parte, el artículo 31 reconoce los deberes tributarios de los ciudadanos, en otras palabras, el deber de contribuir mediante el pago de los impuestos y demás ingresos coactivos al sostenimiento de los gastos públicos. Por último, el artículo 35 reconoce el derecho y el deber a trabajar, pero ojo, que no quiere decir que te vayan a obligar a trabajar forzosamente, eso nunca, sino que es más bien un principio programático y una base constitucional para desarrollar el derecho laboral.
+
+
+Con esto hemos acabado el capítulo segundo del título primero de la Constitución. Hemos visto los derechos fundamentales de la sección primera que nos faltaban, particularmente el derecho a la educación, la libre sindicación, la huelga y el derecho de petición. Además, también hemos dado un paseo por algunas consideraciones importantísimas de nuestra Constitución, como la prohibición de los tribunales de honor o el principio de irretroactividad de las disposiciones sancionadoras no favorables y los derechos y deberes constitucionales de la sección segunda de este capítulo.
+
+
+Nos vemos en las siguientes clases. ¡Ánimo con el estudio!
+

@@ -1,0 +1,95 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    @apply h-full;
+  }
+  
+  body {
+    @apply h-full font-sans bg-claude-beige dark:bg-claude-gray-900 text-claude-text dark:text-claude-gray-200;
+  }
+  
+  #root {
+    @apply h-full;
+  }
+}
+
+@layer components {
+  .scrollbar-hide {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+  
+  .scrollbar-hide::-webkit-scrollbar {
+    display: none;
+  }
+  
+  /* Ocultar scrollbar específicamente en textareas */
+  textarea.scrollbar-hide::-webkit-scrollbar {
+    display: none !important;
+    width: 0 !important;
+    height: 0 !important;
+  }
+  
+  .message-content {
+    @apply prose prose-sm dark:prose-invert max-w-none;
+  }
+  
+  .message-content pre {
+    @apply bg-gray-100 dark:bg-gray-800 rounded-md p-3 overflow-x-auto;
+  }
+  
+  .message-content code {
+    @apply bg-gray-100 dark:bg-gray-800 px-1 py-0.5 rounded text-sm;
+  }
+  
+  .message-content pre code {
+    @apply bg-transparent p-0;
+  }
+}
+
+/* Estilos para modo embed en Teachable */
+.embed-mode {
+  @apply overflow-hidden;
+}
+
+.embed-mode .sidebar {
+  @apply hidden;
+}
+
+.embed-mode .header-main {
+  @apply hidden;
+}
+
+.compact-mode {
+  font-size: 14px;
+}
+
+.compact-mode .message-bubble {
+  @apply py-2 px-3;
+}
+
+.embed-container {
+  max-width: 100%;
+  height: 100vh;
+  background: white;
+}
+
+/* Prevenir scroll en iframe */
+.embed-mode body {
+  overflow: hidden !important;
+}
+
+/* Header para Teachable */
+.embed-header {
+  min-height: 48px;
+  background: var(--primary-color, #64c27b);
+}
+
+/* Footer minimalista */
+.embed-footer {
+  min-height: 32px;
+  background: #fafafa;
+}

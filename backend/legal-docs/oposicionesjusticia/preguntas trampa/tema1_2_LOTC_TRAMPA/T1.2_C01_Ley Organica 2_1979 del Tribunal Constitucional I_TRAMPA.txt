@@ -1,0 +1,42 @@
+
+EL TRIBUNAL CONSTITUCIONAL
+
+1. Naturaleza y posición del Tribunal Constitucional
+RECUERDA: El TC es el intérprete supremo de la Constitución y no integra el Poder Judicial; se rige por su Ley Orgánica y solo se somete a la Constitución (arts. 1 LOTC y 159 CE).
+TEN CUIDADO: No confundirlo con un tribunal superior ordinario. Ni el CGPJ ni el TS pueden fiscalizar al TC.
+REGLA MNEMOTÉCNICA: IAP: Intérprete – Ajeno al Poder judicial
+
+2. Composición: fórmula 4-4-2-2 y mayoría reforzada
+RECUERDA: El TC tiene 12 magistrados: 4 elegidos por el Congreso, 4 por el Senado, 2 por el Gobierno y 2 por el CGPJ. Se requiere mayoría de 3/5 en cada órgano (art. 159.1 CE; art. 5 LOTC).
+TEN CUIDADO: No atribuir “cuatro del Gobierno” ni aplicar quorum simple, pues invalida la designación.
+REGLA MNEMOTÉCNICA: C442: Composición – 4 (Congreso), 4 (Senado), 2 (Gobierno), 2 (CGPJ)
+
+3. Requisitos personales de los magistrados
+RECUERDA: Deben ser juristas españoles de reconocido prestigio con al menos 15 años de ejercicio profesional (judicatura, fiscalía, docencia, abogacía, etc.) (art. 159.2 CE; art. 5 LOTC).
+TEN CUIDADO: La experiencia académica o prácticas de doctorado no bastan; se anula el nombramiento si falta requisito objetivo.
+REGLA MNEMOTÉCNICA: 15P: Quince años de Prestigio profesional
+
+4. Mandato único y renovación por tercios
+RECUERDA: Cada magistrado ejerce 9 años improrrogables y no puede ser reelegido de inmediato; el Pleno se renueva por tercios cada 3 años (art. 159.3 CE; art. 16 LOTC).
+TEN CUIDADO: Dar por hecho que cesan automáticamente al vencer plazo provoca “prórroga forzosa” constitucionalmente controvertida.
+REGLA MNEMOTÉCNICA: 9×3: Nueve años de mandato, renovación cada Tres
+
+5. Incompatibilidades y renuncia en 10 días
+RECUERDA: El cargo es incompatible con cualquier mandato representativo, función ejecutiva, judicial, administrativa o sindical. El designado debe renunciar en 10 días a su cargo incompatible (arts. 19–20 LOTC; 159.4 CE).
+TEN CUIDADO: Mantener acta de diputado vulnera la imparcialidad y puede anular actuaciones.
+REGLA MNEMOTÉCNICA: IN10: INcompatibilidad – renuncia en 10 días
+
+6. Juramento ante el Rey y situación administrativa
+RECUERDA: Los magistrados juran ante el Rey y pasan a “servicios especiales” en su carrera de origen, conservando antigüedad y derechos pasivos (art. 20 LOTC).
+TEN CUIDADO: No pierden plaza en judicatura o cátedra, solo queda en suspenso.
+REGLA MNEMOTÉCNICA: JRE: Juramento ante el Rey – servicios Especiales
+
+7. Causas de cese y mayoría de tres cuartos
+RECUERDA: El Pleno puede cesar por expiración de mandato, incapacidad, incompatibilidad, falta grave de deberes o condena penal. Requiere mayoría de ¾ (9 magistrados) (art. 23 LOTC).
+TEN CUIDADO: Un acuerdo por mayoría simple carece de validez.
+REGLA MNEMOTÉCNICA: C3/4: Cese por mayoría de Tres Cuartos
+
+8. Principios rectores de actuación
+RECUERDA: La actividad del TC se basa en independencia, imparcialidad, dignidad e inamovilidad (art. 22 LOTC). Cualquier coacción externa es intolerable.
+TEN CUIDADO: Olvidar estos principios invalida recursos y alegaciones ante el TC.
+REGLA MNEMOTÉCNICA: IIDI: Independencia, Imparcialidad, Dignidad, Inamovilidad

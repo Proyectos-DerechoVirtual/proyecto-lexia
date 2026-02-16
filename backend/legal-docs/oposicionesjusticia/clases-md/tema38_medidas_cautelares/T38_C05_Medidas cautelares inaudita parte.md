@@ -1,0 +1,71 @@
+# Medidas Cautelares
+
+## Medidas cautelares inaudita parte
+
+**Tema:** Medidas Cautelares  
+**Clase:** T38_C05  
+**Archivo:** T38_C05_Medidas cautelares inaudita parte.txt  
+**Tipo:** Material de Clase  
+**Categoría:** Oposiciones de Justicia  
+
+---
+
+Muy buenas a todos, en la clase de hoy vamos a tratar las medidas cautelares sin audiencia del demandado o también llamadas medidas cautelares in audita parte. Recuerda que en estas clases que estás viendo sobre medidas cautelares se irán a las cuestiones más preguntables sobre esta medida. Ponemos un ejemplo de medida cautelar.
+
+
+Juan y Pepe tienen una controversia sobre la titularidad de un bien. Juan reclama la titularidad a Pepe, que es quien hasta ese momento está poseyendo el bien objeto del liticio, que es una joya. Pero se entera que Pepe va a vender la joya.
+
+
+Juan, debido a la inminencia de la venta, solicita junto con la demanda, como medida cautelar, el depósito de la joya. Concretamente en general hemos visto en clases anteriores como para la adopción de medidas cautelares se tiene que oír al futuro demandado, que es quien va a sufrir la ejecución de tales medidas. Pero la ley como excepción contempla que cuando haya razones de urgencia, en el ejemplo que hemos puesto antes, Juan ve por internet que Pepe ha puesto un anuncio de venta de la joya en algún portal dedicado a joyería.
+
+
+O la vista va a comprometer el buen fit de la medida cautelar, siguiendo con el ejemplo de antes, Juan alega que si se tarda mucho en convocar la vista de las medidas cautelares, su adopción no servirá de nada al auto porque ya habrá vendido la joya. Las medidas cautelares, por tanto, se van a acordar sin oír al demandado o en latín se puede decir inaudita parte. En nuestro ejemplo, para evitar que Pepe se deshaga de la joya, no queremos que se entere de la medida cautelar en este momento procesal y es por ello que solicitamos al juez que la acuerde de urgencia.
+
+
+En la solicitud debemos acreditar estos motivos de urgencia o que la vista obstaculiza el buen fin de la medida. En los 5 días siguientes a su presentación, sin más trámites, el juez dictará a un auto en el que tiene que decir, primero, por qué adopta la medida cautelar, y en su caso, segundo, por qué la acuerda sin oír al demandado. Y ahora viene la posible pregunta de test, os pregunto, ¿contra este auto cabe recurso? La respuesta es que no.
+
+
+Contra el auto sólo cabe plantear oposición al demandado. ¿Qué plazo tiene para plantear escrito de oposición Pepe? Un plazo de 20 días desde la notificación del auto. El demandado no tiene causas de oposición basadas, es decir, Pepe puede plantear cualquier motivo y, además, puede ofrecer caución sustitutoria.
+
+
+Abrimos un paréntesis y hacemos un recordatorio. El plazo de 20 días es el mismo plazo que tiene el solicitante de las medidas cuando ha solicitado medidas cautelares con anterioridad a la presentación de la demanda, también por razones de urgencia. Cerramos el paréntesis.
+
+
+Una vez planteada la oposición, la ley remite al artículo 734 de la Ley de Juiciamiento Civil, es decir, la Tramitación General de las Medidas Cautelares. En los 5 días siguientes a la notificación del escrito de oposición a las medidas cautelares, el letrado de la Administración de Justicia por diligencia va a convocar a las partes en los 10 días siguientes a una vista. Finalizada la vista en los 5 días siguientes, el juez dictará un auto resolviendo la oposición.
+
+
+Y vuelve a ser, pregúntates, el régimen de recursos contra el auto. Dice la ley que, contra el auto que resuelva la oposición, es decir, tanto si estima la oposición como si la desestima, cabe recurso de apelación. En el auto que estime la oposición, es decir, en nuestro ejemplo, da la razón a Pepe, que es el demandado, acordará alzar las medidas cautelares, condenar en costas al solicitante de las medidas, así como de los daños y perjuicios ocasionados.
+
+
+Firme el auto, se liquida los daños y perjuicios conforme el artículo 712 y siguientes de la Ley de Jueciamiento Civil. Hacemos un recordatorio y este auto acuerda lo mismo que el auto que deniega la adopción de ley a cautelar cuando hay vista y por tanto se oye alternado. Por el contrario, en el auto que desestime la oposición, es decir, en nuestro ejemplo, da la razón al demandante, que es Juan, acordará mantener las medidas cautelares y condenar en costas al demandado, es decir, a Pepe, por haber listado la oposición sin que ésta estuviera fundada.
+
+
+Por último, para acabar esta clase, hablaremos de la denominada caución sustitutoria. Está regulada en los artículos 746 y 747 de la Ley de Jueciamiento Civil. El demandado, que en nuestro ejemplo es Pepe, es quien debe soportar la ejecución de la medida cautelar y podrá pedir al tribunal que acepte caución sustitutoria para que asegure el cumplimiento de la futura sentencia condenatoria que se dicte contra él.
+
+
+Os pregunto, por tanto, ¿dónde se puede solicitar la caución sustitutoria? Pues la ley contempla en tres momentos distintos. El segundo momento es en el trámite de oposición, es decir, cuando se adoptan medidas cautelares sin oír al demandado o inaugurita parte, que es la clase que tratamos hoy. Y el tercero es mediante un escrito motivado, es decir, el demandado no quiere sufrir la medida sobre sus bienes y prefiere ofrecer dinero.
+
+
+De esta forma puede disfrutar sus bienes sin ninguna carga, escas en caso que quiera venderlos. En nuestro ejemplo de la joya, se puede dar como caución sustitutoria el equivalente metálico del valor de la misma y así no dejarla en depósito que tiene un coste. ¿Cómo se tramita la solicitud de caución sustitutoria? Vamos a ver cómo se regula este tercer supuesto, es decir, cuando se presenta el escrito.
+
+
+Tiene la misma regulación general de las medidas cautelares. En los cinco días siguientes a la notificación de este escrito solicitando la caución sustitutoria a, en nuestro ejemplo lo hace Pepe y se tiene que notificar a Juan en estos cinco días siguientes, el letrado a la Administración de Justicia por diligencia va a convocar a las partes en los días siguientes a una vista. Finalizada la vista, en los cinco días siguientes el juez va a dictar un auto resolviendo lo procedente.
+
+
+Y otra vez, lo más preguntable es el régimen de recursos de este auto. Nos va a decir la ley que contra el auto que resuelva sobre la caución sustitutoria, es decir, tanto si la estima como si la rechaza, no cabe recurso. Hacemos aquí, por tanto, un recordatorio final.
+
+
+Hay sólo dos autos frente a los cuales no cabe recurso en el tema de medidas cautelares. El primero ya lo hemos visto y es contra el auto que acuerda la medida cautelar sin la audiencia del demandado o en la ahorita parte. Y el segundo es el auto que resuelve lo procedente sobre la solicitud de caución sustitutoria.
+
+
+El resto de autos en medidas cautelares cabe recurso de apelación, con la especialidad del auto que deniega la medida cautelar con audiencia del demandado, que en este caso cabe recurso de apelación pero, ¡ojo!, con tramitación preferente. En resumen, esta clase ha tratado sobre la tramitación de las medidas cautelares cuando se acuerdan sin audiencia del demandado. En estos casos especiales, el solicitante deberá acreditar la urgencia de la medida o que el realizar una vista va a ir contra el buen fin de la venida.
+
+
+Presentada la solicitud, el juez en los cinco días siguientes dicta auto y frente al cual no cabe recurso, ¡ojo!, sólo cabe oposición del demandado y es preguntar el plazo para presentar dicho escrito oposición, que es de 20 días. Una vez presentada la oposición, la tramitación es igual que la tramitación general. En los cinco días siguientes de notificar al solicitante el escrito de oposición, el letrado por diligencia convoca las partes en el plazo de diez días a la lista, tras la cual en los cinco días siguientes dictará auto.
+
+
+Vuelve a ser preguntar el régimen de recursos del auto. Contra el auto que resuelva la oposición, es decir, tanto si la estima la oposición como si la desestima, cabe recurso de apelación. Y hemos hablado también de la caución sustitutoria, que es aquella que puede ofrecer el demandado, es decir, quien soporta las medidas cautelares, por ejemplo, era Pepe.
+
+
+Generalmente es el metálico y para el caso que la solicite en un escrito, su tramitación es idéntica al trámite general que hemos descrito anteriormente, siendo pregunta de test nuevamente el régimen de recursos y contra el auto que resuelve la caución sustitutoria, ¿os acordáis de que cabe recurso? ¡No cabe recurso! Hasta aquí la clase de hoy, un saludo y nos vemos en la siguiente clase.
+

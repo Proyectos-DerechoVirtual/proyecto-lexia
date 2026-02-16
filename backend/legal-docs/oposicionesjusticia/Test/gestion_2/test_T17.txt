@@ -1,0 +1,269 @@
+Pregunta: Si el Tribunal está al tanto de la defunción de una de las partes en litigio y el sucesor no aparece dentro del plazo mencionado en el artículo 16 de la LEC, ¿qué pueden solicitar las otras partes proporcionando identificación y dirección de los sucesores, y qué se dictará?
+1)Decreto por el LAJ, con un emplazamiento de veinte días para comparecer.
+2)Diligencia de ordenación por el LAJ, con un emplazamiento de diez días para comparecer.
+3)Auto por el Juez o Tribunal, con un emplazamiento de diez días para comparecer.
+4)Providencia por el Juez o Tribunal, con un emplazamiento de veinte días para comparecer.
+Respuesta: 2
+Correcta: ¡Correcto! Según el procedimiento, cuando un litigante fallece y el sucesor no comparece en el tiempo establecido, las partes pueden solicitar una diligencia de ordenación por el LAJ, con un plazo de diez días para que los sucesores se presenten.
+Errada: Lo siento, esa no es la respuesta correcta. En estos casos, se solicitará una diligencia de ordenación por el LAJ, dando un plazo de diez días para que los sucesores se presenten. ¡Inténtalo de nuevo! (Respuesta correcta 2)
+###
+Pregunta: Según la Ley de Enjuiciamiento Civil, ¿cuál es el documento que establece las restricciones a la capacidad de aquellos que están en concurso y cómo superar esas limitaciones?
+1)Ley 22/2003, del 9 de julio, Concursal.
+2)Ley 1/2000, del 7 de enero, de Enjuiciamiento Civil.
+3)Ley 62/1978, del 26 de diciembre, sobre Protección Jurisdiccional de los Derechos Fundamentales de la Persona.
+4)Real Decreto Legislativo 1/2020, del 5 de mayo, que aprueba el texto consolidado de la Ley Concursal.
+Respuesta: 4
+Correcta: ¡Exacto! Las limitaciones a la capacidad de aquellos que están en concurso y cómo superar esas restricciones se rigen por el Real Decreto Legislativo 1/2020, que aprueba el texto consolidado de la Ley Concursal.
+Errada: Esa no es la respuesta correcta. Las limitaciones y cómo superarlas para quienes están en concurso se encuentran en el Real Decreto Legislativo 1/2020, que aprueba el texto consolidado de la Ley Concursal. ¡No te desanimes e inténtalo de nuevo! (Respuesta correcta 4)
+###
+Pregunta: En los litigios iniciados por asociaciones o entidades creadas para defender los derechos e intereses de los consumidores, tal y como se refiere en el artículo 15 de la LEC, ¿cuál es el papel del Ministerio Fiscal?
+1)El Ministerio Fiscal no participa nunca en estos litigios.
+2)El Ministerio Fiscal participará cuando lo justifique el interés social.
+3)Es decisión del Juez o Tribunal, mediante una resolución fundamentada, determinar si el Ministerio Fiscal debe o no participar.
+4)El Ministerio Fiscal siempre es parte en estos procesos.
+Respuesta: 2
+Correcta: ¡Bien hecho! En estos litigios, el Ministerio Fiscal interviene cuando el interés social lo justifica.
+Errada: Lo siento, esa respuesta no es correcta. En estos casos, el Ministerio Fiscal intervendrá si el interés social lo justifica. ¡Sigue intentándolo! (Respuesta correcta 2)
+###
+Pregunta: ¿Bajo qué condiciones se tramitarán los asuntos que correspondan a los tribunales civiles?
+1)Siempre se tramitarán de acuerdo con las normas procesales actuales.
+2)Siempre se tramitarán según las normas procesales actuales, a menos que una ley indique específicamente lo contrario.
+3)Se tramitarán según las normas procesales actuales, a menos que el demandado se oponga.
+4)Siempre se tramitarán según las normas procesales actuales, salvo lo dispuesto en disposiciones legales de Derecho transitorio.
+Respuesta: 4
+Correcta: ¡Correcto! Los asuntos correspondientes a los tribunales civiles se tramitarán siempre conforme a las normas procesales vigentes, excepto lo previsto en disposiciones legales de Derecho transitorio.
+Errada: Esa no es la respuesta adecuada. Los asuntos de los tribunales civiles se tramitarán según las normas procesales actuales, salvo lo dispuesto en disposiciones legales de Derecho transitorio. ¡No te rindas y vuelve a intentarlo! (Respuesta correcta 4)
+###
+Pregunta: Conforme al artículo 7 de la LEC, ¿quiénes están facultados para presentarse en un juicio?
+1)Solamente aquellos que estén en pleno ejercicio de sus derechos civiles.
+2)Aquellos en pleno ejercicio de sus derechos civiles y aquellos que, al no estarlo, intervengan mediante representación o con la asistencia, autorización, habilitación o el defensor que la ley exige.
+3)Aquellas personas con medidas de apoyo para ejercer su capacidad jurídica, según el alcance y contenido de esas medidas.
+4)Las personas menores de edad emancipadas, siempre que cumplan con los requisitos de representación, asistencia o autorización establecidos por la ley.
+Respuesta: 3
+Correcta: ¡Exactamente! Según el artículo 7 de la LEC, pueden presentarse en juicio las personas con medidas de apoyo para el ejercicio de su capacidad jurídica, acorde al alcance y contenido de dichas medidas.
+Errada: Desafortunadamente, esa no es la respuesta correcta. Según el artículo 7 de la LEC, son aquellas personas con medidas de apoyo para ejercer su capacidad jurídica conforme al alcance y contenido de esas medidas. ¡Sigue intentándolo! (Respuesta correcta 3)
+###
+Pregunta: ¿Bajo qué circunstancia se reconoce el litisconsorcio según la Ley de Enjuiciamiento Civil?
+1)Cuando solo hay un demandado y es una persona física.
+2)Cuando hay un único demandante y un único demandado.
+3)Cuando solo hay un demandado y es una persona jurídica.
+4)Cuando hay múltiples demandantes o múltiples demandados.
+Respuesta: 4
+Correcta: ¡Correcto! La Ley de Enjuiciamiento Civil reconoce el litisconsorcio cuando hay varios demandantes o varios demandados.
+Errada: Esa respuesta no es la correcta. La Ley de Enjuiciamiento Civil identifica el litisconsorcio en situaciones donde hay múltiples demandantes o múltiples demandados. ¡Vuelve a intentarlo! (Respuesta correcta 4)
+###
+Pregunta: Identifique la opción incorrecta. Los preceptos de la LEC aplicarán de forma supletoria cuando no haya disposiciones específicas en las leyes que rijan:
+1)Los procesos mercantiles.
+2)Los procesos sociales.
+3)Los procesos penales.
+4)Los procesos contencioso-militares.
+Respuesta: 1
+Correcta: ¡Correcto! La LEC no aplica de forma supletoria en los procesos mercantiles, ya que estos forman parte de la jurisdicción civil y se rigen directamente por ella, no de forma supletoria.
+Errada: Esa opción no es la correcta. Los preceptos de la LEC no son supletorios en los procesos mercantiles porque estos ya están dentro del orden jurisdiccional civil y se rigen por sus normas. ¡Inténtalo de nuevo! (Respuesta correcta 1)
+###
+Pregunta: Según la Ley Orgánica 1/2025, de medidas en materia de eficiencia del Servicio Público de Justicia, el intento de una actividad negociadora previa a la vía judicial se establece como requisito de procedibilidad en el orden civil. ¿Cuál de los siguientes procesos está exento de dicho requisito?
+1)Un juicio ordinario sobre incumplimiento de contrato.
+2)Un juicio verbal sobre reclamación de cantidad inferior a 2.000 euros.
+3)Un proceso para la tutela sumaria de la tenencia o de la posesión.
+4)Un proceso de división de cosa común.
+Respuesta: 3
+Correcta: ¡Correcto! El artículo 5 de la LO 1/2025 enumera las excepciones al requisito de procedibilidad, incluyendo la tutela sumaria de la tenencia o posesión.
+Errada: Respuesta incorrecta. El artículo 5 de la LO 1/2025 establece que los procesos para la tutela sumaria de la tenencia o posesión están exentos del requisito de acudir a un medio adecuado de solución de controversias. ¡Revisa las excepciones! (Respuesta correcta 3)
+###
+Pregunta: De acuerdo con el artículo 4 de la Ley de Enjuiciamiento Civil, los preceptos de esta ley se aplicarán supletoriamente:
+1)Cuando falten disposiciones en las leyes que rigen los procesos penales, contencioso-administrativos, laborales y militares.
+2)Cuando falten disposiciones en las leyes que rigen los procesos penales, contencioso-administrativos, laborales, mercantiles y militares.
+3)Cuando falten disposiciones en las leyes que rigen los procesos penales y civiles.
+4)Cuando falten disposiciones en las leyes que rigen los procesos penales.
+Respuesta: 1
+Correcta: ¡Exacto! De acuerdo con el art. 4 de la Ley de Enjuiciamiento Civil, sus preceptos se aplicarán de manera supletoria en ausencia de disposiciones en las leyes que regulan los procesos penales, contencioso-administrativos, laborales y militares.
+Errada: Esa no es la respuesta correcta. Según el art. 4 de la Ley de Enjuiciamiento Civil, sus preceptos se aplican de forma supletoria en ausencia de disposiciones de las leyes que rigen los procesos penales, contencioso-administrativos, laborales y militares. ¡Inténtalo nuevamente! (Respuesta correcta 1)
+###
+Pregunta: En el proceso civil, ¿cómo comparecerán en juicio las masas patrimoniales o los patrimonios separados que temporalmente carezcan de titular o cuyo titular haya sido privado de sus capacidades de disposición y administración?
+1)A través de la representación o con la asistencia, autorización, habilitación o defensor que la ley exija.
+2)Por las personas que, según la ley, las administren.
+3)A través de quienes la ley otorgue la representación en juicio en cada situación.
+4)Por individuos que, por hechos o acuerdos de la entidad, actúen en su nombre frente a terceros.
+Respuesta: 2
+Correcta: ¡Correcto! Las masas patrimoniales o patrimonios separados que están en las situaciones descritas comparecerán en juicio por las personas que, conforme a la ley, las administren.
+Errada: Esa no es la respuesta adecuada. En situaciones donde las masas patrimoniales o patrimonios separados carezcan temporalmente de un titular o cuando el titular haya sido privado de sus capacidades, estas comparecerán en juicio por las personas que, según la ley, las administren. ¡Inténtalo de nuevo! (Respuesta correcta 2)
+###
+Pregunta: De acuerdo con el artículo 13 de la Ley de Enjuiciamiento Civil, cuando un sujeto que originalmente no era parte del proceso (ni demandante ni demandado) interviene en un proceso civil:
+1)El procedimiento queda en pausa hasta que el Tribunal emita una resolución mediante un auto.
+2)No se le permite al interviniente presentar argumentos relacionados con etapas procesales previas a su inclusión en el proceso.
+3)Una vez aceptada su intervención, las acciones procesales se consideran como si el interviniente hubiera sido parte desde el inicio.
+4)La decisión sobre su intervención se tomará en un periodo estándar de diez días, luego de escuchar a las partes ya involucradas.
+Respuesta: 4
+Correcta: ¡Perfecto! Según el artículo 13 de la Ley de Enjuiciamiento Civil, la decisión sobre la intervención de un sujeto que no era originalmente parte del proceso se toma en un plazo común de diez días, después de oír a las partes que ya estaban involucradas.
+Errada: Esa no es la respuesta correcta. De acuerdo con el artículo 13 de la Ley de Enjuiciamiento Civil, cuando un sujeto interviene en un proceso civil, la decisión sobre su intervención se toma en un plazo estándar de diez días, tras escuchar a las partes ya presentes en el caso. ¡Anímate y sigue intentando! (Respuesta correcta 4)
+###
+Pregunta: ¿Bajo qué circunstancias puede darse el litisconsorcio?
+1)Cuando las acciones presentadas se basen en diferentes fundamentos o razones.
+2)Exclusivamente cuando el conflicto involucre a individuos.
+3)Solamente cuando el conflicto involucre a entidades jurídicas.
+4)Cuando las acciones en disputa se deriven de un mismo título o causa de pedir.
+Respuesta: 4
+Correcta: ¡Exactamente! El litisconsorcio se puede producir cuando las acciones que se presentan se derivan de un mismo fundamento o razón.
+Errada: Lo siento, esa no es la respuesta adecuada. El litisconsorcio ocurre cuando las acciones que se presentan se basan en un mismo fundamento o razón. ¡Inténtalo nuevamente! (Respuesta correcta 4)
+###
+Pregunta: De acuerdo con el artículo 7 bis de la Ley de Enjuiciamiento Civil respecto a los ajustes para individuos con discapacidad:
+1)Cualquier comunicación con personas con discapacidad debe ser proporcionada tanto verbalmente como por escrito, utilizando un lenguaje claro y comprensible.
+2)En cada intervención, se requerirá la presencia de un especialista que funcione como facilitador, adaptando las comunicaciones para que la persona con discapacidad pueda comprender y expresarse adecuadamente.
+3)Los individuos con discapacidad tienen el derecho de estar acompañados por una persona de su elección desde el primer momento de interacción con las autoridades y funcionarios.
+4)Todas las comunicaciones con personas con discapacidad serán realizadas por un funcionario designado específicamente para tal propósito, mediante la lectura completa del documento correspondiente.
+Respuesta: 3
+Correcta: ¡Correcto! Según el artículo 7 bis de la Ley de Enjuiciamiento Civil, las personas con discapacidad tienen el derecho de ser acompañadas por alguien de su elección desde el inicio de cualquier contacto con las autoridades y funcionarios.
+Errada: Esa opción no es la correcta. De acuerdo con el artículo 7 bis de la Ley de Enjuiciamiento Civil, los individuos con discapacidad pueden elegir ser acompañados por una persona desde el principio de su interacción con las autoridades y funcionarios. ¡No te desanimes y sigue adelante! (Respuesta correcta 3)
+###
+Pregunta: En relación a las normativas procesales, su implementación y los tipos de protección jurídica, ¿cuál de las siguientes afirmaciones es correcta?
+1)Se puede solicitar a los tribunales la ejecución y la implementación de medidas provisionales.
+2)Los litigios civiles que tengan lugar en el territorio nacional se regirán exclusivamente por la normativa procesal española, a menos que se acuerde lo contrario.
+3)A menos que se acuerde lo contrario o en ausencia de normas en las leyes que regulan los litigios penales, administrativos, laborales y militares, se aplicarán las disposiciones de la LEC.
+4)Los asuntos que son competencia de los tribunales civiles se llevarán a cabo de acuerdo con la normativa procesal vigente, salvo que se acuerde lo contrario.
+Respuesta: 1
+Correcta: ¡Bien hecho! Es correcto que se puede solicitar a los tribunales tanto la ejecución como la implementación de medidas provisionales.
+Errada: Esa respuesta no es correcta. La afirmación correcta es que es posible solicitar a los tribunales la ejecución y la toma de medidas provisionales. ¡Sigue intentándolo! (Respuesta correcta 1)
+###
+Pregunta: Si los sucesores del demandante fallecido eligen no presentarse en el juicio, ¿cuál sería la repercusión procesal?
+1)La retirada y cierre del caso.
+2)La admisión tácita de los hechos.
+3)La renuncia al derecho ejercido.
+4)La pausa en el procedimiento.
+Respuesta: 3
+Correcta: ¡Perfecto! Si los sucesores del demandante que ha fallecido deciden no presentarse, implica una renuncia a la acción que se estaba ejerciendo.
+Errada: Esa no es la respuesta correcta. En el caso de que los sucesores del demandante fallecido decidan no comparecer, esto se traduce en una renuncia a la acción que se estaba llevando a cabo. ¡No te desanimes y sigue intentando! (Respuesta correcta 3)
+###
+Pregunta: De acuerdo con la nueva redacción del artículo 84 de la LOPJ, tras la reforma de la LO 1/2025, ¿cuál es la estructura mínima con la que contarán los Tribunales de Instancia?
+1)Una Sección Civil y una Sección de Instrucción.
+2)Una Sección Única, de Civil y de Instrucción.
+3)Una Sección de lo Penal y una Sección de lo Social.
+4)Una Sección de Familia y una Sección de Violencia sobre la Mujer.
+Respuesta: 2
+Correcta: ¡Correcto! El artículo 84.2 de la LOPJ, modificado por la LO 1/2025, establece que los Tribunales de Instancia estarán integrados, como mínimo, por una Sección Única de Civil y de Instrucción.
+Errada: Respuesta incorrecta. La estructura mínima de los Tribunales de Instancia, según el reformado artículo 84.2 de la LOPJ, es una Sección Única de Civil y de Instrucción. ¡Repasa la nueva organización judicial! (Respuesta correcta 2)
+###
+Pregunta: Dentro del marco de los procesos civiles, identifique la afirmación que no es correcta acerca de la intervención del Ministerio Fiscal.
+1)Participa en representación de aquellos que están concebidos pero aún no han nacido.
+2)Interviene para ejercer cualquier acción en defensa de los derechos e intereses de los consumidores y usuarios.
+3)Se encarga de representar y defender al incapacitado hasta que se designe un defensor judicial.
+4)Actúa en los procesos destinados a proteger los derechos e intereses colectivos y difusos de los consumidores y usuarios, pero solo cuando el interés social lo demande.
+Respuesta: 1
+Correcta: ¡Exacto! El Ministerio Fiscal no interviene en procesos civiles exclusivamente para representar a los concebidos pero no nacidos.
+Errada: Esa no es la respuesta correcta. El Ministerio Fiscal no tiene como función principal comparecer exclusivamente por aquellos que están concebidos pero no han nacido en los procesos civiles. ¡Sigue intentándolo! (Respuesta correcta 1)
+###
+Pregunta: Conforme a la reforma introducida por la LO 1/2025, las Oficinas de Justicia en los municipios sustituyen a los antiguos Juzgados de Paz. ¿Cuál de los siguientes servicios NO está previsto que presten, según el nuevo artículo 439 quater de la LOPJ?
+1)La práctica de actos de comunicación procesal con residentes en el municipio.
+2)La resolución de juicios verbales por razón de la cuantía hasta 150 euros.
+3)La colaboración con las unidades de medios adecuados de solución de controversias.
+4)La asistencia al Juez de Paz en el ejercicio de sus funciones.
+Respuesta: 2
+Correcta: ¡Correcto! La resolución de litigios es una función jurisdiccional del Juez de Paz. La Oficina de Justicia en el municipio es una unidad administrativa de apoyo y prestación de servicios, pero no ejerce jurisdicción, según los artículos 439 ter y quater de la LOPJ.
+Errada: Respuesta incorrecta. La función de resolver juicios, aunque sean de escasa cuantía, es jurisdiccional y corresponde al Juez de Paz. La Oficina de Justicia en el municipio, como unidad administrativa, le presta asistencia y ofrece otros servicios a la ciudadanía, pero no juzga. (Respuesta correcta 2)
+###
+Pregunta: Según la modificación del artículo 394 de la LEC por la LO 1/2025, ¿en qué caso no habrá pronunciamiento de costas a favor de aquella parte que, habiendo vencido en el juicio, hubiese rehusado participar en un medio adecuado de solución de controversias?
+1)Cuando la participación en dicho medio fuera meramente voluntaria.
+2)Cuando el tribunal aprecie que el caso presentaba serias dudas de hecho o de derecho.
+3)Cuando la participación en dicho medio fuera legalmente preceptiva o acordada por el órgano judicial durante el proceso.
+4)En ningún caso, el rehusar un MASC afecta a la condena en costas.
+Respuesta: 3
+Correcta: ¡Muy bien! La reforma del artículo 394.1 de la LEC introduce como sanción la no imposición de costas a favor de la parte vencedora que, sin justa causa, rehusó participar en un MASC cuando este era preceptivo o derivado judicialmente.
+Errada: Respuesta incorrecta. La nueva redacción del artículo 394.1 de la LEC establece que no se impondrán las costas al vencido si la parte vencedora rehusó, sin causa justificada, acudir a un MASC que era preceptivo o que fue acordado judicialmente. (Respuesta correcta 3)
+###
+Pregunta: Según el artículo 7 de la Ley de Enjuiciamiento Civil, ¿quién comparecerá en nombre de los concebidos pero no nacidos?
+1)Aquellas personas que legítimamente representarían a los concebidos si ya hubieran nacido
+2)Quienes legalmente administren a las personas jurídicas.
+3)Todas las personas, siempre que estén en pleno ejercicio de sus derechos civiles
+4)Personas con medidas de apoyo, siempre y cuando estén asistidas o autorizadas por la ley.
+Respuesta: 1
+Correcta: ¡Exacto! De acuerdo con la Ley de Enjuiciamiento Civil, para los concebidos pero no nacidos, las personas que legítimamente los representarían si ya hubieran nacido son quienes deben comparecer en su nombre.
+Errada: Esa opción no es correcta. Según la Ley de Enjuiciamiento Civil, para los concebidos pero no nacidos, son las personas que legítimamente los representarían si ya hubieran nacido quienes deben comparecer en su nombre. ¡Sigue intentando! (Respuesta correcta 1)
+###
+Pregunta: Conforme al artículo 18 de la Ley de Enjuiciamiento Civil, una vez que el demandado ha presentado una solicitud en relación a la intervención provocada, ¿cuántos días tienen las demás partes para presentar sus alegaciones?
+1)5 días.
+2)10 días.
+3)8 días.
+4)7 días.
+Respuesta: 1
+Correcta: ¡Correcto! De acuerdo con el artículo 18 de la LEC, las demás partes disponen de un plazo de 5 días para presentar sus alegaciones tras una solicitud de intervención provocada presentada por el demandado.
+Errada: Esa opción no es correcta. Conforme al artículo 18 de la LEC, las partes tienen un plazo de 5 días para presentar sus alegaciones tras una solicitud de intervención provocada. ¡No te desanimes y sigue practicando! (Respuesta correcta 1)
+###
+Pregunta: ¿Quién está excluido de actuar como parte ante los tribunales civiles?
+1)Las personas jurídicas.
+2)El Ministerio Fiscal, en cualquier tipo de proceso.
+3)Las organizaciones acreditadas de acuerdo con la normativa de la Unión Europea para ejercer la acción de cesación en defensa de los intereses colectivos y difusos de consumidores y usuarios.
+4)El concebido y no nacido, en relación con todos los efectos que sean en su beneficio.
+Respuesta: 2
+Correcta: ¡Bien hecho! El Ministerio Fiscal no puede actuar como parte en todos los tipos de procesos civiles.
+Errada: Esa respuesta no es correcta. El Ministerio Fiscal no puede actuar como parte en todos los tipos de procesos civiles. ¡Inténtalo de nuevo! (Respuesta correcta 2)
+###
+Pregunta: De acuerdo con el artículo 18 de la Ley de Enjuiciamiento Civil, ¿cómo se llama la situación en la que el demandado cree que un tercero debe ocupar su posición en el juicio?
+1)Litisconsorcio inicial.
+2)Reemplazo legal.
+3)Sucesión por intervención provocada.
+4)Representación instigada.
+Respuesta: 3
+Correcta: ¡Exacto! Se le conoce como sucesión por intervención provocada.
+Errada: Lo siento, esa no es la respuesta correcta. La situación se conoce como sucesión por intervención provocada. (Respuesta correcta 3)
+###
+Pregunta: ¿Quién no puede ser considerado como parte en procedimientos ante tribunales civiles?
+1)El ser concebido pero todavía no nacido.
+2)Las entidades patrimoniales separadas que momentáneamente carezcan de titular o aquellas cuyo titular haya sido privado de sus facultades de disposición y administración.
+3)Conjuntos de consumidores o usuarios afectados por un daño específico cuando los miembros sean identificables o fácilmente determinables. Para presentar una demanda, es necesario que la mayoría de los afectados formen dicho conjunto.
+4)Entidades autorizadas según la normativa de la Unión Europea para llevar a cabo acciones de cese en defensa de los intereses colectivos y difusos de consumidores y usuarios.
+Respuesta: 1
+Correcta: ¡Correcto! El ser concebido pero no nacido no puede ser considerado parte en procedimientos ante tribunales civiles.
+Errada: Esa no es la opción correcta. El ser concebido pero todavía no nacido no es reconocido como parte en procesos civiles. ¡Sigue intentándolo! (Respuesta correcta 1)
+###
+Pregunta: Según el artículo 18 de la Ley de Enjuiciamiento Civil, ¿quién y cómo se decide sobre la solicitud de sucesión por intervención provocada?
+1)El Tribunal a través de una providencia.
+2)El Letrado de la Administración de Justicia (LAJ) mediante un auto.
+3)El Tribunal mediante un auto.
+4)El Letrado de la Administración de Justicia (LAJ) a través de una diligencia.
+Respuesta: 3
+Correcta: ¡Exacto! De acuerdo con el artículo 18 de la LEC, es el Tribunal quien decide sobre la solicitud de sucesión por intervención provocada y lo hace mediante un auto.
+Errada: Esa opción no es la correcta. Es el Tribunal el que decide sobre la solicitud y lo hace a través de un auto. ¡Revisa el artículo y sigue practicando! (Respuesta correcta 3)
+###
+Pregunta: Según el artículo 9 de la Ley de Enjuiciamiento Civil, ¿en qué momento y cómo puede ser apreciada la falta de capacidad?
+1)Se puede reconocer a petición de una parte en cualquier etapa del proceso.
+2)El tribunal puede reconocerla de oficio en cualquier etapa del proceso.
+3)El tribunal puede reconocerla de oficio al inicio del proceso.
+4)Se puede reconocer a petición de una parte al inicio del proceso.
+Respuesta: 2
+Correcta: ¡Bien hecho! De acuerdo con el artículo 9 de la LEC, el tribunal puede apreciar la falta de capacidad de oficio en cualquier momento del proceso.
+Errada: Esa no es la opción adecuada. Según el artículo 9 de la LEC, el tribunal tiene la facultad de reconocer la falta de capacidad de oficio en cualquier fase del proceso. ¡Sigue adelante y continúa repasando! (Respuesta correcta 2)
+###
+Pregunta: Según el artículo 16 de la Ley de Enjuiciamiento Civil, ¿bajo qué circunstancia se asumirá que la parte demandante ha renunciado a la acción que ha ejercido?
+1)Todas son correctas.
+2)Cuando los sucesores no se personen porque las otras partes no los conocen.
+3)Cuando los sucesores no se personen porque no han sido localizados.
+4)Cuando los sucesores no se personen porque no desean comparecer.
+Respuesta: 4
+Correcta: ¡Correcto! Según el artículo 16 de la LEC, se considerará que la parte demandante ha renunciado a la acción que ha ejercido si los sucesores no se personan por decisión propia.
+Errada: Lo siento, esa opción no es correcta. De acuerdo con el artículo 16 de la LEC, la renuncia a la acción ejercitada se asume cuando los sucesores no se personan debido a que no desean comparecer. ¡Animo y sigue repasando! (Respuesta correcta 4)
+###
+Pregunta: Según el artículo 14 de la Ley de Enjuiciamiento Civil referente a la intervención provocada, ¿a través de qué medio se determina la participación de la compañía de seguros en el procedimiento?
+1)Decreto.
+2)Auto.
+3)Diligencia.
+4)Providencia.
+Respuesta: 2
+Correcta: ¡Exacto! Conforme al artículo 14 de la LEC, la decisión sobre la intervención de la aseguradora en el proceso se toma mediante un Auto.
+Errada: Esa no es la respuesta correcta. Según el artículo 14 de la LEC, la intervención de la compañía de seguros en el procedimiento se decide a través de un Auto. ¡No te desanimes y sigue estudiando! (Respuesta correcta 2)
+###
+Pregunta: En el proceso civil, ¿cómo comparecen los concebidos que aún no han nacido?
+1)Los concebidos que aún no han nacido no tienen capacidad para formar parte en un proceso civil.
+2)Mediante individuos que los representen ante terceros.
+3)A través de las personas que, de acuerdo con la ley, los representarían si ya hubiesen nacido.
+4)A través de aquellos a quienes la normativa legal les otorga la representación en el juicio.
+Respuesta: 4
+Correcta: ¡Bien hecho! Los concebidos que aún no han nacido son representados por las personas que los representarían si ya hubieran nacido, según lo establece la ley.
+Errada: Lo siento, esa no es la respuesta adecuada. Según la legislación, los concebidos que aún no han nacido son representados por las personas que los representarían si ya hubieran nacido. ¡Sigue esforzándote y repasando el material! (Respuesta correcta 4)
+###
+Pregunta: Si durante un proceso civil se confirma la muerte de un litigante y su sucesor no aparece en los siguientes cinco días, ¿qué acción se tomará?
+1)El Juez, por providencia, dará a las demás partes la opción de notificar a los herederos sobre el proceso, asignando un plazo de 10 días para su comparecencia.
+2)El Juez, mediante auto, permitirá que las otras partes soliciten la notificación a los herederos sobre el proceso, dándoles un plazo de 20 días para presentarse.
+3)El Letrado de la Administración de Justicia, mediante decreto, permitirá que las demás partes informen a los herederos sobre el proceso, dándoles un período de 20 días para comparecer.
+4)El Letrado de la Administración de Justicia, mediante diligencia de ordenación, permitirá que las otras partes informen a los herederos sobre el proceso, estableciendo un plazo de 10 días para que se presenten.
+Respuesta: 4
+Correcta: ¡Exacto! Cuando un litigante fallece y su sucesor no se presenta en los próximos cinco días, el Letrado de la Administración de Justicia, a través de una diligencia de ordenación, permitirá que las otras partes soliciten que se notifique a los herederos, proporcionándoles 10 días para que se presenten en el proceso.
+Errada: Esa no es la opción correcta. De acuerdo con el procedimiento, el Letrado de la Administración de Justicia, por medio de una diligencia de ordenación, permite que las demás partes informen a los sucesores de la existencia del proceso y les da un plazo de 10 días para comparecer. ¡No te desanimes y sigue repasando el material! (Respuesta correcta 4)

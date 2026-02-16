@@ -1,0 +1,77 @@
+# La Unión Europea
+
+## Normas de la Union Europea
+
+**Tema:** La Unión Europea  
+**Clase:** T05_C01  
+**Archivo:** T05_C01_Normas de la Union Europea.txt  
+**Tipo:** Material de Clase  
+**Categoría:** Oposiciones de Justicia  
+
+---
+
+Muy buenas a todos, en anteriores lecciones hemos visto cómo se integran las normas de derecho internacional en nuestro sistema de fuentes. Ahora toca dar un siguiente paso y vamos a ver unas normas de derecho internacional que son muy específicas y que estoy seguro que todos conocemos. Las cuales son las normas del derecho de la Unión Europea y es que verás, tal y como vimos en la anterior clase, en virtud del artículo 93 de la Constitución Española, se permite que España permita la atribución del ejercicio de competencias a otros entes supranacionales.
+
+
+¿Y esto qué significa? Bueno, pues que como consecuencia de que España pertenezca a la Unión Europea, esta puede dictar normas que directamente nos vinculen y nos obliguen. Y es que verás, la Unión Europea no va a constituir un simple tratado u organismo internacional, sino que constituye un ordenamiento jurídico propio, que los estados deben respetar y al que han de adaptarse. Estas normas, este ordenamiento jurídico de la Unión Europea, y en el que te aviso, tampoco vamos a profundizar, ya que esto sería una asignatura completa de universidad, se suele dividir en dos tipos principales de normas.
+
+
+Por un lado encontramos las normas de derecho originario y las de derecho derivado. Las normas de derecho originario se componen de los tratados constitutivos, donde se recogen todos los aspectos fundamentales del ordenamiento jurídico de la Unión Europea. Vale, si lo tuviéramos que comparar con nuestro ordenamiento jurídico interno, los tratados constitutivos equivaldrían a la constitución.
+
+
+Vale, al margen de estas normas de derecho originario, encontramos las de derecho derivado, que son las normas que se aprueban a raíz de estos tratados suscritos por los estados. Equivaldrían a la ley si lo comparamos con nuestro ordenamiento jurídico. De estas normas derivadas, dos son las más trascendentales y que posiblemente te suenen.
+
+
+Encontramos, por un lado, el reglamento, que es una norma europea obligatoria en todos sus elementos y que es directamente aplicable. Por ejemplo, el reglamento de protección de datos. Posiblemente te suene, esta es una norma europea que afecta la forma en que las empresas pueden tratar nuestros datos personales.
+
+
+Pues bien, este reglamento de protección de datos, que ojo, no hay que confundirlo con un reglamento interno, en el momento en el cual se aprueba dentro de la Unión Europea, vincula a todos los sujetos y a todas las empresas, creando obligaciones de manera directa. Bien, y por otro lado, encontramos las directivas, que obligarán al estado miembro en cuanto al resultado que quiera conseguirse. Por ejemplo, una directiva dice que España debe reducir sus emisiones de CO2.
+
+
+Como tal, la directiva no va a producir efectos directos en los sujetos individuales, pero nos va a obligar a alcanzar tal resultado. Es decir, las instituciones españolas tendrán que adoptar y aprobar las normativas oportunas para alcanzar los resultados. Bien, estas normas europeas se van a caracterizar principalmente por dos aspectos.
+
+
+El primero, que van a producir efecto directo. Y, por otro lado, van a tener preferencia sobre la norma nacional. Esto es lo que se va a conocer como principio de primacia.
+
+
+No te preocupes bien, que lo vas a entender muy bien con este ejemplo. El principio de eficacia directa implica que una normativa europea, a partir de su entrada en vigor, crea de forma inmediata toda una fuente de derechos y obligaciones. Vamos con el caso de antes.
+
+
+Si España, por ejemplo, debe cumplir una directiva sobre las reducciones de emisiones de CO2 antes del 30 de septiembre de 2021 y no lo hace, se van a generar obligaciones y derechos para los afectados por la directiva. Por ejemplo, un simple particular va a poder coger y dirigirse contra una empresa y obligarle a que cumpla con estas emisiones de CO2. Aunque no exista ninguna normativa estatal que así lo avale, pero como existe una directiva y las normas europeas producen efecto directo, los jueces españoles tendrán que darle la razón.
+
+
+Y con esto mismo lanzamos con el siguiente principio, el principio de primacia. Bien, en caso de que haya un conflicto entre una norma estatal y una norma europea, el principio de primacia lo que nos dice es que los jueces españoles y todas las instituciones españolas siempre deberán aplicar las normativas europeas. Bien, hasta aquí el principio de primacia parece muy sencillo.
+
+
+Si una normativa estatal se opone a lo que dice una normativa europea, se debe aplicar la normativa europea, dejando la normativa estatal fuera de vigor. Pero ¿qué pasa si esa normativa estatal es la Constitución Española y la propia Constitución Española se opone a lo que dice el derecho de la Unión Europea? Pues ojo, porque esto ya ha pasado varias veces. Bien, imaginemos que la Unión Europea dicta una norma que va contra la soberanía española.
+
+
+Y a partir de ahora, me lo estoy inventando, será la Unión Europea la que se va a encargar de dirigir y de regular el espacio aéreo español. Ante la aprobación de tal normativa, el Tribunal de Justicia de la Unión Europea nos dice que los ordenamientos jurídicos de los estados deben adaptarse a la Unión Europea y en caso de que sea necesario, deben modificar su Constitución. Sin embargo, el Tribunal Constitucional, por otro lado, lo que nos dice es que si una normativa europea es inconstitucional, primero es preciso reformar la Constitución Española y si no se reforma esta Constitución, la normativa europea no puede surtir efectos.
+
+
+Meteos esto muy a fuego en vuestra cabeza. Porque lo cierto es que ya ha habido casos en España donde ha sido necesario modificar la Constitución Española para adaptarla a la normativa europea. De hecho, hace unos cuantos años hubo que modificar la Constitución Española para que los extranjeros pudieran votar de forma correcta en las elecciones europeas y municipales desde España.
+
+
+Bien, cuestión en especial son los derechos fundamentales, que veremos a partir del próximo tema. En la Unión Europea existe una Carta de Derechos Fundamentales, donde se recogen una serie de principios y valores que todos los estados de la Unión Europea deben tener. En esta carta se recogen cuestiones muy básicas como el derecho a la vida, el derecho a la dignidad, el derecho a la igualdad de las personas, y estos, al ser valores tan básicos, se utilizan como criterio para el mismísimo Tribunal Constitucional.
+
+
+Por lo que al final la propia pertenencia a España dentro de la Unión Europea hace que se interprete la Constitución de una determinada forma. Bien, imagínate ahora y ya por último que la Unión Europea nos impone una directiva en la cual se establece la forma en la cual se deben plantar los tomates a partir de ahora. Y quiero que te preguntes lo siguiente.
+
+
+¿Quién crees que debe cumplir esa directiva? ¿El gobierno central o las comunidades autónomas? Pues bien, a la Unión Europea esto le va a dar igual. No distingue entre ayuntamiento, no distingue entre comunidades autónomas, ni tampoco distingue entre lo que es un gobierno central. Esto se va a conocer como principio de autonomía institucional y consiste en que la Unión Europea dicta la norma y el Estado Español puede cumplirla como considere.
+
+
+La Unión Europea no se va a poder meter ahí. No puede decir que tal órgano, tal ayuntamiento, tal comunidad tiene que hacer esto, esto, será el Estado al que le corresponda comprobar quién y cómo debe cumplir esta norma. ¿Y esto cómo se hará? Pues bien, acudiendo al ordenamiento jurídico interno.
+
+
+Si en este caso la competencia en materia de agriculturas corresponde a las comunidades autónomas, será cada comunidad autónoma la que deberá implementar el nuevo sistema de plantación de tomates. Vale, imaginemos ahora que luego hay una determinada comunidad autónoma que no implementa correctamente el sistema de implantación de tomates. ¿Quién va a tener que responder? ¿La comunidad autónoma o el Estado en su conjunto? Pues bien, la responsabilidad siempre será del Estado en su conjunto.
+
+
+La responsabilidad es única. Es decir, si por ejemplo la comunidad de Castilla y La Mancha no cumple con la normativa de tomates, se va a sancionar al Estado español en su conjunto, no a Castilla y La Mancha. Y bueno, entendido lo anterior, creo que hemos terminado este tema, hemos terminado este bloque de clases.
+
+
+Ya hemos visto todo sobre las fuentes normativas. Creo que ha sido un bloque bastante intenso. La verdad que si has llegado hasta aquí estoy muy orgulloso y te animo a que dejes tu opinión de lo que te está pareciendo el curso en los comentarios.
+
+
+Y como siempre cualquier duda preguntárnosla que para eso estamos aquí. Así que bueno, en principio eso es todo y como siempre nos vemos en la próxima clase.
+

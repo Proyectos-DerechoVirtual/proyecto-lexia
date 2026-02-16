@@ -1,0 +1,56 @@
+# Los Recursos
+
+## Recursos Los medios de impugnacion
+
+**Tema:** Los Recursos  
+**Clase:** T62_C01  
+**Archivo:** T62_C01_Recursos Los medios de impugnacion.txt  
+**Tipo:** Material de Clase  
+**Categoría:** Oposiciones de Justicia  
+
+---
+
+Muy buenas a todos, hoy vamos a ver los recursos que vienen recogidos en los artículos 81 y siguientes de la ley de jurisdicción contextual administrativa. Voy a dejar clara una cosa antes, esta no es una pregunta que os vaya a caer en un examen, casi seguro, al 99 por ciento, pero por si acaso yo os lo voy a explicar, voy a explicar más en detalle en qué consisten los recursos que vimos en las clases anteriores por si os los preguntara, ¿vale? Así que bueno, vamos a empezar viendo nuestro supuesto y es que Manuel está muy cabreado y su proceso contencioso administrativo no le han dado la razón y piensa que el juez ha estado manifiestamente errado por lo que decide recubrir. Pues bien, la ley prevé dos tipos de recursos principales en materia contencioso administrativa, encontrando por un lado el recurso de apelación y por otro el de casación.
+
+
+Mediante el recurso de apelación se pueden recubrir tanto los autodictados en primera instancia, como puede ser por ejemplo en la inadmisión de un recurso, como la sentencia, siempre y cuando, ojo, el procedimiento contencioso administrativo tenga una cuantía superior a los 30.000 euros. Es decir, si Manuel ha perdido 10.000 euros no cabrá recurso de apelación y por tanto se quedará sin recurrir. Muy importante esto, aunque esto como todo el derecho tiene excepciones y es cuando estamos ante materia de derechos fundamentales, litigios entre administraciones públicas, casos de inactividad de la administración, así como asilo político en materia de extranjería, entre otros.
+
+
+De esta forma, si el litigio de Manuel versará porque no le conceden un visado, podría recurrir, aunque el litigio no alcanzará tal cuantía. Eso sí, es importante que sepas que el recurso no puede utilizarse oponiendo exactamente los mismos argumentos que se pusieron en la demanda, sino que es preciso destacar aquellos puntos discordantes que se encuentren en el fallo judicial. Es decir, si a Manuel el fallo le ha desestimado sus pretensiones porque en base a la prueba no cumplía con el volumen de decibelios, lo que no puede hacer Manuel es en el recurso argumentar lo mismo que la demanda, o de lo contrario, pues el Tribunal Superior de Justicia podría denegar la tramitación de dicho recurso.
+
+
+Hay que destacar que para interponer este recurso de apelación habrá un plazo de 15 días siguientes a la fecha de notificación de la sentencia de las partes. Por lo tanto, si transcurre este plazo y nadie recurre, la sentencia adquiere firmeza y ya no se puede recurrir. Bien, hasta aquí todo sobre el recurso de apelación.
+
+
+Ahora vamos con el recurso de casación frente al Tribunal Supremo. ¿Cuándo se va a poder interponer este? La realidad es que este recurso va a caber contra aquellas resoluciones judiciales dictadas por la sala de lo contencioso administrativo de la Audiencia Nacional y por las salas de lo contencioso administrativo de los subtribunales superiores de justicia. De esta forma, si el Tribunal Superior de Justicia emite un fallo que no satisface las pretensiones de Manuel, éste podría interponer un recurso de casación.
+
+
+Hay que destacar, eso sí, que el recurso de casación puede ser interpuesto tanto contra autos como contra sentencias. Frente a autos, pues ya te haces la idea. Podría interponerse por la inadmisión del recurso.
+
+
+Imaginémonos que a Manuel el Tribunal Superior de Justicia no le admite tal. O también se podría interponer frente a aquellos autos que impongan una serie de medidas cautelares. Por otra parte, se pueden recurrir las sentencias.
+
+
+¿Cuáles? Lo lógico es pensar que se pueden recurrir las sentencias dictadas por los tribunales superiores de justicia, que es la instancia inferior. Pero, ojo, porque no siempre es así. Encontramos principalmente, eso sí, tres supuestos.
+
+
+En primer lugar, se pueden recurrir las sentencias que provengan de los juzgados de lo contencioso administrativo, pero que contienen doctrina gravemente dañosa para los intereses generales y son susceptibles de extensión de efectos. Ejemplo, estamos ante la impugnación de un reglamento de extranjería que puede contravenir una ley orgánica y que afecta los derechos fundamentales de cientos de miles de extranjeros. En segundo lugar, se pueden recurrir las sentencias dictadas en única instancia o en apelación por la sala de lo contencioso administrativo de la Audiencia Nacional.
+
+
+Muy sencillo, si estamos ante un caso que ha llegado a la Audiencia Nacional, hay que recurrirlo frente al Tribunal Supremo. Y en tercer lugar, se pueden recurrir las sentencias dictadas por las mismas salas de lo contencioso administrativo de los tribunales superiores de justicia. Ahora, estas resoluciones solo se pueden recurrir cuando se funden en infracción grave de las normas de derecho estatal o de la Unión Europea que sean relevantes y determinantes.
+
+
+De esta forma, Manuel podría encontrarse con que la multa clara impuesto no es relevante y, por tanto, no es susceptible de ser recurrida en casación. Hay que destacar, por último, sobre el recurso de casación que, para que sea admitido, es necesaria la asistencia de interés casacional. Esto implica, por un lado, que el Tribunal Supremo solo va a examinar las cuestiones de derecho y no los hechos.
+
+
+De esta forma, si Manuel sigue ER-QR con que cumplía con el volumen de decibelios, estos son hechos, esto es irrelevante y su recurso de casación no será admitido, ya que el Tribunal Supremo solo debate sobre cuestiones de derecho. Y, por otra parte, el recurso de casación debe mostrar interés y, para ello, es necesario que, sobre la cuestión que verse el recurso, no haya jurisprudencia o, cuando habiéndola, sea contravenido. Por último, debe saber que, para presentar este recurso de casación, se establece un plazo de 30 días.
+
+
+Bueno, vamos a hacer un resumen muy rápido de todo lo que hemos visto. En la jurisdicción contencioso-administrativa existen dos tipos de recurso, el de apelación y el de casación. Ambos permiten recurrir tanto autos como sentencias.
+
+
+El primero no cabe frente a sentencias con cuantías inferiores a 30.000 euros, salvo que se afecta a materias de derechos fundamentales o a personal funcionarial, entre otros. Con respecto al recurso de casación, ante el Tribunal Supremo, éste únicamente cabe en una serie de supuestos muy tasados, cabiendo contra sentencias que incluso provengan de los juzgados de lo contencioso-administrativo, en caso de estar ante situaciones gravosas, o frente a las sentencias dictadas frente a los Tribunales Superiores de Justicia, cuando exista interés casacional. ¿Vale? Eso sería todo.
+
+
+Nos vemos en la lección que viene. ¡Un saludo! Subtítulos realizados por la comunidad de Amara.org
+

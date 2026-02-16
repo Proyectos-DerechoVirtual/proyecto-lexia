@@ -1,0 +1,50 @@
+# Proceso Civil
+
+## T17a19 C03 REFORMAS 2023 parte II
+
+**Tema:** Proceso Civil  
+**Clase:** T17a19_C03_REFORMAS 2023 parte II  
+**Archivo:** T17a19_C03_REFORMAS 2023 parte II.txt  
+**Tipo:** Material de Clase  
+**Categoría:** Oposiciones de Justicia  
+
+---
+
+Muy buenas a todos. Ante el eventual panorama legislativo de cambios, quiero que sigamos viendo con detenimiento el Real Decreto Ley 6.0.2023, de 19 de diciembre, por el que se aprueba medida urgente para la ejecución del Plan de Recuperación, Transformación y Resiliencia en materia de Servicio Público, Justicia, Función Pública, Régimen Local y Mecenazgo. Ya sabes que es una norma que ha integrado diversas modificaciones de gran calibre que debes conocer para tu oposición, tocando el panorama civil, penal, contencioso y social.
+
+
+En este caso, vamos a centrarnos en las reformas que afectan al proceso civil, es decir, a la ley de enjuiciamiento civil. Sin más dilación, empezamos. En este caso, empezamos con los cambios existentes en medidas cautelares, concretamente en acciones individuales dirigidas a obtener la declaración de abusividad.
+
+
+El artículo 721.3 de la ley de enjuiciamiento civil, introducido por el Real Decreto Ley 6.0.2023, innova al permitir que el tribunal pueda, de manera autónoma y sin requerir caución, imponer medidas cautelares en el contexto de acciones individuales que busquen la declaración de abusividad de una cláusula. Esto es aplicable cuando el tribunal ya ha decidido suspender el proceso debido a una cuestión prejudicial civil, según lo establecido en el artículo 43 de la ley de enjuiciamiento civil. Esta disposición otorga al juzgado la facultad de adoptar de forma preventiva acciones que aseguren la efectividad de la justicia, evitando que la demora del proceso por la suspensión prejudicial civil pueda perjudicar los derechos de la parte que alegue abusividad de la cláusula en cuestión.
+
+
+Esta medida refuerza la protección de los consumidores y usuarios frente a las cláusulas que puedan considerarse abusivas, permitiendo una tutela judicial más ágil y efectiva en estos casos. Continuamos con el siguiente cambio, la ejecución. Presta atención que este tema es muy importante.
+
+
+El Real Decreto Ley 6.0.2023 introduce una modificación importante en el apartado 5 del artículo 527 de la ley de enjuiciamiento civil, especificando que las costas generadas en el proceso de ejecución provisional no serán de responsabilidad del ejecutado siempre y cuando éste haya acatado las disposiciones del auto que ordenó la ejecución dentro de los 20 días siguientes a haber sido notificado. Además, el Real Decreto Ley implementa otras actualizaciones en lo que respecta a la ejecución. Estas incluyen medidas para consolidar la autoridad de la cosa juzgada de las decisiones tomadas en el procedimiento de ejecución sobre la posible naturaleza abusiva de las cláusulas, tal como se detalla en los artículos 561, 581 y 695 de la ley de enjuiciamiento civil.
+
+
+También se facilita el procedimiento para requerir el pago a las entidades jurídicas a través de la sede judicial electrónica, según lo establecido en el artículo 582 de dicha ley. Estas modificaciones buscan mejorar la eficiencia del proceso de ejecución y ofrecer protección adicional contra cláusulas potencialmente abusivas, al tiempo que se adapta el procedimiento a las tecnologías actuales, permitiendo un manejo más ágil y digitalizado de los requerimientos de pago. Ahora, seguimos con otro cambio, en la cuestión prejudicial europea.
+
+
+Efectos en el procedimiento El artículo 43b de la ley de enjuiciamiento civil, introducido recientemente, establece cómo debe proceder un tribunal cuando considere necesario plantear una cuestión prejudicial ante el Tribunal de Justicia de la Unión Europea o cuando debe resolver una ya planteada. Si el tribunal decide por iniciativa propia plantear una cuestión prejudicial europea, se ordenará la suspensión del procedimiento judicial sin que esta decisión sea susceptible de recurso. Esto significa que, una vez tomada la decisión de plantear la cuestión prejudicial, las actuaciones procesales quedan paralizadas hasta recibir la respuesta del Tribunal de Justicia de la Unión Europea, garantizando así que la interpretación del derecho de la Unión Europea se aplique de manera uniforme y coherente.
+
+
+Por otro lado, si se enfrenta a una cuestión prejudicial que ya ha sido planteada por otro órgano, el tribunal tiene la discreción de decidir si suspende o no el procedimiento. Esta suspensión, a diferencia de la anterior, es opcional y contra esta decisión sí cabe recurso, lo que permita a las partes involucradas en el proceso judicial la posibilidad de impugnar la decisión de suspender las actuaciones mientras esperan la resolución de la cuestión prejudicial por parte del Tribunal de Justicia de la Unión Europea. Esta disposición busca equilibrar la necesidad de una interpretación uniforme del derecho de la Unión Europea con la eficiencia y celeridad del proceso judicial nacional.
+
+
+Por último, veremos el recurso y revisión de sentencias firmes. La reforma del recurso de casación, ya implementada por el Real Decreto Ley 5.0.2023 y discutida en detalle en un podcast dedicado a las claves de esta reforma, es complementada por ajustes técnicos adicionales en el nuevo Real Decreto Ley. Un cambio notable es que, una vez efectiva la reforma de la Ley de Juiciamiento Civil, ya no será posible desistir del recurso de casación una vez que se haya fijado la fecha para su deliberación, votación y fallo, según lo establece el artículo 451 de la Ley.
+
+
+Además, la nueva redacción del artículo 398 de la Ley introduce la posibilidad de que no se impongan costas al recurrente que no obtenga un fallo favorable en su recurso de casación, siempre y cuando el Tribunal considere que existen circunstancias que lo justifiquen. El recurso de apelación también sufre modificaciones significativas. Con la entrada en vigor de la reforma, la presentación del recurso de apelación se realizará directamente ante la Audiencia Provincial, en lugar de ante el juzgado, como era el procedimiento hasta ahora, de acuerdo con los artículos 458 y 461.1 de la Ley.
+
+
+Además, se especifica que las costas en los recursos de apelación seguirán el principio general del vencimiento objetivo del artículo 394 de la Ley, que establece que las costas se impondrán a la parte que haya visto desestimadas todas sus pretensiones, aplicándose ahora este principio a todos los casos, en lugar de sólo cuando se desestiman todas las pretensiones de recursos de apelación. Esto implica que, si el recurso de apelación es estimado en su totalidad, el apelante tendrá derecho a recuperar las costas del proceso. Por último, en lo que respecta a la revisión de sentencias firmes a raíz de las resoluciones del Tribunal Europeo de Derecho Humano, se añade la posibilidad de que la Abogacía del Estado intervenga, proporcionando información o presentando observaciones escritas sobre cuestiones relativas a la ejecución de la sentencia del Tribunal Europeo de Derecho Humano, conforme al artículo 514.5 de la Ley de Juiciamiento Civil.
+
+
+Esto facilita una mayor participación del Estado en los procesos de revisión de sentencia que involucren decisiones del Tribunal Europeo de Derecho Humano, asegurando que se consideren adecuadamente las implicaciones de estas sentencias en el derecho interno. Hasta aquí la clase de hoy, compañeros. Espero que os haya servido para entender un poco más los cambios en el proceso civil.
+
+
+¡Hasta la próxima!
+

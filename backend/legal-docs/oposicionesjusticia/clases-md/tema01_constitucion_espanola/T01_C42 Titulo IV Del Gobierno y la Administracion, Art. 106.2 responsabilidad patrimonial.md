@@ -1,0 +1,89 @@
+# Constitución Española
+
+## T01 C42 Titulo IV Del Gobierno y la Administracion, Art. 106.2 responsabilidad patrimonial
+
+**Tema:** Constitución Española  
+**Clase:** T01_C42 Titulo IV Del Gobierno y la Administracion, Art. 106.2 responsabilidad patrimonial  
+**Archivo:** T01_C42 Titulo IV Del Gobierno y la Administracion, Art. 106.2 responsabilidad patrimonial.txt  
+**Tipo:** Material de Clase  
+**Categoría:** Oposiciones de Justicia  
+
+---
+
+Hola a todos y a todas, bienvenidos a la clase de hoy, en la que vamos a continuar con el artículo 106 de la Constitución, enmarcado dentro del título cuarto, relativo al Gobierno. Nos queda referirnos al apartado segundo de este artículo, que dice así. Los particulares, en los términos establecidos por la ley, tendrán derecho a ser indemnizados por toda lesión que sufran en cualquiera de sus bienes y derechos, salvo en los casos de fuerza mayor, siempre que la lesión sea consecuencia del funcionamiento de los servicios públicos.
+
+
+Vamos a traducirlo. El artículo 106.2 nos está diciendo simple y llanamente que la Administración es responsable patrimonialmente ante los ciudadanos por los daños que éstos sufran cuando utilizan los servicios públicos. Imagínate a un ciclista que va por la carretera pedaleando, que se cae y se rompe una pierna porque había un socavón en la carretera.
+
+
+Como mantener las carreteras en buen estado es un servicio público que deben garantizar las Administraciones, éstas podrían tener que indemnizarle por los daños que ha sufrido. La responsabilidad patrimonial de la Administración es un asunto complejo. En la clase de hoy vamos a centrarnos en ver sus elementos más básicos de modo introductorio.
+
+
+Para ello vamos a ver sus características, sus presupuestos de carácter técnico y dónde se regula el procedimiento para exigir la responsabilidad patrimonial de la Administración. Vamos a empezar con las características de la responsabilidad patrimonial. Lo primero que debemos resaltar es que se trata de una responsabilidad extra contractual.
+
+
+En otras palabras, no es necesario que exista un vínculo contractual previo para que la Administración tenga el deber de indemnizar a las personas por los daños que les cause. En segundo lugar, se trata de una responsabilidad objetiva. Esto quiere decir que no necesitamos que haya culpabilidad en la actuación administrativa que causó el daño para declarar que la Administración es responsable.
+
+
+Nos basta con que el daño se haya derivado del funcionamiento normal o anormal de los servicios públicos. En tercer lugar, es una responsabilidad directa y no subsidiaria de la que tienen que responder las Administraciones. Y en cuarto y último lugar, es una responsabilidad solidaria.
+
+
+Así, si varias Administraciones concurren en la producción del daño, todas ellas deberán responder solidariamente en proporción a su participación en aquel daño causado. A partir de aquí, existen una serie de presupuestos de carácter técnico que deben darse para que un particular pueda exigir una indemnización a la Administración. Estos los encontramos en el artículo 32.2 de la Ley 40.2015 de Régimen Jurídico del Sector Público.
+
+
+El primero de ellos es que tiene que haberse producido un daño en el particular que está reclamando la indemnización. Este daño tiene que ser individualizado, evaluable económicamente y antijurídico. ¡Mucho ojo con esto! La responsabilidad patrimonial de la Administración solo surge cuando una persona particularmente ha sufrido un daño.
+
+
+Este daño es evaluable económicamente y, además, el particular no tenía el deber jurídico de soportarlo. Esto es fundamental. Imagínate, por ejemplo, que se crea una ley que regula una nueva sanción administrativa a las personas que fumen en la calle.
+
+
+Todos tenemos el deber jurídico de soportar esta nueva sanción, con lo que por mucho que nos fastidie que nos multen por esto, no es un daño indemnizable ni mucho menos. Es importantísimo que la persona no tuviera el deber jurídico de soportar aquel daño. El segundo presupuesto es que el daño causado se pueda imputar a la Administración Pública.
+
+
+Hemos dicho previamente que este tipo de responsabilidad es objetiva, con lo que en realidad nos basta con que el daño esté relacionado con la actividad administrativa. Piensa, por ejemplo, que el daño proviene de un acto administrativo o del uso de unas instalaciones de un servicio público. Ahora bien, ten muy en cuenta que también se entiende que el daño ha sido causado por la Administración cuando haya una imputación subjetiva, esto es, cuando lo hayan causado sus agentes.
+
+
+Es el típico caso de un daño producido por un policía en ejercicio de sus funciones. Recuerdan que en estos casos la que indemniza al particular, si se reconoce la responsabilidad, es la Administración. No obstante, esta tiene una acción de regreso, por la cual, en caso de haber culpa de la gente, puede exigirle que se haga cargo de pagar la indemnización.
+
+
+Encontrará regulada esta acción en el artículo 36 de la Ley 40.2015. El tercer presupuesto es que tiene que haber un nexo de causalidad entre el daño y la actuación administrativa. Piensa que si una persona va a pedir una indemnización a la Administración porque ha sufrido un daño que no tenía que soportar, se debe probar que hubo una relación de causa-efecto entre la actuación administrativa y el daño sufrido. En cuarto lugar, el último presupuesto de carácter técnico es la indemnización que se recibe.
+
+
+Esta será una cuantía económica que debe cubrir todo el daño, lo cual incluye los daños físicos, los morales y además el daño emergente y el lucro cesante. Estos últimos conceptos son bastante interesantes. El daño emergente, como su nombre indica, es el valor de la pérdida que se ha sufrido efectivamente.
+
+
+Por ejemplo, si te rompes una pierna porque hay un socavón en la carretera, el daño emergente es la cuantía de los tratamientos médicos que has necesitado. En cambio, el lucro cesante se refiere a lo que dejaste de ganar por los daños producidos. Imagínate que eras un ciclista profesional y que por culpa de esta lesión ya no vas a poder competir nunca más.
+
+
+Por último, pero no menos importante, el artículo 106.2 de la Constitución nos da una causa que exime a la Administración de indemnizar a los particulares. Es la fuerza mayor. En otras palabras, si el daño que ha sufrido el particular se deriva de circunstancias exteriores imprevisibles o inevitables, la Administración no tendrá responsabilidad.
+
+
+Imagínate, por ejemplo, que el ciclista tuvo aquel accidente porque hubo de repente un terremoto que creó el socavón que le hizo caer. Esto era algo completamente imprevisible para la Administración, con lo que no es responsable del daño que ha sufrido esta persona. Nos falta ver cómo se reclama la responsabilidad patrimonial de la Administración.
+
+
+Esto se hace mediante un procedimiento que se regula en la Ley 39.2015 de Procedimiento Administrativo Común de las Administraciones Públicas. Recuerda que esta ley regula, con carácter general, el procedimiento administrativo común en su título cuarto. Al hilo de este procedimiento regula ciertas especialidades procedimentales para tramitar los procedimientos de responsabilidad patrimonial, aunque no nos vamos a meter a ver esto en profundidad si es importante que conozcas algunas de estas especialidades.
+
+
+La primera es que el procedimiento, que puede iniciar de oficio o a instancia del interesado, sólo puede iniciarse en el plazo de un año desde que se produjo la lesión, se determinaron sus secuelas o desde que una sentencia judicial declaró la responsabilidad patrimonial de la Administración. Este plazo es de prescripción, con lo cual, una vez haya pasado este año, el particular ya no podrá exigir la responsabilidad patrimonial porque su acción habrá prescrito. La segunda especialidad es que, cuando se instruya el procedimiento, hay que solicitar un informe del servicio que ocasionó el daño, esto es, del órgano administrativo que corresponda.
+
+
+Además, si la indemnización que se pide es superior a 50.000 euros, habrá que solicitarle informe al Consejo de Estado. Por último, si el daño se produjo por la Administración de Justicia, será necesario pedir informe al Consejo General del Poder Judicial. La tercera especialidad que debes conocer se refiere a la terminación del procedimiento.
+
+
+En los casos de responsabilidad patrimonial, el procedimiento administrativo para reconocerla puede acabar con un acuerdo indemnizatorio. Es una resolución convencional que sustituye a la resolución administrativa. Esta última es la forma típica de finalizar los procedimientos administrativos.
+
+
+Recuerda que este acuerdo indemnizatorio entre la Administración y el interesado tiene que suscribirse antes del trámite de audiencia. La cuarta especialidad es que este procedimiento durará seis meses. Y la quinta es que, conforme al artículo 96 de la LEPAC, se podrá analizar de forma simplificada.
+
+
+En estos casos, el procedimiento dura sólo 30 días y es para los casos en los que hay una inequívoca relación de causalidad entre el daño y la actuación administrativa, y la valoración económica del daño y la indemnización que procede están clarísimas. Por último, pero no menos importante, debes saber que el régimen de la responsabilidad patrimonial tiene varias aristas. Hasta ahora, nos hemos centrado en ver lo que podríamos llamar el régimen general.
+
+
+Es para cuando las personas que han sufrido un daño imputable a la Administración deciden iniciar un procedimiento administrativo ante la misma para pedirle una indemnización por ese daño. No obstante, existen regímenes especiales y, además, supuestos particulares. Entre los regímenes especiales, encontramos regulación específica en materia de urbanismo, de los servicios postales, del transporte o del ámbito contractual.
+
+
+Cuando un particular sufra un daño en estos ámbitos, deberá seguir los cauces que prevé cada legislación especial para ellos. Respecto de los supuestos particulares, es importante que sepas que la Administración Pública no es la única que puede tener responsabilidad patrimonial. También se predica del Estado juez en el artículo 121 de la Constitución y del Estado legislador, en este segundo caso, en el artículo 32 de la Ley 40-2015.
+
+
+Con esto acabamos la clase de hoy. Lo más importante es que te quedes con que el artículo 106.2 de la Constitución regula la responsabilidad patrimonial de las Administraciones Públicas. Esta se desarrolla en el artículo 32 de la Ley 40-2015 de Régimen Jurídico del Sector Público y en la Ley 39-2015, que se refiere al procedimiento que debemos seguir para exigirla.
+

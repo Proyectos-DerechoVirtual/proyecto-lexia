@@ -1,0 +1,118 @@
+# Puntos Clave – Principios de la Administración Pública (Art. 103.1 CE y Ley 39/2015)
+
+**📚 Tema:** Constitución Española  
+**🎓 Clase:**  Del Gobierno y la Administracion. Articulo 103.1  
+**🎯 Tipo:** Pregunta trampa / Punto clave  
+**📋 Archivo:** T01_C36_Del Gobierno y la Administracion. Articulo 103.1_TRAMPA.txt
+
+---
+
+Puntos Clave – Principios de la Administración Pública (Art. 103.1 CE y Ley 39/2015)
+
+1. Art. 103.1 CE – Principios administrativos
+RECUERDA
+- Legalidad y objetividad (principios-límite).
+- Eficacia (funcional).
+- Jerarquía, descentralización, desconcentración, coordinación (organizativos).
+
+MNEMOTÉCNICA
+LOJEDESCO: Legalidad, Objetividad, JErarquía, DEScentralización, DESconcentración, COordinación
+📌 "LOJEDESCO: administración ordenada y clara".
+
+---------------------------------------------------
+
+2. Art. 103.1 CE – Descentralización vs. desconcentración
+RECUERDA
+- Descentralización: reparto entre distintas administraciones (Estado, CCAA, municipios).
+- Desconcentración: reparto dentro misma administración (ministerios → delegaciones).
+
+MNEMOTÉCNICA
+DEDE: DEscentraliza fuera, DEsconcentra dentro
+📌 "DEDE: descentraliza entre entes, desconcentra dentro".
+
+---------------------------------------------------
+
+3. Art. 103.1 CE + Ley 39/2015 – Autotutela administrativa
+RECUERDA
+- Declarativa: validar actos sin juez.
+- Ejecutiva: ejecutarlos forzosamente.
+
+TEN CUIDADO
+- No requiere resolución judicial salvo previsión legal.
+
+MNEMOTÉCNICA
+AUTOEJEC: AUTOTutela EJECutiva
+📌 "AUTOEJEC: actúa y ejecuta sin juez".
+
+---------------------------------------------------
+
+4. Art. 103.1 CE – Jerarquía administrativa ≠ jerarquía constitucional
+RECUERDA
+- Jerarquía administrativa: interna y organizativa (órganos misma administración).
+- No confundir con jerarquía normativa (Constitución > ley > reglamento).
+
+MNEMOTÉCNICA
+JEORGA: JErarquía ORGanizativa Administrativa
+📌 "JEORGA: jerarquía interna, no supremacía estatal".
+
+---------------------------------------------------
+
+5. Art. 103.1 CE – Sujeción general vs. especial
+RECUERDA
+- General: cualquier ciudadano frente a Administración.
+- Especial: funcionarios, presos, alumnos públicos (vínculo jurídico reforzado).
+
+MNEMOTÉCNICA
+SUGESPE: SUjeción GEneneral, SPEcial
+📌 "SUGESPE: todos sujetos, algunos más".
+
+---------------------------------------------------
+
+6. Art. 103.1 CE – Legalidad y límites discrecionalidad
+RECUERDA
+- Toda actuación debe tener base normativa.
+- Discrecionalidad no es arbitrariedad: limitada por interés general y objetividad.
+
+MNEMOTÉCNICA
+LEADI: LEgalidad Acota DIscrecionalidad
+📌 "LEADI: la ley guía, no da vía libre".
+
+---------------------------------------------------
+
+7. Art. 103.1 CE – Objetividad ≠ neutralidad absoluta
+RECUERDA
+- Actuar con criterios técnicos y legales, no indiferencia ideológica.
+- Administración puede tener fines (políticas públicas), pero no discriminar ni arbitrar.
+
+MNEMOTÉCNICA
+OBJEC: OBJEtividad Evita Clientelismos
+📌 "OBJEC: decidir sí, pero con reglas claras".
+
+---
+
+## 📊 **Información del chunk:**
+
+- **Chunk 1** de 1
+- ❌ Sin recordatorios
+- ❌ Sin advertencias  
+- ❌ Sin mnemotécnica
+
+## 🔍 **Metadata:**
+
+```json
+{
+  "topicName": "tema01_constitucion_espanola",
+  "topicTitle": "Constitución Española",
+  "topicNumber": 1,
+  "classTitle": " Del Gobierno y la Administracion. Articulo 103.1",
+  "classNumber": "T01_C36",
+  "questionTitle": "Puntos Clave – Principios de la Administración Pública (Art. 103.1 CE y Ley 39/2015)",
+  "questionNumber": null,
+  "chunkType": "question",
+  "chunkIndex": 0,
+  "hasReminder": false,
+  "hasWarning": false,
+  "hasMnemonic": false,
+  "embeddingModel": "text-embedding-3-large"
+}
+```

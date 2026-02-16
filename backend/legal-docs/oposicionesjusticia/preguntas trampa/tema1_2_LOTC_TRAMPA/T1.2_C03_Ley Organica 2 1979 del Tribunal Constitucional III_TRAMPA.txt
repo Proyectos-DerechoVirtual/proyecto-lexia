@@ -1,0 +1,42 @@
+
+COMPETENCIAS DEL TRIBUNAL CONSTITUCIONAL
+
+1. Bloque competencial del Tribunal Constitucional
+RECUERDA: El TC conoce de: recursos y cuestiones de inconstitucionalidad, recurso de amparo, conflictos Estado-CCAA y entre órganos constitucionales, impugnaciones del Gobierno contra normas autonómicas, y control de constitucionalidad de tratados. Competencias tasadas (art. 2 LOTC; arts. 161–165 CE).
+TEN CUIDADO: No puede revisar sentencias del Supremo por “injustas”. Eso es vía de recurso ordinario.
+REGLA MNEMOTÉCNICA: BCT: Bloque-Competencias-TC
+
+2. Potestad reglamentaria de auto-organización
+RECUERDA: El Pleno aprueba su Reglamento interno por mayoría absoluta. Regula reparto de ponencias, tramitaciones urgentes y sustituciones. Nunca altera plazos ni introduce recursos nuevos. Rango inferior a la LOTC (art. 2.2 LOTC).
+TEN CUIDADO: Confundir Reglamento con “ley procesal” es error. Los plazos y legitimación solo cambian por reforma LOTC.
+REGLA MNEMOTÉCNICA: PRI: Potestad-Reglamento-Interno
+
+3. Objeto y finalidad del recurso de inconstitucionalidad
+RECUERDA: Sirve para depurar el ordenamiento cuando una norma con rango de ley vulnera la CE. Es un proceso objetivo, sin partes ganadoras; lo relevante es la validez de la norma, no derechos subjetivos (arts. 27–34 LOTC; 161.1 CE).
+TEN CUIDADO: No es un recurso político. El TC exige razonamiento jurídico-constitucional.
+REGLA MNEMOTÉCNICA: RIL: Recurso-Inconstitucionalidad-Ley
+
+4. Legitimación activa reforzada
+RECUERDA: Pueden interponerlo: Presidente del Gobierno, 50 diputados, 50 senadores, Defensor del Pueblo, y órganos ejecutivos o legislativos de CCAA (estos últimos por mayoría absoluta). No son legitimados grupos parlamentarios sin 50 firmas (art. 32 LOTC).
+TEN CUIDADO: Presentar recurso con 49 diputados o sin acuerdo autonómico = inadmisión.
+REGLA MNEMOTÉCNICA: G50D: Gobierno-50-Diputados
+
+5. Normas impugnables
+RECUERDA: Pueden impugnarse leyes y decretos-leyes estatales, leyes autonómicas, estatutos, reglamentos parlamentarios, tratados internacionales y disposiciones con fuerza de ley. No caben reglamentos ejecutivos ni actos singulares (art. 27 LOTC).
+TEN CUIDADO: Confundir rango → pérdida de plazo. Un decreto simple se impugna en contencioso, no ante el TC.
+REGLA MNEMOTÉCNICA: LIN: Leyes-Impugnables-Normas
+
+6. Plazos procesales y suspensión automática
+RECUERDA: Plazo general 3 meses desde publicación. Puede ampliarse a 9 si hay Comisión Bilateral Estado-CCAA. Si Gobierno impugna norma autonómica (art. 161.2 CE), suspensión automática inmediata; el TC debe ratificar o alzar en 5 meses (art. 33 LOTC).
+TEN CUIDADO: Agotar 3 meses sin demandar = inadmisión. Fuera de plazo, no procede.
+REGLA MNEMOTÉCNICA: 3M5S: Tres-Meses-Cinco-Suspensión
+
+7. Tramitación básica tras la admisión
+RECUERDA: Admitida demanda, se da traslado al órgano que dictó la norma (Congreso, Senado, Gobierno, Parlamento autonómico) para alegaciones en 15 días. El ponente informa y eleva al Pleno. La LOTC fija plazo teórico de 10 días prorrogables 30, aunque en la práctica dura meses (arts. 34–38 LOTC).
+TEN CUIDADO: Presentar alegaciones fuera de 15 días = no presentadas (art. 85 LOTC). No hay recurso de reposición interno.
+REGLA MNEMOTÉCNICA: T15: Traslado-15 días
+
+8. Efectos de la sentencia del TC
+RECUERDA: La sentencia del TC es erga omnes: vincula a todos los poderes públicos. Produce nulidad absoluta de la norma inconstitucional, sin convalidación posible (art. 9.3 CE). Declaración de constitucionalidad impide nuevas impugnaciones, salvo cambio normativo o de circunstancias (arts. 38–40 LOTC; 164 CE).
+TEN CUIDADO: El Parlamento no puede “rehabilitar” la ley anulada. Se requiere nueva norma conforme a doctrina TC.
+REGLA MNEMOTÉCNICA: VNE: Vincula-Nulidad-Erga

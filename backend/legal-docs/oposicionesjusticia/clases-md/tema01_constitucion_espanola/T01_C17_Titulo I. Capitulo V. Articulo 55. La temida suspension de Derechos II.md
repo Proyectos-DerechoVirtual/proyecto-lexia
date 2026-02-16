@@ -1,0 +1,95 @@
+# Constitución Española
+
+## Titulo I. Capitulo V. Articulo 55. La temida suspension de Derechos II
+
+**Tema:** Constitución Española  
+**Clase:** T01_C17  
+**Archivo:** T01_C17_Titulo I. Capitulo V. Articulo 55. La temida suspension de Derechos II.txt  
+**Tipo:** Material de Clase  
+**Categoría:** Oposiciones de Justicia  
+
+---
+
+Hola opositores, bienvenidos a la clase de hoy, en la que continuaremos abordando el artículo 55 de la Constitución. Nos falta por ver la suspensión colectiva de los derechos fundamentales. Esta aparece regulada en el apartado primero del artículo 55, que dice que ciertos derechos fundamentales y algunos constitucionales pueden ser suspendidos cuando se acuerde la declaración del estado de excepción o de sitio.
+
+
+Y bien, ¿qué son estos estados? Pues son los denominados estados excepcionales del artículo 116 de la Constitución. Veréis, el derecho, el ordenamiento jurídico, se suele concebir como un sistema unitario, pleno y coherente. Esto quiere decir que no nos vale comprever sólo qué ocurre en las situaciones de normalidad, sino que el derecho debe tener en cuenta qué sucede cuando se producen circunstancias excepcionales que hagan imposible el mantenimiento de la normalidad.
+
+
+Imagínate, por ejemplo, que estalla una guerra, que sufrimos otra pandemia o que hay un apagón que deja al país sin electricidad durante dos semanas. Son situaciones que se salen de la normalidad y que requieren de normas específicas para capear la situación. Una de ellas es, precisamente, el artículo 55, que dice que en estos casos es posible suspender temporalmente algunos derechos con la idea de preservar la seguridad y el orden público.
+
+
+Para estudiar adecuadamente cómo funciona este tipo de suspensión colectiva, nos tenemos que centrar en la regulación de los estados de excepción, que se encuentra en la Ley Orgánica 4.1981 de los estados de alarma, excepción y sitio. Vamos a estudiar estos tres estados, íntimamente relacionados con el artículo 116 de la Constitución. En los próximos minutos nos centraremos particularmente en el estado de alarma.
+
+
+Vamos a por ello. El estado de alarma, que es el primero y más leve de estos estados, se regula en el capítulo segundo de la Ley Orgánica 4.1981, que va de los artículos 4 a 12. Este estado se puede declarar cuando, en todo o parte del territorio nacional, ocurra alguno de los siguientes supuestos.
+
+
+Que tenga lugar una catástrofe, una calamidad o desgracia pública. Sí, la dicción del artículo es súper dramática. Por ejemplo, es el caso de los terremotos, las inundaciones, los incendios urbanos y forestales o los accidentes de gran magnitud.
+
+
+En segundo lugar, que tenga lugar una crisis sanitaria, como epidemias y situaciones de contaminación grave. Este seguro que te suena, porque fue el supuesto que activó los estados de alarma de 2020. En tercer lugar, que se paralicen los servicios públicos esenciales para la comunidad.
+
+
+Fue el caso, por ejemplo, del estado de alarma de 2010 por la huelga de controladores aéreos. En cuarto y último lugar, cuando se produzcan desabastecimiento de productos de primera necesidad. Imagínate que el sector agrícola español tiene un año tan malo que los supermercados se quedan desabastecidos.
+
+
+Pues bien, imagínate que mañana España entera, con una comunidad autónoma en su conjunto, se ve afectada por un terremoto de escala 7 que tiene resultados catastróficos. El Gobierno puede declarar el estado de alarma en todo el territorio nacional o en el territorio que se ha visto afectado. Es más, el presidente de la comunidad autónoma que se haya visto afectada puede solicitarle al Gobierno que lo declare.
+
+
+Quédate con la forma en la que se declara. Se hace por un decreto del Consejo de Ministros. ¡Mucho cuidado! Según la Jurisprudencia Consolidada de la Sentencia del Tribunal Constitucional 83-2016, este decreto tiene rango y valor de ley, lo que permite, entre otras cosas, que se pueda interponer un recurso de inconstitucionalidad contra el mismo.
+
+
+Este decreto, además, debe ser inmediatamente publicado en el BOE, entrando en vigor desde el instante en que se publica, y también deberá ser difundido obligatoriamente por todos los medios de comunicación públicos y privados. Una vez que se haya declarado, el Gobierno tiene que dar cuenta al Congreso de los diputados de esto y le debe suministrar toda la información que sea necesaria. También deberá dar cuenta al Congreso de todos los decretos que dicte durante la vigencia del estado de alarma que estén relacionados con éste.
+
+
+Ojo, todas las medidas que se adopten también serán objeto de difusión obligatoria. Vamos a detenernos en el contenido del decreto de declaración del estado de alarma. Como mínimo, éste debe contener tres elementos, el ámbito territorial del estado de alarma, la duración y los efectos que tendrá, donde entran especialmente en juego los derechos fundamentales.
+
+
+Respecto del ámbito territorial, recuerda que éste puede ser nacional o versar sobre una parte delimitada del territorio, como una comunidad autónoma. Respecto de la duración, debe saber que, como máximo, el estado de alarma puede declararse durante quince días. Transcurridos éstos, sólo se puede prorrogar cuando el Congreso de los diputados lo autorice expresamente, pudiendo señalar el alcance y las condiciones vigentes durante la prórroga.
+
+
+Por último, vamos a centrarnos en sus efectos, que afectan a dos materias. En primer lugar, el decreto de declaración del estado de alarma tendrá efectos institucionales. Éstos son bastante leves y se refiere a que todas las autoridades civiles de la administración pública del territorio afectado, los cuerpos de policía de las comunidades autónomas y de las corporaciones locales, y todos los funcionarios y trabajadores públicos, quedarán bajo las órdenes directas de la autoridad competente, pudiendo imponerles servicios extraordinarios por su duración o naturaleza.
+
+
+Imagínate que el terremoto se ha producido en Cataluña. Todo el personal civil de la comunidad autónoma, los musos de escuadra y la policía local quedarán bajo las órdenes de la autoridad designada, que podría ser el presidente autonómico. Este, incluso, puede requerir la colaboración de los cuerpos y las fuerzas de seguridad del Estado, como el Cuerpo Nacional de Policía o la Guardia Civil.
+
+
+Ten muy en cuenta que todos estos empleados públicos deben cumplir las órdenes de la autoridad competente en el estado de alarma. Si no lo hacen o se resisten a hacerlo, podrán ser sancionados. Imagínate que un funcionario se niega a cubrir los servicios extraordinarios, que consisten en que tiene que trabajar más horas de las habituales.
+
+
+Se le podría suspender de inmediato en el ejercicio de su cargo. En último lugar, la declaración del estado de alarma jamás puede interrumpir el normal funcionamiento de los poderes constitucionales del Estado. En segundo lugar, el decreto por el que se declara el estado de alarma tendrá efectos sobre los derechos de las personas.
+
+
+Ahora bien, y que quede bien claro, el artículo 55 no habilita a que se suspendan derechos durante el estado de alarma, porque esto se reserva sólo para los estados de excepción y de sitio. Entonces, ¿qué es lo que se puede hacer? Pues, simple y llanamente, modular o limitar estos derechos, sin impedir su ejercicio. Así, el artículo 11 de la Ley Orgánica 4.1981 dice que se pueden adoptar las siguientes medidas.
+
+
+Primero, se puede limitar la circulación de las personas en horas y lugares determinados o condicionarla al cumplimiento de ciertos requisitos. Imagínate que por el terremoto hay que hacer obras en la ciudad de Barcelona. Se podría cerrar la circulación por la diagonal de 8 a 3 de la tarde para turismos particulares, pero no se podría prohibir a la gente circular en general.
+
+
+En segundo lugar, se podrían practicar requisas temporales de todo tipo de bienes e imponer prestaciones personales obligatorias. Por ejemplo, se podría requisar bienes de las farmacias para tener suministros sanitarios suficientes para atender a los heridos. En tercer lugar, se puede intervenir y ocupar transitoriamente industrias, fábricas, talleres, explotaciones o locales, salvo los domicilios privados.
+
+
+Por ejemplo, si a causa del terremoto se necesita crear un hospital de campaña en la zona más afectada, se podría ocupar transitoriamente un establecimiento sanitario privado para crearlo que se encuentre en ese lugar. En cuarto lugar, se puede limitar o racionar el uso de servicios o el consumo de artículos de primera necesidad. Imagínate, por ejemplo, que el terremoto ha afectado al suministro de red eléctrica.
+
+
+Se podría racionar su uso para que llegue a todas las personas por igual o incluso limitar su uso por horas mientras se arregla. En quinto y último lugar, se podrían impartir las órdenes necesarias para asegurar el abastecimiento de los mercados y el funcionamiento de los servicios de los centros de producción de servicios de primera necesidad. Por ejemplo, se podría poner un límite de precios de la electricidad para que no subiera de forma indiscriminada en el mercado.
+
+
+Recuerda que las medidas que se adopten serán las estrictamente indispensables para asegurar el restablecimiento de la normalidad. Cuando la situación se haya capeado y finalice la vigencia del estado de alarma, todas las medidas y las competencias otorgadas durante el mismo perderán su eficacia. Con esto hemos visto la regulación del estado de alarma.
+
+
+Nos queda una última cosa por precisar y es que todas las medidas adoptadas durante la vigencia del estado de alarma son impugnables en la vía jurisdiccional. Es más, incluso el Tribunal Constitucional podrá enjuiciar los decretos de declaración. A este respecto debes conocer dos sentencias importantes del Tribunal Constitucional.
+
+
+La 83-2016, en primer lugar, fue la que resolvió sobre el estado de alarma de 2010 por la huelga de controladores aéreos. Aquí se dijo que los decretos de declaración de los estados de alarma y los de prórroga tienen rango y valor de ley pese a revestir la forma de decreto. En segundo lugar, la sentencia 148-2021 resolvió un recurso de inconstitucionalidad contra el decreto 463-2020 por el que se declaró el estado de alarma por la pandemia de la COVID-19.
+
+
+En esta, el Tribunal Constitucional consideró que durante el mismo hubo una extralimitación porque se suspendió efectivamente la libertad de circulación de las personas. Esto se consideró inconstitucional. Con esto acabamos la clase de hoy.
+
+
+Recuerda que el artículo 55 de la Constitución prevé la suspensión colectiva de los derechos fundamentales para los estados de excepción y de sitio. En el caso de los estados de alarma que hemos visto hoy, recuerda que no se pueden suspender los derechos, sino tan sólo modularlos o limitarlos sin impedir su ejercicio. Y que el Tribunal Constitucional ha tenido la oportunidad de interpretarlos en varias sentencias, siendo las más importantes la 83-2016 y la 148-2021.
+
+
+Nos vemos en la siguiente clase.
+

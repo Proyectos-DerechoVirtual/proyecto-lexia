@@ -1,0 +1,40 @@
+
+RECURSO PREVIO DE INCONSTITUCIONALIDAD – TC
+
+1. Ámbito y momento del recurso previo
+RECUERDA: Solo cabe contra el texto definitivo de un Estatuto de Autonomía o de su reforma antes de sanción y promulgación. Se activa tras aprobación por las Cortes y antes de publicación como ley. Su finalidad es evitar que nazca una norma contraria a la CE (art. 79 LOTC).
+TEN CUIDADO: No sirve para borradores o proyectos parciales. El plazo corre desde la última versión publicada.
+REGLA MNEMOTÉCNICA: P-P-E: Proyecto-Previo-Estatuto
+
+2. Diferencia clave con el recurso ordinario
+RECUERDA: El recurso ordinario controla leyes ya vigentes, con plazo de 3 meses (9 con acuerdo Gobierno-CAA). El previo bloquea normas no promulgadas, con plazo de solo 3 días. Suspende la tramitación parlamentaria y el referéndum (art. 79.4 LOTC).
+TEN CUIDADO: Confundir cauces hace perder la suspensión automática.
+REGLA MNEMOTÉCNICA: COP: Control Ordinario / Previo
+
+3. Legitimación activa reforzada
+RECUERDA: Pueden interponerlo: Presidente del Gobierno (con acuerdo de Consejo de Ministros), Defensor del Pueblo, 50 diputados o senadores (con firmas autógrafas), Gobiernos autonómicos o Asambleas legislativas con mayoría absoluta (art. 162 CE).
+TEN CUIDADO: No sirven firmas escaneadas ni acuerdos de urgencia sin mayoría absoluta.
+REGLA MNEMOTÉCNICA: G-50-D: Gobierno-50 parlamentarios-Defensor
+
+4. Plazo ultrabreve de interposición
+RECUERDA: Se presenta en el Registro del TC en 3 días hábiles desde inserción en Boletín de las Cortes. El cómputo inicia al día siguiente y excluye sábados, domingos y festivos (art. 183 LEC).
+TEN CUIDADO: Presentar tarde, incluso minutos después de horario, provoca inadmisión.
+REGLA MNEMOTÉCNICA: 3-D-H: 3 Días Hábiles
+
+5. Suspensión automática de sanción, promulgación y referéndum
+RECUERDA: Admitido el recurso, se detiene ipso iure la sanción, publicación y referéndum estatutario. La suspensión cesa si el TC no dicta sentencia en 6 meses (arts. 79.4–79.5 LOTC).
+TEN CUIDADO: Publicar en boletín autonómico para sortear suspensión es nulo de pleno derecho (art. 9.3 CE).
+REGLA MNEMOTÉCNICA: SAP: Suspensión Automática Previo
+
+6. Procedimiento acelerado y caducidad
+RECUERDA: El TC debe fallar en 6 meses desde interposición. Puede recabar informes en 15 días. Si no resuelve, la suspensión decae y el proyecto sigue (arts. 79.4 LOTC).
+TEN CUIDADO: Pensar que suspensión se prolonga sine die es error. TC debe vigilar calendario.
+REGLA MNEMOTÉCNICA: S-6-M: Sentencia en 6 Meses
+
+7. Efectos de la sentencia y fases posteriores
+RECUERDA: 
+- Si desestima: proyecto sigue a sanción, promulgación y referéndum.  
+- Si estima (parcial o total): TC ordena retirar o reformar preceptos inconstitucionales.  
+Las Cortes deben aprobar nuevo texto antes de continuar. No impide futuros recursos ordinarios (arts. 79.7–79.9 LOTC).
+TEN CUIDADO: Adoptar Estatuto sin corregir cláusulas anuladas reabre recurso ordinario y bloqueo político.
+REGLA MNEMOTÉCNICA: E-E-S: Efecto–Estimatoria / Sin obstáculo (desestimatoria)

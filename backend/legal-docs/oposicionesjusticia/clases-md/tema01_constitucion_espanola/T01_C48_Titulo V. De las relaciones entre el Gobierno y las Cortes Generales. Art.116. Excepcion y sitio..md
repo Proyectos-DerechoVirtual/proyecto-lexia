@@ -1,0 +1,83 @@
+# Constitución Española
+
+## Titulo V. De las relaciones entre el Gobierno y las Cortes Generales. Art.116. Excepcion y sitio.
+
+**Tema:** Constitución Española  
+**Clase:** T01_C48  
+**Archivo:** T01_C48_Titulo V. De las relaciones entre el Gobierno y las Cortes Generales. Art.116. Excepcion y sitio..txt  
+**Tipo:** Material de Clase  
+**Categoría:** Oposiciones de Justicia  
+
+---
+
+Bienvenidos todos y todas a la segunda clase sobre los estados excepcionales. Nos toca salir profundizando en el artículo 116 de la Constitución, el último del título quinto, relativo a las relaciones entre las Cortes y el Gobierno. En la clase de hoy vamos a ver los dos estados excepcionales que nos quedan, que son el estado de excepción y el estado de sitio.
+
+
+Vamos a pasar a ver primero el estado de excepción. Este se regula en los artículos 13 a 31 de la Ley Orgánica 4.981 y nunca ha sido declarado en España. Nos toca analizar las mismas cuestiones que vimos con el estado de alarma.
+
+
+¿En qué supuestos se puede activar? ¿Cómo se declara? ¿Qué medidas se pueden adoptar? ¿Cuál es su duración? Respecto de los supuestos en que se puede declarar, tenemos que estar a la casuística del artículo 13.1 de la Ley Orgánica 4.981 que nos dice que el estado de excepción se puede declarar cuando el libre ejercicio de los derechos y libertades de los ciudadanos, el normal funcionamiento de las instituciones democráticas, el de los servicios públicos esenciales para la comunidad o cualquier otro aspecto del orden público resulten tan gravemente alterados que el ejercicio de las potestades ordinarias fuera insuficiente para restablecerlo y mantenerlo. Imagínate, por ejemplo, que sufrimos un apagón eléctrico tan grave que previsiblemente durará varias semanas. El metro va a dejar de funcionar, los hospitales públicos no van a poder hacer sus actividades y las personas no van a poder ni sacar dinero de los cajeros automáticos.
+
+
+Esto, claramente, sería un caso de estado de excepción. Vamos a ver cómo deberíamos declararlo. Para hacerlo hay que aprobar un decreto del Consejo de Ministros, pero mucha atención, es necesaria una previa autorización del Congreso de los Diputados.
+
+
+El proceso sería el siguiente. El Gobierno remite una solicitud de autorización que contiene cuáles son los efectos del estado de excepción, qué medidas se deberían adoptar, por qué lo estamos declarando, cuál va a ser el ámbito territorial, su duración y la cuantía máxima de las sanciones que se podrán imponer a las personas que contravengan las normas del estado de excepción. Recibida esta solicitud, el Congreso de los Diputados la debatirá, pudiendo rechazarla o aprobarla.
+
+
+Ojo, el Congreso, además, también puede introducir modificaciones o aprobar esta declaración en sus propios términos. En cualquier caso, si el Congreso autoriza la declaración del estado de excepción, el Gobierno puede declararlo aprobando un decreto del Consejo de Ministros cuyo contenido será todo aquello que ha sido autorizado por el Congreso de los Diputados. Al igual que ocurría con el decreto del estado de alarma, este decreto del estado de excepción tiene que ser inmediatamente publicado en el BOE, entrando en vigor desde ese mismo instante, y deberá difundirse obligatoriamente en los medios de comunicación.
+
+
+Recuerda que, en caso de que el Gobierno quiera adoptar medidas distintas a las previstas en el decreto de declaración, tiene que volver a solicitar su adopción al Congreso, porque es quien la autoriza. Visto esto, vamos a pasar a ver qué medidas se pueden adoptar. Estas sólo pueden ser las necesarias para restablecer la normalidad.
+
+
+Están muy relacionadas con la suspensión de derechos fundamentales. Nos remitimos a las clases sobre el artículo 55.2 de la Constitución, en las que vimos precisamente estas medidas. Recuerda, en todo caso, que cuando decae el estado de excepción, también decae la eficacia de todas las medidas adoptadas, salvo que fueran sanciones firmes.
+
+
+Por último, debemos centrarnos en la duración del estado de excepción. Conforme al artículo 13 de la Ley Orgánica 4.981, este será de 30 días como máximo. No obstante, el artículo 15 nos dice que el estado de excepción se puede prorrogar por otro periodo de 30 días, pero sólo si persisten las circunstancias que dieron lugar a su declaración.
+
+
+Para prorrogarlo, el Gobierno deberá solicitarlo al Congreso de los Diputados, que es, otra vez, quien autoriza todo lo relacionado con el estado de excepción. Eso sí, ¿qué pasa si sucede lo contrario, esto es, que las circunstancias que motivaron la declaración del estado de excepción decaen, por ejemplo, a los 17 días desde que éste se declaró? ¿Tendremos que seguir en el estado de excepción hasta que pase ese periodo de 30 días? Pues no. El Gobierno, por decreto del Consejo de Ministros, puede poner fin al estado de excepción y, como esto es más favorable para los ciudadanos, no necesita una autorización del Congreso, sino que simplemente, cuando apruebe este decreto, le dará cuenta inmediatamente al Congreso de los Diputados para que sepa que el estado de excepción ha perdido su vigencia.
+
+
+Nos queda sólo por ver el estado de sitio. Este encuentra su regulación en los artículos 32 a 36 de la Ley Orgánica 4981 y tampoco ha sido declarado en España. Vamos a ver, cuando procede su declaración, cómo se declara, qué medidas se pueden adoptar y cuál es su duración máxima.
+
+
+Respecto de su activación, el estado de sitio se prevé para un único caso. Este es la insurrección o acto de fuerza contra la soberanía o independencia de España, su integridad territorial o el ordenamiento constitucional, que no pueda resolverse por otros medios. Tened en cuenta que se puede declarar, tanto si se produce efectivamente este acto de fuerza o si hay una amenaza de que se produzca.
+
+
+Por tanto, sería el caso de que recibamos un ataque militar exterior o que se produzca una insurrección militar en nuestro país. Vamos a ver cómo se declara. Nuestro gobierno necesita proponer su declaración al Congreso de los Diputados, que es el órgano competente.
+
+
+En otras palabras, el estado de sitio es declarado por el Congreso de los Diputados a propuesta exclusiva del Gobierno. Para poder declararlo, se necesita una mayoría absoluta favorable en el Congreso. La declaración que se apruebe determinará el ámbito territorial, la duración y las condiciones del estado de sitio.
+
+
+Al igual que ocurría en los anteriores estados excepcionales, es necesario que la declaración se publique de inmediato en el BOE, momento en el cual entra en vigor y, además, deberá ser difundido obligatoriamente en todos los medios de comunicación públicos y privados que se determine. A partir de aquí, las medidas que se pueden adoptar son las más severas que prevé nuestro ordenamiento jurídico. Las podemos agrupar en tres categorías, ya que el estado de sitio puede tener efectos institucionales, jurisdiccionales y de suspensión de derechos fundamentales.
+
+
+El primer grupo de medidas supone que se produzcan cambios institucionales. Así, conforme al artículo 33 de la Ley Orgánica 4.1981, el Gobierno asumirá todas las facultades extraordinarias relativas a la política militar y de la defensa. Para ello, debe designar una autoridad militar que, bajo la dirección del Gobierno, ejecutará todas las medidas que procedan en el territorio a que el estado de sitio se refiera.
+
+
+Debéis saber que la autoridad militar publicará y difundirá bandos que contienen las medidas y previsiones necesarias para restablecer la normalidad. Todas las medidas que se adopten, además, deberán ser difundidas obligatoriamente. El segundo grupo de medidas supone que se puedan aprobar cambios jurisdiccionales.
+
+
+En otras palabras, en la declaración del estado de sitio, el Congreso de los Diputados puede determinar qué delitos quedarán sometidos a la jurisdicción militar. Por último, el tercer grupo de medidas se refiere a la suspensión de derechos fundamentales. Nos remitimos, otra vez, a las clases sobre el artículo 55.2 de la Constitución, pero recuerda que en este estado excepcional es donde mayores derechos fundamentales se pueden suspender.
+
+
+En cualquier caso, y como sucede con el resto de estados excepcionales, cuando finaliza la vigencia del estado de sitio, todas las competencias otorgadas a las autoridades competentes y todas las medidas adoptadas decaen en su eficacia, salvo para las sanciones que ya fueran firmes. Por último, la duración del estado de sitio será la que fije la declaración del Congreso de los Diputados, ya que ni la Constitución ni la ley orgánica 4.981 dicen cuál debe ser la duración máxima. Evidentemente, relaciona esto siempre con el hecho de que los estados excepcionales suelen decaer cuando acaba la situación que dio origen a su declaración.
+
+
+Con esto ya hemos visto los estados excepcionales. No obstante, debemos ver una última cosa, sus limitaciones. Tenemos dos.
+
+
+La primera es que la declaración de estos estados nunca interrumpirá el normal funcionamiento de los poderes constitucionales del estado, conforme al artículo 116.5 de la Constitución. Esto quiere decir que el Gobierno, el Poder Judicial y las Cortes deberán seguir funcionando con normalidad. Respecto de las Cortes, el artículo 116.5 profundiza un poco más.
+
+
+Nos dice, particularmente, que si hay un estado excepcional convocado, no se pueden disolver las Cortes. Y ojo, si se declara un estado excepcional cuando estas están disueltas, por ejemplo porque es agosto y hay vacaciones parlamentarias, las Cortes quedan automáticamente convocadas. De la misma forma, si lo que ocurre es que la vigencia de las Cortes se ha agotado durante alguno de estos estados, éstas seguirán funcionando a través de la Diputación Permanente.
+
+
+La segunda limitación se refiere al Gobierno. Conforme al artículo 116.6 de la Constitución, por mucho que declaremos un estado excepcional, esto no quita que el Gobierno y sus agentes sigan siendo responsables de sus actuaciones. A modo de resumen, recuerda que el estado de excepción y el estado de sitio nunca se han declarado en España, con lo que tenemos que estar al tenor literal de la ley para poder estudiarlos.
+
+
+Nos vemos en la siguiente clase. ¡Ánimo con el estudio!
+

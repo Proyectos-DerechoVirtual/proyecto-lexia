@@ -1,0 +1,65 @@
+# Proceso Civil
+
+## T17a19 C14 Cuestiones generales del procedimiento
+
+**Tema:** Proceso Civil  
+**Clase:** T17a19_C14_Cuestiones generales del procedimiento  
+**Archivo:** T17a19_C14_Cuestiones generales del procedimiento.txt  
+**Tipo:** Material de Clase  
+**Categoría:** Oposiciones de Justicia  
+
+---
+
+Hola a todos y bienvenidos a Prime Opositores, el Netflix de los opositores. Hoy vamos a terminar la explicación sobre los artículos 6 a 18 de la ley de enjuiciamiento civil, en la que estamos viendo conceptos procesales básicos como la capacidad para ser parte, la capacidad procesal, la legitimación, la pluralidad de partes en el proceso, entre otros. Algunos de estos artículos han sido modificados por el decreto ley 6.2023, que entrará en vigor el 20 de marzo de 2024, y que ya vamos adelantando sus modificaciones por aquí.
+
+
+Como son muchas cosas que ver, lo hemos dividido en unas cuantas clases para que no se haga demasiado censo y puedas ir asimilándolo poco a poco. Dicho esto y sin más dilación, vamos con ello. En las anteriores clases ya habíamos hablado de lo que era ser parte, sujeto de un proceso, capacidad para ser parte, que la definíamos como la aptitud para poder ser titular de derechos y obligaciones procesales, capacidad procesal o también llamada capacidad para comparecer en juicio, que es la aptitud para ejercitar esos derechos procesales, también los diferentes tipos de representación, es decir, la legal, la necesaria y la técnica, esta última también conocida como capacidad de posturación, así como el tratamiento procesal por la ley de enjuiciamiento civil de estos tres conceptos, la legitimación, que podemos definirlo como la capacidad de poder actuar como demandante o demandado en un proceso concreto por la relación que se tiene con el objeto del mismo, y visto eso pasamos a ver las cuestiones relativas a la pluralidad de partes, en donde explicamos lo que era el litis consorcio, es decir, la pluralidad de personas en la posición de demandado, de demandante o de ambas, la intervención procesal, que es lo que veníamos de ver en la clase anterior, y hoy terminaremos con la sucesión procesal, y con esto acabaremos también la materia que hemos explicado a lo largo de las seis clases.
+
+
+Ahora que ya te he situado, vayamos con la sucesión procesal. La ley de enjuiciamiento civil dedica los artículos 16 a 18 a la sucesión procesal, y aquí se regulan tres supuestos distintos en los cuales se puede dar, que va a ser la sucesión procesal por muerte, en el artículo 16, la sucesión por transmisión del objeto litigioso en el artículo 17, y la sucesión en los casos de intervención provocada del artículo 18. En primer lugar, respecto a la sucesión procesal por muerte, la ley de enjuiciamiento civil dispone que, cuando se transmita a mortis causa lo que sea objeto del juicio, la persona o personas que sucedan al causante podrán continuar ocupando, en dicho juicio, la misma posición que éste, a todos los efectos.
+
+
+Comunicada la defunción de cualquier litigante por quien deba sucederle, el letrado de la Administración de Justicia acordará la suspensión del proceso y dará traslado a las demás partes. Acreditadas la defunción y el título sucesorio y cumplidos los trámites pertinentes, el letrado de la Administración de Justicia tendrá su caso por persona de sucesor en nombre del litigante difunto, teniéndolo el tribunal en cuenta en la sentencia que dicte. Cuando la defunción de un litigante conste al tribunal que conoce del asunto y no se personare el sucesor en el plazo de los cinco días siguientes, el letrado de la Administración de Justicia, por medio de dirigencia de ordenación, permitirá a las demás partes pedir, con identificación de los sucesores y de su domicilio o residencia, que se les notifique la existencia del proceso, emplazándoles para comparecer en el plazo de diez días.
+
+
+En la misma resolución, el letrado de la Administración de Justicia por la que se acuerde la notificación, se acordará la suspensión del proceso hasta que comparezcan los sucesores o finalice el plazo para la comparecencia. Cuando el litigante fallecido sea el demandado y a las demás partes no conocieran a los sucesores o éstos no pudieran ser localizados o no quisieran comparecer, el proceso seguirá adelante declarándose por letrada de la Administración de Justicia la rebeldía de la parte demandada, y si el litigante fallecido fuera el demandante, la ley distingue. Si los sucesores no pudieran ser identificados o localizados, entenderá que el desistimiento es algo que el demandado suponga fundadamente, y si los sucesores, habiendo sido emplazados, no quisieran comparecer, se entenderá que renuncia a la acción ejercitada.
+
+
+Vamos a poner un ejemplo para ilustrar todo esto que ha establecido el artículo 16 del alingüizamiento civil, que como ves es un poco denso. En todas las clases hemos ido utilizando un ejemplo sencillo en el que teníamos a María, una mujer que demanda a una empresa de juguetes para ser indemnizada por los daños sufridos por un producto defectuoso. Si María, demandante, fallece, le sucederá a su hijo mayor de edad.
+
+
+Por ejemplo, su hijo puede personarse ante el órgano jurisdiccional para que sepa esta circunstancia, en cuyo caso se dará traslado a la empresa de juguetes y se le tendrá por personado en el proceso. Si por el contrario no es que el hijo acuda, sino que el tribunal le llega la noticia de la muerte de María y el hijo no se hubiera personado en un plazo de 5 días, el resto de las partes puede pedir que comparezca para que tenga un máximo de 10 días. Mientras tanto, hasta que comparezca se suspende el proceso.
+
+
+Si no se llega a personar y no pudiera ser identificado o localizado, se entiende que hay desistimiento, salvo que la empresa de juguetes se oponga a ello. Si sí que es emplazado pero no comparece, se entiende que el sucesor, es decir, el hijo ha renunciado a la acción de María. Si no fuera el demandante María, sino el demandado, en nuestro caso no puede darse porque no puede producirse la muerte de una persona jurídica, lo que ocurriría en el proceso es que siga adelante, eso sí, siendo el demandado declarado en rebeldía.
+
+
+Con esto vemos el primero de los tres supuestos en los cuales se puede dar sucesión procesal, así que pasamos al segundo, la sucesión por transmisión del objeto litigioso. Cuando se haya transmitido pendiente un juicio lo que sea objeto del mismo, el adquirente podrá solicitar acreditando la transmisión que se le tenga como parte en la posición que ocupaba el transmitente. El letrado de la Administración de Justicia dictará diligencia de ordenación por la que se acordará la suspensión de las actuaciones y otorgará un plazo de diez días a la otra parte para que alegue lo que a su derecho convenga.
+
+
+Si ésta no se pusiera dentro de dicho plazo, el letrado de la Administración de Justicia, mediante decreto, alzará la suspensión y dispondrá a que el adquirente ocupe en el juicio la posición que el transmitente tuviese en él. Si la otra parte manifestase su oposición a la entrada en el juicio del adquirente, el tribunal resolverá por medio de auto lo que estime procedente. No se accederá a la pretensión cuando dicha parte acredite que le competen derechos o defensas que, en relación con lo que sea objeto del juicio, solamente pueda hacer valer contra la parte de transmitente un derecho a reconvenir o que pende una reconvención, o si el cambio de parte pudiera dificultar notoriamente su defensa.
+
+
+Cuando no se acceda a la pretensión del adquirente, el transmitente continuará en el juicio quedando a salvo las relaciones jurídicas privadas que existan entre ambos. Vamos a poner un ejemplo. Imagínate que lo que se está ejerciendo es una acción reivindicatoria sobre un objeto en el proceso, por ejemplo, unas joyas.
+
+
+Estas joyas se transmiten. Aquí es donde se produciría una sucesión y el demandado, que era la persona que tenía las joyas, es sustituido por el adquirente, las que lo ha recibido. Antes se suspende el proceso y se da un plazo para que la otra parte, el demandante de nuestro ejemplo, diga si está de acuerdo o no con la sucesión.
+
+
+Si no se opone, se declara por miedo de decreto y se alza la suspensión. Si se opone, se resuelve por medio de auto por el tribunal. No se da cuando el demandante, por ejemplo, tiene un derecho que sólo puede ejercer contra quien tenía las joyas o bien si hubiera ejercitado una reconvención y que esto no pudiera producirse, por tanto, contra la nueva persona que las ha adquirido.
+
+
+Si no se accede, lo que ocurre es que el transmitente seguirá siendo, en nuestro ejemplo, el demandado. Por último, tenemos la tercera de las situaciones en las cuales en la cual se puede dar la sucesión procesal, como hemos dicho, son los casos de intervención provocada. Aquí me remito a lo que dijimos en la clase anterior sobre esto cuando hablamos de la intervención provocada, así que echale un ojo si no lo has hecho ya porque no me quiero repetir que así se haga todavía más larga todas estas explicaciones.
+
+
+Con esto terminamos esta nueva clase sobre la explicación de los artículos 6 a 18 de la ley de enjuiciamiento civil que, como ves, no ha sido nada larga. Espero que te haya quedado claro lo que hemos explicado a lo largo de las seis clases y, bueno, en resumidas cuentas respecto a lo visto hoy, hemos puesto el broche a las explicaciones sobre estos artículos con los tres últimos, que son los artículos 6 a 18 de la ley de enjuiciamiento civil, que se encargan de la sucesión procesal. Esta sucesión procesal tenemos que, como ocurre con cualquier otra sucesión, como la sucesión hereditaria, va a suponer que una persona entra a ocupar la posición de otra persona.
+
+
+En el caso de la sucesión procesal, pues era del demandante o del demandado. En el caso, por ejemplo, de la sucesión hereditaria, es con el causante, es decir, con la persona que fallece. Todo esto es para hacerte analogía también y que puedas ver las similitudes que van a tener todas las sucesiones.
+
+
+La sucesión puede ocurrir en el caso de la sucesión procesal por tres razones, que va a ser por la muerte de alguna de las partes, porque se transmita el objeto litigioso del proceso, es decir, aquello por lo cual está habiendo la contienda procesal, o por intervención provocada. Respecto a esta última causa, no la hemos explicado aquí, sino en la clase anterior, para no repetirnos, y nuevamente te invito a que, si no la has visto, lo hagas para así poder completar esta clase sobre sucesión procesal. Ya te digo, con esto hemos terminado de analizar los artículos 6 a 18 de la ley de enjuiciamiento civil y ya en la próxima clase pasaremos a otro asunto distinto.
+
+
+Así que nada, espero que no te haya sido muy pesado y nos vemos en la siguiente clase. ¡Hasta la próxima!
+

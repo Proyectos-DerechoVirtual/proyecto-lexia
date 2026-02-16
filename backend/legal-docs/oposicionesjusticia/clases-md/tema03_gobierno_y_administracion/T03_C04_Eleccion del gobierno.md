@@ -1,0 +1,50 @@
+# Gobierno y Administración
+
+## Eleccion del gobierno
+
+**Tema:** Gobierno y Administración  
+**Clase:** T03_C04  
+**Archivo:** T03_C04_Eleccion del gobierno.txt  
+**Tipo:** Material de Clase  
+**Categoría:** Oposiciones de Justicia  
+
+---
+
+Muy buenas a todos, hoy vamos a hablar de la formación del gobierno. Y sí, ya sé que en clases pasadas comentamos brevemente el proceso que se seguía por parte del congreso de los diputados para la investidura del presidente del gobierno, pero hoy lo vamos a tratar un poquito más en detalle. Bien, en la clase pasada comentamos que en España había un nuevo gobierno del grupo azul y verde.
+
+
+Pues bien, hoy vamos a ir un paso más atrás, en un momento en el cual este gobierno fue investido como tal. Debes saber que un presidente del gobierno puede ser nombrado de dos formas, una que conocemos como ordinaria y que hoy la recoge el artículo 99 de la constitución y otra que es la extraordinaria y que viene recogida en los artículos 113 y 114 y que resultado de una moción de censura. El procedimiento de nombramiento del presidente del gobierno en caso de moción de censura no lo vamos a volver a explicar aquí porque lo vimos en clases pasadas.
+
+
+Bien, el procedimiento ordinario para nombrar al presidente puede ocurrir de dos formas o bien tras la derrota de una moción de confianza o tras la dimisión voluntaria y también tras la celebración de elecciones. En uno o en otro caso el procedimiento a seguir es exactamente el mismo con una única diferencia de que en el caso de que se celebren elecciones el procedimiento se iniciará a partir de la sesión constitutiva del congreso y la elección del presidente de la cámara. A partir de aquí, ¿qué crees que va a tener que hacer el líder del grupo azul para ser investido presidente? Pues bien, el artículo 99 y siguientes de la constitución establece todo un procedimiento para la investidura de este.
+
+
+Para empezar, el rey comienza una serie de consultas con los representantes designados por los grupos políticos con representación parlamentaria. Hay que destacar que el protagonismo aquí no corresponde a los grupos parlamentarios sino a los grupos políticos que hayan obtenido representantes en las cortes generales. Es por ello que cuando hay elecciones vemos al rey reuniéndose con un montón de grupos políticos incluso algunos que como por ejemplo coalición canaria sólo tienen un único diputado.
+
+
+En estas consultas el rey escucha los distintos grupos parlamentarios y a partir de ahí propone un candidato a la presidencia del gobierno. Este acto debe ser refrendado por el presidente del gobierno y muy importante porque sin tal refrendo la propuesta real no puede tramitarse al parlamento. Aunque bueno, este aspecto no suele dar ningún tipo de problema.
+
+
+A partir de aquí una vez el rey propone al candidato azul como presidente del gobierno comienza la fase de investidura. En esta fase el Congreso de los Diputados debe pronunciarse sobre la idoneidad o no del presidente. El candidato a presidir el gobierno expondrá su programa político y solicitará la confianza de la Cámara.
+
+
+En este debate de investidura el candidato a la presidencia del gobierno azul expondrá los principales puntos de su programa electoral y las medidas que quiere tomar. Destacar que esta investidura tiene una doble vuelta. En la primera se exige la mayoría absoluta de los miembros del Congreso para la investidura del presidente.
+
+
+Como vemos es una mayoría muy holgada y si en primera vuelta el presidente no obtiene tal mayoría se procede a una segunda 48 horas después. Y aquí si el candidato obtiene la mayoría simple de votos se convierte en presidente. Pero ¿y qué sucede si el candidato al grupo azul no consigue la mayoría? ¿Se celebran elecciones de nuevo o qué sucede? Pues bien, si no se obtiene esta mayoría se procede a efectuarse nuevas propuestas.
+
+
+Y bueno, si en el plazo de dos meses nadie consigue ser investido se disuelven las cámaras y se celebran nuevas elecciones generales. Esto por desgracia es algo que bueno en España ya estamos muy habituados. Bien, esto sería todo con respecto al nombramiento del gobierno.
+
+
+Ahora vamos a repasar su cese y es que el presidente del gobierno del grupo azul tras dos años de ejercicio contrae una grave enfermedad y decide dimitir. ¿Qué crees que sucederá en este caso? Pues bien, tanto en el caso de que el presidente del gobierno dimita o fallezca se produce el cese automático por sorprendente que te pueda parecer de absolutamente todos los miembros del gobierno. Teniendo el congreso de los diputados que volver a dar su confianza a un nuevo presidente.
+
+
+Hay que destacar que el cese del gobierno puede producirse de muy diversas formas ya sea por expiración del mandato y que se tengan que celebrar nuevas elecciones generales por una moción de censura o por una pérdida de la confianza parlamentaria o por los supuestos que acabamos de ver de enfermedad y de dimisión. Hay que añadir también que cuando se produce el cese del gobierno no se produce un vacío institucional. ¿A qué me refiero con esto? A que el gobierno cesante continúa en funciones hasta la toma de posesión del nuevo gobierno.
+
+
+Este gobierno en funciones estará al cuidado y al cargo de todos los asuntos públicos. Piensa que si el gobierno desaparece toda la estructura pública del estado puede venirse abajo. Y bueno, en principio eso sería todo sobre el gobierno, sobre la elección del gobierno.
+
+
+En la clase que viene veremos todas las funciones específicas que el gobierno puede ejercer. Así que nada, muchas gracias por haber visto esta clase y espero que te haya sido de utilidad. Un saludo.
+

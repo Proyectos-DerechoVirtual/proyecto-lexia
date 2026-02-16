@@ -1,0 +1,24 @@
+{
+  "name": "lexia-chatbot",
+  "version": "1.0.0",
+  "description": "LexIA - Chatbot especializado en derecho",
+  "private": true,
+  "workspaces": [
+    "frontend",
+    "backend"
+  ],
+  "scripts": {
+    "dev": "concurrently \"npm run dev:backend\" \"npm run dev:frontend\"",
+    "dev:backend": "npm run dev:supabase --workspace=backend",
+    "dev:frontend": "npm run dev --workspace=frontend",
+    "build": "npm run build --workspaces",
+    "start": "npm run start --workspace=backend",
+    "install:all": "npm install --workspaces"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  },
+  "keywords": ["chatbot", "legal", "law", "AI", "RAG"],
+  "author": "LexIA Team",
+  "license": "ISC"
+}

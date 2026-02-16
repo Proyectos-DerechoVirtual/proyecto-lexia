@@ -1,0 +1,45 @@
+
+CONFLICTOS DE COMPETENCIA – TC
+
+1. Conflictos positivo vs. negativo
+RECUERDA: 
+- Positivo: se inicia cuando Estado o CCAA reclaman la titularidad de la misma competencia sobre un acto sin rango de ley. Busca depurar invasión y vindicar potestad legítima.  
+- Negativo: surge si ambas Administraciones declinan actuar, generando un vacío que perjudica la eficacia de los servicios públicos (arts. 62 y 69 LOTC).
+TEN CUIDADO: Confundir positivo con doble renuncia (negativo) provoca inadmisión.
+REGLA MNEMOTÉCNICA: DPN: Doble modalidad Positivo/Negativo
+
+2. Legitimación en el conflicto positivo
+RECUERDA: 
+- Estado: acuerdo del Consejo de Ministros publicado en BOE.  
+- CCAA: acuerdo colegiado de su Consejo de Gobierno. Solo protege su ámbito. Varias CCAA deben presentar cada una su propio conflicto (art. 63 LOTC).
+TEN CUIDADO: Entidades locales o consejerías no pueden promover conflicto.
+REGLA MNEMOTÉCNICA: GAL: Gobierno/Autonómicos Legitimados
+
+3. Requerimiento previo y plazos
+RECUERDA: Actor dispone de 2 meses desde publicación/ notificación para requerir. La Administración requerida debe contestar en 1 mes. Si rechaza, se abre vía al TC dentro de los 2 meses siguientes (arts. 63.4–63.5 LOTC).
+TEN CUIDADO: Requerimiento genérico = inválido. El TC exige concreción de preceptos infringidos.
+REGLA MNEMOTÉCNICA: RP21: Requerimiento Plazos 2m actor / 1m requerido
+
+4. Suspensión automática (o no)
+RECUERDA: 
+- Estado actor: suspensión automática desde interposición; TC ratifica o alza en 5 meses.  
+- CCAA actoras: suspensión solo si la piden y TC la acuerda discrecionalmente (art. 65 LOTC).
+TEN CUIDADO: No confundir privilegio estatal con CCAA.
+REGLA MNEMOTÉCNICA: SAE: Suspensión Automática Estado
+
+5. Tramitación abreviada
+RECUERDA: Admisión en 10 días, alegaciones en 20, y sentencia en 15 días desde alegaciones (art. 66 LOTC).
+TEN CUIDADO: Prórrogas por “complejidad” chocan con carácter acelerado.
+REGLA MNEMOTÉCNICA: P10-20-15: Proceso 10 admisión / 20 alegaciones / 15 sentencia
+
+6. Conflicto negativo: legitimación exclusiva Gobierno
+RECUERDA: Gobierno de la Nación puede plantearlo cuando, tras requerir a CCAA para ejercer competencia y recibir negativa, se produce bloqueo (art. 71 LOTC).
+TEN CUIDADO: CCAA no tienen vía recíproca. Deben acudir a conflicto positivo por omisión.
+REGLA MNEMOTÉCNICA: GCN: Gobierno Conflicto Negativo
+
+7. Alcance de la sentencia
+RECUERDA: 
+- Positivo: TC anula disposición o acto inconstitucional y atribuye titularidad competencial con efectos erga omnes.  
+- Negativo: TC declara quién es competente y ordena ejercerla, sin anular norma (art. 72 LOTC).
+TEN CUIDADO: El TC no legisla; solo restituye orden competencial.
+REGLA MNEMOTÉCNICA: ACO: Anulación / Competencia / Obligación actuar

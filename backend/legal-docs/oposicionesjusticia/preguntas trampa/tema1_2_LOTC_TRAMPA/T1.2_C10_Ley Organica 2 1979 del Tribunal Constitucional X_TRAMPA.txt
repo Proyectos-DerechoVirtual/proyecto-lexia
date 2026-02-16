@@ -1,0 +1,42 @@
+
+CONFLICTO EN DEFENSA DE LA AUTONOMÍA LOCAL – TC
+
+1. Finalidad y objeto
+RECUERDA: Permite que Entidades Locales impugnen leyes estatales o autonómicas que restrinjan su autogobierno (arts. 137 y 140 CE). El TC revisa si la ley vacía competencias locales o las somete a tutela desproporcionada.
+TEN CUIDADO: No procede contra reglamentos ni actos singulares; ni contra leyes estatales que afecten a todas las EELL por igual (art. 75 bis LOTC).
+REGLA MNEMOTÉCNICA: FAL: Finalidad – Autonomía Local
+
+2. Legitimación activa y umbrales
+RECUERDA: 
+- Destinataria única: basta acuerdo plenario.  
+- Municipios afectados pluralmente: 1/7 de municipios de provincia y 1/6 de población.  
+- Provincias, cabildos o consejos insulares: 1/2 de provincias y 1/2 de población autonómica (art. 75 ter LOTC).
+TEN CUIDADO: No acreditar porcentajes = inadmisión.
+REGLA MNEMOTÉCNICA: UML: Umbrales Mínimos Locales
+
+3. Acuerdo plenario y dictamen consultivo previos
+RECUERDA: Se exige acuerdo plenario por mayoría absoluta y dictamen del Consejo de Estado (o consultivo autonómico). El dictamen es preceptivo pero no vinculante.
+TEN CUIDADO: Omitir dictamen o aprobar por mayoría simple invalida la acción.
+REGLA MNEMOTÉCNICA: ADP: Acuerdo + Dictamen Previo
+
+4. Plazo de interposición
+RECUERDA: El pleno debe aprobar la demanda en el mes siguiente a la publicación de la ley. El escrito entra en el Registro del TC en ese mismo mes (art. 75 LOTC).
+TEN CUIDADO: El mes corre desde BOE/boletín autonómico, no desde entrada en vigor.
+REGLA MNEMOTÉCNICA: P1M: Plazo 1 Mes
+
+5. Procedimiento abreviado
+RECUERDA: Admisión y traslado en 10 días. Alegaciones de Estado, CCAA y partes: 20 días. Sentencia orientativa en 15 días tras alegaciones (art. 85 LOTC).
+TEN CUIDADO: Documentos fuera de plazo = no considerados. No hay reconvención contra EELL.
+REGLA MNEMOTÉCNICA: T10-20-15: Traslado 10 / Alegaciones 20 / Sentencia 15
+
+6. Suspensión no automática y medidas cautelares
+RECUERDA: Interposición no suspende la ley. La EELL puede pedir suspensión cautelar justificando perjuicio irreparable. El TC decide por proporcionalidad (art. 75 quinquies LOTC).
+TEN CUIDADO: Asumir suspensión inmediata = error. Hasta auto TC, ley se aplica.
+REGLA MNEMOTÉCNICA: SOP: Suspensión O no Presunta
+
+7. Sentencia con doble pronunciamiento
+RECUERDA: Incluye dos partes (art. 75 quinquies LOTC):  
+- Pronunciamiento constitucional: declara invasión de autonomía local.  
+- Pronunciamiento de efectos: decide destino de actos dictados bajo la ley (convalidación, revisión, restitución de ingresos).
+TEN CUIDADO: Confundir doble fase con dos procesos distintos = error.  
+REGLA MNEMOTÉCNICA: DSL: Doble Sentencia Local

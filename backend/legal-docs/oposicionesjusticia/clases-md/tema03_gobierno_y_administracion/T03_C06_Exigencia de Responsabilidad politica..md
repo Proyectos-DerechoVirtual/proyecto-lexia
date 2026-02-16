@@ -1,0 +1,44 @@
+# Gobierno y Administración
+
+## Exigencia de Responsabilidad politica.
+
+**Tema:** Gobierno y Administración  
+**Clase:** T03_C06  
+**Archivo:** T03_C06_Exigencia de Responsabilidad politica..txt  
+**Tipo:** Material de Clase  
+**Categoría:** Oposiciones de Justicia  
+
+---
+
+Muy buenas a todos, en la lección de hoy vamos a hablar de la exigencia de responsabilidad política que el parlamento va a poder exigir al gobierno con la finalidad de sustituirle por otro y si, estamos hablando tanto de la moción de censura como de la cuestión de confianza. Todo ello parte de que el artículo 108 de la constitución establece que el gobierno responde solidariamente de su gestión política ante el congreso de los diputados. Esto se traduce en que si un ministro como puede ser el de sanidad realiza una gestión nefasta, el que responde por él no es el mismo y ya está, sino absolutamente todo el gobierno, ya que va a existir una responsabilidad solidaria y colectiva del conjunto de la entidad gubernativa.
+
+
+Así que si te parece, vamos a empezar estudiando el primer mecanismo de exigencia de la responsabilidad política, que es la moción de censura. Y es que los miembros del gobierno del grupo rojo se encuentran una sorpresa el lunes por la mañana cuando llegan al trabajo, el líder de la oposición del grupo azul hartado de su gestión ha acogido y ha presentado una moción de censura en la mesa del congreso. Rápidamente se produce un revuelo dentro del gobierno y acuden rápidamente a sus asesores para estudiar las posibilidades que tienen.
+
+
+Y sí, efectivamente, esta moción de censura reúne los requisitos para ser presentada, pero ¿cuáles son estos requisitos? Bueno, para establecer una moción de censura, el artículo 113 de la constitución establece dos prerrogativas para que esta pueda celebrarse. La primera es necesario que al menos una décima parte de los diputados del congreso suscriban tal moción y la segunda es que debe presentarse un candidato a la presidencia del gobierno. En este caso, el grupo azul cuenta con el apoyo de 100 diputados y presenta un único candidato por lo que se reúnen los requisitos.
+
+
+Cuando se entera de esto, el presidente del gobierno entra en cólera y piensa disolver las cámaras para convocar elecciones generales y de esta forma tener posibilidades de conservar el poder. Pues bien, esto no es posible, ya que el artículo 113.2 de la constitución establece que en el momento que sea admitida trámite la moción de censura, el presidente del gobierno no va a poder proponer al rey la disolución de las cámaras. Hay que destacar que a partir de aquí se abre un periodo de reflexión de al menos cinco días, donde los distintos grupos políticos toman posiciones.
+
+
+Tras este periodo, se celebra tal moción donde el candidato a presidir el gobierno expone su programa y defiende la moción. Hay que destacar, y esto ya viene más desarrollado en el reglamento del congreso, que en la práctica la moción de censura se ha realizado muchas veces sabiendo que es inviable, es decir, que no existen apoyos suficientes para sacarla adelante. Pero el reglamento del congreso otorga un papel protagonista al que presenta la moción y puede ser una gran ventaja para este, ya que va a acaparar toda la atención pública durante un par de jornadas que dure la moción, lo que puede suponer un reedito electoral para el aspirante a presidir el gobierno a largo plazo aunque pierda la moción.
+
+
+Hay que destacar que para que una moción de censura prospere es necesario que se obtenga la mayoría absoluta del congreso de los diputados, es decir, para que el candidato del grupo azul eche a la actual presidente del gobierno del grupo rojo no le basta con obtener más si es que no es, sino que es necesario que obtenga más de 175 votos a favor, que constituyan una mayoría absoluta. De hecho, puede darse el paradójico caso de que el gobierno esté en menoría y la moción de censura logre más votos si es que no es, pero que no salga adelante debido a que no se alcance la mayoría absoluta. Destacar por último que en el caso de que la moción de censura prospere, el presidente del gobierno en ejercicio está obligado a presentar su dimisión ante el rey, que nombrará automáticamente presidente del gobierno al candidato presentado por la moción.
+
+
+Aquí no hay ninguna votación para elegir al nuevo presidente del gobierno, mucho ojo con esto. Destacar que en el caso de que la moción no prospere, el único efecto existente es que el gobierno recupera la facultad de disolver las cámaras que había perdido al admitirse a trámite la moción. Y bueno, eso sería todo sobre la moción de censura, ahora vamos con la cuestión de confianza.
+
+
+Y es que el gobierno del grupo rojo está en serios problemas, no ha conseguido aprobar los últimos presupuestos generales del estado, y uno de los grupos parlamentarios, que antes era su amigo, le ha traicionado. Es por ello que decide plantear una cuestión de confianza, con el objetivo de comprobar si efectivamente continúa con los apoyos suficientes para seguir gobernando. Destacar que la cuestión de confianza no es algo a lo que el gobierno esté obligado ni a lo que pueda haberse forzado por parte del congreso a convocar, sino que es algo que asiste únicamente al presidente del gobierno, previa deliberación del Consejo de Ministros.
+
+
+Ojo, la cuestión de confianza no es ninguna broma, si el gobierno la pierde implicará el cese de todos sus miembros, mientras que si mantiene esta y logra la confianza del congreso, el gobierno continuará en el ejercicio de sus funciones. Lo más importante a destacar de esta cuestión de confianza es que la mayoría a obtener no va a ser la misma que para la moción de censura, mucho ojo con esto. Para mantenerse en el poder, el gobierno simplemente tiene que ganar la votación de la cuestión de confianza por mayoría simple de los diputados presentes, es decir, no va a necesitar una mayoría absoluta.
+
+
+Acuérdate que decíamos antes que para cambiar de gobierno era necesaria una mayoría absoluta de los miembros de la Cámara, ahora esa mayoría no es necesaria, pero mucho cuidado, porque con que haya un solo NOE más que síes, imaginémonos que quedan 166 a 167, el gobierno se va a ver obligado a presentar su dimisión, no siendo necesario que se alcance una mayoría absoluta de NOEs, muy importante esto. Vale, pero ¿y qué sucede si el presidente del gobierno pierde la cuestión de confianza? ¿Se elige un nuevo presidente automáticamente? No, lo que va a suceder en estos casos es que el presidente del gobierno va a tener que presentar su dimisión obligatoriamente al rey, y el gobierno va a continuar en funciones hasta la toma de posesión de su sucesor, perdiendo la facultad de disolver las Cortes Generales. Y a partir de aquí, oye, pues pueden suceder distintas cosas, el Congreso puede volver a nombrar al mismo gobierno, nombrar a otro distinto, o también puede darse el paradójico caso de que no se nombre a ningún presidente, lo cual es habitual, y se convoquen a elecciones generales.
+
+
+Y bueno, en principio ese sería todo, espero que te haya quedado bastante clara la diferencia entre moción de censura y cuestión de confianza, quédate con que la moción de censura necesita una mayoría absoluta para salir adelante, mientras que la cuestión de confianza necesita más NOEs que síes, y no provoca una sustitución automática del gobierno, sino el cese del mismo, que queda en funciones, ¿vale? Venga, nos vemos en la siguiente lección.
+

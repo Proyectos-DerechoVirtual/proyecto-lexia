@@ -1,0 +1,1026 @@
+## Pregunta 1
+**El Observatorio contra la Violencia Doméstica y de Género tendrá encomendada, entre otras, la evaluación de los datos provenientes de:**
+
+**Opciones:**
+- 1) Las Secciones de Violencia sobre la Mujer, exclusivamente.
+- 2) Las Secciones de Violencia sobre la Mujer, así como de aquellos asuntos relacionados con esta materia en órganos judiciales no específicos.
+- 3) El Ministerio Fiscal exclusivamente en asuntos de violencia sexual.
+- 4) Los Institutos de Medicina Legal y Ciencias Forenses.
+
+**Respuesta correcta:** 2
+
+**Explicación (correcta):**  
+¡Muy bien! Según el art. 89.11 de la LOPJ, el Observatorio evaluará los datos de las Secciones de Violencia sobre la Mujer y de otros órganos judiciales no específicos que conozcan de esta materia.
+
+**Explicación (errada):**  
+Lamentablemente, tu respuesta no es correcta. De acuerdo con el art. 89.11 de la LOPJ, el Observatorio evaluará los datos provenientes de las Secciones de Violencia sobre la Mujer y también de órganos judiciales no específicos.
+
+---
+
+## Pregunta 2
+**Según el artículo 93 de la LOPJ, con carácter general, en el Tribunal de Instancia con sede en la capital de cada provincia, y con jurisdicción en toda ella:**
+
+**Opciones:**
+- 1) Existirá una Sección de lo Contencioso-Administrativo.
+- 2) Existirán una o varias Secciones de lo Contencioso-Administrativo, según la carga de trabajo.
+- 3) Se podrán establecer Secciones de lo Contencioso-Administrativo solo si lo aprueba la comunidad autónoma.
+- 4) No se prevé la existencia de Secciones de lo Contencioso-Administrativo, cuya competencia reside en el Tribunal Superior de Justicia.
+
+**Respuesta correcta:** 1
+
+**Explicación (correcta):**  
+¡Excelente! Conforme al art. 93.1 de la LOPJ, en el Tribunal de Instancia de la capital de provincia existirá una Sección de lo Contencioso-Administrativo.
+
+**Explicación (errada):**  
+Tu respuesta no es correcta. El art. 93.1 LOPJ indica que, con carácter general, en el Tribunal de Instancia de la capital de provincia existirá una Sección de este orden jurisdiccional.
+
+---
+
+## Pregunta 3
+**Si atendemos a lo establecido en el art. 92 de la LOPJ, el número de Tribunales de Instancia con Secciones de Vigilancia Penitenciaria se determinará:**
+
+**Opciones:**
+- 1) Por el Gobierno, previa audiencia de la CCAA afectada y del CGPJ.
+- 2) Por el CGPJ, previa audiencia de la CCAA.
+- 3) En la Ley de Demarcación y Planta Judicial, atendiendo principalmente a los establecimientos penitenciarios existentes y a la clase de éstos.
+- 4) Por el Ministerio de Justicia, previa audiencia de la CCAA.
+
+**Respuesta correcta:** 3
+
+**Explicación (correcta):**  
+¡Correcto! Según el art. 92.3 LOPJ, el número de Tribunales de Instancia con estas Secciones, su ámbito y número de magistrados se determina en la Ley de Demarcación y Planta Judicial.
+
+**Explicación (errada):**  
+Lo siento, eso no es correcto. De acuerdo al art. 92.3 LOPJ, se determina en la Ley de Demarcación y Planta Judicial.
+
+---
+
+## Pregunta 4
+**En aquellas circunscripciones donde exista más de una plaza judicial de la misma Sección, ¿quién podrá acordar que una o varias de las personas destinadas en ellas asuman con carácter exclusivo el conocimiento de determinadas clases de asuntos?**
+
+**Opciones:**
+- 1) El Consejo General del Poder Judicial, previo informe de las Salas de Gobierno y de las Administraciones con competencias en materia de Justicia.
+- 2) El Ministerio de Justicia, oída la Sala de Gobierno y la comunidad autónoma.
+- 3) La Sala de Gobierno del Tribunal Superior de Justicia, a propuesta de la Junta de Jueces de la Sección.
+- 4) La Presidencia del Tribunal de Instancia, oído el Letrado de la Administración de Justicia director del servicio común.
+
+**Respuesta correcta:** 1
+
+**Explicación (correcta):**  
+¡Bien hecho! Según el art. 96.1 de la LOPJ, la decisión corresponde al Consejo General del Poder Judicial, previo informe de las Salas de Gobierno y de las Administraciones competentes.
+
+**Explicación (errada):**  
+Lamentablemente, tu respuesta no es correcta. El art. 96.1 LOPJ establece que el CGPJ es quien lo acordará, previo informe de las Salas de Gobierno y de las Administraciones con competencias en materia de Justicia.
+
+---
+
+## Pregunta 5
+**Señale la respuesta incorrecta en relación con la organización judicial:**
+
+**Opciones:**
+- 1) En cada municipio donde no exista Tribunal de Instancia, habrá un juez o jueza de paz.
+- 2) El juez destinado en una Sección de Vigilancia Penitenciaria podrá compatibilizar sus funciones con las de otras Secciones del orden penal del mismo Tribunal de Instancia.
+- 3) Podrán crearse agrupaciones de Oficinas de Justicia de municipios limítrofes de un mismo partido judicial.
+- 4) Las Secciones de Vigilancia Penitenciaria pueden extender su jurisdicción a dos o más provincias de distintas Comunidades Autónomas.
+
+**Respuesta correcta:** 4
+
+**Explicación (correcta):**  
+¡Exacto! Según el art. 92.4 de la LOPJ, las Secciones de Vigilancia Penitenciaria podrán extender su jurisdicción a dos o más provincias, pero siempre de la misma comunidad autónoma.
+
+**Explicación (errada):**  
+Lamentablemente, tu elección no es la correcta. Según el art. 92.4 LOPJ, la jurisdicción de las Secciones de Vigilancia Penitenciaria no puede extenderse a provincias de distintas Comunidades Autónomas.
+
+---
+
+## Pregunta 6
+**Los Jueces de Paz y sus sustitutos serán nombrados para un periodo:**
+
+**Opciones:**
+- 1) De 5 años por la Sala de Gobierno del TSJ correspondiente.
+- 2) De 4 años por la Sala de Gobierno del TSJ correspondiente.
+- 3) De 6 años por la Sala de Gobierno del TSJ correspondiente.
+- 4) De 5 años por el Pleno del Ayuntamiento correspondiente.
+
+**Respuesta correcta:** 2
+
+**Explicación (correcta):**  
+¡Acertaste! Los Jueces de Paz y sus sustitutos son nombrados por un periodo de 4 años según el art. 101.1 LOPJ.
+
+**Explicación (errada):**  
+Lo siento, esa no es la respuesta correcta. El art. 101.1 LOPJ especifica un periodo de 4 años.
+
+---
+
+## Pregunta 7
+**Las Secciones Civiles de los Tribunales de Instancia conocerán en el orden civil:**
+
+**Opciones:**
+- 1) De los actos de jurisdicción voluntaria en los términos que prevean las leyes.
+- 2) De los recursos que establezca la ley contra resoluciones de los Jueces de Paz del partido.
+- 3) De las cuestiones de competencia en materia civil entre los Jueces de Paz del partido.
+- 4) Todas son correctas.
+
+**Respuesta correcta:** 4
+
+**Explicación (correcta):**  
+¡Perfecto! Las Secciones Civiles de los Tribunales de Instancia tienen todas las competencias mencionadas en el orden civil según el art. 85 LOPJ.
+
+**Explicación (errada):**  
+Tu respuesta no es acertada. Según el art. 85 LOPJ, todas las opciones son competencias de las Secciones Civiles de los Tribunales de Instancia en el orden civil.
+
+---
+
+## Pregunta 8
+**Conforme a la LOPJ, ¿qué órgano conocerá de la autorización del internamiento de extranjeros en los centros de internamiento?**
+
+**Opciones:**
+- 1) La Sección Civil y de Instrucción del Tribunal de Instancia.
+- 2) La Sección de Instrucción del Tribunal de Instancia.
+- 3) La Sección de lo Contencioso-Administrativo del Tribunal de Instancia.
+- 4) El Tribunal Central de Instancia.
+
+**Respuesta correcta:** 2
+
+**Explicación (correcta):**  
+¡Correcto! La autorización del internamiento de extranjeros es competencia de las Secciones de Instrucción de los Tribunales de Instancia, según el art. 88.2 de la LOPJ.
+
+**Explicación (errada):**  
+Desafortunadamente, no es la respuesta correcta. Son las Secciones de Instrucción de los Tribunales de Instancia las encargadas de conceder dicha autorización, conforme al art. 88.2 de la LOPJ.
+
+---
+
+## Pregunta 9
+**En relación a los Tribunales Superiores de Justicia, indique la afirmación incorrecta:**
+
+**Opciones:**
+- 1) Tienen su sede en la capital de la Comunidad Autónoma y ejercen su jurisdicción en toda ella.
+- 2) Están compuestos por las Salas de lo Civil y Penal, de lo Contencioso-Administrativo y de lo Social.
+- 3) Cada una de las Salas del Tribunal Superior de Justicia estará integrada, al menos, por tres Magistrados.
+- 4) Los Tribunales Superiores de Justicia no tienen competencia en materia de derecho civil propio o especial de la Comunidad Autónoma.
+
+**Respuesta correcta:** 4
+
+**Explicación (correcta):**  
+¡Correcto! Esta afirmación es incorrecta. De acuerdo con el art. 73.1.a) de la LOPJ, los Tribunales Superiores de Justicia sí tienen competencia en materia de derecho civil propio o especial de la Comunidad Autónoma como Sala de lo Civil.
+
+**Explicación (errada):**  
+Tu elección no es la correcta. La afirmación incorrecta es la que niega la competencia de los TSJ en materia de derecho civil foral o especial, competencia que sí tienen atribuida por el art. 73.1.a) de la LOPJ.
+
+---
+
+## Pregunta 10
+**Sobre el Consejo General del Poder Judicial, señale la afirmación incorrecta:**
+
+**Opciones:**
+- 1) Está integrado por el Presidente del Tribunal Supremo, que lo preside, y veinte miembros nombrados por el Rey.
+- 2) Diez de sus miembros son propuestos por el Congreso y diez por el Senado.
+- 3) El mandato de los miembros del CGPJ es de siete años.
+- 4) El Consejo General del Poder Judicial tiene competencia exclusiva en materia de nombramiento, ascenso, inspección y régimen disciplinario de los jueces y magistrados.
+
+**Respuesta correcta:** 3
+
+**Explicación (correcta):**  
+¡Exacto! El mandato de los miembros del CGPJ es de cinco años, no de siete, conforme al art. 568 de la LOPJ y 122.3 de la Constitución.
+
+**Explicación (errada):**  
+Lamentablemente, tu respuesta no es correcta. De acuerdo con el art. 568 de la LOPJ y 122.3 de la Constitución, el mandato de los miembros del CGPJ es de cinco años.
+
+---
+
+## Pregunta 11
+**¿Cuál de las siguientes afirmaciones sobre los Jueces de Paz es correcta según la LOPJ?**
+
+**Opciones:**
+- 1) Son elegidos por el Pleno del Ayuntamiento por mayoría simple.
+- 2) Para ser Juez de Paz es requisito indispensable ser licenciado o graduado en Derecho.
+- 3) El nombramiento se hará conforme a lo previsto en los respectivos estatutos de autonomía en CCAA con competencias en justicia de paz o de proximidad.
+- 4) Cesan en su cargo únicamente por el transcurso de su mandato de cuatro años.
+
+**Respuesta correcta:** 3
+
+**Explicación (correcta):**  
+¡Correcto! La Disposición Adicional 25ª de la LOPJ, introducida por la LO 1/2025, establece esta particularidad para CCAA con dichas competencias.
+
+**Explicación (errada):**  
+Tu respuesta no es correcta. La LO 1/2025 ha introducido la Disposición Adicional 25ª en la LOPJ, que contempla que el nombramiento se haga según lo previsto en los Estatutos de Autonomía de CCAA con competencias en la materia.
+
+---
+
+## Pregunta 12
+**Según el art. 89.1 de la LOPJ, ¿quién podrá acordar que, en Tribunales de Instancia sin Sección de Violencia sobre la Mujer, el conocimiento de estos asuntos corresponda a uno de los jueces de la Sección de Instrucción?**
+
+**Opciones:**
+- 1) El Gobierno, a propuesta del CGPJ y, en su caso, con informe de la CCAA con competencias en materia de Justicia.
+- 2) El Consejo General del Poder Judicial, previo informe de las Salas de Gobierno.
+- 3) El Ministerio de Justicia, previo informe de la CCAA con competencias en materia de Justicia.
+- 4) La Sala de Gobierno del TSJ correspondiente, a propuesta de la Junta de Jueces.
+
+**Respuesta correcta:** 2
+
+**Explicación (correcta):**  
+¡Exacto! De acuerdo con el art. 89.1 de la LOPJ, es el CGPJ, previo informe de las Salas de Gobierno, quien puede tomar esa decisión para compatibilizar funciones.
+
+**Explicación (errada):**  
+Lamentablemente, tu respuesta no es la acertada. Según el art. 89.1 de la LOPJ, la competencia para este acuerdo de compatibilización recae en el CGPJ, previo informe de las Salas de Gobierno.
+
+---
+
+## Pregunta 13
+**Según el art. 96.3 de la LOPJ, ¿quién podrá acordar la especialización de una o varias plazas judiciales de Tribunales de Instancia de la misma provincia y del mismo orden jurisdiccional, estén o no en el mismo partido judicial?**
+
+**Opciones:**
+- 1) El CGPJ, con informe favorable de la Sala de Gobierno y, en su caso, la CCAA con competencias en materia de Justicia.
+- 2) El Gobierno, con informe favorable del CGPJ, oída de la Sala de Gobierno y, en su caso, la CCAA con competencias en materia de Justicia.
+- 3) El Ministerio de Justicia, con informe favorable del CGPJ, oída de la Sala de Gobierno y, en su caso, la CCAA con competencias en materia de Justicia.
+- 4) El CGPJ, con informe favorable del Ministerio de Justicia y, en su caso, de la CCAA con competencias en materia de Justicia, oída la Sala de Gobierno del TSJ.
+
+**Respuesta correcta:** 4
+
+**Explicación (correcta):**  
+¡Correcto! Conforme al art. 96.3 LOPJ, el acuerdo será dictado por el CGPJ, con informe favorable del Ministerio de Justicia y, en su caso, la CCAA con competencias en materia de Justicia, y oída la Sala de Gobierno del TSJ.
+
+**Explicación (errada):**  
+Lo siento, tu elección es incorrecta. Según el art. 96.3 LOPJ, es el CGPJ quien dictará dicho acuerdo con los informes y oídas mencionadas.
+
+---
+
+## Pregunta 14
+**El art. 90.4 de la LOPJ establece que corresponde la ejecución de las sentencias dictadas en causas por delito grave o menos grave por las Secciones de Instrucción a:**
+
+**Opciones:**
+- 1) Las Secciones de lo Penal de los Tribunales de Instancia.
+- 2) La Audiencia Provincial.
+- 3) La Sección del Tribunal de Instancia que esté de guardia.
+- 4) La propia Sección de Instrucción que la dictó.
+
+**Respuesta correcta:** 1
+
+**Explicación (correcta):**  
+¡Correcto! Según el art. 90.4 de la LOPJ, la ejecución de dichas sentencias corresponde a las Secciones de lo Penal.
+
+**Explicación (errada):**  
+Tu respuesta es errónea. De acuerdo con el art. 90.4 de la LOPJ, la ejecución corresponde a las Secciones de lo Penal.
+
+---
+
+## Pregunta 15
+**La separación de las Secciones Civiles y de Instrucción de un Tribunal de Instancia que constituyan una Sección Única puede ser establecida por:**
+
+**Opciones:**
+- 1) El Gobierno, a propuesta del Consejo General del Poder Judicial.
+- 2) La Ley Orgánica del Poder Judicial exclusivamente.
+- 3) La Ley de Enjuiciamiento Criminal.
+- 4) La Sala de Gobierno del Tribunal Superior de Justicia.
+
+**Respuesta correcta:** 1
+
+**Explicación (correcta):**  
+¡Bien hecho! Según el art. 21.1 de la Ley 38/1988, de Demarcación y Planta Judicial, tras la reforma de la LO 1/2025, el Gobierno puede establecer dicha separación a propuesta del CGPJ.
+
+**Explicación (errada):**  
+Tu respuesta no es la correcta. El art. 21.1 de la Ley 38/1988, modificada por la LO 1/2025, atribuye esta facultad al Gobierno, a propuesta del CGPJ.
+
+---
+
+## Pregunta 16
+**¿Qué órgano conocerá de los concursos de acreedores, cualquiera que sea la condición civil o mercantil de la persona deudora?**
+
+**Opciones:**
+- 1) Las Secciones Civiles de los Tribunales de Instancia.
+- 2) Las Secciones de lo Mercantil de los Tribunales de Instancia.
+- 3) Las Secciones de lo Social de los Tribunales de Instancia.
+- 4) El Tribunal Central de Instancia.
+
+**Respuesta correcta:** 2
+
+**Explicación (correcta):**  
+¡Muy bien! Tras la reforma, las Secciones de lo Mercantil asumen la competencia sobre todos los concursos de acreedores, incluidos los de persona natural no empresaria, según el art. 87.7 de la LOPJ.
+
+**Explicación (errada):**  
+Lamentablemente, tu respuesta no es correcta. Conforme al art. 87.7 de la LOPJ, la competencia para todos los concursos de acreedores, sin distinción, corresponde ahora a las Secciones de lo Mercantil.
+
+---
+
+## Pregunta 17
+**Una de las siguientes afirmaciones es incorrecta si atendemos a las funciones de las Secciones de Instrucción de los Tribunales de Instancia (art. 88 LOPJ):**
+
+**Opciones:**
+- 1) Conocerán de los procedimientos de "Habeas Corpus".
+- 2) Les corresponde dictar sentencia de conformidad con la acusación en los casos establecidos por la Ley, pero no en los procesos por aceptación de decreto.
+- 3) El conocimiento y fallo de los juicios por delito leve, salvo que sean competencia de los jueces de paz o de las Secciones de Violencia sobre la Mujer o de Violencia contra la Infancia y la Adolescencia.
+- 4) De la adopción de la orden de protección a las víctimas de violencia sobre la mujer, infancia y adolescencia cuando esté desarrollando funciones de guardia, si no puede ser adoptada por la Sección competente.
+
+**Respuesta correcta:** 2
+
+**Explicación (correcta):**  
+¡Muy bien! La afirmación de la opción B es incorrecta, ya que el art. 88.1.b) de la LOPJ establece que sí les corresponde dictar sentencia de conformidad en los procesos por aceptación de decreto.
+
+**Explicación (errada):**  
+Lamentablemente, tu respuesta no es correcta. Según el art. 88.1.b) de la LOPJ, a las Secciones de Instrucción les corresponde dictar sentencia de conformidad tanto en los casos establecidos por la ley como en los procesos por aceptación de decreto.
+
+---
+
+## Pregunta 18
+**Las Secciones de Violencia sobre la Mujer de los Tribunales de Instancia podrán conocer en el orden civil de uno de los siguientes asuntos:**
+
+**Opciones:**
+- 1) Los procedimientos de decomiso autónomo.
+- 2) Los que versen sobre maternidad, paternidad, filiación y adopción.
+- 3) Todos los expedientes de jurisdicción voluntaria.
+- 4) Las cuestiones de competencia en materia civil entre los jueces de paz del partido.
+
+**Respuesta correcta:** 2
+
+**Explicación (correcta):**  
+¡Muy bien! Las Secciones de Violencia sobre la Mujer, en el orden civil, pueden conocer de los asuntos de filiación, maternidad y paternidad conforme al art. 89.6.d) de la LOPJ.
+
+**Explicación (errada):**  
+Lamentablemente, tu respuesta no es correcta. Según el art. 89.6.d) de la LOPJ, en el orden civil, las Secciones de Violencia sobre la Mujer pueden conocer de los asuntos que versen sobre maternidad, paternidad, filiación y adopción.
+
+---
+
+## Pregunta 19
+**Una de las siguientes afirmaciones es correcta si atendemos a lo dispuesto en el art. 93 de la LOPJ para las Secciones de lo Contencioso-Administrativo:**
+
+**Opciones:**
+- 1) En cada provincia, con jurisdicción en toda ella y sede en su capital, habrá una o varias Secciones de lo Contencioso-Administrativo.
+- 2) Cuando el volumen de asuntos lo requiera, se podrán establecer Secciones de lo Contencioso-Administrativo en poblaciones distintas de la capital de provincia, pero solo si tienen más de 100.000 habitantes.
+- 3) Podrán crearse excepcionalmente Secciones de lo Contencioso-Administrativo que extiendan su jurisdicción a más de una provincia dentro de la misma Comunidad Autónoma.
+- 4) Corresponde a la Sección de lo Contencioso-Administrativo del Tribunal Central de Instancia autorizar requerimientos de información de autoridades administrativas de ámbito autonómico.
+
+**Respuesta correcta:** 3
+
+**Explicación (correcta):**  
+¡Muy bien! De acuerdo con el art. 93.3 de la LOPJ, es correcto que se pueden crear excepcionalmente Secciones de lo Contencioso-Administrativo que extiendan su jurisdicción a más de una provincia dentro de la misma CCAA.
+
+**Explicación (errada):**  
+Lamentablemente, tu respuesta no es correcta. El art. 93.3 de la LOPJ establece que es posible crear excepcionalmente Secciones de lo Contencioso-Administrativo que abarquen con su jurisdicción a más de una provincia dentro de la misma CCAA.
+
+---
+
+## Pregunta 20
+**Dispone el art. 89.11 de la LOPJ que anualmente se elaborará un informe sobre los datos relativos a violencia de género y violencia sexual, que será publicado y remitido, entre otros, a:**
+
+**Opciones:**
+- 1) La Comisión Disciplinaria del CGPJ.
+- 2) El Pleno del Consejo General del Poder Judicial para su archivo.
+- 3) La Comisión de seguimiento y evaluación de los acuerdos del Pacto de Estado en materia de Violencia de Género del Congreso de los Diputados.
+- 4) El Ministerio de Justicia exclusivamente.
+
+**Respuesta correcta:** 3
+
+**Explicación (correcta):**  
+¡Muy bien! El informe anual será remitido a la Comisión de Seguimiento y Evaluación de los Acuerdos del Pacto de Estado contra la Violencia de Género del Congreso de los Diputados, conforme al art. 89.11, párrafo segundo, de la LOPJ.
+
+**Explicación (errada):**  
+Lamentablemente, tu respuesta no es correcta. El art. 89.11, párrafo segundo, de la LOPJ establece que el informe anual será remitido, entre otros, a la Comisión de Seguimiento y Evaluación de los Acuerdos del Pacto de Estado del Congreso.
+
+---
+
+## Pregunta 21
+**A tenor del art. 1 de la LDPJ, uno de los siguientes órganos u organismos no tiene jurisdicción en toda España:**
+
+**Opciones:**
+- 1) El Tribunal Supremo.
+- 2) La Audiencia Nacional.
+- 3) El Tribunal Central de Instancia.
+- 4) El Consejo General del Poder Judicial.
+
+**Respuesta correcta:** 4
+
+**Explicación (correcta):**  
+¡Muy bien! Según el art. 1 de la LDPJ, el Tribunal Supremo, la Audiencia Nacional y el Tribunal Central de Instancia tienen jurisdicción en toda España. El CGPJ es el órgano de gobierno del Poder Judicial, no un órgano jurisdiccional.
+
+**Explicación (errada):**  
+Lamentablemente, tu respuesta no es correcta. De acuerdo con el art. 1 de la LDPJ, los órganos con jurisdicción en todo el territorio nacional son el TS, la AN y el Tribunal Central de Instancia. El CGPJ es un órgano de gobierno.
+
+---
+
+## Pregunta 22
+**Dispone el art. 3.3 de la LDPJ que, a los efectos de la demarcación judicial, la Ciudad de Ceuta:**
+
+**Opciones:**
+- 1) Se constituye como un partido judicial con jurisdicción propia e independiente.
+- 2) Queda integrada en la circunscripción territorial de la Sección Sexta de la Audiencia Provincial de Cádiz, con sede en Ceuta.
+- 3) Queda integrada en la circunscripción territorial de la Sección Séptima de la Audiencia Provincial de Málaga, con sede en Ceuta.
+- 4) Queda adscrita a efectos gubernativos a la Sala de Gobierno del Tribunal Superior de Justicia de Madrid.
+
+**Respuesta correcta:** 2
+
+**Explicación (correcta):**  
+¡Muy bien! Según el art. 3.3 de la LDPJ, la Ciudad de Ceuta queda integrada en la circunscripción territorial de la Sección Sexta de la Audiencia provincial de Cádiz, con sede en Ceuta.
+
+**Explicación (errada):**  
+Lamentablemente, tu respuesta no es correcta. De acuerdo al art. 3.3 de la LDPJ, la Ciudad de Ceuta queda integrada en la circunscripción territorial de la Sección Sexta de la Audiencia provincial de Cádiz, con sede en la propia ciudad.
+
+---
+
+## Pregunta 23
+**La convocatoria de la Junta de Jueces y Juezas del Tribunal de Instancia será realizada:**
+
+**Opciones:**
+- 1) Por el Presidente de la Audiencia Provincial a solicitud de un tercio de los jueces.
+- 2) Por el Letrado de la Administración de Justicia director del Servicio Común Procesal.
+- 3) Por la Presidencia del Tribunal de Instancia, siempre que lo estime necesario o cuando lo solicite la cuarta parte de los jueces.
+- 4) Por el miembro más antiguo del escalafón, con carácter rotatorio.
+
+**Respuesta correcta:** 3
+
+**Explicación (correcta):**  
+¡Exacto! Según el art. 169.1 de la LOPJ, la convocatoria de la Junta de Jueces y Juezas corresponde a la Presidencia del Tribunal de Instancia por iniciativa propia o a solicitud de una cuarta parte de sus miembros.
+
+**Explicación (errada):**  
+Lamentablemente, tu respuesta no es correcta. De acuerdo al art. 169.1 de la LOPJ, la Presidencia del Tribunal de Instancia es la encargada de convocar la Junta, bien por iniciativa propia o a petición de una cuarta parte de sus miembros.
+
+---
+
+## Pregunta 24
+**¿Quién podrá acordar las modificaciones precisas en las normas de reparto de los jueces, juezas, magistrados y magistradas de las Secciones de lo Mercantil de los Tribunales de Instancia para equilibrar la distribución de asuntos?**
+
+**Opciones:**
+- 1) La Sala de Gobierno del Tribunal Superior de Justicia.
+- 2) El Ministerio de Justicia.
+- 3) El Consejo General del Poder Judicial.
+- 4) La Presidencia del Tribunal de Instancia, oída la Junta de Sección.
+
+**Respuesta correcta:** 1
+
+**Explicación (correcta):**  
+¡Correcto! La Sala de Gobierno correspondiente es quien puede acordar las modificaciones precisas en las normas de reparto de las Secciones de lo Mercantil para equilibrar la distribución de asuntos, conforme al art. 167.3 de la LOPJ.
+
+**Explicación (errada):**  
+Lamentablemente, tu respuesta no es correcta. Según el art. 167.3 de la LOPJ, es la Sala de Gobierno del TSJ quien puede acordar dichas modificaciones.
+
+---
+
+## Pregunta 25
+**Según el art. 168 de la LOPJ, no corresponde a quienes ejerzan la Presidencia de los Tribunales de Instancia:**
+
+**Opciones:**
+- 1) Poner en conocimiento de la Sala de Gobierno toda posible anomalía en el funcionamiento de los servicios comunes procesales de su territorio.
+- 2) Velar por la correcta ejecución de las sustituciones y de los planes anuales de sustitución.
+- 3) Resolver los recursos jurisdiccionales que les atribuyan las leyes procesales.
+- 4) Resolver en única instancia los recursos gubernativos que quepa interponer contra las decisiones de los Letrados de la AJ en materia de reparto.
+
+**Respuesta correcta:** 3
+
+**Explicación (correcta):**  
+¡Bien hecho! La función descrita en la letra C es incorrecta. El art. 168.2.d) de la LOPJ les atribuye "Resolver cuantos recursos les atribuyan las leyes procesales", pero esta función es de naturaleza jurisdiccional y se ejerce como juez o jueza, no como Presidente en su faceta gubernativa, lo que la distingue del resto de funciones enumeradas. La pregunta busca la función que no encaja en el rol gubernativo de la Presidencia.
+
+**Explicación (errada):**  
+Lo siento, esa no es la respuesta correcta. La función de "resolver los recursos jurisdiccionales" es una función propia del ejercicio de la jurisdicción, no una función gubernativa de la Presidencia del Tribunal, a diferencia de las demás opciones, que sí están expresamente listadas como funciones de la Presidencia en el art. 168 de la LOPJ.
+
+---
+
+## Pregunta 26
+**Según el art. 87.8 de la LOPJ, las Secciones de lo Mercantil serán competentes para el reconocimiento y ejecución de sentencias y demás resoluciones judiciales extranjeras:**
+
+**Opciones:**
+- 1) Cuando estas versen sobre cualquiera de las materias de su competencia, salvo que, según los tratados y otras normas internacionales, corresponda a otro órgano judicial.
+- 2) En todo caso, por ser materia de su competencia exclusiva y excluyente.
+- 3) Solo si se trata de laudos arbitrales extranjeros, pero no de sentencias judiciales.
+- 4) Ninguna es correcta.
+
+**Respuesta correcta:** 1
+
+**Explicación (correcta):**  
+¡Correcto! La redacción del art. 87.8 de la LOPJ condiciona esta competencia a que no esté atribuida a otro órgano judicial por tratados o normas internacionales. La expresión "en todo caso" de la opción B la haría incorrecta.
+
+**Explicación (errada):**  
+Lamentablemente, esa no es la respuesta correcta. El art. 87.8 de la LOPJ establece que las Secciones de lo Mercantil tienen esta competencia, pero con la salvedad de lo que dispongan los tratados y normas internacionales, por lo que la opción A es la única que refleja fielmente la regulación.
+
+---
+
+## Pregunta 27
+**La información estadística sobre los datos relativos a violencia de género y violencia sexual recogida en el art. 89.11 de la LOPJ:**
+
+**Opciones:**
+- 1) Podrá desagregarse con un indicador de edad y sexo de las víctimas.
+- 2) Deberá poder desagregarse con un indicador de discapacidad de las víctimas.
+- 3) Permitirá establecer un registro estadístico de los adultos y menores víctimas de violencia de género, pero no podrá incluir datos de discapacidad.
+- 4) Solo se referirá a víctimas de sexo femenino mayores de edad.
+
+**Respuesta correcta:** 2
+
+**Explicación (correcta):**  
+¡Correcto! La información estadística, de acuerdo al último párrafo del art. 89.11 de la LOPJ, deberá poder desagregarse con un indicador de discapacidad de las víctimas.
+
+**Explicación (errada):**  
+Lo siento, esa no es la respuesta correcta. Según el último párrafo del art. 89.11 de la LOPJ, la información estadística deberá poder desagregarse con un indicador de discapacidad de las víctimas.
+
+---
+
+## Pregunta 28
+**¿A qué órgano corresponde la ejecución de las sentencias dictadas en causas por delito grave o menos grave por la Sección de Instrucción del Tribunal Central de Instancia?**
+
+**Opciones:**
+- 1) A la Sala de lo Penal de la Audiencia Nacional.
+- 2) A la Sala de lo Penal del Tribunal Supremo.
+- 3) A la Sección de lo Penal del Tribunal Central de Instancia.
+- 4) A la propia Sección de Instrucción del Tribunal Central de Instancia.
+
+**Respuesta correcta:** 3
+
+**Explicación (correcta):**  
+¡Muy bien! La ejecución de las sentencias dictadas en estas causas por la Sección de Instrucción corresponde a la Sección de lo Penal del propio Tribunal Central de Instancia, según el art. 95.b) de la LOPJ.
+
+**Explicación (errada):**  
+Lo siento, esa no es la respuesta correcta. Según el art. 95.b) de la LOPJ, la ejecución corresponde a la Sección de lo Penal del Tribunal Central de Instancia.
+
+---
+
+## Pregunta 29
+**Según el art. 170.2 de la LOPJ, ¿quién convocará la Junta de Sección del Tribunal de Instancia?**
+
+**Opciones:**
+- 1) La Presidencia de la Sección, cuando lo estime necesario o cuando lo solicite, al menos, la cuarta parte de sus miembros.
+- 2) La Presidencia del Tribunal de Instancia, cuando lo estime necesario o cuando lo solicite, al menos, la cuarta parte de los miembros de la Sección.
+- 3) La Presidencia de la Sección, cuando lo estime necesario o cuando lo solicite, al menos, la tercera parte de sus miembros.
+- 4) La Sala de Gobierno del TSJ, a propuesta de la Presidencia de la Sección.
+
+**Respuesta correcta:** 1
+
+**Explicación (correcta):**  
+¡Correcto! La convocatoria de la Junta de Sección, según el art. 170.2 LOPJ, es responsabilidad de la Presidencia de la Sección cuando lo estime necesario o lo solicite al menos la cuarta parte de los miembros de derecho de la misma.
+
+**Explicación (errada):**  
+Lamentablemente, esa no es la respuesta correcta. El art. 170.2 LOPJ establece que será la Presidencia de la Sección quien convocará la Junta bajo las condiciones mencionadas.
+
+---
+
+## Pregunta 30
+**Señale la afirmación incorrecta respecto a la Junta de Jueces y Juezas del Tribunal de Instancia:**
+
+**Opciones:**
+- 1) La Junta elegirá como Secretario a uno de sus miembros.
+- 2) Se considerará válidamente constituida cuando asistan la mitad más uno de sus miembros, adoptándose los acuerdos por mayoría simple.
+- 3) Corresponde a la Junta elaborar los planes semestrales de sustitución entre jueces titulares para su remisión a la Sala de Gobierno.
+- 4) La Junta será convocada por la Presidencia del Tribunal de Instancia.
+
+**Respuesta correcta:** 3
+
+**Explicación (correcta):**  
+¡Muy bien! Según el art. 169.6 de la LOPJ, corresponde a la Junta elaborar los planes ANUALES de sustitución, no semestrales.
+
+**Explicación (errada):**  
+Lamentablemente, tu respuesta no es correcta. Según el art. 169.6 de la LOPJ, los planes de sustitución que elabora la Junta son anuales, por lo que la afirmación sobre planes semestrales es incorrecta.
+
+---
+
+## Pregunta 31
+**Según el art. 20.3 de la LDPJ, la creación de Secciones o plazas de juez o magistrado, que modificará los anexos de la planta judicial, se dispondrá mediante:**
+
+**Opciones:**
+- 1) La fecha de efectividad de las plazas de nueva creación será fijada por el Ministro de Justicia oído el CGPJ y las CCAA afectadas y publicada en el BOE.
+- 2) El Gobierno podrá modificar el número y composición de los órganos judiciales mediante la creación de secciones y plazas de juez o magistrado, sin alterar la demarcación judicial, oídos el CGPJ y la Comunidad autónoma afectada.
+- 3) En la creación de secciones de todos los tribunales, se tendrá en cuenta, preferentemente el volumen de litigiosidad de la circunscripción.
+- 4) Todas son correctas.
+
+**Respuesta correcta:** 4
+
+**Explicación (correcta):**  
+¡Muy bien! Según el art. 20 de la Ley 38/1988 de Demarcación y Planta Judicial, en su redacción tras la LO 1/2025, todas las afirmaciones proporcionadas son correctas.
+
+**Explicación (errada):**  
+Lamentablemente, tu respuesta no es correcta. Según el art. 20 de la LDPJ, en su redacción tras la LO 1/2025, todas las afirmaciones proporcionadas son correctas.
+
+---
+
+## Pregunta 32
+**Las Secciones Civiles de los Tribunales de Instancia conocerán en el orden civil:**
+
+**Opciones:**
+- 1) De los actos de jurisdicción voluntaria en los términos que prevean las leyes.
+- 2) De los litigios que se promuevan sobre los dibujos y modelos comunitarios.
+- 3) De toda ejecución frente a los bienes y derechos de contenido patrimonial del concursado.
+- 4) De las pretensiones que se promuevan al amparo de la normativa en materia de transporte, nacional o internacional.
+
+**Respuesta correcta:** 1
+
+**Explicación (correcta):**  
+¡Muy bien! Según el art. 85.2.2º de la LOPJ, las Secciones Civiles de los Tribunales de Instancia conocerán de los actos de jurisdicción voluntaria. Las demás opciones son competencia de las Secciones de lo Mercantil.
+
+**Explicación (errada):**  
+Lamentablemente, tu respuesta no es correcta. Según el art. 85.2.2º de la LOPJ, las Secciones Civiles conocerán de los actos de jurisdicción voluntaria.
+
+---
+
+## Pregunta 33
+**La jurisdicción de las Secciones de Vigilancia Penitenciaria de los Tribunales de Instancia:**
+
+**Opciones:**
+- 1) Podrá extenderse a dos o más provincias de distintas CCAA.
+- 2) Coincidirá necesariamente con la extensión de la provincia.
+- 3) Podrá extenderse a dos o más provincias de la misma CCAA.
+- 4) No podrá superar el ámbito de la Sección de lo Penal correspondiente.
+
+**Respuesta correcta:** 3
+
+**Explicación (correcta):**  
+¡Muy bien! Según el art. 92.4 de la LOPJ, la jurisdicción de las Secciones de Vigilancia Penitenciaria podrá extenderse a dos o más provincias de la misma CCAA.
+
+**Explicación (errada):**  
+Lamentablemente, tu respuesta no es correcta. Según el art. 92.4 de la LOPJ, la jurisdicción de estas Secciones podrá extenderse a dos o más provincias de la misma CCAA.
+
+---
+
+## Pregunta 34
+**Las Secciones de Violencia sobre la Mujer no conocerán en el orden civil de los asuntos relativos a:**
+
+**Opciones:**
+- 1) Filiación, maternidad y paternidad.
+- 2) Nulidad del matrimonio, separación y divorcio.
+- 3) Las relaciones paternofiliales.
+- 4) La adopción de las correspondientes órdenes de protección a las víctimas.
+
+**Respuesta correcta:** 4
+
+**Explicación (correcta):**  
+¡Muy bien! La adopción de órdenes de protección es una competencia del orden penal de estas Secciones, según el art. 89.5.c) de la LOPJ, no del orden civil.
+
+**Explicación (errada):**  
+Lamentablemente, tu respuesta no es correcta. La adopción de órdenes de protección es una competencia del orden penal (art. 89.5.c) LOPJ) y no del orden civil.
+
+---
+
+## Pregunta 35
+**Según el art. 92 de la LOPJ, ¿cuál de las siguientes funciones no está atribuida a las Secciones de Vigilancia Penitenciaria?**
+
+**Opciones:**
+- 1) El control jurisdiccional de la potestad disciplinaria de las autoridades penitenciarias.
+- 2) El amparo de los derechos y beneficios de los internos en los establecimientos penitenciarios.
+- 3) Las previstas en la ley en materia de ejecución de penas privativas de libertad y medidas de seguridad.
+- 4) Autorizar cambios de Centro penitenciario.
+
+**Respuesta correcta:** 4
+
+**Explicación (correcta):**  
+¡Muy bien! La autorización para el traslado de internos entre centros penitenciarios es una competencia de la Administración Penitenciaria, no de las Secciones de Vigilancia Penitenciaria, cuyas funciones se recogen en el art. 92.1 de la LOPJ.
+
+**Explicación (errada):**  
+Lamentablemente, tu respuesta no es correcta. La autorización de traslados es una competencia de la Administración Penitenciaria. Las funciones de las Secciones de Vigilancia Penitenciaria se regulan en el art. 92.1 de la LOPJ.
+
+---
+
+## Pregunta 36
+**Para conocer en primera instancia y de forma exclusiva de los litigios que se promuevan sobre los dibujos y modelos comunitarios será competente:**
+
+**Opciones:**
+- 1) La Sección de lo Mercantil del Tribunal de Instancia de Alicante.
+- 2) La Sala de lo Civil del Tribunal Superior de Justicia de la Comunitat Valenciana.
+- 3) Cualquier Sección de lo Mercantil de un Tribunal de Instancia.
+- 4) Cualquier Sección Civil de un Tribunal de Instancia.
+
+**Respuesta correcta:** 1
+
+**Explicación (correcta):**  
+¡Muy bien! Según el art. 87.10 de la LOPJ, la competencia exclusiva para estos asuntos en todo el territorio nacional corresponde a la Sección de lo Mercantil del Tribunal de Instancia de Alicante.
+
+**Explicación (errada):**  
+Lamentablemente, tu respuesta no es correcta. Según el art. 87.10 de la LOPJ, esta competencia exclusiva la ostenta la Sección de lo Mercantil del Tribunal de Instancia de Alicante.
+
+---
+
+## Pregunta 37
+**Según el art. 92.2 de la LOPJ, ¿quién establecerá la sede de las Secciones de Vigilancia Penitenciaria?**
+
+**Opciones:**
+- 1) El Gobierno.
+- 2) Las Comunidades Autónomas.
+- 3) Las Cortes Generales.
+- 4) El Consejo General del Poder Judicial.
+
+**Respuesta correcta:** 1
+
+**Explicación (correcta):**  
+¡Muy bien! Según el art. 92.2 de la LOPJ, será el Gobierno quien establecerá la sede de las Secciones de Vigilancia Penitenciaria.
+
+**Explicación (errada):**  
+Lamentablemente, tu respuesta no es correcta. Según el art. 92.2 de la LOPJ, será el Gobierno quien establecerá la sede de estas Secciones.
+
+---
+
+## Pregunta 38
+**Las Secciones de lo Mercantil de los Tribunales de Instancia no conocerán de:**
+
+**Opciones:**
+- 1) Las demandas en las que se ejerciten acciones relativas a propiedad intelectual y publicidad.
+- 2) Las pretensiones relativas a la aplicación del Derecho Marítimo.
+- 3) Las acciones relativas a competencia desleal.
+- 4) Las demandas de desahucio de una sociedad mercantil.
+
+**Respuesta correcta:** 4
+
+**Explicación (correcta):**  
+¡Muy bien! Las demandas de desahucio son competencia de la jurisdicción civil (Secciones Civiles), aunque el arrendatario sea una sociedad mercantil, pues la materia es el arrendamiento y no una de las específicamente atribuidas a la jurisdicción mercantil en el art. 87 de la LOPJ.
+
+**Explicación (errada):**  
+Lamentablemente, tu respuesta no es correcta. Las demandas de desahucio son competencia de las Secciones Civiles (art. 85 LOPJ). Las competencias de las Secciones de lo Mercantil se regulan en el art. 87 de la LOPJ y no incluyen esta materia.
+
+---
+
+## Pregunta 39
+**El Gobierno establecerá la sede de las Secciones de Vigilancia Penitenciaria, previa audiencia de:**
+
+**Opciones:**
+- 1) La Comunidad Autónoma afectada y el Consejo General del Poder Judicial.
+- 2) La Sala de Gobierno del TSJ correspondiente y del CGPJ.
+- 3) La Consejería de Justicia de la CCAA afectada.
+- 4) El Consejo de Estado.
+
+**Respuesta correcta:** 1
+
+**Explicación (correcta):**  
+¡Muy bien! El Gobierno establecerá la sede de las Secciones de Vigilancia Penitenciaria previa audiencia de la Comunidad Autónoma afectada y el CGPJ, según el art. 92.2 LOPJ.
+
+**Explicación (errada):**  
+Lamentablemente, tu respuesta no es correcta. Según el art. 92.2 de la LOPJ, el Gobierno establecerá la sede de estas Secciones previa audiencia de la Comunidad Autónoma afectada y del CGPJ.
+
+---
+
+## Pregunta 40
+**¿Qué tipo de procedimiento no corresponde conocer a la Sección de Violencia sobre la Mujer?**
+
+**Opciones:**
+- 1) Los de nulidad del matrimonio.
+- 2) Los de filiación.
+- 3) Los que tengan por objeto la oposición a las resoluciones administrativas en materia de protección de menores.
+- 4) La mediación familiar.
+
+**Respuesta correcta:** 4
+
+**Explicación (correcta):**  
+¡Muy bien! El art. 89.9 de la LOPJ prohíbe expresamente la utilización de medios adecuados de solución de controversias, como la mediación, en los casos de violencia sobre la mujer.
+
+**Explicación (errada):**  
+Lamentablemente, tu respuesta no es correcta. El art. 89.9 de la LOPJ veda la utilización de la mediación en los asuntos competencia de estas Secciones.
+
+---
+
+## Pregunta 41
+**Las normas de reparto de asuntos entre los jueces de una misma Sección de lo Contencioso-Administrativo de un Tribunal de Instancia se aprobarán:**
+
+**Opciones:**
+- 1) Por la Sala de Gobierno del Tribunal Superior de Justicia, a propuesta de la Junta de Jueces y Juezas de la respectiva Sección.
+- 2) Por acuerdo de la Junta de Jueces y Juezas de la respectiva Sección.
+- 3) Por la Sala de Gobierno del Tribunal Superior de Justicia, previo informe de la Presidencia del Tribunal de Instancia.
+- 4) Por acuerdo de la Presidencia del Tribunal de Instancia.
+
+**Respuesta correcta:** 1
+
+**Explicación (correcta):**  
+¡Correcto! La distribución de asuntos entre los jueces de una misma Sección se aprueba por la Sala de Gobierno del TSJ, a propuesta de la Junta de Jueces y Juezas de la Sección, según el art. 167.1 de la LOPJ.
+
+**Explicación (errada):**  
+Tu respuesta es incorrecta. Según el art. 167.1 de la LOPJ, las normas de reparto se aprueban por la Sala de Gobierno del TSJ, a propuesta de la Junta de Jueces y Juezas de la respectiva Sección.
+
+---
+
+## Pregunta 42
+**Según la LOPJ, ¿quién elegirá a los Jueces de Paz sustitutos?**
+
+**Opciones:**
+- 1) El Juez de Primera Instancia e Instrucción.
+- 2) El Pleno del Ayuntamiento correspondiente.
+- 3) El Alcalde del Ayuntamiento correspondiente.
+- 4) La Sala de Gobierno del TSJ correspondiente.
+
+**Respuesta correcta:** 2
+
+**Explicación (correcta):**  
+¡Bien hecho! Según el art. 101.2 de la LOPJ, los Jueces de Paz sustitutos serán elegidos de la misma forma que los titulares, es decir, por el Pleno del Ayuntamiento correspondiente.
+
+**Explicación (errada):**  
+Lo siento, tu respuesta es incorrecta. De acuerdo con el art. 101.2 de la LOPJ, que remite al sistema de elección del titular, los Jueces de Paz sustitutos son elegidos por el Pleno del Ayuntamiento correspondiente.
+
+---
+
+## Pregunta 43
+**Según la LOPJ, ¿existe algún requisito para que una Sección de Vigilancia Penitenciaria pueda extender su jurisdicción a dos o más provincias?**
+
+**Opciones:**
+- 1) No, la Ley de Demarcación y Planta lo puede establecer libremente.
+- 2) Sí, que éstas pertenezcan a la misma Comunidad Autónoma.
+- 3) Sí, siempre que éstas sean limítrofes.
+- 4) Sí, siempre que en todas ellas exista un establecimiento penitenciario de cumplimiento de penas.
+
+**Respuesta correcta:** 2
+
+**Explicación (correcta):**  
+¡Exacto! Para que una Sección de Vigilancia Penitenciaria pueda extender su jurisdicción a dos o más provincias, es necesario que estas pertenezcan a la misma Comunidad Autónoma, según el art. 92.4 LOPJ.
+
+**Explicación (errada):**  
+Tu respuesta no es correcta. Conforme al art. 92.4 de la LOPJ, para que una Sección de Vigilancia Penitenciaria pueda extender su jurisdicción a dos o más provincias, es necesario que estas pertenezcan a la misma Comunidad Autónoma.
+
+---
+
+## Pregunta 44
+**Según el art. 168 de la LOPJ, ¿se atribuye alguna función de carácter jurisdiccional a la Presidencia de un Tribunal de Instancia?**
+
+**Opciones:**
+- 1) No, todas sus funciones son gubernativas.
+- 2) Sí, adoptar las medidas urgentes en los asuntos no repartidos cuando, de no hacerlo, pudiera quebrantarse algún derecho o producirse algún perjuicio grave e irreparable.
+- 3) Sí, todas aquellas que le delegue la Sala de Gobierno del TSJ.
+- 4) Sí, las que por la Junta de Jueces y Juezas le hubieran sido atribuidas.
+
+**Respuesta correcta:** 2
+
+**Explicación (correcta):**  
+¡Muy bien! Según el art. 168.1.h) de la LOPJ, la Presidencia puede adoptar medidas urgentes en asuntos no repartidos cuando pudiera quebrantarse algún derecho o producirse perjuicio grave e irreparable.
+
+**Explicación (errada):**  
+Lo siento, tu elección no es la correcta. El art. 168.1.h) de la LOPJ atribuye a la Presidencia la función jurisdiccional de adoptar medidas urgentes en casos específicos.
+
+---
+
+## Pregunta 45
+**El órgano competente para autorizar la entrada en un domicilio acordada por la Administración Tributaria para la aplicación de los tributos es:**
+
+**Opciones:**
+- 1) La Sección de Instrucción del Tribunal de Instancia.
+- 2) La Sección de Instrucción del Tribunal Central de Instancia.
+- 3) La Sección de lo Contencioso-Administrativo del Tribunal de Instancia.
+- 4) La Sección de lo Contencioso-Administrativo del Tribunal Central de Instancia.
+
+**Respuesta correcta:** 3
+
+**Explicación (correcta):**  
+¡Acertaste! El órgano competente para autorizar dicha entrada es la Sección de lo Contencioso-Administrativo del Tribunal de Instancia, según el art. 93.6 de la LOPJ.
+
+**Explicación (errada):**  
+Desafortunadamente, tu respuesta no es correcta. Según el art. 93.6 LOPJ, el órgano competente para autorizar la entrada en un domicilio en el marco de un procedimiento de aplicación de los tributos es la Sección de lo Contencioso-Administrativo del Tribunal de Instancia.
+
+---
+
+## Pregunta 46
+**Según el art. 21 de la LDPJ, ¿cuándo podrá el Gobierno establecer la separación de las Secciones Civiles y de Instrucción que constituyan una Sección Única?**
+
+**Opciones:**
+- 1) En aquellos partidos judiciales en los que el número de plazas de juez o magistrado que integren la Sección Única así lo aconseje.
+- 2) Sólo cuando lo justifique el volumen de litigiosidad de la circunscripción.
+- 3) Siempre que el Tribunal de Instancia esté ubicado en la misma sede que el correspondiente TSJ.
+- 4) Cuando así sea acordado por el CGPJ, previo informe del Ministerio de Justicia.
+
+**Respuesta correcta:** 1
+
+**Explicación (correcta):**  
+¡Correcto! La separación se podrá establecer a propuesta del CGPJ en los partidos judiciales en los que el número de plazas de la Sección Única así lo aconseje, de acuerdo al art. 21.1 de la LDPJ.
+
+**Explicación (errada):**  
+Tu respuesta no es correcta. Según el art. 21.1 de la LDPJ, la separación se establecerá en aquellos partidos judiciales en los que el número de plazas de la Sección Única lo aconseje.
+
+---
+
+## Pregunta 47
+**La duración del mandato del Juez de Paz se computará:**
+
+**Opciones:**
+- 1) Desde la fecha de publicación de su nombramiento en el Boletín Oficial de la Provincia.
+- 2) Desde la fecha de aceptación de su nombramiento por la Sala de Gobierno correspondiente.
+- 3) Desde la fecha de su toma de posesión.
+- 4) Desde la fecha de su elección por el Ayuntamiento correspondiente.
+
+**Respuesta correcta:** 3
+
+**Explicación (correcta):**  
+¡Exacto! La duración del mandato del Juez de Paz se computa desde la fecha de su toma de posesión, conforme al art. 20.3 del Reglamento 3/1995, de 7 de junio.
+
+**Explicación (errada):**  
+La respuesta elegida es incorrecta. Según el art. 20.3 del Reglamento 3/1995, de 7 de junio, la duración del mandato del Juez de Paz se computa desde la fecha de su toma de posesión.
+
+---
+
+## Pregunta 48
+**Contra los acuerdos de nombramiento de los Jueces de Paz:**
+
+**Opciones:**
+- 1) No cabrá recurso alguno.
+- 2) Cabe recurso de alzada ante el Pleno del CGPJ.
+- 3) Cabe recurso de reposición ante la Sala de Gobierno del TSJ correspondiente.
+- 4) Cabe recurso de apelación.
+
+**Respuesta correcta:** 2
+
+**Explicación (correcta):**  
+¡Muy bien! Contra los acuerdos de nombramiento de los Jueces de Paz, cabe recurso de alzada ante el Pleno del CGPJ, según el art. 12 del Reglamento 3/1995.
+
+**Explicación (errada):**  
+Lamentablemente, tu respuesta no es correcta. Contra los acuerdos de nombramiento de los Jueces de Paz, cabe recurso de alzada ante el Pleno del CGPJ, según el art. 12 del Reglamento 3/1995.
+
+---
+
+## Pregunta 49
+**Respecto a la especialización de plazas judiciales a que se refiere el art. 96 de la LOPJ, señale la afirmación correcta:**
+
+**Opciones:**
+- 1) En todo caso, el Acuerdo de especialización se publicará en el BOE y producirá efectos desde ese mismo momento.
+- 2) El Acuerdo de especialización producirá efectos al inicio del año siguiente a aquel en que se adopte, sin que quepa establecer otro momento.
+- 3) Los jueces afectados por el acuerdo de especialización cesarán en el conocimiento de los procesos pendientes ante los mismos.
+- 4) No podrán ser objeto de especialización por esta vía las plazas judiciales de las Secciones de Instrucción, sin perjuicio de otras medidas de refuerzo.
+
+**Respuesta correcta:** 4
+
+**Explicación (correcta):**  
+¡Muy bien! La afirmación correcta es que no podrán ser objeto de especialización por esta vía las plazas judiciales de las Secciones de Instrucción, según el art. 96.3, último párrafo, de la LOPJ.
+
+**Explicación (errada):**  
+Lamentablemente, tu respuesta no es correcta. Según el art. 96.3, último párrafo, de la LOPJ, la afirmación correcta es que no podrán ser objeto de especialización por esta vía las plazas judiciales de las Secciones de Instrucción.
+
+---
+
+## Pregunta 50
+**Los Jueces de Paz, dentro de su circunscripción, tendrán el tratamiento y precedencia:**
+
+**Opciones:**
+- 1) Que se reconozca a los Alcaldes del municipio.
+- 2) Que se reconozca a los Jueces de Primera Instancia e Instrucción.
+- 3) Que se reconozca a los Presidentes de Sala.
+- 4) Que se reconozca a los Presidentes de las Salas de Gobierno.
+
+**Respuesta correcta:** 2
+
+**Explicación (correcta):**  
+¡Muy bien! Los Jueces de Paz, dentro de su circunscripción, tendrán el tratamiento y precedencia que se reconozca a los Jueces de Primera Instancia e Instrucción.
+
+**Explicación (errada):**  
+Lamentablemente, tu respuesta no es correcta. Según el art. 103.1 LOPJ, Los Jueces de Paz, dentro de su circunscripción, tendrán el tratamiento y precedencia que se reconozca a los Jueces de Primera Instancia e Instrucción.
+
+---
+
+## Pregunta 51
+**Según el art. 4.1 de la LDPJ, el Tribunal de Instancia tomará su nombre de:**
+
+**Opciones:**
+- 1) La provincia en que se ubica.
+- 2) El municipio al que corresponde su capitalidad.
+- 3) El municipio con mayor población del partido judicial.
+- 4) La comarca judicial a la que sirve.
+
+**Respuesta correcta:** 2
+
+**Explicación (correcta):**  
+¡Muy bien! Según el art. 4.1 de la LDPJ, el Tribunal de Instancia de cada partido judicial tomará su nombre del municipio que sea su capital.
+
+**Explicación (errada):**  
+Lamentablemente, tu respuesta no es correcta. De acuerdo al art. 4.1 de la LDPJ, el Tribunal de Instancia se identificará por el nombre del municipio que sea su capital.
+
+---
+
+## Pregunta 52
+**De acuerdo con el art. 89.3 de la LOPJ, ¿quién podrá establecer Secciones de Violencia sobre la Mujer que extiendan su jurisdicción a dos o más partidos judiciales?**
+
+**Opciones:**
+- 1) La Sala de Gobierno del TSJ, a propuesta del CGPJ.
+- 2) El Consejo General del Poder Judicial, a propuesta de la Comunidad Autónoma.
+- 3) El Gobierno, por real decreto, a propuesta del CGPJ.
+- 4) El Ministerio de Justicia, por orden ministerial, oída la Comunidad Autónoma.
+
+**Respuesta correcta:** 3
+
+**Explicación (correcta):**  
+¡Muy bien! Según el art. 89.3 de la LOPJ, es el Gobierno, mediante real decreto y a propuesta del CGPJ (con informe de la CCAA), quien puede establecer estas Secciones con jurisdicción en varios partidos.
+
+**Explicación (errada):**  
+Lamentablemente, tu respuesta no es correcta. Según el art. 89.3 de la LOPJ, esta potestad corresponde al Gobierno, mediante real decreto, a propuesta del Consejo General del Poder Judicial.
+
+---
+
+## Pregunta 53
+**Las Secciones que integran un Tribunal de Instancia tienen su sede:**
+
+**Opciones:**
+- 1) En el partido que designe la Presidencia del Tribunal.
+- 2) En la capital de la provincia.
+- 3) En la capital del partido judicial.
+- 4) En la localidad que establezca la Sala de Gobierno del TSJ correspondiente.
+
+**Respuesta correcta:** 3
+
+**Explicación (correcta):**  
+¡Muy bien! Según el art. 4.1 de la LDPJ, el Tribunal de Instancia tiene su sede en la capital del partido judicial, y por tanto, las Secciones que lo integran también.
+
+**Explicación (errada):**  
+Lamentablemente, tu respuesta no es correcta. De acuerdo al art. 4.1 de la LDPJ, la sede del Tribunal de Instancia y sus Secciones se encuentra en la capital del partido judicial.
+
+---
+
+## Pregunta 54
+**La sede de las Secciones de Vigilancia Penitenciaria de los Tribunales de Instancia se establece por:**
+
+**Opciones:**
+- 1) El Gobierno, oídos previamente la CCAA afectada y el CGPJ.
+- 2) El Ministerio de Justicia, oídos previamente la CCAA y el CGPJ.
+- 3) El CGPJ, oída previamente la CCAA.
+- 4) La Sala de Gobierno correspondiente, previo informe del CGPJ.
+
+**Respuesta correcta:** 1
+
+**Explicación (correcta):**  
+¡Muy bien! De acuerdo al art. 92.2 de la LOPJ y 8.3 de la LDPJ, la sede de estas Secciones se establece por el Gobierno, oídos previamente la CCAA afectada y el CGPJ.
+
+**Explicación (errada):**  
+Lamentablemente, tu respuesta no es correcta. Según el art. 92.2 de la LOPJ y 8.3 de la LDPJ, la sede de estas Secciones la establece el Gobierno, oídos previamente la CCAA afectada y el CG
+
+---
+

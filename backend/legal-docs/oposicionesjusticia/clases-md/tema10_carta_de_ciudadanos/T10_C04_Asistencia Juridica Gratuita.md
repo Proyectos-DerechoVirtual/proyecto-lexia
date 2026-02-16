@@ -1,0 +1,62 @@
+# Carta de Derechos de los Ciudadanos
+
+## Asistencia Juridica Gratuita
+
+**Tema:** Carta de Derechos de los Ciudadanos  
+**Clase:** T10_C04  
+**Archivo:** T10_C04_Asistencia Juridica Gratuita.txt  
+**Tipo:** Material de Clase  
+**Categoría:** Oposiciones de Justicia  
+
+---
+
+Muy buenas, seguimos en la Carta de Derechos de los Ciudadanos ante la Justicia. En los vídeos anteriores has podido ver que hemos hablado de esta carta como un auténtico catálogo de derechos de los que goza el usuario de la justicia, es decir, el ciudadano. Tienes que ir a esos vídeos para saber en qué consisten los derechos de Información, de Atención y Gestión, de Identificación de actuaciones y funcionarios, derechos lingüísticos, así como los derechos frente a los profesionales que asisten y representan al ciudadano, como los abogados, los procuradores y los graduados sociales.
+
+
+Recuerda que la carta se dividía en tres partes, para que te sitúes estamos en la tercera parte, habla de la justicia gratuita y que además sea de calidad. Es un concepto ambiguo una vez más, veamos en este vídeo en qué se materializa. Pero antes veamos un breve recordatorio de qué es la justicia gratuita para que veas que luego establece en la carta que tiene que ser una justicia gratuita de calidad.
+
+
+¿Qué es la justicia gratuita? La Constitución en su artículo 119 reconoce el derecho a la justicia gratuita para quienes acrediten insuficiencia de recursos para litigar, también cuando así lo disponga la ley en casos específicos. La justicia gratuita es un servicio público prestado por abogados adscritos al turno de oficio para que sus beneficiarios puedan acceder a la justicia para cumplir con el principio de igualdad y el derecho a la tutela efectiva. La asistencia jurídica gratuita regulada en la ley 1.1996 de 10 de enero de asistencia jurídica gratuita, cuya única reforma hasta ahora la ha producido la ley de enjuiciamiento civil que ha modificado el artículo 6 que se refiere a la asistencia pericial gratuita.
+
+
+¿Quiénes tienen derecho a la asistencia jurídica gratuita? En cuanto a las personas físicas, que es lo que nos interesa aquí como ciudadano, tienen derecho cuando acrediten insuficiencia de medios económicos para litigar. Con independencia de sus medios económicos, los trabajadores y beneficiarios de la seguridad social para defender sus derechos laborales, las víctimas de violencia de género, de terrorismo y de trata de seres humanos en juicios por su condición de víctima, los menores de edad y las personas con discapacidad psíquica cuando sean víctimas de situaciones de abuso o maltrato. Eso sí, el derecho a la asistencia jurídica gratuita se pierde si se archiva o se dicta sentencia absolutoria en el procedimiento.
+
+
+Aún así, no hay obligación de abonar los gastos ocasionados. Veamos los requisitos para poder obtener este derecho. Se reconocerá el derecho de asistencia jurídica gratuita a aquellas personas que careciendo de patrimonio suficiente cuenten con unos recursos e ingresos económicos brutos computados anualmente por todos los conceptos y por unidad familiar que no superen los siguientes umbrales, dos veces, dos veces y medio o el triple del indicador de renta de efectos múltiples vigente teniendo en cuenta el número de integrantes de la unidad familiar.
+
+
+Importante, el derecho a la asistencia jurídica gratuita sólo podrá reconocerse a quienes litiguen en defensa de derechos o intereses propios o ajenos cuando tengan fundamento en una representación legal. En este último caso, los requisitos para la obtención del beneficio vendrán referidos al representado. Veamos todo el procedimiento pero de una forma escueta.
+
+
+La solicitud podrá presentarse por cualquier medio, incluyendo los previstos en la normativa de acceso electrónico de los ciudadanos a los servicios públicos. La solicitud de reconocimiento no suspende el curso del proceso. No obstante, a fin de evitar que el transcurso de los plazos pueda provocar la preclusión de un trámite o la indefensión de cualquiera de las partes, el letrado de la Administración de Justicia de oficio o a petición de éstas podrá dedicar la suspensión hasta que se produzca la decisión sobre el reconocimiento o denegación del derecho a litigar gratuitamente o la designación provisional de abogado y procurador, sea su intervención preceptiva o requerida en interés de la Justicia, siempre que la solicitud del derecho se hubiera formulado en los plazos establecidos en las leyes procesales.
+
+
+La solicitud se insta ante el colegio de abogados del lugar en el que se haya el juzgado o tribunal que haya de conocer del proceso principal para el que aquel se solicita o ante el juzgado de su domicilio. En este último caso, el órgano judicial dará traslado de la petición al colegio de abogados territorialmente competente. El reconocimiento se encomienda a un organismo de carácter administrativo, que es la Comisión de Asistencia Jurídica Gratuita, que se constituye en cada capital de provincia, en las ciudades de Ceuta y Merilla, en cada isla en que exista uno o más partidos judiciales.
+
+
+Pormentera, por ejemplo, no tiene. ¿Qué hacemos ante una insuficiencia económica sobrevenida? 1. No se reconocerá el derecho a la asistencia jurídica gratuita ni a prestaciones distintas de la solicitada al actor, una vez presentada la demanda, ni al demandado una vez formulada su contestación, salvo que en su solicitud se acredite ante la Comisión de Asistencia Jurídica Gratuita que las circunstancias y condiciones necesarias para obtener a aquel sobrevinieron con posterioridad a las fechas de la demanda y la contestación respectivamente. Importante, el reconocimiento del derecho a la asistencia jurídica gratuita por circunstancias sobrevenidas no tiene carácter retroactivo.
+
+
+No procederá a la solicitud del derecho cuando el proceso ya hubiera finalizado mediante resolución firme, salvo que se refiere a su ejecución. ¿Cuál es su extensión temporal? La asistencia jurídica gratuita en el transcurso de una misma instancia se extiende a todos sus trámites e incidentes incluida la ejecución, pero no podrá aplicarse a un proceso distinto. El derecho se mantendrá a sí mismo para la interposición y sucesivos trámites del recurso.
+
+
+Hasta aquí has visto de forma genérica el derecho de asistencia jurídica gratuita, pero centrémonos ahora en el contenido de este derecho y en el contenido que remarca la carpa. Comprende las siguientes prestaciones. Asesoramiento y orientación previos al proceso, así como información sobre la posibilidad de recurrir a la mediación u otros medios extrajudiciales de solución de conflictos.
+
+
+Asistencia del abogado, al detenido o preso que no lo hubiera designado, para cualquier dirigencia policial que no sea consecuencia de un procedimiento penal en curso, cuando sea su primera comparecencia ante un órgano jurisdiccional, cuando ésta se lleva a cabo por medio de auxilio judicial o el detenido o preso no hubiera designado letrado en el lugar donde se presta. Defensa y representación gratuita por abogado y procurador, en cualquier procedimiento judicial siempre que la intervención de dichos profesionales sea preceptiva o, cuando no siéndola, sea expresamente requerida por el juzgado o tribunal mediante automotivado para garantizar la igualdad de partes en el proceso. Inserción gratuita de anuncios o edictos en el curso del proceso los cuales hayan de ser preceptivamente publicados en periódicos oficiales.
+
+
+La exención del pago de tasas judiciales y depósitos necesarios para la interposición de recursos. Asistencia pericial gratuita en el proceso o cargo del personal técnico adscrito a los órganos jurisdiccionales o en su defecto a cargo de funcionarios, organismos o servicios técnicos dependientes de las administraciones públicas. La reducción del 80% de los derechos arancelarios que correspondan por el otorgamiento de escrituras públicas así como por la obtención de copias y testimonios notariales.
+
+
+¿Cuáles serían las obligaciones de los profesionales en base al derecho que ostenta el ciudadano? Desempeñarán su asistencia y representación de forma real y efectiva hasta la terminación del proceso y, en su caso, la ejecución. Las actuaciones procesales en ésta se produjerán dentro de los dos años siguientes a la resolución dictada sin perjuicio del efecto de las causas de renuncia o excusa que estén previstas en la ley. Sólo en el proceso penal podrán los abogados excusarse de la defensa para ello deberá de concurrir un motivo real y justo, lo cual deberá de formarse dentro de los tres días siguientes a su designación y resolverse en el plazo de cinco días desde su presentación.
+
+
+Por último, vayamos a la carta. Dice una justicia gratuita de calidad, ¿pero esto en qué se traduce? Una justicia gratuita de calidad se traduce en que el ciudadano tiene derecho a ser asesorado y defendido gratuitamente por un abogado suficientemente cualificado y a ser representado por un procurador cuando tenga legalmente derecho a la asistencia jurídica gratuita. Los colegios respectivos velarán por el correcto desarrollo de su función por parte del personal designado.
+
+
+El ciudadano tiene derecho a exigir una formación de calidad al profesional designado por el turno de oficio en los supuestos de asistencia jurídica gratuita. Los colegios de abogados adoptarán las medidas adecuadas para asegurar el cumplimiento de este derecho. Y hasta aquí el vídeo relativo a la asistencia jurídica gratuita en la Carta de los Derechos de los Ciudadanos.
+
+
+Nos vemos en el siguiente vídeo.
+

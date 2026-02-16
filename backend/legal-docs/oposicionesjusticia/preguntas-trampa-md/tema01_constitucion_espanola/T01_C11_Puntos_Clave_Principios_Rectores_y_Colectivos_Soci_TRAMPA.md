@@ -1,0 +1,126 @@
+# Puntos Clave: Principios Rectores y Colectivos Sociales (Arts. 48 a 53 CE)
+
+**📚 Tema:** Constitución Española  
+**🎓 Clase:**  Titulo I. Capitulo III  arts. 48 a 52. Principios Rectores III  
+**🎯 Tipo:** Pregunta trampa / Punto clave  
+**📋 Archivo:** T01_C11_Titulo I. Capitulo III_ arts. 48 a 52. Principios Rectores III_TRAMPA.txt
+
+---
+
+Puntos Clave: Principios Rectores y Colectivos Sociales (Arts. 48 a 53 CE)
+
+1. Artículo 48 CE – Juventud
+RECUERDA
+- Estado debe fomentar la participación libre y eficaz de los jóvenes en ámbitos político, social, económico y cultural.
+- Principal organismo: Instituto de la Juventud.
+- Objetivos: igualdad de oportunidades, participación libre, colaboración con administraciones.
+
+TEN CUIDADO
+- No es simbólico: existen políticas activas (INJUVE, Erasmus+, microcréditos, etc.).
+
+MNEMOTÉCNICA
+JUVE: Jóvenes, Unidos en sociedad, Vida pública, Empoderamiento
+📌 "JUVE: juventud en marcha, no en papel".
+
+---------------------------------------------------
+
+2. Artículo 49 CE – Personas con discapacidad
+RECUERDA
+- Mandato de integración y atención efectiva de personas con discapacidad.
+- Reforma reciente eliminó término "disminuidos" y lo adaptó a Convención ONU.
+- Amplio desarrollo legal: RDL 1/2013, Ley 8/2021, RD 888/2022.
+
+TEN CUIDADO
+- Reconoce ejercicio de derechos constitucionales en condiciones de igualdad.
+
+MNEMOTÉCNICA
+INCLUIR: Integración, Normativa viva, Curatela, Ley general, Universalidad, Igualdad, Reforma
+📌 "INCLUIR: más que protección, integración real".
+
+---------------------------------------------------
+
+3. Artículo 50 CE – Tercera edad
+RECUERDA
+- Estado debe garantizar suficiencia económica y servicios sociales específicos.
+- Prestaciones: pensiones, atención social (Ley 39/2006: dependencia).
+
+TEN CUIDADO
+- No se limita a pensiones: incluye SAT, ayudas domiciliarias, teleasistencia, centros de día.
+
+MNEMOTÉCNICA
+MAYOR: Medidas sociales, Atención continua, Yuda domiciliaria, Ocio saludable, Renta digna
+📌 "MAYOR: cuidado integral para quien ya dio todo".
+
+---------------------------------------------------
+
+4. Artículo 51 CE – Consumidores y usuarios
+RECUERDA
+- Se garantiza seguridad, salud, intereses económicos y derecho a información y asociación.
+- Busca equilibrar mercado frente a grandes sociedades productoras.
+- Se desarrolla en Ley 26/1984 y LO 1/2002.
+
+TEN CUIDADO
+- Abarca protección, información, regulación comercio interior y exterior, derecho de asociación.
+
+MNEMOTÉCNICA
+USAR: Usuarios, Salud protegida, Acción de cesación, Reclamación
+📌 "USAR: el derecho del consumidor está en tu mano".
+
+---------------------------------------------------
+
+5. Artículo 52 CE – Asociaciones profesionales
+RECUERDA
+- Reconoce a Cámaras de Comercio como asociaciones profesionales con regulación legal y democrática.
+- Diferencia: Colegios profesionales (interés público profesional), organizaciones profesionales (interés económico).
+
+TEN CUIDADO
+- Son entidades corporativas con funciones públicas.
+- No implica obligación económica salvo cuota legal (STC 107/1996).
+
+MNEMOTÉCNICA
+CAMARA: Corporativa, Asesora, Miembros agrupados, Autónoma, Representativa, Apoyo a empresas
+📌 "CAMARA: institución puente entre empresa y Estado".
+
+---------------------------------------------------
+
+6. Artículo 53.3 CE – Naturaleza de los principios rectores (aplicable a los anteriores)
+RECUERDA
+- Son mandatos normativos, no derechos fundamentales.
+- Vinculan actuación pública, pero no son directamente exigibles.
+
+TEN CUIDADO
+- No confundir con derechos amparables ante TC.
+- Solo alegables conforme a ley de desarrollo.
+
+MNEMOTÉCNICA
+PRINCE: Principios, Rectoras, Informan leyes, No amparables, Condicionados a ley, Efecto indirecto
+📌 "PRINCE: los principios no mandan solos, necesitan ley".
+
+---
+
+## 📊 **Información del chunk:**
+
+- **Chunk 1** de 1
+- ❌ Sin recordatorios
+- ❌ Sin advertencias  
+- ❌ Sin mnemotécnica
+
+## 🔍 **Metadata:**
+
+```json
+{
+  "topicName": "tema01_constitucion_espanola",
+  "topicTitle": "Constitución Española",
+  "topicNumber": 1,
+  "classTitle": " Titulo I. Capitulo III  arts. 48 a 52. Principios Rectores III",
+  "classNumber": "T01_C11",
+  "questionTitle": "Puntos Clave: Principios Rectores y Colectivos Sociales (Arts. 48 a 53 CE)",
+  "questionNumber": null,
+  "chunkType": "question",
+  "chunkIndex": 0,
+  "hasReminder": false,
+  "hasWarning": false,
+  "hasMnemonic": false,
+  "embeddingModel": "text-embedding-3-large"
+}
+```

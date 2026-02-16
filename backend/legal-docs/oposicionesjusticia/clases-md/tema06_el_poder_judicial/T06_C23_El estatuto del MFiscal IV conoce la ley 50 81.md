@@ -1,0 +1,71 @@
+# El Poder Judicial
+
+## El estatuto del MFiscal IV conoce la ley 50 81
+
+**Tema:** El Poder Judicial  
+**Clase:** T06_C23  
+**Archivo:** T06_C23_El estatuto del MFiscal IV conoce la ley 50 81.txt  
+**Tipo:** Material de Clase  
+**Categoría:** Oposiciones de Justicia  
+
+---
+
+Muy buenos días opositores, bienvenidos a una nueva clase de Derecho Virtual. Ya saben lo que toca, continuamos con el tema del Ministerio Fiscal y sus diferentes órganos. Como recordarás, nos centramos en el Estatuto Orgánico del Ministerio Fiscal, la ley 50.981. Te recuerdo un poco lo que llevamos visto hasta hoy.
+
+
+En las clases anteriores, os hablé del propio Ministerio Fiscal y dentro de su jerarquía del Consejo Fiscal, la Junta de Fiscales Superiores, Fiscalías Superiores de las Comunidades Autónomas, Fiscalía del Tribunal Supremo, Fiscalía ante el Tribunal Constitucional y la Fiscalía de la Audiencia Nacional. Pues bien, dentro del Ministerio Fiscal existen otros órganos. Hoy nos vamos a enfocar en las Fiscalías Especiales.
+
+
+Se trata de organismos encargados de investigar y perseguir delitos específicos o complejos dentro de los sistemas públicos. Generalmente están diseñadas para abordar áreas de interés especial, como corrupción, crimen organizado, violencia de género, delitos financieros, entre otras. Estas Fiscalías cuentan con personal especializado y recursos adicionales para llevar a cabo investigaciones exhaustivas en sus áreas de competencia.
+
+
+Su objetivo principal es garantizar una respuesta efectiva y especializada a ciertos tipos de delitos que requieren atención y enfoque particulares. ¿Cuáles son estas Fiscalías que se asumen a llamar Especiales? Te cuento, tienes que saber que estas Fiscalías son la Fiscalía Antidroga y la Fiscalía Ante Confusión y Contra la Criminalidad Organizada. Pues bien, respecto a la Fiscalía Antidroga, tienes que saber que tiene como principal función investigar y perseguir los delitos relacionados con el tráfico y consumo de drogas.
+
+
+Vamos, esos tres se regulan en el artículo 368 del Código Penal. Para que lo entiendas, estas pueden ser algunas de ellas. La investigación y persecución de delitos relacionados con drogas, es decir, la Fiscalía Antidroga se encarga de investigar y llevar a juicio los delitos relacionados con el tráfico, distribución, producción y posesión de sustancias estupefacientes.
+
+
+La colaboración con otras autoridades, es decir, trabaja en estrecha colaboración con otros organismos y fuerzas de seguridad, como la Policía Nacional, la Guardia Civil y la Agencia Tributaria, para recopilar pruebas y llevar a cabo operaciones contra el tráfico de drogas. La coordinación internacional en la lucha contra el tráfico de drogas es un problema global y la Fiscalía Antidroga colabora con autoridades judiciales y fiscales de otros países para abordar casos transaccionales y cooperar en la tradición de personas implicadas en delitos relacionados con drogas. La prevención y concienciación, es decir, además de la persecución penal, la Fiscalía Antidroga puede participar en iniciativas de prevención y concienciación sobre los riesgos y consecuencias del consumo de drogas.
+
+
+Urdmo analiza la información recibida sobre posibles casos de tráfico de drogas y decide si es necesario abrir investigaciones formales, así como también lleva a cabo la acusación en los juicios relacionados con delitos de tráfico de drogas, presentando pruebas y argumentos legales para sostener la acusación. En España, la Fiscalía Antidroga forma parte del Ministerio Fiscal y opera en coordinación con otras fiscalías especializadas y fuerzas de seguridad. Te pongo un ejemplo.
+
+
+Supongamos que la Fuerza de Seguridad, recibiendo información sobre una red de narcotraficantes, coopera en varias regiones de España. La información sugiere que la organización se dedica a la importación y distribución de grandes cantidades de drogas ilegales, como cocaína y heroína. Ante esta situación, la Fiscalía Antidroga podría llevar a cabo unas siguientes acciones.
+
+
+Para comenzar, la Fiscalía Antidroga examina detenidamente la información recibida, evaluando su veracidad y relevancia, pudiendo decidir abrir una investigación formal basada en la gravedad de la situación de evidencia disponible. Además, la baja y estrecha colaboración con la Policía Nacional, la Guardia Civil y otros organismos de seguridad para recopilar pruebas, realizar seguimientos y planificar operativos para desmantelar las organizaciones criminales. Una vez recopiladas pruebas suficientes, la Fiscalía puede solicitar al juez la admisión de órdenes de detención contra los sospechosos y autorizaciones para llevar a cabo registros de lugares vinculados con la actividad delictiva, como almacenes o propiedades asociadas a la manipulación.
+
+
+Tras la detención de los implicados, la Fiscalía Antidroga presenta los cargos correspondientes en el juicio, utilizando las pruebas recopiladas para respaldar la actuación. Importante saber que, dado que estas organizaciones a menudo operan a nivel internacional, la Fiscalía Antidroga podría colaborar con fiscales de otros países para abordar aspectos transaccionales del caso, como extradición de sospechosos o coordinación en la confiscación de activos. Como hemos visto, esta Fiscalía tiene la tarea de investigar y perseguir delitos relacionados con el tráfico, destrucción y producción de drogas ilícitas.
+
+
+Imaginemos, en un caso específico, podría liderar la investigación contra una red de narcotraficantes cooperativas a nivel internacional, coordinando con agencias de aplicación de la ley, recopilando pruebas y presentando a acusaciones para desmantelar que un criminal y llevar a los responsables ante la justicia. Pues bien, chicos, ¿se han entendido hasta aquí? Toca ahora el turno de la Fiscalía Extensionizada en Anticorrupción y Contra la Criminalidad Organizada. Quédate con que desempeña un papel crucial en la persecución y prevención de delitos graves que afecten a la estabilidad institucional y a la sociedad en su momento.
+
+
+La Fiscalía Anticorrupción tiene la responsabilidad de investigar y perseguir delitos relacionados con la corrupción en el ámbito público y privado. Busca identificar y llevar ante la justicia a funcionarios públicos, políticos y otras personas que hayan participado en actos de corrupción. Trabaja en estrecha colaboración con organismos especializados, como comisiones anticorrupción y agencias de investigación, para abordar eficazmente los casos de corrupción y busca la confiscación de bienes obtenidos directamente a través de las prácticas corruptas.
+
+
+En lo que respecta a la Fiscalía Contra la Criminalidad Organizada, se encarga de investigar y perseguir delitos cometidos por organizaciones criminales reguladas en el artículo 570bis de nuestro Código Penal, como el tráfico de drogas, la trata de personas, el ranqueo de dinero y otros delitos graves. Trabaja para desmantelar y debilitar las organizaciones criminales, deteniendo a sus líderes y miembros de la Fiscalía Contra la Criminalidad Organizada. Colabora con agencias de seguridad, como la Policía y otros organismos encargados de la apresación de la ley, para coordinar estrategias y llevar a cabo operativos contra la criminalidad organizada.
+
+
+También se encarga de la acusación en huesos relacionados con la criminalidad organizada, presentando pruebas que repalden los cargos contra los acusados. Estas Fiscalías suelen contar con fiscales especializados, personal técnico y recursos necesarios para abordar la complejidad de los casos de corrupción y criminalidad. Además, pueden colaborar a nivel nacional e internacional, ya que estos delitos a menudo trafican en fronteras.
+
+
+Su labor contribuye a mantener la integridad del sistema judicial y a fortalecer la lucha contra fenómenos delictivos que amenazan la estabilidad social. Imaginemos un escenario en el que se descubre un caso de corrupción a gran escala dentro de una entidad gubernamental. Altos funcionarios, incluyendo directores y empleados de nivel superior, están involucrados en un esquema de malversación de fondos públicos mediante contratos fraudulentos y sobornos.
+
+
+Al mismo tiempo, se sospecha que una red criminal organizada está lavando dinero obtenido ilícitamente a través de estas actividades corruptas. Pues bien, pensemos un caso en el que la Fiscalía contra la corrupción y la criminalidad organizada se enfrenta a una trama de corrupción a nivel gubernamental. En este escenario, la Fiscalía podría investigar cárceles corruptas entre funcionarios públicos, empresarios y políticos.
+
+
+Coordinaría acciones con unidades especializadas, examinaría transacciones financieras, entrevistaría testigos clave y presentaría cargos contra aquellos involucrados en actividades ilícitas para salvaguardar la integridad del sistema y perseguir la justicia. Hemos llegado al final de la clase, opositores. Os resumo todo lo referente a la clase de hoy.
+
+
+La Fiscalía antidrogal especializa en combatir delitos relacionados con drogas, buscando desmantelar organizaciones de narcotráfico a nivel nacional e internacional. En contraste, la Fiscalía contra la corrupción y la criminalidad organizada se dedica a casos de corrupción en distintos ámbitos, investigando y presentando cargos contra los públicos y entidades involucradas en actividades corruptas y crímenes organizadas. Ambas Fiscalías comparten el objetivo de asegurar el cumplimiento de la ley, preservar la integridad institucional y buscar la justicia en un área específica de importancia social y legal.
+
+
+Pues nada opositores, hasta aquí la clase de hoy. Espero haberos ayudado. Nos vemos en la siguiente.
+
+
+¡Mucho ánimo!
+

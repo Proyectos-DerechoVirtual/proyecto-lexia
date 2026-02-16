@@ -1,0 +1,53 @@
+# El Poder Judicial
+
+## Responsabilidad de Jueces y Magistrados
+
+**Tema:** El Poder Judicial  
+**Clase:** T06_C08  
+**Archivo:** T06_C08_Responsabilidad de Jueces y Magistrados.txt  
+**Tipo:** Material de Clase  
+**Categoría:** Oposiciones de Justicia  
+
+---
+
+Muy buenas a todos, bienvenidos a otra clase más. Hoy por fin terminamos con el Estatuto de Jueces y Magistrados y vamos a ver la última de las características de los mismos, la cual aparece prevista en el artículo 117 de la Constitución. ¿Recordáis cuál puede ser? Se trata de la responsabilidad.
+
+
+Muy bien, quiero haceros aquí una pregunta. ¿Puede un juez o magistrado hacer lo que le dé la real gana? Por ejemplo, ¿puede un juez condenar a una persona por un delito que no ha cometido saltándose las pruebas que demostraban efectivamente su inocencia? Realmente poder puede hacerlo, pero va a haber consecuencias y concretamente este juez va a incurrir en responsabilidad penal. Por tanto, podemos decir que los jueces son responsables de las actuaciones que realizan en el ejercicio de sus cargos.
+
+
+Así, esto es lo que vamos a examinar en esta breve clase y podemos distinguir tres tipos de responsabilidad. En primer lugar está la responsabilidad penal, que aparece prevista en los artículos 405 a 410 de la Ley Orgánica del Poder Judicial. En este caso hay que destacar que hay ciertas conductas de jueces o magistrados que son constitutivas de delito y que se exigirán con arreglo a la ley, concretamente aplicando el Código Penal.
+
+
+Ese sería el caso del juez que citamos al principio de la clase, el cual habría cometido un delito de prevaricación. Este consiste en dictar a sabiendas una sentencia o resolución judicial injusta y aparece previsto en los artículos 446 y 447 del Código Penal. A este delito hay que añadir también el delito de negativa a juzgar del artículo 448 del Código Penal y el de retardo malicioso en la Administración de Justicia del artículo 449 del Código Penal, los cuales se analizan en el curso correspondiente de Derecho Penal, parte especial.
+
+
+Y con esto está zanjado el tema de la responsabilidad penal. Pasamos ahora con la siguiente, que es la responsabilidad civil, la cual aparece prevista en los artículos 411 a 413 de la Ley Orgánica del Poder Judicial. Ahora bien, id a echarle un vistazo a estos artículos.
+
+
+¿Veis algo raro en ellos? Efectivamente, como podéis ver, estos se encuentran derogados actualmente. Entonces, si un juez comete una negligencia que no es constitutiva de delito, pero ha causado un daño o un perjuicio patrimonial a una de las partes, este queda totalmente impune y exento de responsabilidad, pues en principio, actualmente, el perjudicado no podría reclamar contra el juez o magistrado de manera directa. Ahora bien, eso no significa que no tenga derecho a ser resarcido.
+
+
+Entonces, ¿qué ha sucedido con esta responsabilidad civil de jueces y magistrados? Pues esta fue modificada profundamente en 2015 y lo que se ha hecho es eliminar la responsabilidad directa de los mismos. Eso sí, esto no quiere decir que esta negligencia vaya a quedar exenta de indemnización, sino que a día de hoy se ha cambiado todo el régimen y así el artículo 296 de la Ley Orgánica del Poder Judicial es la que determina el régimen actual de responsabilidad civil de jueces y magistrados. Lo que sucede en estos casos es que cuando un juez o magistrado comete una negligencia en el ejercicio de su cargo, la indemnización de los daños y perjuicios los va a asumir el Estado mediante error judicial o funcionamiento anormal de la Administración de Justicia, siendo estos los dos supuestos que dan lugar en la indemnización de los daños y perjuicios.
+
+
+Por tanto, a día de hoy las negligencias cometidas por jueces o magistrados van a quedar subsumidas en una de estas dos categorías. Esto la verdad es que está muy bien, pero chirría un poco, ¿no? ¿Significa esto que el juez o magistrado que ha sido negligente no va a responder de su error de ninguna manera? Ni mucho menos. El propio artículo 296 de la Ley Orgánica del Poder Judicial indica que en los casos de dolo o culpa grave el Estado podrá exigir lo pagado por vía administrativa, además de que pueda haber incluso responsabilidad disciplinaria.
+
+
+Y para terminar con la clase y conectar con esto último vamos a examinar la responsabilidad disciplinaria de jueces y magistrados. ¿Dónde está prevista ésta? Se encuentran los artículos 414 a 427 de la Ley Orgánica del Poder Judicial. Esta responsabilidad se encuentra prevista para aquellos casos en que los jueces y magistrados incumplen algunos de los deberes o incompatibilidades o prohibiciones que hemos visto anteriormente, como podría ser, por ejemplo, un juez que tuviese una empresa y la gestionase efectivamente él mismo, lo que sería incurrir en una incompatibilidad absoluta a las previstas en el artículo 389 de la Ley Orgánica del Poder Judicial.
+
+
+En estos supuestos se impone al juez una falta disciplinaria. Sin embargo, éstas ya las hemos mencionado en una clase anterior. ¿Recordáis dónde se encontraban las mismas? Se encuentran los artículos 417, 418 y 419 de la Ley Orgánica del Poder Judicial.
+
+
+No vamos a citar las mismas porque son bastante extensas y simplemente vamos a destacar que se puede clasificar en muy graves, graves y leves. La principal consecuencia cuando un juez comete una infracción disciplinaria es que se le va a imponer una sanción, las cuales están previstas en el artículo 420 de la Ley Orgánica del Poder Judicial y son, entre otras, la advertencia, la multa, el traslado forzoso, la suspensión de hasta tres años y la separación. Y con esto hemos finalizado la clase.
+
+
+Vamos a ver ahora un breve resumen de la misma en la que repasamos todo lo aprendido. En primer lugar, los jueces a día de hoy son actualmente responsables distinguiendo tres tipos de responsabilidad por sus actos. La responsabilidad penal, entre otras, por los delitos de prevaricación negativa a juzgar y retardo malicioso de la Administración de Justicia.
+
+
+Por otro lado, la responsabilidad civil, que desde 2015 ha sido asumida por el Estado, encargándose de la indemnización por error judicial o por funcionamiento anormal de la Administración de Justicia. Ahora bien, en caso de dolo o culpa grave puede exigirlo pagado por vía administrativa al juez correspondiente. Y por último, estaría la responsabilidad disciplinaria, en la que se pueden distinguir faltas muy graves, graves y leves, además de que todas ellas dan lugar a un procedimiento sancionador en el que se impondrá al juez o magistrado alguna de las sanciones del artículo 420 de la Ley Orgánica del Poder Judicial.
+
+
+Y con esto sí que terminamos la clase y por fin también acabamos con el Estatuto Personal de Jueces y Magistrados. Esperemos que os haya gustado y si tenéis cualquier duda dejarla en comentarios. Un saludo y nos vemos en la próxima.
+

@@ -1,0 +1,37 @@
+
+NORMAS FORALES Y CONTROL ANTE EL TC
+
+1. Naturaleza y jerarquía de las normas forales vascas
+RECUERDA: Las Juntas Generales aprueban normas forales. En materia tributaria (Conciertos Económicos), tienen rango de ley autonómica dentro del bloque estatutario-paccionado (art. 37.3 Estatuto de Gernika y Ley 27/1983).
+TEN CUIDADO: No confundir con leyes autonómicas ordinarias. Fuera del ámbito tributario, su control corresponde a la jurisdicción contencioso-administrativa, no al TC.
+REGLA MNEMOTÉCNICA: NFJ: Normas Forales – Jerarquía
+
+2. Traslado del control al TC: recurso y cuestión
+RECUERDA: Desde 2010, recursos y cuestiones de inconstitucionalidad sobre normas forales tributarias van al TC, no al TS. Se aplican mismas reglas de legitimación, plazos (3 meses) y efectos erga omnes que para leyes estatales (Título V bis LOTC).
+TEN CUIDADO: Intentar recurso contencioso ordinario → inadmisión por falta de jurisdicción.
+REGLA MNEMOTÉCNICA: TCT: Traslado Control al TC
+
+3. “Blindaje” foral: doble vía sin nuevo objeto
+RECUERDA: La LO 1/2010 habilitó recurso y cuestión para normas forales, sin crear objeto procesal autónomo. El parámetro sigue siendo la CE. Busca homogeneizar el control y evitar contradicciones entre TS y TC (art. 84 bis LOTC).
+TEN CUIDADO: No existe “recurso foral” autónomo. Se usa formulario art. 32 LOTC.
+REGLA MNEMOTÉCNICA: BDF: Blindaje Doble Foral
+
+4. Legitimación activa y plazo
+RECUERDA: Legitimados: Gobierno, Defensor del Pueblo, 50 diputados o senadores, Gobiernos o Parlamentos autonómicos. Plazo: 3 meses desde publicación de la norma foral fiscal (art. 86 bis LOTC).
+TEN CUIDADO: Falta de firma del Presidente del Gobierno o de mayoría absoluta de la Cámara autonómica = inadmisión. Plazo de caducidad, sin prórroga.
+REGLA MNEMOTÉCNICA: LP3: Legitimación y Plazo 3 meses
+
+5. Conflicto en defensa de la autonomía foral
+RECUERDA: Juntas y Diputaciones Forales pueden plantear conflicto positivo contra leyes estatales que menoscaben autonomía tributaria histórica. Procedimiento igual al conflicto Estado-CAA: requerimiento previo al Gobierno y 2 meses para contestar (arts. 62–69 y 87 quater LOTC).
+TEN CUIDADO: No procede contra reglamentos ni leyes autonómicas vascas. Debe versar sobre núcleo foral.
+REGLA MNEMOTÉCNICA: CAF: Conflicto Autonomía Foral
+
+6. Motivo único del conflicto: lesión de la autonomía foral
+RECUERDA: La demanda debe basarse solo en infracción de competencias tributarias forales reconocidas por Estatuto o Ley del Concierto. No caben derechos fundamentales ni otras materias (art. 87 quater.2 LOTC).
+TEN CUIDADO: Mezclar motivos heterogéneos divide proceso: parte al TC y resto a jurisdicción ordinaria.
+REGLA MNEMOTÉCNICA: MUF: Motivo Único Foral
+
+7. Efecto limitado de la sentencia estimatoria
+RECUERDA: Si el TC estima, la norma estatal deviene inaplicable en Bizkaia, Gipuzkoa o Álava, pero no se anula para toda España. Es inoponibilidad parcial (art. 87 quater.4 LOTC).
+TEN CUIDADO: No desaparece la ley estatal. Sigue vigente fuera del territorio afectado y aplicable por la Agencia Tributaria estatal.
+REGLA MNEMOTÉCNICA: ELI: Efecto Limitado Inaplicación

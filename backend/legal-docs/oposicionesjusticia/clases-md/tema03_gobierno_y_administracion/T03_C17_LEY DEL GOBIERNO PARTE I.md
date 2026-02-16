@@ -1,0 +1,107 @@
+# Gobierno y Administración
+
+## LEY DEL GOBIERNO PARTE I
+
+**Tema:** Gobierno y Administración  
+**Clase:** T03_C17  
+**Archivo:** T03_C17_LEY DEL GOBIERNO PARTE I.txt  
+**Tipo:** Material de Clase  
+**Categoría:** Oposiciones de Justicia  
+
+---
+
+Bienvenido o bienvenida a una nueva clase de Derecho Virtual. En la clase de hoy analizaremos la normativa que regula los aspectos esenciales de la organización y competencias del Ejecutivo, el cual desempeña un papel crucial en la toma de decisiones y en la ejecución de las políticas públicas. Hoy exploraremos los aspectos clave de la Ley 50-1997, de 27 de noviembre del Gobierno, comprenderemos cómo se estructura el Poder Ejecutivo en España, las atribuciones y responsabilidades que recaen sobre él y la importancia de este órgano en el desarrollo y la implementación de las políticas que afectan a la ciudadanía.
+
+
+¿Estás preparado? ¿Estás preparada? ¡Comenzamos! En primer lugar, y como ya sabes, la Constitución de 1978 sienta los principios fundamentales y criterios básicos que rigen el régimen jurídico del Gobierno, siendo artículo clave que establece la posición constitucional del Gobierno el artículo 97. Al propio tiempo, el artículo 98 de la Constitución contiene un mandato dirigido al legislador para que éste proceda al correspondiente desarrollo normativo del citado órgano constitucional en lo que se refiere la determinación de sus miembros y estatuto e incompatibilidades de los mismos. Y esto es precisamente lo que hace la Ley 50-1997, de 27 de noviembre.
+
+
+El artículo 1 apartado primero de la Ley 50-1997, de 27 de noviembre, destaca la posición constitucional del Gobierno. Este artículo puede dividirse en dos partes distintas. En la primera parte, se otorga al Gobierno la dirección de la política interior y exterior, la administración civil y militar y la defensa del Estado, abarcando así los aspectos esenciales de la función de dirección política.
+
+
+La segunda parte se refiere a las potestades clásicas del poder ejecutivo, es decir, la función ejecutiva y la potestad reglamentaria. La primera de las funciones, la dirección política, es la más característica del Gobierno. Se refiere a la habilidad de liderar de manera innovadora, no simplemente ejecutando mandatos de otros, sino generando nuevas iniciativas y nuevas políticas.
+
+
+En este contexto, la dirección política del Gobierno implica la capacidad de formular y establecer nuevas estrategias, metas y enfoques para guiar el rumbo del Estado, siendo un actor proactivo en la toma de decisiones que influyen en la sociedad y en la implementación de políticas públicas. Imaginemos que el Gobierno asume el desafío de abordar la crisis medioambiental en el país. Su función de dirección política implicaría no solo implementar medidas ejecutivas existentes, sino también diseñar e impulsar iniciativas originales y creativas.
+
+
+Podría proponer leyes innovadoras para la protección del medioambiente, establecer metas ambiciosas para la reducción de emisiones, promover el uso de energías renovables y liderar campañas educativas para sensibilizar a la sociedad sobre la importancia de la sostenibilidad. En este caso, la función de dirección política del Gobierno se manifiesta en su capacidad para liderar la transformación y guiar al país hacia un enfoque más sostenible. La función de dirección de la Administración por parte del Gobierno implica que, si bien son entidades distintas, existe una estrecha relación y coordinación entre ambos.
+
+
+El Gobierno, según la Constitución, tiene la responsabilidad de dirigir la política interior y exterior, así como la Administración civil y militar del Estado. La Administración, por su parte, se considera una institución separada pero subordinada al Gobierno. Su papel radica en implementar y llevar a cabo las políticas diseñadas por el Gobierno.
+
+
+Esta implementación debe realizarse dentro de los principios de legalidad, objetividad, eficacia y servicio al interés general. Es decir, la Administración actúa como el brazo ejecutor de las decisiones políticas establecidas por el Gobierno. Un ejemplo podría ser la adopción de una nueva política gubernamental para mejorar la eficiencia en la prestación de servicios públicos.
+
+
+El Gobierno diseña la estrategia y establece los objetivos, mientras que la Administración se encarga de implementar medidas concretas, asignar recursos y asegurar que las acciones se ajusten a los principios legales y al interés general. En este proceso, el Gobierno dirige la orientación general y la Administración ejecuta las acciones detalladas para lograr los objetivos establecidos. Y ahora, una de las funciones más características y esenciales que desempeña el Gobierno, la función ejecutiva y reglamentaria.
+
+
+La función ejecutiva implica la implementación y aplicación de las leyes y políticas adoptadas por el Estado. Es responsabilidad del Gobierno asegurar que las decisiones políticas se lleven a cabo de manera efectiva en la práctica. Imagina que el Parlamento aprueba una ley que establece medidas para mejorar la educación.
+
+
+La función ejecutiva del Gobierno implicaría la implementación de esas medidas, como la asignación de recursos, la contratación de personal docente adicional y la supervisión de la ejecución de las políticas educativas. La función reglamentaria, por su parte, se refiere a la capacidad del Gobierno para dictar normas y reglamentos que tienen fuerza de ley. Esto permite llenar los detalles y aspectos prácticos necesarios para la implementación de las leyes.
+
+
+Supongamos que el Parlamento aprueba una ley para proteger el medioambiente, la función reglamentaria del Gobierno entraría en juego el redactar reglamentos específicos sobre los límites de emisiones para las industrias, los estándares de calidad del agua, etc. Hablemos ahora de la composición del Gobierno. Tal y como establece el artículo 1.2 de la Ley 50 barra 1997, de 27 de noviembre, el Gobierno se compone del presidente, del vicepresidente o vicepresidentes en su caso, y de los ministros, reproduciendo casi literalmente el artículo 98, apartado 1º de la Constitución Española.
+
+
+Se mantiene así la naturaleza no obligatoria o potestativa de los vicepresidentes, lo que significa que su presencia en cada formación específica del Gobierno dependerá exclusivamente de la decisión del presidente. Pero si te fijas, en la Ley del Gobierno no se ha considerado apropiado realizar precisiones adicionales sobre la última parte del primer apartado del artículo 98 de la Constitución, que permitiría ampliar las categorías de personas que pueden ser miembros del Gobierno a pesar de que la propia disposición constitucional lo autoriza y habilita para hacerlo. Efectivamente, el artículo 1.2 de la Ley del Gobierno, a diferencia del artículo 98 de la Constitución, no menciona a los secretarios de Estado.
+
+
+Aunque, como luego veremos, la ley busca fortalecer la posición de los secretarios de Estado designándolos como órganos altamente cualificados y cercanos a los miembros del Gobierno, sin embargo es importante destacar que este fortalecimiento no implica la inclusión de los secretarios de Estado como miembros del Gobierno. En este sentido, la Ley del Gobierno aclara de manera categórica que los secretarios de Estado son exclusivamente órganos de colaboración del Gobierno, por lo tanto, y a pesar de su relevancia y proximidad, no forman parte del cuerpo gubernamental en sí mismo. Además, el Gobierno está compuesto por diversos órganos tanto unipersonales como colegiados.
+
+
+Ello supone que existen relaciones e interacciones entre estos órganos. En la organización y funcionamiento del Gobierno hay que tener en cuenta que, aunque el presidente del Gobierno es el jefe del Ejecutivo, las decisiones importantes se toman de manera colegiada en el seno del Consejo de Ministros. Pero del Consejo de Ministros hablaremos más tarde.
+
+
+Tienes que saber además que, a pesar de la colegialidad, lo cierto es que puede haber jerarquía entre los distintos miembros del Gobierno. Prueba de ello es que la figura del presidente del Gobierno tiene un papel central en la coordinación y dirección de la acción gubernamental. La Constitución Española concede al presidente del Gobierno un papel central y atribuye diversas facultades esenciales que destacan su liderazgo y su posición preeminente en el sistema político.
+
+
+Algunas de las atribuciones y funciones más destacadas del presidente del Gobierno, tal como se refleja en el artículo 2 de la Ley del Gobierno al cual te remito, incluyen dirección de la acción del Gobierno. El presidente del Gobierno dirige la acción del Gobierno marcando la orientación y las prioridades de la política gubernamental. En segundo lugar, coordinación de funciones.
+
+
+Efectivamente, coordina las funciones de los demás miembros del Gobierno asegurando una actuación cohesionada y eficiente. Entre sus funciones destaca también la designación de ministros. Efectivamente, propone al Rey la designación de los demás miembros del Gobierno, lo que implica la elección y nombramiento de los ministros.
+
+
+Un papel relevante tiene también en la disolución de las Cámaras. Aunque formalmente la disolución de las Cámaras se degreta por el Rey, el presidente del Gobierno tiene el poder de proponer al Rey la disolución, lo que constituye un mecanismo clave en el sistema parlamentario. Y por último, cabe destacar la legitimación para el recurso de inconstitucionalidad.
+
+
+Efectivamente, el presidente del Gobierno tiene la facultad de interponer el recurso de inconstitucionalidad ante el tribunal constitucional, lo que le confiere un papel destacado en la defensa de la constitucionalidad de las leyes. Como puedes ver, atribuciones que confieren al presidente del Gobierno un rol determinante en la toma de decisiones y en la dirección de la política del país. ¿Y los vicepresidentes o vicepresidentas? Bueno, pues como sabes, la Constitución hace referencia a los vicepresidentes en su caso.
+
+
+Por su parte, la Ley del Gobierno asume el mismo texto en su artículo 3, aunque utilizando singular y plural, y como no podía ser de otra manera, mantiene el carácter disponible o potestativo de la existencia del o de los vicepresidentes o vicepresidentas. Efectivamente, la incorporación o no en cada formación concreta del Gobierno de vicepresidentes o vicepresidentas dependerá de la decisión del presidente. El presidente podrá, en este caso, decidir tener uno o varios vicepresidentes o incluso ninguno.
+
+
+Lo cierto es que la normativa española no establece requisitos específicos para el nombramiento de los vicepresidentes. En términos generales, los miembros del Gobierno deben ser españoles, mayores de edad, disfrutar de los derechos de sufragio activo y pasivo y no estar inhabilitados para ejercer empleo o cargo público por sentencia judicial firme. Así lo dispone el artículo 11 de la Ley del Gobierno.
+
+
+Y respecto a sus funciones, a los vicepresidentes o vicepresidentas les corresponde el ejercicio de las funciones que les encomiende el presidente. Además, si un vicepresidente o vicepresidenta asume la titularía de un departamento ministerial, también ostentará la condición de ministro, lo cual implica una acumulación de tareas y responsabilidades. Prueba de ello es la composición del actual Gobierno con tres vicepresidentas, vicepresidenta primera y ministra de Hacienda, vicepresidenta segunda y ministra de Trabajo y Economía Social y, por último, vicepresidenta tercera y ministra para la Transición Ecológica y el Reto Demográfico.
+
+
+Lo cierto es que actuar en lugar del presidente del Gobierno, incluso presidiendo el Consejo de Ministros, es una de las funciones más relevantes que pueden desempeñar los vicepresidentes o vicepresidentas. Esto subraya su papel preeminente en el Gobierno y su capacidad para asumir responsabilidades ejecutivas clave en caso de necesidad. Además, junto a la participación preeminente de los vicepresidentes o vicepresidentas en órganos colegiados, hay que destacar también que, en los casos de vacante, ausencia o enfermedad, las funciones del presidente serán asumidas por los vicepresidentes o vicepresidentas, de acuerdo con el correspondiente orden de prelación, por cierto, establecido por el presidente, y en defecto de ellos por los ministros, según el orden de precedencia de los departamentos.
+
+
+Y para terminar, te destacaré el papel de los ministros a que se refiere el artículo 4 de la Ley del Gobierno. Figura su elemento es clave en la articulación del Gobierno con la Administración a la que dirige, dotando de continuidad la función política con la función administrativa. Pero, ojo, recuerda que no existe norma alguna que limite el número de ministros o ministerios ni establezca regla alguna en cuanto a distribuciones competenciales entre departamentos.
+
+
+Como hemos señalado más arriba, el artículo 2 de la Ley del Gobierno otorga al presidente del Gobierno la competencia para crear, modificar y suprimir por real decreto los departamentos ministeriales. Es responsabilidad, por tanto, del presidente del Gobierno decidir la estructura del Gobierno que lidera, determinando así cuántos ministerios existen, quiénes son los ministros y cuáles son sus competencias. En este sentido, la creación, modificación o supresión de departamentos ministeriales es una herramienta clave que permite al presidente ajustar la composición de su Gobierno para responder a las necesidades políticas, administrativas y estratégicas del momento.
+
+
+Puede reflejar cambios en las prioridades políticas, reorganizar funciones ministeriales para mejorar la eficiencia o abordar nuevos desafíos que surjan durante su mandato. En cuanto a sus funciones, lo cierto es que el citado artículo 4 de la Ley 50-1997, de 27 de noviembre, al establecer que los ministros como titulares de sus departamentos tienen competencia y responsabilidad en la esfera específica de su actuación y les corresponde el ejercicio de las siguientes funciones, pone el énfasis en el aspecto más administrativo que político de la configuración de los ministros, titulares de departamentos ministeriales antes que miembros del Gobierno. Siguiendo con las funciones, debe saber que, si bien la Ley del Gobierno recoge las principales funciones de los ministros en su calidad de miembros del Gobierno, tienen otras muchas funciones enumeradas en otras leyes, como en la Ley 40-2015, de 1 de octubre, de régimen jurídico del sector público.
+
+
+Además, cada ministerio tiene atribuciones específicas relacionadas con su área de competencia detalladas en otras normas sectoriales para organizar y dirigir eficazmente la gestión gubernamental. Un ejemplo de ello es el Real Decreto 1009-2023, de 5 de diciembre, por el que se establece la estructura orgánica básica de los departamentos ministeriales. Por último, comentarte que dentro de la Ley del Gobierno se contiene una referencia expresa tanto a los ministros sin cartera como a un ministro determinado, el ministro de la Presidencia.
+
+
+Los ministros sin cartera son miembros del Gobierno que, a diferencia de los ministros que encabezan departamentos ministeriales específicos, no tienen asignadas responsabilidades directas sobre un área administrativa específica. Según el artículo mencionado, a los ministros sin cartera se les asigna la responsabilidad de determinadas funciones gubernamentales. Es importante destacar que, a pesar de no tener una cartera ministerial específica, estos ministros sin cartera son considerados como verdaderos ministros y participan en las funciones gubernamentales.
+
+
+A diferencia de los ministros con cartera que tienen responsabilidades tanto políticas como administrativas en un área específica, los ministros sin cartera tienden a centrarse más en funciones políticas y estratégicas. Carecen, eso sí, en principio, de la doble cara política y administrativa que caracterizan los ministros ordinarios. Su papel se enfoca más en aspectos políticos y asesoramiento del presidente del Gobierno, contribuyendo a la toma de decisiones y desempeñando funciones específicas que no están directamente vinculadas a un departamento ministerial particular.
+
+
+Y respecto al ministro de la Presidencia, el artículo 18.1 de la Ley del Gobierno establece que el presidente del Gobierno es el encargado de convocar y presidir las reuniones del Consejo de Ministros. Además, durante estas reuniones, la función de secretario recae en el ministro de la Presidencia. Esto significa que el ministro de la Presidencia desempeña el papel de secretario en las sesiones del Consejo de Ministros, asistiendo al presidente en la gestión de la agenda y la documentación relacionada con las reuniones del Gobierno.
+
+
+Bueno, con esta última referencia finalizamos la clase de hoy. En nuestra próxima clase analizaremos los dos órganos colegiados a través de los cuales se actúa el Gobierno y seguiremos profundizando en la Ley del Gobierno y examinando detalladamente la estructura del Gobierno. Gracias por tu atención y ánimo con el estudio.
+

@@ -1,0 +1,485 @@
+Pregunta: En procedimientos de ejecución civil, si se debe entregar la posesión de un inmueble que sirve como residencia principal para el ejecutado o dependientes de este, ¿cuánto tiempo concederá el Letrado de la Administración de Justicia para que desocupen la propiedad?
+1)Dos meses con opción de extenderlo un mes adicional con una justificación válida
+2)Un día con opción de extenderlo un mes adicional con una justificación válida
+3)Un mes con opción de extenderlo un mes adicional con una justificación válida
+4)Una semana con opción de extenderlo un mes adicional con una justificación válida
+Respuesta: 3
+Correcta: ¡Correcto! Se concede un mes, con la posibilidad de extenderlo por un mes adicional si hay razones justificadas para hacerlo.
+Errada: La opción elegida no es correcta. La ley concede un mes para desalojar, que puede prorrogarse por otro mes si existen motivos fundados. (Respuesta Correcta 3)
+###
+Pregunta: En el caso de una ejecución forzosa civil para cumplir obligaciones de hacer o no hacer, si el ejecutado ignora el requerimiento, ¿a cuánto puede ascender la multa coercitiva única según el artículo 711 de la LEC?
+1)Al 50% del precio o valor establecido.
+2)Al 60% del precio o valor establecido.
+3)Al 40% del precio o valor establecido.
+4)Al 30% del precio o valor establecido.
+Respuesta: 1
+Correcta: ¡Acertaste! La multa coercitiva única puede ser de hasta el 50% del precio o valor, conforme al artículo 711 de la LEC.
+Errada: Tu selección es incorrecta. Según el artículo 711 de la LEC, la multa coercitiva única puede ascender hasta el 50% del precio o valor. (Respuesta Correcta 1)
+###
+Pregunta: ¿Cuánto tiempo se otorga, excluyendo cualquier prórroga, para el desalojo de una vivienda principal en casos donde se deba ceder la posesión del inmueble que es residencia habitual del demandado o sus dependientes?
+1)15 días.
+2)30 días.
+3)Un mes.
+4)31 días.
+Respuesta: 3
+Correcta: ¡Correcto! Se proporciona un mes para el desalojo, sin contar posibles prórrogas.
+Errada: La respuesta seleccionada no es correcta. El tiempo otorgado para el desalojo, sin considerar prórrogas posibles, es de un mes. (Respuesta Correcta 3)
+###
+Pregunta: Cuando en una condena a emitir una declaración de voluntad algunos elementos no esenciales del negocio o contrato no estén predefinidos (según el artículo 708 de la LEC), ¿qué sucede?
+1)El tribunal, tras escuchar a las partes, no determinará estos elementos en la resolución en que tenga por emitida la declaración, según lo habitual en el mercado o en el tráfico jurídico.
+2)El Letrado de la Administración de Justicia, tras escuchar a las partes, determinará estos elementos en la resolución en que tenga por emitida la declaración, según lo habitual en el mercado o en el tráfico jurídico.
+3)El Letrado de la Administración de Justicia, tras escuchar a las partes, no determinará estos elementos en la resolución en que tenga por emitida la declaración, según lo habitual en el mercado o en el tráfico jurídico.
+4)El tribunal, tras escuchar a las partes, determinará estos elementos en la resolución en que tenga por emitida la declaración, según lo habitual en el mercado o en el tráfico jurídico.
+Respuesta: 4
+Correcta: ¡Correcto! El tribunal definirá los elementos no esenciales después de escuchar a las partes, de acuerdo con lo que es común en el mercado o práctica jurídica.
+Errada: La respuesta seleccionada no es correcta. El tribunal, después de escuchar a las partes, determinará los elementos no esenciales del negocio o contrato en su resolución, siguiendo las prácticas comunes del mercado o tráfico jurídico. (Respuesta Correcta 4)
+###
+Pregunta: Cuando en una ejecución civil no dineraria se pide determinar el monto debido por conceptos como frutos, rentas, utilidades o productos, según el artículo 718 de la LEC, tras presentarse la solicitud, ¿qué ocurre?
+1)El Letrado de la Administración de Justicia a cargo de la ejecución solicitará al acreedor que entregue una liquidación en un periodo definido conforme a las circunstancias del caso.
+2)El Letrado de la Administración de Justicia a cargo de la ejecución solicitará al deudor que entregue una liquidación en un periodo definido conforme a las circunstancias del caso.
+3)El tribunal a cargo de la ejecución solicitará al acreedor que entregue una liquidación en un periodo definido conforme a las circunstancias del caso.
+4)El tribunal a cargo de la ejecución solicitará al deudor que entregue una liquidación en un periodo definido conforme a las circunstancias del caso.
+Respuesta: 2
+Correcta: ¡Bien hecho! El Letrado de la Administración de Justicia pedirá al deudor que presente una liquidación en un plazo determinado, según las circunstancias.
+Errada: La respuesta seleccionada es incorrecta. La acción correcta es que el Letrado de la Administración de Justicia requerirá al deudor que presente una liquidación en un tiempo establecido, que será determinado considerando las circunstancias del caso. (Respuesta Correcta 2)
+###
+Pregunta: En las condenas de hacer personalísimo, si se acuerda apremiar al ejecutado con multas mensuales, ¿durante cuánto tiempo se reiterarán los requerimientos por parte del Letrado de la Administración de Justicia?
+1)Se reiterarán semestralmente hasta que se cumpla un año desde el primero.
+2)Se reiterarán trimestralmente hasta que se cumpla un año desde el primero.
+3)Se reiterarán trimestralmente hasta que se cumplan dos años desde el primero.
+4)Se reiterarán mensualmente hasta que se cumpla un año desde el primero.
+Respuesta: 2
+Correcta: ¡Correcto! Según la redacción del art. 709.3 de la LEC por la LO 1/2025, los requerimientos se reiterarán trimestralmente hasta el máximo de un año, transcurrido el cual se procederá a solicitar el equivalente pecuniario de la prestación.
+Errada: Respuesta incorrecta. El artículo 709.3 de la LEC, tras la reforma de la LO 1/2025, establece que los requerimientos se reiterarán trimestralmente hasta que se cumpla un año. (Respuesta Correcta 2)
+###
+Pregunta: En la ejecución civil no dineraria de un hacer no personalísimo, si el ejecutado no obedece el requerimiento en el tiempo dado y el ejecutante decide encargar la tarea a un tercero, ¿cómo se aprueba la valoración del costo realizada por un perito tasador?
+1)A través de un decreto del Letrado de la Administración de Justicia, el cual puede ser impugnado mediante un recurso directo de revisión sin efectos suspensivos.
+2)A través de un decreto del Letrado de la Administración de Justicia, el cual puede ser impugnado mediante un recurso de reposición sin efectos suspensivos.
+3)A través de un decreto del Letrado de la Administración de Justicia, el cual puede ser impugnado mediante un recurso directo de revisión con efectos suspensivos.
+4)A través de un decreto del Letrado de la Administración de Justicia, el cual puede ser impugnado mediante un recurso de reposición con efectos suspensivos.
+Respuesta: 1
+Correcta: ¡Exacto! La valoración del coste hecha por un perito tasador se aprueba mediante decreto del Letrado de la Administración de Justicia, y se puede recurrir directamente para revisión sin efecto suspensivo.
+Errada: La respuesta elegida es incorrecta. La aprobación se da a través de un decreto emitido por el Letrado de la Administración de Justicia, y este decreto puede ser sujeto a un recurso directo de revisión sin suspensión de efectos. (Respuesta Correcta 1)
+###
+Pregunta: Cuando, en un título ejecutivo, se ordene la entrega de un objeto mueble específico, y el demandado no cumpla en el plazo establecido sin saberse el paradero del objeto, ¿quién interrogará al ejecutado o a terceros bajo apercibimiento de desobediencia para saber si tienen el objeto o conocen su ubicación?
+1)El abogado interrogará al ejecutado o terceros, con advertencia de desobediencia, para indagar sobre la posesión y ubicación del objeto.
+2)El Letrado de la Administración de Justicia interrogará al ejecutado o terceros, con advertencia de desobediencia, para indagar sobre la posesión y ubicación del objeto.
+3)El Fiscal interrogará al ejecutado o terceros, con advertencia de desobediencia, para indagar sobre la posesión y ubicación del objeto.
+4)El juez interrogará al ejecutado o terceros, con advertencia de desobediencia, para indagar sobre la posesión y ubicación del objeto.
+Respuesta: 2
+Correcta: ¡Correcto! El Letrado de la Administración de Justicia será quien realice el interrogatorio bajo apercibimiento de desobediencia.
+Errada: La respuesta seleccionada no es correcta. El interrogatorio es realizado por el Letrado de la Administración de Justicia bajo advertencia de desobediencia. (Respuesta Correcta 2)
+###
+Pregunta: En el procedimiento de liquidación de daños y perjuicios, si el deudor se opone, y se debe nombrar un perito para evaluar los daños y su equivalente monetario, ¿bajo qué circunstancias se realiza dicho nombramiento por el tribunal que emitió la orden general de ejecución?
+1)Únicamente de manera extraoficial.
+2)Por acuerdo extrajudicial.
+3)De manera oficial o a solicitud de una de las partes.
+4)Exclusivamente de oficio.
+Respuesta: 3
+Correcta: ¡Correcto! El nombramiento del perito puede hacerse tanto de oficio como a instancia de parte, dependiendo de las necesidades del caso.
+Errada: La respuesta seleccionada es incorrecta. El nombramiento puede realizarse tanto de oficio como a solicitud de alguna de las partes involucradas. (Respuesta Correcta 3)
+###
+Pregunta: Una vez que se celebra la vista en el proceso de liquidación de daños y perjuicios, ¿cuál es el plazo establecido para que el tribunal emita un auto determinando la cantidad que el deudor debe pagar al acreedor por concepto de daños y perjuicios?
+1)Dentro de los 3 días anteriores a la celebración de la vista.
+2)Dentro de los 5 días posteriores a la celebración de la vista.
+3)Dentro de los 5 días anteriores a la celebración de la vista.
+4)Dentro de los 3 días posteriores a la celebración de la vista.
+Respuesta: 2
+Correcta: ¡Bien hecho! El auto debe ser dictado dentro de los 5 días siguientes a la celebración de la vista.
+Errada: La respuesta elegida no es correcta. El plazo para dictar el auto es de 5 días después de la celebración de la vista. (Respuesta Correcta 2)
+###
+Pregunta: De acuerdo con la Ley de Enjuiciamiento Civil, en un proceso de ejecución que involucra la entrega de bienes inmuebles, si existen cosas en la propiedad que no están incluidos en el título, ¿cuál es el plazo que el Letrado de la Administración de Justicia otorgará al ejecutado para retirar dichos elementos?
+1)En un lapso de tres días.
+2)Dentro del tiempo que se determine.
+3)En un lapso de cinco días.
+4)En un lapso de dos días.
+Respuesta: 2
+Correcta: ¡Exacto! El Letrado de la Administración de Justicia estipula el plazo para que el ejecutado retire los bienes no mencionados en el título ejecutivo.
+Errada: La respuesta seleccionada no es correcta. El Letrado de la Administración de Justicia determinará el plazo adecuado para la retirada de los bienes no mencionados en el título. (Respuesta Correcta 2)
+###
+Pregunta: En el contexto de una ejecución civil, si una persona condenada a abstenerse de realizar una acción específica viola la sentencia, ¿cuáles serán los requerimientos hacia esta persona?
+1)Que compense por los daños y perjuicios ocasionados.
+2)Que evite cometer la misma violación en el futuro.
+3)Que revierta la acción indebida realizada, si es factible.
+4)Todas son correctas.
+Respuesta: 4
+Correcta: ¡Correcto! Se requerirá al condenado que evite futuros quebrantamientos, indemnice los daños y perjuicios y, si es posible, revierta lo mal hecho.
+Errada: La respuesta escogida no es acertada. Se requerirá al condenado a cumplir con todas las acciones mencionadas previamente para rectificar el quebrantamiento de la sentencia. (Respuesta Correcta 4)
+###
+Pregunta: Si el deudor no somete la liquidación de frutos, rentas, utilidades o productos de cualquier tipo en el tiempo asignado, ¿qué acción se toma?
+1)Se solicitará al tercero interesado que presente una liquidación que considere justa y se le notificará al ejecutado sobre dicha presentación.
+2)Se solicitará al acreedor que presente una liquidación que considere justa y se le notificará al ejecutado sobre dicha presentación.
+3)Se solicitará al acreedor que presente una liquidación que considere justa y no se le notificará al ejecutado sobre dicha presentación.
+4)Se solicitará al deudor que presente una liquidación que considere justa y se le notificará al ejecutado sobre dicha presentación.
+Respuesta: 2
+Correcta: ¡Bien hecho! El acreedor será solicitado para someter una liquidación justa, y se notificará al ejecutado acerca de esta liquidación.
+Errada: La respuesta seleccionada no es correcta. En el caso de que el deudor no presente la liquidación en el tiempo asignado, se pedirá al acreedor que suministre una liquidación que considere justa, informando de esto al ejecutado. (Respuesta Correcta 2)
+###
+Pregunta: En casos donde se incumple una sentencia de abstención de hacer algo, de acuerdo con el artículo 710 de la LEC, ¿cuál es el plazo establecido para revertir la acción indebida realizada?
+1)No hay un plazo especificado.
+2)Se otorgan diez días.
+3)Se otorgan cinco días.
+4)Se otorgan tres días.
+Respuesta: 1
+Correcta: ¡Correcto! El artículo 710 de la LEC no especifica un plazo para revertir la acción indebida realizada, sino que prevé la imposición de multas mensuales por cada mes que transcurra sin hacerlo.
+Errada: La respuesta elegida no es correcta. El artículo 710 de la LEC no establece un plazo determinado para deshacer la acción indebida que se ha realizado en violación de una sentencia. (Respuesta Correcta 1)
+###
+Pregunta: En la ejecución forzosa civil relacionada con obligaciones de hacer y no hacer, si el ejecutado ignora el requerimiento, el monto de las multas mensuales podría incrementarse hasta, conforme a lo estipulado en el artículo 711 de la LEC:
+1)Hasta un 20% del precio o valor.
+2)Hasta un 10% del precio o valor.
+3)Hasta un 25% del precio o valor.
+4)Hasta un 30% del precio o valor.
+Respuesta: 1
+Correcta: ¡Excelente! Las multas mensuales pueden ascender hasta un 20% del precio o valor, según lo establecido en el artículo 711 de la LEC.
+Errada: La respuesta seleccionada no es correcta. Según el artículo 711 de la LEC, las multas mensuales pueden incrementarse hasta un 20% del precio o valor. (Respuesta Correcta 1)
+###
+Pregunta: Cuando el título ejecutivo estipula la entrega de ítems genéricos o no especificados que se pueden comprar en mercados y no se haya cumplido el requerimiento dentro del plazo, ¿cuál es la acción que puede tomar el ejecutante?
+1)Puede pedirle al Letrado de la Administración de Justicia que le otorgue posesión de los artículos adeudados.
+2)Puede solicitar autorización al Letrado de la Administración de Justicia para adquirir los ítems adeudados, a expensas del ejecutado.
+3)Ninguna es correcta.
+4)Ambas son correctas.
+Respuesta: 4
+Correcta: ¡Correcto! El ejecutante tiene la opción de solicitar posesión de los ítems adeudados o recibir autorización para adquirir dichos ítems a expensas del ejecutado.
+Errada: La respuesta proporcionada no es correcta. El ejecutante puede tanto solicitar la posesión de los ítems adeudados como ser autorizado para adquirir esos ítems, todo a expensas del ejecutado. (Respuesta Correcta 4)
+###
+Pregunta: Cuando durante el acto de desalojo en una ejecución no dineraria que involucre la entrega de un inmueble, la persona desalojada reclama la titularidad de elementos inseparables como plantaciones o instalaciones vitales para el uso normal del inmueble, ¿cómo se procede?
+1)La obligación de pagar su valor será decidida durante la ejecución si los interesados lo solicitan dentro de los tres días posteriores al desalojo.
+2)La obligación de pagar su valor será decidida durante la ejecución si los interesados lo solicitan dentro de los cinco días posteriores al desalojo.
+3)La obligación de pagar su valor será decidida durante la ejecución si los interesados lo solicitan dentro de los siete días posteriores al desalojo.
+4)La obligación de pagar su valor será decidida durante la ejecución si los interesados lo solicitan dentro de los cinco días anteriores al desalojo.
+Respuesta: 2
+Correcta: ¡Correcto! La obligación de abonar su valor será resuelta en la ejecución si los interesados lo solicitan dentro de los cinco días posteriores al desalojo.
+Errada: La respuesta seleccionada no es correcta. De acuerdo con el procedimiento, la obligación de abonar su valor se decidirá durante la ejecución si los interesados lo solicitan en un plazo de cinco días después del desalojo. (Respuesta Correcta 2)
+###
+Pregunta: En una ejecución civil, cuando se debe entregar la posesión de un inmueble que sirve como vivienda principal para el ejecutado o sus dependientes, ¿qué acción tomará el Letrado de la Administración de Justicia (LAJ)?
+1)Otorgará un mes para el desalojo, prorrogable por otro mes si hay razones válidas.
+2)Otorgará 30 días para el desalojo, prorrogable por otro mes si hay razones válidas.
+3)Otorgará 15 días para el desalojo, prorrogable por otro mes si hay razones válidas.
+4)Procederá de inmediato al desalojo.
+Respuesta: 1
+Correcta: ¡Bien hecho! El LAJ dará un plazo de un mes para desalojar, que puede extenderse un mes adicional si hay razones justificadas.
+Errada: La respuesta no es correcta. El LAJ otorgará un plazo de un mes para el desalojo, que puede ser prorrogado por un mes adicional si existen motivos fundados. (Respuesta Correcta 1)
+###
+Pregunta: ¿Es posible presentar un recurso contra el decreto que establece el embargo de propiedades del deudor hasta una cantidad suficiente para asegurar el pago de indemnizaciones sustitutorias posibles y costos del proceso de ejecución?
+1)Sí, se puede presentar un recurso directo de revisión, pero sin efectos suspensivos.
+2)Sí, se puede presentar un recurso de reposición, pero con efectos suspensivos.
+3)Sí, se puede presentar un recurso de apelación, pero sin efectos suspensivos.
+4)Sí, se puede presentar un recurso de queja, pero con efectos suspensivos.
+Respuesta: 1
+Correcta: ¡Correcto! Se puede presentar un recurso directo de revisión contra el decreto, pero este recurso no tendrá efectos suspensivos.
+Errada: La respuesta seleccionada no es correcta. Se permite un recurso directo de revisión sin efectos suspensivos contra el decreto que determina el embargo de bienes del deudor. (Respuesta Correcta 1)
+###
+Pregunta: En un proceso de ejecución civil relacionado con una obligación de hacer no personalísima, cuando el ejecutante decide que un tercero realice la acción, ¿quién evaluará de antemano el costo de esta realización?
+1)Un perito tasador asignado por las partes.
+2)Un perito tasador asignado por el juez.
+3)Un perito tasador asignado por el Letrado de la Administración de Justicia.
+4)Un perito tasador asignado por los acreedores.
+Respuesta: 3
+Correcta: ¡Bien hecho! El costo será evaluado previamente por un perito tasador designado por el Letrado de la Administración de Justicia.
+Errada: La respuesta seleccionada no es acertada. El perito tasador que evaluará previamente el costo de la acción a realizar por un tercero será designado por el Letrado de la Administración de Justicia. (Respuesta Correcta 3)
+###
+Pregunta: Conforme a la Ley de Enjuiciamiento Civil, si el título ejecutivo involucra una obligación de hacer algo o entregar un objeto que no sea dinero, en el auto por el que se despache ejecución:
+1)Se instruirá al deudor para que cumpla con lo estipulado en el título ejecutivo dentro de un periodo de 15 días.
+2)Se instruirá al deudor para que cumpla con lo estipulado en el título ejecutivo dentro de un periodo de 20 días.
+3)Se instruirá al deudor para que cumpla con lo estipulado en el título ejecutivo dentro de un periodo de 5 días.
+4)Se instruirá al deudor para que cumpla con lo estipulado en el título ejecutivo dentro de un periodo que el tribunal considere apropiado.
+Respuesta: 4
+Correcta: ¡Exacto! El deudor será instruido para cumplir con lo especificado en el título ejecutivo dentro del tiempo que el tribunal determine como apropiado.
+Errada: La opción elegida no es correcta. La respuesta correcta es que al deudor se le instruirá para cumplir con lo señalado en el título ejecutivo dentro del periodo que el tribunal considere apropiado. (Respuesta Correcta 4)
+###
+Pregunta: En el proceso de cálculo de daños y perjuicios, ¿bajo qué circunstancias se considera que el deudor acepta los hechos presentados por el demandante?
+1)Si no responde dentro del plazo de 5 días.
+2)Si simplemente reconoce de manera general la existencia de daños y perjuicios.
+3)Si responde dentro del plazo de 5 días.
+4)Si simplemente niega de manera general la existencia de daños y perjuicios.
+Respuesta: 4
+Correcta: ¡Correcto! Si el deudor simplemente niega de manera general la existencia de daños y perjuicios, se considera que acepta los hechos presentados por el demandante.
+Errada: La opción seleccionada no es correcta. Se considera que el deudor acepta los hechos presentados por el demandante si simplemente niega de manera general la existencia de daños y perjuicios. (Respuesta Correcta 4)
+###
+Pregunta: En casos donde el título ejecutivo evidencie la necesidad de entregar un objeto mueble específico y definido y el demandado no realice la entrega dentro del tiempo asignado:
+1)El Letrado de la Administración de Justicia encargado de la ejecución facilitará al demandante la posesión del objeto adeudado, utilizando los medios coercitivos necesarios.
+2)El juez encargado de la ejecución facilitará al demandante la posesión del objeto adeudado, utilizando los medios coercitivos necesarios.
+3)El perito encargado de la ejecución facilitará al demandante la posesión del objeto adeudado, utilizando los medios coercitivos necesarios.
+4)El auxilio judicial encargado de la ejecución facilitará al demandante la posesión del objeto adeudado, utilizando los medios coercitivos necesarios.
+Respuesta: 1
+Correcta: ¡Bien hecho! El Letrado de la Administración de Justicia encargado de la ejecución tomará las medidas necesarias para facilitar al demandante la posesión del objeto que se debe.
+Errada: La opción seleccionada no es acertada. El Letrado de la Administración de Justicia encargado de la ejecución es el que facilitará la posesión del objeto adeudado al demandante, usando los medios coercitivos necesarios. (Respuesta Correcta 1)
+###
+Pregunta: Si el deudor se opone de forma justificada a la solicitud del demandante, tanto en relación con los elementos de daños y perjuicios como en su valoración monetaria dentro del plazo legal, el proceso de liquidación de daños y perjuicios se llevará a cabo mediante:
+1)El procedimiento establecido para el juicio ordinario.
+2)El procedimiento establecido para el juicio verbal.
+3)El procedimiento establecido para el juicio monitorio.
+4)Todas son correctas.
+Respuesta: 2
+Correcta: ¡Correcto! La liquidación de daños y perjuicios se desarrollará mediante el procedimiento establecido para el juicio verbal si el deudor presenta oposición motivada dentro del plazo legal.
+Errada: La respuesta seleccionada no es válida. El procedimiento que se aplica en este caso para la liquidación de daños y perjuicios es el establecido para el juicio verbal. (Respuesta Correcta 2)
+###
+Pregunta: En casos donde una persona viola una sentencia que le obliga a abstenerse de realizar una acción específica, se le solicitará revertir las acciones erróneas (si es posible), compensar los daños y evitar futuros incumplimientos:
+1)Esta solicitud se realizará a petición del ejecutante y será gestionada por el Letrado de la Administración de Justicia encargado de la ejecución.
+2)Esta solicitud se realizará a petición del demandante y será gestionada por el juez encargado de la ejecución.
+3)Esta solicitud se realizará a petición del demandante y será gestionada por el Gestor Procesal encargado de la ejecución.
+4)Esta solicitud se realizará a petición del demandante y será gestionada por el perito encargado de la ejecución.
+Respuesta: 1
+Correcta: ¡Correcto! La acción requerida se realizará a petición del ejecutante y gestionada por el Letrado de la Administración de Justicia encargado de la ejecución.
+Errada: La respuesta seleccionada no es correcta. El procedimiento se inicia a petición del ejecutante y es gestionado por el Letrado de la Administración de Justicia que está a cargo de la ejecución. (Respuesta Correcta 1)
+###
+Pregunta: El objetivo del embargo preventivo en una ejecución no monetaria es asegurar:
+1)Ninguna es correcta.
+2)El pago de los costos del proceso de ejecución y de las posibles indemnizaciones sustitutorias.
+3)Las posibles indemnizaciones.
+4)El pago de los costos del proceso de ejecución y el valor monetario equivalente de la obligación involucrada.
+Respuesta: 2
+Correcta: ¡Bien hecho! El propósito del embargo de garantía en una ejecución no dineraria es asegurar el pago de los costos del proceso de ejecución y de las posibles indemnizaciones sustitutivas.
+Errada: La opción seleccionada no es correcta. El embargo de garantía en una ejecución no dineraria asegura tanto los costos del proceso de ejecución como las posibles indemnizaciones sustitutivas. (Respuesta Correcta 2)
+###
+Pregunta: Si una sentencia dicta la difusión parcial o total de su contenido en medios de comunicación, costeada por la parte perdedora, para garantizar la ejecución de esta disposición se procederá:
+1)El juez requerirá al ejecutado para que organice los anuncios pertinentes.
+2)El juez requerirá al acreedor para que organice los anuncios pertinentes.
+3)El Letrado de la Administración de Justicia requerirá al acreedor para que organice los anuncios pertinentes.
+4)El Letrado de la Administración de Justicia requerirá al ejecutado para que organice los anuncios pertinentes.
+Respuesta: 4
+Correcta: ¡Bien hecho! La ejecución de la difusión de contenido sentenciado en medios se realizará mediante requerimiento al ejecutado por parte del Letrado de la Administración de Justicia.
+Errada: La respuesta seleccionada no es correcta. La responsabilidad de organizar los anuncios recae sobre el ejecutado y es requerido por el Letrado de la Administración de Justicia. (Respuesta Correcta 4)
+###
+Pregunta: En una ejecución civil no dineraria donde el título ejecutivo exige la entrega de algo que no sea dinero, el ejecutado será requerido a cumplir con lo dictado por el título ejecutivo dentro de un período:
+1)De diez días.
+2)De quince días.
+3)Determinado por el tribunal como apropiado.
+4)De treinta días.
+Respuesta: 3
+Correcta: ¡Correcto! El plazo para el cumplimiento por parte del ejecutado será el que el tribunal determine como adecuado.
+Errada: La opción elegida no es correcta. El tribunal es quien determina el plazo adecuado para el cumplimiento por parte del ejecutado, no existiendo un número de días fijo preestablecido. (Respuesta Correcta 3)
+###
+Pregunta: Durante un proceso civil, si el título ejecutivo implica una condena u obligación de realizar o abstenerse de realizar una acción, y se emite un auto para que se despache ejecución, el ejecutado será requerido para cumplir con lo estipulado en el título ejecutivo. Durante este requerimiento:
+1)Es el Letrado de la Administración de Justicia quien puede advertir al ejecutado sobre el uso de apremios personales.
+2)Es el tribunal quien puede advertir al ejecutado sobre el uso de apremios personales.
+3)Es el Gestor Procesal quien puede advertir al ejecutado sobre el uso de apremios personales.
+4)Es el Tramitador Procesal quien puede advertir al ejecutado sobre el uso de apremios personales.
+Respuesta: 2
+Correcta: ¡Correcto! El tribunal es el encargado de advertir al ejecutado sobre el posible uso de apremios personales en caso de no cumplir con lo establecido en el título ejecutivo.
+Errada: La respuesta seleccionada es incorrecta. La responsabilidad de advertir al ejecutado sobre apremios personales recae sobre el tribunal. (Respuesta Correcta 2)
+###
+Pregunta: En un procedimiento civil de ejecución forzosa que busca la entrega de un inmueble que constituye la vivienda habitual del ejecutado o de sus dependientes, el Letrado de la Administración de Justicia proporcionará un periodo para el desalojo:
+1)De 15 días, con la posibilidad de una prórroga adicional de un mes si hay razones válidas.
+2)De un mes, con la opción de extenderlo un mes adicional si hay razones válidas.
+3)De 30 días, con la posibilidad de una prórroga adicional de un mes si hay razones válidas.
+4)De 10 días, sin posibilidad de prórroga.
+Respuesta: 2
+Correcta: ¡Bien hecho! El plazo proporcionado es de un mes, con la posibilidad de una prórroga de un mes adicional si existen motivos fundados.
+Errada: La opción seleccionada no es correcta. El plazo de desalojo establecido es de un mes, con posibilidad de prórroga por un mes adicional si existen razones válidas. (Respuesta Correcta 2)
+###
+Pregunta: ¿Es apelable el auto judicial que determina la cantidad que el deudor tiene que pagar al acreedor en concepto de daños y perjuicios?
+1)Sí, pero con efectos suspensivos.
+2)Imposible.
+3)Sí, pero sin efectos suspensivos.
+4)No, salvo que la cuantía exceda los 6.000€.
+Respuesta: 3
+Correcta: ¡Correcto! El auto que determina los daños y perjuicios es apelable, pero esta apelación no tiene efectos suspensivos.
+Errada: La respuesta seleccionada es incorrecta. El auto que establece la cantidad a pagar por daños y perjuicios es apelable, pero sin efectos suspensivos. (Respuesta Correcta 3)
+###
+Pregunta: En el escenario donde el deudor presenta la liquidación de frutos, rentas, utilidades, o productos y el acreedor no está de acuerdo con la misma, ¿cuál sería el procedimiento subsiguiente?
+1)El proceso se llevará a cabo según lo estipulado en el artículo 715 de la Ley de Enjuiciamiento Civil, que trata sobre la oposición del deudor durante el procedimiento de liquidación de daños y perjuicios.
+2)El proceso se llevará a cabo según lo estipulado en el artículo 615 de la Ley de Enjuiciamiento Civil, que trata sobre la oposición del deudor durante el procedimiento de liquidación de daños y perjuicios.
+3)El proceso se llevará a cabo según lo estipulado en el artículo 730 de la Ley de Enjuiciamiento Civil, que trata sobre la oposición del deudor durante el procedimiento de liquidación de daños y perjuicios.
+4)El proceso se llevará a cabo según lo estipulado en el artículo 650 de la Ley de Enjuiciamiento Civil, que trata sobre la oposición del deudor durante el procedimiento de liquidación de daños y perjuicios.
+Respuesta: 1
+Correcta: ¡Bien hecho! El procedimiento se regirá conforme a lo dispuesto en el artículo 715 de la Ley de Enjuiciamiento Civil, que aborda la oposición del deudor en la liquidación de daños y perjuicios.
+Errada: La opción seleccionada no es correcta. En caso de desacuerdo por parte del acreedor, el procedimiento se regirá por lo establecido en el artículo 715 de la Ley de Enjuiciamiento Civil, relativo a la oposición del deudor en la liquidación de daños y perjuicios. (Respuesta Correcta 1)
+###
+Pregunta: Presentado el escrito solicitando la determinación judicial de daños y perjuicios, el Letrado de la Administración de Justicia dará traslado a quien hubiere de abonarlos para que conteste en el plazo de:
+1)Cinco días.
+2)Diez días.
+3)Veinte días.
+4)Tres días.
+Respuesta: 3
+Correcta: ¡Correcto! Conforme a la modificación del art. 713.2 de la LEC por la LO 1/2025, el plazo para contestar se ha ampliado a veinte días.
+Errada: Respuesta incorrecta. La LO 1/2025 modificó el art. 713.2 de la LEC, estableciendo un plazo de veinte días para contestar, no de diez como en la regulación anterior. (Respuesta Correcta 3)
+###
+Pregunta: En una sentencia estimatoria de una acción de cesación en defensa de los intereses colectivos y difusos de consumidores y usuarios, si hay demora en la implementación de la resolución judicial dentro del plazo estipulado en la sentencia, se impondrá una multa que:
+1)Variará de seiscientos a sesenta mil euros por cada 2 días de retraso.
+2)Variará de seiscientos a sesenta mil euros por cada día de retraso.
+3)Variará de seiscientos a sesenta mil euros por cada semana de retraso.
+4)Variará de seiscientos a sesenta mil euros por cada hora de retraso.
+Respuesta: 2
+Correcta: ¡Acertaste! La multa por retraso en la ejecución de la resolución judicial será de entre seiscientos y sesenta mil euros por día de retraso.
+Errada: La opción seleccionada no es correcta. La multa impuesta por cada día de retraso en la ejecución de la resolución judicial estipulada en la sentencia varía entre seiscientos y sesenta mil euros. (Respuesta Correcta 2)
+###
+Pregunta: En el proceso de liquidación, conforme al artículo 720 de la Ley de Enjuiciamiento Civil sobre la presentación de cuentas de una administración, ¿bajo qué circunstancias el Letrado de la Administración de Justicia encargado de la ejecución podría decidir extender los plazos establecidos por la ley?
+1)Ninguna es correcta.
+2)La dificultad o complicación del asunto.
+3)La relevancia del caso.
+4)Ambas son correctas.
+Respuesta: 4
+Correcta: ¡Bien hecho! El Letrado de la Administración de Justicia puede ampliar los plazos si el asunto es importante o complejo.
+Errada: La respuesta seleccionada no es correcta. El Letrado de la Administración de Justicia tiene la facultad de ampliar los plazos en casos de importancia o complejidad del asunto. (Respuesta Correcta 4)
+###
+Pregunta: En el procedimiento de liquidación de daños y perjuicios, ¿qué debe presentar la persona que ha sufrido los daños para solicitar su determinación judicial?
+1)Una relación detallada de los daños y perjuicios sufridos.
+2)Una valoración de dichos daños.
+3)Un escrito solicitando de forma motivada su determinación judicial.
+4)Todas son correctas.
+Respuesta: 4
+Correcta: ¡Correcto! La persona que ha sufrido daños y perjuicios debe presentar un escrito solicitando su determinación judicial, una relación detallada de los daños y su valoración.
+Errada: La opción elegida no es acertada. La persona afectada debe presentar un escrito solicitando la determinación judicial de los daños, detallarlos y valorarlos. Todas estas acciones son necesarias. (Respuesta Correcta 4)
+###
+Pregunta: ¿Cuál es el tipo de resolución que emite el tribunal competente para considerar emitida una declaración de voluntad proveniente de un fallo judicial o arbitral firme?
+1)Laudo.
+2)Decreto.
+3)Auto.
+4)Declinatoria.
+Respuesta: 3
+Correcta: ¡Exacto! El tribunal competente emite un Auto para considerar emitida una declaración de voluntad derivada de una resolución judicial o arbitral firme.
+Errada: La opción seleccionada no es correcta. El tribunal competente utiliza un Auto para este propósito. (Respuesta Correcta 3)
+###
+Pregunta: Conforme al artículo 707 de la LEC, en la ejecución de sentencias que ordenen la publicación de su contenido en medios de comunicación, ¿puede delegarse el requerimiento al ejecutado?
+1)Sí, a petición del ejecutante y a su costa, el Letrado de la Administración de Justicia podrá delegar su práctica en el Procurador.
+2)No, el requerimiento debe ser practicado siempre y en todo caso por un funcionario de Auxilio Judicial.
+3)Sí, el Juez o Tribunal puede delegarlo en el Procurador a instancia del ejecutado.
+4)No, es una función que corresponde en exclusiva al Letrado de la Administración de Justicia.
+Respuesta: 1
+Correcta: ¡Correcto! La LO 1/2025 ha introducido la posibilidad de que el Letrado de la Administración de Justicia, a petición del ejecutante y a su costa, delegue la práctica de este requerimiento en el Procurador.
+Errada: Respuesta incorrecta. La Ley Orgánica 1/2025 ha modificado el artículo 707 de la LEC, permitiendo ahora que, a petición del ejecutante, el Letrado de la Administración de Justicia delegue la práctica del requerimiento en el Procurador. (Respuesta Correcta 1)
+###
+Pregunta: Según el artículo 705 de la LEC, si el título ejecutivo obliga a hacer alguna cosa, el tribunal requerirá al deudor para que la haga en el plazo que fije. ¿Puede el Letrado de la Administración de Justicia delegar la práctica de dicho requerimiento?
+1)No, es una función indelegable.
+2)Sí, puede delegarlo en el Gestor Procesal a cargo del expediente.
+3)Sí, puede delegarlo en un funcionario de Auxilio Judicial a costa del ejecutado.
+4)Sí, puede delegarlo en el profesional de la Procura de la parte ejecutante, a petición de esta y a su costa.
+Respuesta: 4
+Correcta: ¡Muy bien! La reforma de la LO 1/2025 al artículo 705 de la LEC introduce expresamente la posibilidad de que el LAJ, a petición del ejecutante y a su costa, delegue en el Procurador la práctica del requerimiento.
+Errada: Su respuesta no es correcta. La modificación introducida por la LO 1/2025 en el artículo 705 de la LEC permite que el Letrado de la Administración de Justicia delegue la práctica del requerimiento en el Procurador de la parte ejecutante, si esta lo solicita y asume el coste. (Respuesta Correcta 4)
+###
+Pregunta: Si un individuo condenado a no realizar un acto específico viola la sentencia, se le solicitará rectificar el error, en caso de ser posible. ¿Cómo se llevará a cabo esta intimación y cómo se gestionarán las multas en caso de incumplimiento continuo?
+1)El Letrado de la Administración de Justicia lo intimará, aplicando multas por cada día de incumplimiento.
+2)El Letrado de la Administración de Justicia lo intimará, aplicando multas por cada semana de incumplimiento.
+3)El Letrado de la Administración de Justicia lo intimará, aplicando multas por cada mes de incumplimiento.
+4)El Letrado de la Administración de Justicia lo intimará, aplicando multas por cada 2 horas de incumplimiento.
+Respuesta: 3
+Correcta: ¡Acertado! El Letrado de la Administración de Justicia es quien realiza la intimación, imponiendo multas mensuales en caso de no rectificar el error cometido.
+Errada: La opción seleccionada es errónea. En este proceso, es el Letrado de la Administración de Justicia quien realiza la intimación, y las multas se imponen por cada mes de incumplimiento. (Respuesta Correcta 3)
+###
+Pregunta: En la fase de liquidación de daños y perjuicios, si el tribunal que expidió la orden general de ejecución designa un perito para evaluar los daños y su valor monetario, luego de recibir el escrito de impugnación:
+1)Se determinará un plazo para la presentación del dictamen pericial, posponiendo el juicio oral hasta 25 días después de la entrega del dictamen a las partes.
+2)Se determinará un plazo para la presentación del dictamen pericial, posponiendo el juicio oral hasta 5 días después de la entrega del dictamen a las partes.
+3)Se determinará un plazo para la presentación del dictamen pericial, posponiendo el juicio oral hasta 30 días después de la entrega del dictamen a las partes.
+4)Se determinará un plazo para la presentación del dictamen pericial, posponiendo el juicio oral hasta 10 días después de la entrega del dictamen a las partes.
+Respuesta: 4
+Correcta: ¡Correcto! El tribunal fijará un plazo para la entrega del dictamen pericial y la vista oral se pospondrá hasta 10 días después de haber entregado el dictamen a las partes.
+Errada: Incorrecto. La opción seleccionada no es válida. El procedimiento correcto es posponer la vista oral hasta 10 días después de que se haya proporcionado el dictamen pericial a las partes involucradas. (Respuesta Correcta 4)
+###
+Pregunta: Cuando un título ejecutivo dicta que se debe realizar una acción específica, ¿en qué plazo el tribunal requerirá al deudor que realice dicha acción?
+1)En un plazo de 5 días.
+2)El plazo se establecerá considerando la naturaleza de la acción y las circunstancias presentes.
+3)En un plazo de 15 días.
+4)En un plazo de 20 días.
+Respuesta: 2
+Correcta: ¡Bien hecho! El plazo se determinará de acuerdo con la naturaleza de la acción a realizar y las circunstancias del caso.
+Errada: La respuesta seleccionada es incorrecta. El tribunal fija el plazo para realizar la acción basado en la naturaleza específica de la tarea y las circunstancias circundantes, no se establece un plazo fijo. (Respuesta Correcta 2)
+###
+Pregunta: En casos de ejecución civil donde el título ejecutivo involucre una obligación personalísima y se impongan multas mensuales al ejecutado por no cumplir en el tiempo designado, los requerimientos realizados por el Letrado de la Administración de Justicia:
+1)Se reiterarán trimestralmente hasta que se cumpla 2 años desde el primer requerimiento.
+2)Se reiterarán trimestralmente hasta que se cumpla un mes desde el primer requerimiento.
+3)Se reiterarán trimestralmente hasta que se cumpla un año desde el primer requerimiento.
+4)Se reiterarán trimestralmente hasta que se cumpla 3 meses desde el primer requerimiento.
+Respuesta: 3
+Correcta: ¡Correcto! Los requerimientos se reiterarán trimestralmente por el Letrado de la Administración de Justicia hasta que transcurra un año desde el primer requerimiento.
+Errada: La opción seleccionada es incorrecta. Los requerimientos se reiteran cada tres meses por el Letrado de la Administración de Justicia hasta cumplir un año desde el primer requerimiento. (Respuesta Correcta 3)
+###
+Pregunta: Cuando un inmueble que debe ser entregado es la vivienda habitual del ejecutado o de las personas dependientes de este, ¿cuánto tiempo otorgará el Letrado de la Administración de Justicia para el desalojo?
+1)Treinta días para desalojar.
+2)Un mes para desalojar.
+3)Treinta y un días para desalojar.
+4)Ninguna es correcta.
+Respuesta: 2
+Correcta: ¡Correcto! Se otorga un plazo de un mes para desalojar si el inmueble es la vivienda habitual del ejecutado o de quienes dependan de él.
+Errada: La opción elegida no es correcta. El Letrado de la Administración de Justicia otorga un plazo de un mes para desalojar cuando se trata de la vivienda habitual del ejecutado o de sus dependientes. (Respuesta Correcta 2)
+###
+Pregunta: Dentro de una ejecución civil, si se pide definir el monto adeudado bajo conceptos de frutos o rentas, y el acreedor no está de acuerdo con la liquidación proporcionada por el deudor, se procederá de la siguiente manera:
+1)Se seguirán los pasos previstos para determinar el procedimiento por cuantía.
+2)Se seguirán los pasos previstos para el juicio monitorio.
+3)Se seguirán los pasos previstos para el juicio ordinario.
+4)Se seguirán los pasos previstos para el juicio verbal.
+Respuesta: 4
+Correcta: ¡Correcto! En caso de desacuerdo por parte del acreedor con la liquidación presentada por el deudor, se procederá con los trámites establecidos para el juicio verbal.
+Errada: La opción seleccionada no es correcta. Cuando el acreedor no acepta la liquidación del deudor, los pasos a seguir corresponden a los del juicio verbal. (Respuesta Correcta 4)
+###
+Pregunta: De acuerdo con el artículo 711 de la Ley de Enjuiciamiento Civil, en condenas por inacción (no hacer), las multas coercitivas mensuales pueden alcanzar hasta:
+1)El 20% del precio o valor establecido.
+2)El 25% del precio o valor establecido.
+3)El 30% del precio o valor establecido.
+4)El 35% del precio o valor establecido.
+Respuesta: 1
+Correcta: ¡Bien hecho! Las multas coercitivas mensuales en casos de condenas de no hacer pueden llegar hasta el 20% del precio o valor, según lo estipulado en el artículo 711 de la Ley de Enjuiciamiento Civil.
+Errada: La respuesta seleccionada es incorrecta. El artículo 711 de la Ley de Enjuiciamiento Civil establece que las multas coercitivas mensuales en condenas de no hacer pueden ser hasta del 20% del precio o valor. (Respuesta Correcta 1)
+###
+Pregunta: Cuando el deudor someta la liquidación de frutos, rentas, productos o utilidades de cualquier tipo según el artículo 718 de la LECiv y el acreedor apruebe dicha liquidación, la aprobación será concedida mediante:
+1)Decreto del Letrado de la Administración de Justicia.
+2)Providencia emitida por un Juez de Primera Instancia.
+3)Diligencia del Letrado de la Administración de Justicia.
+4)Todas son correctas.
+Respuesta: 1
+Correcta: ¡Correcto! Si el acreedor está de acuerdo con la liquidación presentada por el deudor, la aprobación se realizará mediante un Decreto del Letrado de la Administración de Justicia.
+Errada: Lo siento, la respuesta seleccionada no es correcta. En el caso de acuerdo por parte del acreedor con la liquidación del deudor, la aprobación se formaliza con un Decreto del Letrado de la Administración de Justicia. (Respuesta Correcta 1)
+###
+Pregunta: ¿En qué circunstancias se determinará el embargo de propiedades del deudor en cantidad adecuada para garantizar el pago de posibles indemnizaciones sustitutorias y los costos del proceso de ejecución?
+1)Cuando el tercero lo demande.
+2)Cuando el ejecutante lo demande.
+3)Cuando el juez lo demande.
+4)Cuando el deudor lo demande.
+Respuesta: 2
+Correcta: ¡Correcto! El embargo de bienes del ejecutado se acuerda cuando es solicitado por el ejecutante para asegurar el pago de indemnizaciones sustitutorias y costas de ejecución.
+Errada: La opción elegida no es correcta. El embargo de bienes se ordena cuando el ejecutante lo solicita, para asegurar el pago de indemnizaciones sustitutorias y costas de la ejecución. (Respuesta Correcta 2)
+###
+Pregunta: Si una resolución judicial o arbitral final obliga a emitir una declaración de voluntad, ¿cuánto tiempo debe pasar sin que el deudor la haya emitido para que el Tribunal competente considere dicha declaración como emitida?
+1)Cinco días después de no ser emitida por el deudor.
+2)Quince días después de no ser emitida por el deudor.
+3)Doce días después de no ser emitida por el deudor.
+4)Veinte días después de no ser emitida por el deudor.
+Respuesta: 4
+Correcta: ¡Bien hecho! Si la declaración de voluntad no es emitida por el deudor en veinte días, el Tribunal competente puede considerar dicha declaración como emitida.
+Errada: La respuesta seleccionada no es correcta. El Tribunal competente considerará la declaración de voluntad como emitida si no ha sido realizada por el deudor dentro de los veinte días. (Respuesta Correcta 4)
+###
+Pregunta: En relación con la entrega de bienes inmuebles, si existen objetos en el inmueble que no están contemplados en el título y el deudor no los retira dentro del periodo estipulado por el Letrado de la Administración de Justicia, ¿qué sucederá con esos objetos?
+1)El Letrado de la Administración de Justicia hará un segundo y último requerimiento al deudor para que retire los objetos.
+2)Los objetos no se considerarán abandonados.
+3)El Letrado de la Administración de Justicia hará un tercer y último requerimiento al deudor para que retire los objetos.
+4)Los objetos se considerarán abandonados a todos los efectos.
+Respuesta: 4
+Correcta: ¡Exacto! Si el ejecutado no retira los objetos dentro del plazo designado, estos se considerarán como abandonados en todos los aspectos.
+Errada: La respuesta elegida no es correcta. Si los objetos no son retirados en el tiempo designado, estos se considerarán abandonados a todos los efectos. (Respuesta Correcta 4)
+###
+Pregunta: En casos de ejecución civil no monetaria, cuando el título ejecutivo implique una obligación no personalísima de realizar algo y el deudor no cumple en el plazo asignado, y el demandante decide asignar la tarea a un tercero, ¿cómo se determinará el costo de dicho trabajo?
+1)El costo del trabajo será previamente evaluado por el juez de oficio.
+2)El costo del trabajo será previamente evaluado por el LAJ.
+3)El costo del trabajo será previamente evaluado por un perito tasador.
+4)El costo del trabajo será previamente evaluado por las partes.
+Respuesta: 3
+Correcta: ¡Correcto! El costo del trabajo a realizar será evaluado previamente por un perito tasador en caso de que el deudor no cumpla y el demandante opte por asignar la tarea a un tercero.
+Errada: La opción elegida es incorrecta. Si el demandante decide asignar el trabajo a un tercero, el costo será evaluado previamente por un perito tasador. (Respuesta Correcta 3)
+###
+Pregunta: Si durante el acto de lanzamiento en un proceso civil se identifican daños en la propiedad causados por el deudor o los ocupantes, ¿cuál de las siguientes acciones puede ser tomada para asegurar la compensación por daños y perjuicios?
+1)No se pueden retener y depositar bienes suficientes del presunto responsable para cubrir los daños y perjuicios.
+2)Se puede imponer una multa al presunto deudor.
+3)Se pueden retener y depositar bienes suficientes del presunto responsable para cubrir los daños y perjuicios.
+4)Se pueden retener y depositar bienes suficientes del acreedor para cubrir los daños y perjuicios.
+Respuesta: 3
+Correcta: ¡Correcto! Se pueden retener y depositar bienes suficientes del presunto responsable para asegurar la compensación por los daños y perjuicios causados.
+Errada: La respuesta seleccionada no es correcta. La acción correcta es retener y depositar bienes suficientes del presunto responsable para asegurar la compensación por los daños y perjuicios causados. (Respuesta Correcta 3)
+###
+Pregunta: Si el deudor acepta tanto la relación de daños y perjuicios como su valor, ¿quién y mediante qué instrumento se procederá a la aprobación?
+1)El Letrado de la Administración de Justicia encargado de la ejecución aprobará mediante un decreto.
+2)El Juez encargado de la ejecución aprobará mediante una providencia.
+3)El Letrado de la Administración de Justicia encargado de la ejecución aprobará mediante una diligencia.
+4)El Juez encargado de la ejecución aprobará mediante un auto.
+Respuesta: 1
+Correcta: ¡Bien hecho! Cuando el deudor acepta la relación de daños y perjuicios y su valor, el Letrado de la Administración de Justicia encargado de la ejecución procede a aprobarlo mediante decreto.
+Errada: La respuesta seleccionada es incorrecta. En caso de conformidad del deudor, la aprobación se realiza mediante decreto por el Letrado de la Administración de Justicia encargado de la ejecución. (Respuesta Correcta 1)
+###
+Pregunta: Con respecto al Art. 709 de la LEC y las condenas de hacer que son estrictamente personales, ¿cuál de las siguientes afirmaciones es correcta?
+1)El condenado puede comunicar al tribunal los motivos de su negación a cumplir con el título y argumentar sobre la naturaleza personal o no personal de la obligación.
+2)Cuando se decide sancionar al condenado con multas mensuales, el LAJ repetirá los requerimientos cada tres meses hasta que pase un año desde el primer requerimiento.
+3)En caso de continuar la ejecución para obtener una compensación monetaria por la obligación, se impondrá una sola multa al condenado.
+4)Todas son correctas.
+Respuesta: 4
+Correcta: ¡Bien hecho! Todas las afirmaciones listadas son correctas según el Art. 709 de la LEC.
+Errada: La opción elegida no es correcta. De hecho, todas las afirmaciones son correctas de acuerdo con el Art. 709 de la LEC. (Respuesta Correcta 4)

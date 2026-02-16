@@ -1,0 +1,71 @@
+# Disposiciones Comunes
+
+## Las costas Procesales en C A tras la reforma
+
+**Tema:** Disposiciones Comunes  
+**Clase:** T64_C07  
+**Archivo:** T64_C07_Las costas Procesales en C A tras la reforma.txt  
+**Tipo:** Material de Clase  
+**Categoría:** Oposiciones de Justicia  
+
+---
+
+¡Buenas, opositores! Bienvenidos a una nueva clase. En esta clase vamos a analizar las costas procesales en este orden. Primero, ¿qué son las costas procesales? Pues las costas de un juicio, o también llamadas costas procesales o costas judiciales, se entienden como los gastos asociados a un litigio.
+
+
+En nuestro caso, vamos a reducirnos a ver el artículo 139 de la ley de la jurisdicción costeceso-administrativa, que por cierto ha sido modificado por el Real Decreto-Ley 6 de 2023. Éste comienza diciendo que, en primera o en única distancia, el órgano jurisdiccional, al dictar sentencia o al resolver por auto los recursos o incidentes que ante él mismo se promovieran, impondrá las costas a la parte que haya visto rechazadas todas sus pretensiones, salvo que aprecie, o así lo razone, que el caso presentaba serias dudas de hecho o de derecho. Imagina un caso en el que dos partes, Juan y Ana, están involucrados en un litigio.
+
+
+Juan demanda a Ana por una cantidad de dinero que él asegura que ella le debe, pero Ana niegue la deuda alegando que nunca contrató tal obligación. Durante el juicio, ambas partes presentan sus argumentos, pruebas y testimonio. El tribunal escucha ambas partes y finalmente dicta sentencia.
+
+
+Supongamos que el juez decide a favor de Ana, determinando que no existe evidencia suficiente para denustrar la deuda. En este caso, Juan ha visto rechazadas todas sus pretensiones, ya que el juez no le ha dado la razón en su demanda. Siguiendo la norma mencionada, el tribunal debería imponer las cotas procesales a Juan, ya que sus pretensiones fueron totalmente rechazadas.
+
+
+Sin embargo, el juez tiene la facultad de no imponer esas costas si considera que el caso presentaba serias dudas de hecho o de derecho. Esto significa que, si el juez piensa que el caso no era claro y había motivos razonables para que Juan presentara la demanda, aunque al final no tuviera éxito, podría decidir no cargarle las costas. Si el juez encuentra que, aunque las pruebas favorecieron a Ana, la situación era jurídicamente compleja o había ambigüedad en los hechos o en la interpretación de la ley, podría optar por no imponer las cotas a Juan explicando claramente sus razones para esta decisión.
+
+
+Tengamos en cuenta también que, en los supuestos de estimación o desestimación parcial de las pretensiones, cada parte abonará las costas casuadas a su instancia y las comunes por mitad, salvo que el órgano jurisdiccional, razonándolo debidamente, las imponga a una de ellas por haber sometido su acción o interposición del recurso con mala fe o temeridad. Imaginemos un litigio entre dos empresas, la empresa A y la empresa B. La empresa A demanda a la empresa B por incumplimiento de contrato y reclama una compensación por daños y perjuicios, además de una indemnización por lucro cesante. La empresa A sostiene que la empresa B no cumplió con los términos del contrato, causando pérdidas financieras significativas, y reclama una suma específica por daños y otra por lucro cesante.
+
+
+La empresa B reconoce parcialmente la falta de cumplimiento, pero argumenta que las consecuencias no fueron tan graves como afirma la empresa A. Acepta su responsabilidad por una cantidad menor de daños y rechaza la reclamación por lucro cesante. El tribunal, tras evaluar las evidencias y argumentos, llega a las siguientes conclusiones. Reconoce su derecho a recibir una compensación por daños, pero en una cantidad menor a la reclamada.
+
+
+Y rechaza la demanda de indemnización por lucro cesante por falta de pruebas suficientes. Por ello, cada empresa deberá pagar las costas generadas por sus respectivas reclamaciones. Esto significa que la empresa A cubrirá los gastos de sus abogados y otros costes adicionales a sus pretensiones, tanto las estimadas como las desestimadas, y lo mismo aplica para la empresa B. Y para las costas comunes, es decir, aquellas que no se vinculan directamente con las pretensiones de una parte en particular, como podrían ser los gastos por pruebas periciales solicitadas conjuntamente, se dividirán por mitad entre ambas empresas.
+
+
+El tribunal tiene la facultad de imponer todas las costas a una de las partes si considera que ha actuado con mala fe de temeridad. Por ejemplo, si se determina que la empresa A exageró significativamente sus reclamaciones o que la empresa B conocía su plena responsabilidad pero negó los hechos para prolongar el litigio, el juez podrá decidir hacerla responsable de todas las costas. Seguimos con el apartado segundo que nos indica que en los recursos se impondrán las costas al recurrente si se desestima totalmente el recurso, salvo que el órgano jurisdiccional, razonándolo debidamente, aprece la concurrencia de circunstancias que justifiquen su no imposición.
+
+
+Supongamos que en un litigio inicial, Carlos fue condenado a pagar una suma de dinero a Sofía debido a un incumplimiento contractual. Inconforme con la decisión, Carlos decide presentar un recurso de apelación argumentando que la sentencia contiene errores de hecho y de derecho. Carlos, el recurrente, presenta el recurso de apelación exponiendo sus argumentos y solicitando que se revoque la sentencia que le es desfavorable.
+
+
+Sofía, la recubrida, defiende la sentencia del tribunal inferior argumentando que la decisión fue justa y basada en una correcta interpretación de los hechos y del derecho. El tribunal superior revisa la apelación y determina que no existen errores en la sentencia original. Por lo tanto, decide sistimar totalmente el recurso presentado por Carlos.
+
+
+Dado que el recurso ha sido totalmente desestimado, la regla general indica que las costas del recurso se impondrán a Carlos. Esto significa que deberá cubrir los gastos judiciales generados por su apelación, además de los costos en los que haya incurrido Sofía para defenderse en esta instancia. A pesar de la desestimación del recurso, el tribunal tiene la capacidad de decidir no imponer las costas a Carlos si identifica circunstancias excepcionales.
+
+
+Por ejemplo, si el tribunal considera que había razón objetiva y notificada para dudar de la corrección de la sentencia apelada, podría exonerar a Carlos de pagar las costas incluso si finalmente no le ha dado la razón. El apartado cuarto, por su parte, establece un límite. La parte condenada en costas estará obligada a pagar una cantidad total que no excede de la tercera parte de la cuantía del proceso por cada uno de los favorecidos por esta condena.
+
+
+A estos solos efectos, la pretensión de cuantía indeterminada se valorará en 18.000 euros, salvo que, por razón de la complejidad del asunto, el tribunal disponga razonadamente otra cosa. En los recursos y sin perjuicio de lo previsto en el apartado interior, la imposición de costas podrá ser a la totalidad, a una parte de estas o hasta una cifra máxima. Imaginemos un litigio entre dos compañías, la compañía A y la compañía B, sobre un conflicto contractual.
+
+
+La disputa llega a tribunales y, después de un juicio, se dicta sentencia. El tribunal falla a favor de la compañía B y la compañía A es condenada a pagar las costas del proceso. Supongamos que la cuantía del proceso se establece en 60.000 euros.
+
+
+Según la normativa, la compañía A, que ha sido condenada en costas, no está obligada a pagar más de la tercera parte de la cuantía del proceso por cada uno de los favorecidos por la condena. Esto significa que, en nuestro ejemplo, la compañía A no tendría que pagar más de 20.000 euros, un tercio del 60.000 euros, en costas, pese a que el total de las costas generadas pudiera ser superior. Si el proceso hubiese sido de cuantía indeterminada, para el cálculo de las costas se valorarán en 18.000 euros, salvo que el tribunal decida otra cosa debido a la complejidad del asunto.
+
+
+Esto establece un criterio para valorar los procesos sin una cuantía determinada y fijar un límite máximo a las costas a pagar. Ahora veamos la regulación específica para los recursos. Además de lo anterior, en los recursos como apegación o casación, la imposición de costas puede ser ajustada de manera diferente.
+
+
+El tribunal tiene la facultad de decidir si las costas se imponen en su totalidad, solo una parte de ellas o hasta un límite máximo especificado. Esta flexibilidad permite al tribunal adaptar la condena en costas a las particularidades de cada caso, especialmente considerando la complejidad o la importancia del recurso. Este marco legal busca equilibrar la responsabilidad por las costas judiciales, evitando que la parte condenada en costas se enfrente a una obligación desproporcionadamente alta en relación con la cuantía del proceso, a la vez que ofrece al tribunal la capacidad de adaptar la imposición de costas en los recursos según la circunstancia específica del caso.
+
+
+Aunque nos pueda parecer evidente, en el artículo nos recalca que en ningún caso se impondrán las costas al Ministerio Fiscal. A su vez, ten en cuenta que la regulación más amplia no nos la encontramos en la Ley de la Jurisdicción Contencioso Administrativo, sino en la LEC, y por ello se establece que las costas causadas en los autos serán reguladas y tasadas según lo dispuesto en la Ley de Juiciamiento Civil. Por último, antes de acabar, quiero mencionar en relación a este tema la disposición transitoria novena sobre costas procesales que establece que el régimen de costas procesales establecido en esta ley será aplicable a los procesos y a los recursos que se inician o provean con posterioridad a su entrada en vigor.
+
+
+Y bueno, hasta aquí la clase de hoy, opositores. Hemos visto la condena en costas, como ejemplos, en el ámbito de la Jurisdicción Contencioso Administrativa según lo establece la Ley de la Jurisdicción Contencioso Administrativa. ¡Hasta la próxima! ¡A seguir estudiando y mucho ánimo!
+

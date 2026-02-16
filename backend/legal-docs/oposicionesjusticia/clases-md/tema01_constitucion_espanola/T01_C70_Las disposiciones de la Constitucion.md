@@ -1,0 +1,74 @@
+# Constitución Española
+
+## Las disposiciones de la Constitucion
+
+**Tema:** Constitución Española  
+**Clase:** T01_C70  
+**Archivo:** T01_C70_Las disposiciones de la Constitucion.txt  
+**Tipo:** Material de Clase  
+**Categoría:** Oposiciones de Justicia  
+
+---
+
+Hola a todos y a todas, si estáis aquí es que ya habéis estudiado todo el articulado de la constitución y solo nos queda una cosita, las 15 disposiciones que cierran el texto constitucional. Suelen ser las grandes olvidadas de la constitución, pero no está de más sabérselas y poder relacionarlas con su articulado. Vamos a por ellas.
+
+
+Lo primero que debes saber es que la constitución tiene los cuatro tipos de disposiciones típicas a nuestro derecho, las adicionales, las transitorias, las derogatorias y la final. Un pequeño apunte, en todo texto normativo siempre encontrarás estas disposiciones en este orden que hemos dicho, adicionales, transitorias, derogatorias y final. Vamos a ver para qué sirven y qué contenido tienen.
+
+
+Empecemos por las disposiciones adicionales. Estas sirven para incluir excepciones, reservas o incluso regímenes jurídicos especiales en relación con el texto de la norma en la que se encuadran. Por tanto, dictan algunas especialidades respecto de algunos asuntos constitucionales.
+
+
+Nuestra carta magna tiene cuatro disposiciones adicionales. Vamos a verlas. La disposición adicional primera contiene un principio, la garantía constitucional del respeto a los regímenes forales, esto es, al derecho particular que tienen Navarra, Aragón, Baleares, Cataluña o Galicia.
+
+
+Como dijo el Tribunal Constitucional en su sentencia 123.1984, esta disposición permitió que integráramos y actualizáramos estos regímenes en el ordenamiento jurídico constitucional posterior. Para ello, era necesario que el régimen foral se incluyese y actualizase en los estatutos de autonomía. La disposición adicional segunda, por su parte, también está relacionada con el derecho foral.
+
+
+Esta nos dice que la declaración de la mayoría de edad del artículo 12 de la Constitución, que se ubica en los 18 años, no obsta a las situaciones protegidas por el derecho foral en el ámbito privado. En otras palabras, el derecho foral puede contener especialidades y esto no sería contrario al artículo 12 de la Constitución. La disposición adicional tercera cambia de tema y pasa a centrarse en Canarias.
+
+
+Dada su condición de isla y su lejanía respecto de la península, la Constitución reconoció sus especialidades en materia económica y fiscal. Concretamente, esta disposición nos dice que cualquier modificación del régimen económico y fiscal canario requiere informe previo de esta comunidad autónoma. Llegamos a la disposición adicional cuarta, que es la última de este grupo.
+
+
+Aquí la Constitución nos habla del poder judicial. Nos dice, particularmente, que en las comunidades autónomas donde tenga su sede más de una audiencia territorial, los Estatutos de Autonomía podrán mantenerlas existentes, distribuyendo las competencias entre ellas. Y dirás, ¿cómo que audiencia territorial? Efectivamente, estas ya no existen, pues con la Ley Orgánica 6.1985 del Poder Judicial fueron sustituidas por los Tribunales Superiores de Justicia.
+
+
+Vamos a por el siguiente grupo de disposiciones, que son las transitorias. Como su nombre indica, son aquellas normas que rigen para los momentos de transición. En este caso, son las normas que debían aplicarse entre que se aprobaba la Constitución y se llevaban a cabo ciertas actividades aplicándola.
+
+
+Seguro que te lo imaginas. Hoy, estas disposiciones ya cumplieron su objetivo y no tienen aplicabilidad práctica. Nuestra Constitución tiene nueve.
+
+
+Vamos a verlas de forma breve. Las primeras siete estuvieron relacionadas con el proceso autonómico, así que vamos a verlas juntas. La primera, por ejemplo, nos dice que la iniciativa para convertirse en una comunidad autónoma en los territorios donde hubiera algún ente preautónomo podía ser ejercida por los órganos colegiados de este ente preautónomo.
+
+
+Esto ocurrió hasta en 13 territorios, entre ellos Galicia, Canarias, Cataluña o el País Vasco. La disposición transitoria segunda, por su parte, señaló que los territorios que hubiesen plebiscitado afirmativamente proyectos de estatuto de autonomía en el pasado, como Cataluña, podrían proceder directamente a aplicar el artículo 148.2 y 151.2 de la Constitución. La disposición transitoria tercera dijo que la iniciativa del proceso autonómico del artículo 143.2 de la Constitución se difería hasta la celebración de las primeras elecciones locales tras la aprobación de la Constitución.
+
+
+La cuarta, con la que te debes quedar porque es importante, fue la base para que Navarra se constituyera en una comunidad autónoma, en vez de formar parte del País Vasco. La disposición transitoria quinta, por otro lado, permitió que las ciudades de Ceuta y Melilla se convirtieran en ciudades autónomas y la debéis relacionar siempre con el artículo 144 de la Constitución. La disposición transitoria sexta, a continuación, decidió sobre una cuestión muy sencilla.
+
+
+Cuando empezaron a llegar los proyectos de estatuto de autonomía al Congreso, por esta disposición transitoria se entendió que el Congreso debía dictaminar sobre ellos según el orden de entrada que hubieran tenido, esto es, por orden de llegada. Por último, la disposición transitoria séptima se refirió a los organismos provisionales autonómicos, señalando cuando quedarían disueltos. Esto ocurrió principalmente cuando se constituyeron los órganos autonómicos definitivos tras aprobarse el Estatuto de Autonomía de cada comunidad autónoma.
+
+
+Nos quedan dos disposiciones transitorias, la octava y la novena. Con ellas cambiamos de temática, ya que se refieren a órganos constitucionales de nuestro Estado. Así, la disposición transitoria octava respondió a la siguiente pregunta.
+
+
+¿Qué pasaba con las Cortes Constituyentes una vez que se promulgaba la Constitución? Pues que éstas debían ser disueltas antes del 15 de junio de 1981 y debían celebrarse las primeras elecciones constitucionales. La disposición transitoria novena, por último, creó normas para la renovación del Tribunal Constitucional. En particular, dijo que a los tres años desde que se eligieron los primeros miembros del Tribunal Constitucional, se designarían, por sorteo, cuatro miembros de la misma procedencia electiva, para dar inicio a la renovación por tercios que es propia de este Tribunal.
+
+
+Nos toca pasar al tercer tipo de disposición, las disposiciones derogatorias. Como su nombre indica, estas disposiciones nos dicen qué normas anteriores pierden vigencia por la aprobación del texto normativo en el que se ubican. La Constitución sólo tiene una disposición derogatoria y es bien sencilla.
+
+
+Con la aprobación de la Constitución quedaban derogadas todas las disposiciones que se opusieran a la misma por su supremacía constitucional y, en particular, ciertas leyes, como la Ley 1.977 para la Reforma Política, el Foro del Trabajo, la Ley Constitutiva de las Cortes o la Ley de Sucesión a la Jefatura del Estado, entre muchas otras. Por último, y para terminar, debemos referirnos a las disposiciones finales. Estas son bien fáciles.
+
+
+Suelen contener la fecha de entrada en vigor del texto normativo al que se refieren. Nuestra Constitución tiene una disposición final única, que dijo que el texto constitucional entraría en vigor el mismo día de su publicación en el BOE, esto es, el 29 de diciembre de 1978. Con esto acabamos la clase de hoy.
+
+
+Recuerda que las disposiciones de nuestra Constitución son quince en total. Tenemos cuatro disposiciones adicionales, que crean normas particulares, nueve disposiciones transitorias, que rigieron ciertos aspectos entre que se aprobaba la Constitución como texto y se llevaba a la práctica su articulado, una disposición derogatoria y una disposición final. Con esto ya has visto todo lo que debías saber acerca de la Constitución Española de 1978.
+
+
+¡Mucho ánimo estudiando las siguientes materias!
+

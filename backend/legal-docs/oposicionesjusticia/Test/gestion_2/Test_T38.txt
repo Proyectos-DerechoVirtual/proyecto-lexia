@@ -1,0 +1,135 @@
+Pregunta: De acuerdo con el artículo 742 LEC, en el procedimiento de oposición a las medidas cautelares adoptadas, ¿qué ocurrirá una vez determinados los daños y perjuicios que hubiera producido la medida cautelar revocada?
+1) El solicitante de la medida será requerido para el pago, y si no realiza el pago, el tribunal inmediatamente le impondrá una multa que no será menor de 80 euros ni mayor de 600 euros.
+2) El solicitante de la medida será requerido para el pago, y si no realiza el pago, el tribunal inmediatamente le impondrá una multa que no será menor de 60 euros ni mayor de 1000 euros.
+3) Se solicitará el pago al que solicitó la medida y, si no realiza el pago inmediatamente, se iniciará un proceso de exacción forzosa.
+4) El solicitante de la medida será requerido para el pago, y si no realiza el pago, el tribunal inmediatamente le impondrá una multa que no será menor de 100 euros ni mayor de 900 euros.
+Respuesta: 3
+Correcta: ¡Correcto! Si el solicitante de la medida no realiza el pago, se procede de inmediato a una exacción forzosa, de acuerdo con el artículo 742 de la LEC.
+Errada: La opción seleccionada no es correcta. Según el artículo 742 de la LEC, si el solicitante de la medida no paga, se inicia una exacción forzosa. (Respuesta Correcta 3)
+###
+Pregunta: Seleccione la afirmación correcta respecto a la petición de medidas cautelares en el procedimiento civil:
+1) A la solicitud se deben adjuntar los documentos de respaldo o se debe proponer la práctica de otros medios de prueba para acreditar los requisitos que justifican la adopción de medidas cautelares.
+2) La petición de medidas cautelares debe formularse de manera clara y precisa, justificando adecuadamente la presencia de los requisitos necesarios para su adopción según la ley.
+3) La posibilidad de proponer pruebas se precluirá para el actor con la solicitud de medidas cautelares.
+4) Todas son correctas.
+Respuesta: 4
+Correcta: ¡Bien hecho! Has seleccionado correctamente que todas las afirmaciones son correctas en relación con la solicitud de medidas cautelares en el proceso civil.
+Errada: La opción elegida es incorrecta. Todas las afirmaciones listadas son correctas en relación con la solicitud de medidas cautelares en el proceso civil. (Respuesta Correcta 4)
+###
+Pregunta: Seleccione la afirmación correcta sobre la competencia judicial para las solicitudes de medidas cautelares:
+1) En cualquier caso, el tribunal competente para las solicitudes de medidas cautelares será el que haya conocido o esté conociendo del caso en primera instancia.
+2) Si el proceso ya ha comenzado, el tribunal competente para las solicitudes de medidas cautelares será el que tenga competencia para conocer la demanda principal.
+3) En cualquier caso, el tribunal competente para las solicitudes de medidas cautelares será el que este conociendo la demanda principal.
+4) Si el proceso aún no ha comenzado, el tribunal competente para las solicitudes de medidas cautelares será el que tenga competencia para conocer la demanda principal.
+Respuesta: 4
+Correcta: ¡Correcto! Si el proceso principal aún no ha comenzado, el tribunal competente para las solicitudes de medidas cautelares será el encargado de conocer la demanda principal.
+Errada: Has seleccionado una opción incorrecta. El tribunal competente para solicitudes de medidas cautelares, cuando el proceso principal aún no ha comenzado, es el que tenga competencia para conocer la demanda principal. (Respuesta Correcta 4)
+###
+Pregunta: En cuanto a la prestación de garantías en medidas cautelares adoptadas durante el proceso civil, ¿quién decide acerca de la adecuación y suficiencia del monto de la garantía?
+1) La idoneidad y suficiencia del monto de la garantía son determinadas por el Tribunal mediante auto.
+2) La idoneidad y suficiencia del monto de la garantía son determinadas por el Tribunal mediante providencia.
+3) La idoneidad y suficiencia del monto de la garantía son determinadas por el Letrado de la Administración de Justiciamediante decreto.
+4) La idoneidad y suficiencia del monto de la garantía son determinadas por el Letrado de la Administración de Justiciamediante diligencia.
+Respuesta: 2
+Correcta: ¡Excelente! Has seleccionado la opción correcta. La adecuación y suficiencia del monto de la garantía se determinan por el Tribunal mediante providencia.
+Errada: La opción seleccionada no es correcta. La adecuación y suficiencia del monto de la garantía se determinan por el Tribunal mediante providencia. (Respuesta Correcta 2)
+###
+Pregunta: Con respecto al levantamiento de medidas cautelares después de una sentencia absolutoria firme, según el artículo 745 de la Ley de Enjuiciamiento Civil, ¿qué se establece sobre los daños y perjuicios que podrían haber sido causados por la implementación de las medidas cautelares?
+1) Se actuará de acuerdo con lo establecido en el artículo 742 respecto a los daños y perjuicios que el demandado podría haber sufrido.
+2) Se actuará de acuerdo con lo establecido en el artículo 740 respecto a los daños y perjuicios que el demandado podría haber sufrido.
+3) Se actuará de acuerdo con lo establecido en el artículo 748 respecto a los daños y perjuicios que el demandado podría haber sufrido.
+4) Se actuará de acuerdo con lo establecido en el artículo 743 respecto a los daños y perjuicios que el demandado podría haber sufrido.
+Respuesta: 1
+Correcta: ¡Correcto! Se actuará conforme a lo estipulado en el artículo 742 en relación con los daños y perjuicios que el demandado pudiera haber experimentado.
+Errada: La respuesta seleccionada es incorrecta. De acuerdo con el artículo 745, se seguirá lo dispuesto en el artículo 742 respecto a los daños y perjuicios que el demandado podría haber sufrido. (Respuesta Correcta 1)
+###
+Pregunta: Conforme a la Ley de Enjuiciamiento Civil, las medidas cautelares se caracterizan por ser:
+1) Provisionales.
+2) Temporales.
+3) Dependientes de condiciones.
+4) Todas son correctas.
+Respuesta: 4
+Correcta: ¡Bien hecho! Has seleccionado correctamente. Las medidas cautelares son provisionales, temporales y dependen de condiciones específicas.
+Errada: La opción elegida no es correcta. Las medidas cautelares se caracterizan por ser provisionales, temporales y condicionadas. (Respuesta Correcta 4)
+###
+Pregunta: En los casos donde se soliciten medidas cautelares previas a la demanda, y el tribunal evalúe su propia jurisdicción, competencia objetiva y territorial de oficio, si determina que carece de jurisdicción o competencia objetiva, ¿qué acción tomará?
+1) Emitirá un auto donde se abstenga de actuar, guiando a las partes para que ejerzan sus derechos ante la instancia correspondiente, siempre y cuando la abstención no se base en la falta de jurisdicción de los tribunales españoles.
+2) Emitirá sentencia donde se abstenga de actuar, guiando a las partes para que ejerzan sus derechos ante la instancia correspondiente, siempre y cuando la abstención no se base en la falta de jurisdicción de los tribunales españoles.
+3) Emitirá una providencia donde se abstenga de actuar, guiando a las partes para que ejerzan sus derechos ante la instancia correspondiente, siempre y cuando la abstención no se base en la falta de jurisdicción de los tribunales españoles.
+4) Emitirá un decreto donde se abstenga de actuar, guiando a las partes para que ejerzan sus derechos ante la instancia correspondiente, siempre y cuando la abstención no se base en la falta de jurisdicción de los tribunales españoles.
+Respuesta: 1
+Correcta: ¡Correcto! El tribunal emitirá un auto de abstención y dirigirá a las partes hacia la autoridad correspondiente, siempre y cuando la abstención no se origine por falta de jurisdicción de los tribunales españoles.
+Errada: La opción seleccionada no es válida. El tribunal emitirá un auto de abstención y guiará a las partes para que presenten sus casos ante la autoridad competente, a menos que la abstención se fundamente en la falta de jurisdicción de los tribunales españoles. (Respuesta Correcta 1)
+###
+Pregunta: En un procedimiento civil donde se evalúa la oposición a medidas cautelares tomadas sin la previa audiencia del demandado, tras la vista, el tribunal:
+1) Dictará un auto respecto a la oposición en un plazo de cinco días.
+2) Dictará un auto respecto a la oposición en un plazo de tres días.
+3) Dictará un auto respecto a la oposición en un plazo de diez días.
+4) Dictará un auto respecto a la oposición en un plazo de ocho días.
+Respuesta: 1
+Correcta: ¡Excelente! Has seleccionado correctamente. El tribunal emitirá un auto respecto a la oposición en un plazo de cinco días.
+Errada: La opción seleccionada es incorrecta. El tribunal debe dictar un auto sobre la oposición y tiene un plazo de cinco días para hacerlo. (Respuesta Correcta 1)
+###
+Pregunta: ¿Quién determina la caución que debe proporcionar el solicitante de medidas cautelares y con base en qué criterios?
+1) El Gestor Procesal, considerando la naturaleza y contenido de la demanda y evaluando el fundamento de la solicitud de la medida cautelar.
+2) El Letrado de la Administración de Justicia, considerando la naturaleza y contenido de la demanda y evaluando el fundamento de la solicitud de la medida cautelar.
+3) El tribunal, considerando la naturaleza y contenido de la demanda y evaluando el fundamento de la solicitud de la medida cautelar.
+4) El tribunal, considerando la naturaleza y contenido de la demanda exclusivamente.
+Respuesta: 3
+Correcta: ¡Bien hecho! Has acertado. El tribunal es quien determina la caución, tomando en cuenta la naturaleza y contenido de la pretensión y evaluando el fundamento de la solicitud de la medida.
+Errada: La opción seleccionada es incorrecta. El tribunal determina la caución requerida, teniendo en cuenta la naturaleza y contenido de la pretensión, así como el fundamento de la solicitud de la medida cautelar. (Respuesta Correcta 3)
+###
+Pregunta: Dentro del proceso civil, cuando se redacta la solicitud para medidas cautelares, es necesario ofrecer una caución:
+1) Ninguna es correcta.
+2) Indicando claramente el tipo o los tipos de caución que se planean establecer.
+3) Proporcionando justificación del monto propuesto.
+4) Ambas son correctas.
+Respuesta: 4
+Correcta: ¡Correcto! En la solicitud de medidas cautelares, se debe justificar el monto propuesto de caución y especificar el tipo o tipos de caución que se ofrecen.
+Errada: La respuesta seleccionada no es correcta. Cuando se solicitan medidas cautelares, es esencial justificar el importe propuesto y especificar el tipo o los tipos de caución que se están ofreciendo. (Respuesta Correcta 4)
+###
+Pregunta: En situaciones donde hay una sentencia absolutoria firme:
+1) El Juez levantará de oficio todas las medidas cautelares implementadas y procederá conforme a lo estipulado en el artículo 742 de la Ley de Enjuiciamiento Civil con respecto a los daños y perjuicios que el demandado podría haber experimentado.
+2) El Letrado de la Administración de Justicia levantará de oficio todas las medidas cautelares implementadas y procederá conforme a lo estipulado en el artículo 745 de la Ley de Enjuiciamiento Civil con respecto a los daños y perjuicios que el demandado podría haber experimentado.
+3) El Juez levantará de oficio todas las medidas cautelares implementadas y procederá conforme a lo estipulado en el artículo 745 de la Ley de Enjuiciamiento Civil con respecto a los daños y perjuicios que el demandado podría haber experimentado.
+4) Se alzarán de oficio por el Letrado de la Administración de Justicia todas las medidas cautelares adoptadas y se procederá conforme a lo dispuesto en el artículo 742 de la Ley de Enjuiciamiento Civil respecto de los daños y perjuicios que hubiere podido sufrir el demandado.
+Respuesta: 4
+Correcta: ¡Bien hecho! Has seleccionado la opción correcta. El Letrado de la Administración de Justicia levantará de oficio todas las medidas cautelares y procederá según el artículo 742 respecto a los daños y perjuicios del demandado.
+Errada: La opción elegida es incorrecta. En caso de sentencia absolutoria firme, el Letrado de la Administración de Justicia levanta de oficio todas las medidas cautelares y procede según el artículo 742 en cuanto a los daños y perjuicios del demandado. (Respuesta Correcta 4)
+###
+Pregunta: Cuando se soliciten medidas cautelares y esté en curso un proceso arbitral o se esté a la espera de la formalización judicial de un arbitraje, ¿cuál será el tribunal competente?
+1) El tribunal del lugar donde las medidas tendrán efecto.
+2) El tribunal del lugar de ejecución del laudo.
+3) Ninguna es correcta.
+4) El tribunal del lugar de ejecución del laudo, o, si no aplica, el del lugar donde las medidas tendrán efecto.
+Respuesta: 4
+Correcta: ¡Acertaste! El tribunal competente será aquel en el lugar de ejecución del laudo o, en su defecto, donde las medidas cautelares tendrán efecto.
+Errada: La opción seleccionada es incorrecta. Recuerda que el tribunal competente será el ubicado en el lugar de ejecución del laudo arbitral, o, si no es aplicable, en el lugar donde las medidas cautelares tendrán efecto. (Respuesta Correcta 4)
+###
+Pregunta: En casos de embargo preventivo, ¿es posible presentar una tercería de dominio? ¿Y una tercería de mejor derecho?
+1) Se puede presentar una tercería de mejor derecho, pero no una tercería de dominio, a menos que la presente alguien que en otro proceso demande al mismo deudor una cantidad de dinero.
+2) Puedes presentar sin problemas cualquiera de los dos.
+3) Se puede presentar una tercería de dominio, pero no una tercería de mejor derecho, a menos que la presente alguien que en otro proceso demande al mismo deudor una cantidad de dinero.
+4) Ninguna es correcta.
+Respuesta: 3
+Correcta: ¡Correcto! Se puede presentar una tercería de dominio, pero no una tercería de mejor derecho, excepto en casos específicos donde alguien demande al mismo deudor en otro proceso.
+Errada: La respuesta elegida es incorrecta. En situaciones de embargo preventivo, es posible presentar una tercería de dominio pero no de mejor derecho, a menos que existan demandas en otros procesos contra el mismo deudor por una cantidad de dinero. (Respuesta Correcta 3)
+###
+Pregunta: Conforme al artículo 734 de la Ley de Enjuiciamiento Civil (LEC), ¿cuánto tiempo tiene el Letrado de la Administración de Justicia para convocar a las partes a una vista después de notificar al demandado sobre la solicitud de medidas cautelares?
+1) Tres días después de notificar al demandado sobre la solicitud de medidas cautelares.
+2) Cinco días después de notificar al demandado sobre la solicitud de medidas cautelares.
+3) Tres días antes de notificar al demandado sobre la solicitud de medidas cautelares.
+4) Cinco días antes de notificar al demandado sobre la solicitud de medidas cautelares.
+Respuesta: 2
+Correcta: ¡Bien hecho! El Letrado de la Administración de Justicia tiene un plazo de cinco días para convocar a las partes a una vista tras notificar al demandado sobre la solicitud de medidas cautelares.
+Errada: Has seleccionado una opción incorrecta. De acuerdo con el artículo 734 de la LEC, el plazo para convocar a las partes a una vista después de notificar al demandado es de cinco días. (Respuesta Correcta 2)
+###
+Pregunta: En situaciones donde se haya adoptado una medida cautelar sin audiencia previa del demandado, ¿cuál es el plazo que tiene el demandado para presentar oposición desde la notificación del auto que aprueba las medidas cautelares?
+1) El demandado tiene la opción de presentar oposición en un plazo de cinco días desde la notificación del auto que aprueba las medidas cautelares.
+2) El demandado tiene la opción de presentar oposición en un plazo de diez días desde la notificación del auto que aprueba las medidas cautelares.
+3) El demandado tiene la opción de presentar oposición en un plazo de quince días desde la notificación del auto que aprueba las medidas cautelares.
+4) El demandado tiene la opción de presentar oposición en un plazo de veinte días desde la notificación del auto que aprueba las medidas cautelares.
+Respuesta: 4
+Correcta: ¡Correcto! El demandado puede presentar oposición dentro de un plazo de veinte días contados desde la notificación del auto que establece las medidas cautelares sin audiencia previa.
+Errada: La respuesta seleccionada no es correcta. El demandado tiene un plazo de veinte días desde la notificación del auto que acuerda las medidas cautelares para presentar oposición. (Respuesta Correcta 4)
+###

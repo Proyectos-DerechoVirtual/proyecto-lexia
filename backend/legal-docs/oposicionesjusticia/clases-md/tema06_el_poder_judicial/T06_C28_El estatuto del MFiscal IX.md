@@ -1,0 +1,80 @@
+# El Poder Judicial
+
+## El estatuto del MFiscal IX
+
+**Tema:** El Poder Judicial  
+**Clase:** T06_C28  
+**Archivo:** T06_C28_El estatuto del MFiscal IX.txt  
+**Tipo:** Material de Clase  
+**Categoría:** Oposiciones de Justicia  
+
+---
+
+Muy buenas opositores, bienvenidos a una nueva clase de Derecho Virtual. En esta clase vamos a centrarnos en los nombramientos, deberes y derechos que ostentan los miembros del Ministerio Fiscal. En previas ocasiones, recuerda que hemos hablado de sus diferentes órganos, sus sedes y sus competencias.
+
+
+También de la recusación y de las categorías y destinos de la carrera fiscal. Debes continuar con la Ley 50.1981 del Estatuto Orgánico del Ministerio Fiscal. Con ella adelante lo entenderás todo mucho mejor.
+
+
+En este caso vamos a movernos entre los artículos 41 y 47 a 56. Ahora sí, comenzamos. El Teniente Fiscal del Tribunal Supremo, los fiscales de sala, según lo establecido en el Estatuto y los demás fiscales jefes de la primera categoría, serán nombrados por un periodo de cinco años, pudiendo ser renovados por sucesivos periodos de igual duración, según establece el artículo 41.
+
+
+Al finalizar su mandato, si no son renovados o designados para otra función, se mantendrán adscritos a la fiscalía correspondiente. Lo mismo se aplica a los fiscales jefes de las secciones de la Fiscalía del Tribunal Supremo y al fiscal jefe de la Secretaría Técnica. Pero te estarás preguntando, ¿qué ocurre con los fiscales jefes de la segunda categoría? Estos fiscales, los Tenientes Fiscales de las fiscalías cuyo jefe sea de la primera categoría y los Tenientes Fiscales de las Fiscalías de las Comunidades Autónomas, también serán nombrados por cinco años, pudiendo ser reasignados una vez finalizado su mandato.
+
+
+Eso sí, no debemos olvidar que los fiscales superiores de las Comunidades Autónomas y los fiscales jefes de la segunda categoría, junto con los Tenientes Fiscales mencionados anteriormente, al ser relevados o cesados en sus cargos o al renunciar, también podrán elegir ser adscritos a la fiscalía donde trabajaban o a la que sirvieron durante su mandato, hasta obtener su destino definitivo. Además, los fiscales jefes y los Tenientes Fiscales mencionados pueden ser removidos por el gobierno. Previa propuesta del Fiscal General del Estado, tras consultar al Consejo Fiscal al interesado y si corresponde al fiscal superior de la Comunidad Autónoma.
+
+
+Y los fiscales superiores de las Comunidades Autónomas también pueden sugerir al Fiscal General del Estado la remoción de los fiscales jefes dentro de su territorio. Por ejemplo, imagina a Luis, un experimentado fiscal que ha sido designado como fiscal jefe de una importante fiscalía provincial. Luis ha sido nombrado para este cargo por un periodo inicial de cinco años, conforme a las disposiciones del estatuto.
+
+
+Durante su mandato, Luis supervisará y dirigirá las actividades del equipo fiscal en su provincia, asegurando que se cumplan las leyes y que se haga justicia. Al finalizar su mandato de cinco años, Luis podrá ser confirmado para otro periodo de igual duración, si su desempeño ha sido satisfactorio y si el Fiscal General del Estado así lo decide. En caso contrario, si no se le confirma en su cargo actual o no es designado para otra función, Luis seguirá siendo parte de la fiscalía provincial, aunque en una capacidad diferente, hasta que se le asigne un destino definitivo o decida remerciar.
+
+
+Por otro lado, imaginemos a Marta, una fiscal jefe de una sección especializada dentro de la Fiscalía del Tribunal Supremo. Marta ha sido nombrada para este cargo también por un periodo de cinco años y durante su mandato liderará un equipo de fiscales en la revisión y manejo de casos de gran importancia nacional. Al finalizar su mandato, Marta podría ser renovada en su cargo si así lo decide el Fiscal General del Estado y si su desempeño ha sido satisfactorio.
+
+
+Lo contrario, podría ser relevada de su función actual y reasignada dentro de la Fiscalía del Tribunal Supremo o en otra fiscalía de igual categoría. Como ves, los nombramientos funcionan de forma distinta según el cargo que tuvieran asignado en cada momento. Pues bien, antes de ocuparnos del estudio de los derechos y deberes, tienes que saber que las situaciones administrativas en la carrera fiscal se acomodarán a lo dispuesto en la Ley Orgánica del Poder Judicial para jueces y magistrados y serán desarrolladas reglamentariamente.
+
+
+Y así se establece en el artículo 47. Ahora sí, vamos a centrar la atención de la clase en los diferentes derechos y deberes de los miembros del Ministerio Fiscal. Y aquí nos referiremos a los artículos 48 a 56.
+
+
+Los fiscales tienen deberes y derechos específicos que deben cumplir rigurosamente. Entre estos se encuentran los deberes de desempeño y residencia, es decir, los fiscales deben cumplir diligentemente con sus funciones residiendo en la población donde tengan su destino oficial y sólo ausentándose con permiso de sus superiores. Por ejemplo, Marta, una fiscal asignada a una fiscalía provincial en una ciudad determinada.
+
+
+Según sus deberes, Marta debe cumplir diligentemente con sus funciones legales que incluyen investigar casos, presentar acusaciones y representar al Estado en los procedimientos judiciales. Además, Marta debe residir en la localidad donde se encuentre su fiscalía, asegurándose de estar disponible para responder a cualquier requerimiento o emergencia legal que pueda surgir en su área de jurisdicción. Sólo podrá ausentarse de esta ciudad con el permiso previo de sus superiores jerárquicos, quienes evaluarán la necesidad y la pertinencia de su ausencia en función de las responsabilidades del cargo y de las circunstancias del caso.
+
+
+Encontramos también la confidencialidad y la asistencia. Deben guardar el debido secreto de los asuntos reservados, asistir al despacho de la fiscalía y a los tribunales según las instrucciones del jefe de la fiscalía. El derecho al cargo y la promoción, es decir, los fiscales tienen derecho al cargo y a la promoción en la carrera según lo establecido por la ley con los honores correspondientes.
+
+
+No debemos olvidarnos de los beneficios y la seguridad social, es decir, que gozan de permisos, licencias, régimen de recompensas y seguridad social según lo dispuesto legalmente. Y por último, el derecho de asociación profesional. Los fiscales también tienen derecho a asociarse libremente en organizaciones profesionales que defiendan sus propios intereses.
+
+
+Estas asociaciones deben cumplir con ciertas reglas para su constitución y funcionamiento y el fiscal general del estado puede instar su disolución si actúan de manera contraria a la ley. Sin embargo, existen limitaciones a la intervención administrativa. No pueden ser obligados a comparecer personalmente ante autoridades administrativas por razón de su cargo y recibir órdenes sobre el modo de cumplir sus funciones y no provengan de sus superiores jerárquicos.
+
+
+Paco, por ejemplo, es un fiscal que está investigando un caso de corrupción a nivel no-can. Un día, el alcalde de la ciudad le pide a Paco que se reúna con él en su despacho para discutir el manejo del caso. Sin embargo, según las normativas, Paco no puede ser obligado a comparecer personalmente ante autoridades administrativas debido a su cargo como fiscal.
+
+
+Además, Paco no puede recibir órdenes sobre cómo manejar el caso que no provenga de sus superiores jerárquicos en el ministerio fiscal. Por lo tanto, Paco educadamente declina la invitación del alcalde y continúa trabajando en la investigación de manera independiente y objetiva, siguiendo las directrices establecidas por su superior jerárquico. Si bien debe saber que existe una serie de normas sobre la detención y es que los fiscales en activo sólo pueden ser detenidos con autorización de su superior jerárquico, excepto en casos de flacante venido, donde deben ser puestos a disposición de la autoridad judicial más cercana.
+
+
+Para que lo puedas entender de una manera más fácil, te pondré un ejemplo. Imagina a Laura, una fiscal que trabaja en una fiscalía provincial. Como parte de sus labores, Laura debe recibir en la localidad donde está ubicada su fiscalía y sólo puede ausentarse con permiso de sus superiores.
+
+
+Además, debe asistir regularmente al despacho de la fiscalía y a los tribunales según las instrucciones de su jefe. Un día, Laura se encuentra con un caso delincado que involucra información confidencial. A pesar de la presión y las solicitudes de filtración de información, Laura se adhiere estrictamente al deber de confidencialidad y guarda el secreto de los asuntos reservados, protegiendo así la integridad del proceso judicial.
+
+
+Además, Laura está interesada en aprender en su carrera dentro del Ministerio Fiscal. Ella sabe que tiene derecho a la promoción según lo establecido por la ley y que su desempeño dirigente y su dedicación pueden abrirle nuevas oportunidades en la carrera fiscal. Por otro lado, Laura también es miembro de una asociación profesional de fiscales que defiende los intereses de sus colegas.
+
+
+Esta asociación, regulada por ciertas reglas de constitución y funcionamiento, le brinda a Laura un espacio para compartir experiencias, recibir apoyo y contribuir al mejoramiento del sistema. Bien chicos, hasta aquí la clase de hoy. Hagamos un resumen para recopilar los contextos principales.
+
+
+Tal como hemos dicho, los nombramientos en la carrera fiscal se hacen por periodos de cinco años, renovables para fiscales de diferentes categorías, con posibilidad de reasignación al concluir el mandato. Ya sabes que los fiscales cuentan con deberes y derechos. Sin embargo, están sujetos a limitaciones que ya hemos visto en su intervención administrativa y en la detención.
+
+
+Nos vemos en la próxima clase.
+

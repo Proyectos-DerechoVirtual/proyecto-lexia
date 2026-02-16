@@ -1,0 +1,80 @@
+# El Poder Judicial
+
+## El Consejo General del Poder Judicial CGPJ I
+
+**Tema:** El Poder Judicial  
+**Clase:** T06_C09  
+**Archivo:** T06_C09_El Consejo General del Poder Judicial CGPJ I.txt  
+**Tipo:** Material de Clase  
+**Categoría:** Oposiciones de Justicia  
+
+---
+
+Bienvenidos a otra clase, gente. Hoy comenzamos con el estudio del Gobierno del Poder Judicial. La verdad es que este órgano ya hablamos en clases anteriores, aunque solo hicimos una pequeña referencia.
+
+
+En cualquier caso, ¿recordáis quién desempeñaba esta función de Gobierno del Poder Judicial? Se trata del Consejo General del Poder Judicial, y así el artículo 122, apartado segundo de la Constitución, dispone que el Consejo General del Poder Judicial es el órgano de gobierno del mismo. La ley orgánica determinará el estatuto y el régimen de incompatibilidades de sus miembros, especialmente en materia de nombramientos, ascensos, inspección y régimen disciplinario. Así, el órgano encargado de desarrollar estas funciones, que ya vimos en clases anteriores, es el Consejo General del Poder Judicial, y de esta manera el órgano competente para sancionar a un juez o magistrado por la comisión de alguna defracción de su estatuto personal es este órgano.
+
+
+Esto se hizo con el fin de desapoderar al Poder Ejecutivo en estas materias, y que éstas no pudieran regular las mismas. Ahora bien, ¿por qué creéis que se hizo esto? Esto se hizo con el objetivo fundamental de evitar que el Poder Ejecutivo pudiera incidir de manera directa o indirecta en la situación de jueces y magistrados. Así, imaginad la posibilidad que supondría el hecho de que el Gobierno pudiera sancionar a un juez por haber dictado una sentencia contraria a sus intereses.
+
+
+Esto afectaría muy negativamente a la independencia judicial. Y este es el motivo por el que estas materias pasan a estar en manos de un órgano independiente, tanto de las Cortes Generales como del Gobierno. Con esto aclarado, quiero haceros ahora una pregunta.
+
+
+¿El Consejo General del Poder Judicial es una parte del Poder Judicial? ¿O es independiente de éste? Muchísimo ojo con esto, porque como hemos comentado en su momento, el Poder Judicial está integrado única y exclusivamente por jueces y magistrados. Por tanto, el Consejo General del Poder Judicial no forma parte del mismo. De hecho, como ha dispuesto el Tribunal Constitucional, el Consejo General del Poder Judicial es un órgano de gobierno externo de dicho poder del Estado.
+
+
+Además, el propio Tribunal Constitucional ha dispuesto que el Consejo General del Poder Judicial es un órgano autónomo de las Cortes Generales. Pero, ¿realmente esto es así? No os preocupéis, porque a lo largo de esta clase vamos a encontrar la respuesta a esta pregunta. Ya aclarado este tema e introducido el Consejo General del Poder Judicial, vamos a ver en esta clase quiénes lo integran.
+
+
+Y con esto examinado, pasamos a ver ahora la composición de este órgano. ¿Quiénes integran el Consejo General del Poder Judicial? La respuesta a esta pregunta nos la da el apartado 3º del artículo 122 de la Constitución, que establece que el Consejo General del Poder Judicial estará integrado por el Presidente del Tribunal Supremo, que lo presidirá, y por 20 miembros nombrados por el Rey por un periodo de 5 años. De estos, 12 entre jueces y magistrados, pertenecientes a todas las categorías judiciales en las que termino que establezca la ley orgánica, 4 a propuesta del Congreso y 4 a propuesta del Senado, elegidos en ambos casos por mayoría de tres quintos de sus miembros, entre abogados y juristas, todos ellos de reconocida competencia, con más de 15 años de ejercicio en su profesión.
+
+
+Bien, de este artículo podemos señalar los siguientes aspectos. En primer lugar, los miembros del Consejo General del Poder Judicial se denominan vocales. En segundo lugar, del artículo que hemos citado podemos hacer una doble clasificación de estos vocales.
+
+
+Entonces, ¿en qué categorías les podemos agrupar? Aquí podemos distinguir vocales de procedencia judicial, que son los 12 jueces y magistrados que pertenecen a todas las categorías judiciales, y por tanto, como podemos ver, el Consejo General del Poder Judicial va a estar formado, por ejemplo, por un juez de instrucción, por un magistrado del Tribunal Superior de Justicia, por un magistrado de una audiencia provincial o un magistrado de la Audiencia Nacional. En definitiva, va a estar formado por miembros del poder que debe de gobernar, lo que es un aspecto sumamente positivo, puesto que precisamente no hay mejor persona que el propio juez o magistrado para gestionar los intereses y los asuntos que atañen a dicho poder del Estado. Por otro lado, en contraposición a los vocales de procedencia judicial, existen vocales de procedencia no judicial, es decir, que no ostentan el cargo de juez o magistrado, sino que son abogados o juristas de reconocida competencia con más de 15 años de ejercicio profesional.
+
+
+Estos fundamentalmente son 8 vocales, y de entre ellos se proponen 4 por el Congreso de los Diputados y 4 por el Senado. Así, podrían formar parte del Consejo General del Poder Judicial como vocales de procedencia no judicial los que serían un abogado, un catedrático o un registrador de la propiedad. Bien, esto la verdad es que es fundamental.
+
+
+Pero el artículo que hemos citado antes, el artículo 122.3 de la Constitución, tiene unos pequeños flecos. Me gustaría que le echáis un ojo y viéseis en qué puede fallar este artículo o si echáis en falta algo del mismo. Si le echáis un ojo al artículo podéis ver que falta la forma de elección de estos vocales del Consejo General del Poder Judicial.
+
+
+Este vacío ha dado lugar a dos posibles sistemas de gobierno del Poder Judicial, que incluso tienen a día de hoy relevancia en la actualidad. Entonces, ¿cuáles son estos sistemas? Pues tenemos, por un lado, el sistema de autogobierno de los jueces y magistrados, que fue introducido en la anterior Ley Orgánica del Poder Judicial, que era la Ley Orgánica 1980. ¿Qué suponía este sistema? Este sistema suponía que los jueces y magistrados iban a ser los encargados de nombrar a los vocales de procedencia judicial, es decir, los vocales que eran jueces o magistrados.
+
+
+Este sistema, por poner en una comparación, sería el equivalente a que vosotros fueseis los encargados de seleccionar, por medio de vuestros votos, al que sería vuestro delegado de clase. Y os representaría y velaría por vuestros intereses ante los profesores y diferentes instituciones de la universidad. Frente a este sistema se encontraría lo que se conoce como el sistema limitado de gobierno del Poder Judicial, que fue consagrado por la nueva Ley Orgánica del Poder Judicial, que es la Ley Orgánica 6.985 de 1 de julio.
+
+
+¿Qué implica este sistema? Pues este sistema implica que los vocales del Consejo General del Poder Judicial, tanto los de procedencia judicial como los de procedencia no judicial, van a ser elegidos por el Congreso y el Senado. ¿En qué se traduce esto? Pues sencillamente en que el Congreso y el Senado, cada uno de ellos, va a elegir a 10 vocales del Consejo General del Poder Judicial. 6 de procedencia judicial y 4 de procedencia no judicial.
+
+
+Y con esto explicado, volvamos a la pregunta que hicimos a principio de clase. ¿Podemos afirmar que el Consejo General del Poder Judicial es un órgano independiente de las Cortes Generales y autónomo de éstas? Pues en principio podríamos decir que sí, pero por la forma de su nombramiento, pues genera muchas dudas e inseguridades al respecto. Y de hecho, esto es así hasta el punto de que el Grupo de Estados contra la Corrupción, el Greco, ha elaborado diferentes informes que hablan negativamente de la forma de designación del Consejo General del Poder Judicial por parte de España, aludiendo a que sería necesario que fuesen los jueces los que eligiesen a sus representantes propiamente y no los poderes políticos, como sucede a día de hoy.
+
+
+Y si a esto le añadimos la actual situación del Consejo General del Poder Judicial, la situación empeora todavía más, porque a día de hoy el Consejo General del Poder Judicial, como vosotros bien sabéis, se encuentra atascado porque los dos principales partidos que están en el poder, que es el PSOE y el PP, son incapaces de ponerse de acuerdo para renovar dicho órgano. Así, el PP, por un lado lo que busca es que en este caso se vuelva a la antigua fórmula de elección por parte de jueces y magistrados, tal y como ha dispuesto el Greco, mientras que lo que busca el PSOE es proceder, en primer lugar, a la renovación del Consejo General del Poder Judicial, porque, dada su mayoría parlamentaria, está en posición mucho más favorable para nombrar una mayor cantidad de vocales que sean afines a su identidad ideológica o a su espectro político. En cualquier caso, y para zanjar esto, hay que destacar que tanto uno como otro tiene intereses partidistas en la renovación del Consejo General del Poder Judicial, y no dudéis en ningún instante en que si el PP estuviera en la situación del PSOE ahora mismo, estaría siendo prácticamente lo mismo, ya que precisamente la situación actual deriva de la conducta de estos dos partidos.
+
+
+Y para terminar, vamos a examinar brevemente el Estatuto de los Vocales del Consejo General del Poder Judicial. Este es bastante parecido al de los jueces y magistrados, pero presenta ciertas particularidades. ¿Cuáles son estas? En primer lugar, este cargo es compatible con la actividad profesional judicial o extrajudicial que realicen los diferentes vocales.
+
+
+De esta manera, un vocal del Consejo General del Poder Judicial que sea abogado podrá seguir desempeñando la abogacía e interviniendo en diferentes litigios asesorando a clientes y demás actividades. Y de esta misma forma, un juez o magistrado podrá seguir desempeñando su cargo en el juzgado o tribunal que le corresponda. Ahora bien, esta norma tiene una pequeña excepción.
+
+
+¿Cuál es la misma? Pues exceptúan en todo esto lo que forme parte de la denominada comisión permanente, lo cual veremos en la próxima clase. A esto hay que añadir que su función es incompatible con el resto de cargos públicos. De esta manera, un vocal del Consejo General del Poder Judicial no podrá simultáneamente ser defensor del pueblo o diputado al Congreso o miembro del Senado.
+
+
+Por su parte, los vocales del Consejo General del Poder Judicial gozan de aforamiento ante el Tribunal Supremo. Y para terminar, vamos a ver brevemente este período de nombramiento de 5 años. ¿Por qué creéis que se ha establecido 5 años y no, por ejemplo, 4? Estos se hacen fundamentalmente para evitar que el período de tiempo coincida con la renovación de parlamentarios, intentando evitar así la existencia de los denominados efectos espejo.
+
+
+¿En qué consisten estos? Estos se dan fundamentalmente cuando precisamente llega al gobierno un partido de una determinada ideología política y éste lo que hace es nombrar en los diferentes cargos e instituciones del Estado diferentes funcionarios que tienen una ideología política, lo que hace que precisamente, si todos coinciden en el tiempo, pues cuando llega el gobierno del Partido Conservador, todas las instituciones pasan a estar integradas por altos cargos de ideología conservadora. ¡Con esto hemos terminado la clase! Vamos a ver ahora un pequeño resumen de la misma, en el que repasamos todo lo aprendido. En primer lugar, hay que destacar que el Consejo General del Poder Judicial es el órgano de gobierno externo del Poder Judicial y esto se debe a que no forma parte del mismo.
+
+
+Su composición es la siguiente. Está integrado por el Presidente del Tribunal Supremo, que lo preside, y por 20 vocales, distinguiendo aquí 12 vocales de procedencia judicial y 8 vocales de procedencia no judicial, entre abogados y otros juristas, todos ellos de reconocida competencia y con más de 15 años de ejercicio profesional. Estos son nombrados por mitades por el Congreso de los Diputados y por el Senado actualmente, dando lugar a lo que se conoce como Sistema de Gobierno Limitado del Poder Judicial y que fue consagrado por la Ley Orgánica 6.985 de 1 de julio del Poder Judicial.
+
+
+Y finalmente, su estatuto es muy similar al de jueces y magistrados, con ciertas diferencias, como sería que pueden compatibilizar su cargo con su actividad profesional judicial o extrajudicial, tienen incompatibilidad para desempeñar otros cargos públicos, además de que cesan a los 5 años y están aforados ante el Tribunal Supremo. Y con esto, finaliza la clase. ¡Un saludo y nos vemos en la próxima! Subtítulos por la comunidad de Amara.org
+

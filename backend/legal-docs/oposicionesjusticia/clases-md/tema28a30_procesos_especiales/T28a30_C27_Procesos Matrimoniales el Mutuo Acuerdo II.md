@@ -1,0 +1,62 @@
+# Procesos Especiales
+
+## T28a30 C27 Procesos Matrimoniales el Mutuo Acuerdo II
+
+**Tema:** Procesos Especiales  
+**Clase:** T28a30_C27_Procesos Matrimoniales el Mutuo Acuerdo II  
+**Archivo:** T28a30_C27_Procesos Matrimoniales el Mutuo Acuerdo II.txt  
+**Tipo:** Material de Clase  
+**Categoría:** Oposiciones de Justicia  
+
+---
+
+Muy buenas, bienvenidos a un nuevo vídeo de Praenopositores, continuamos con el tema 30 relativo a los procesos matrimoniales y sus clases. Antes de nada hagamos un índice para que pueda seguir con la explicación. Continuamos con el procedimiento de conformidad o de mutuo acuerdo, lo estamos viendo en profundidad, ya lo empezamos en el vídeo anterior y en este vamos a ver la tramitación y la terminación del procedimiento y por último haremos una pequeña mención a la nulidad eclesiástica y a su eficacia civil como parte final de los procedimientos matrimoniales.
+
+
+Ahora sí comenzamos. Continuamos con la terminación del procedimiento está previsto en el artículo 777 de la ley de enjuiciamiento civil en su apartado 6º. Te adelanto termina el procedimiento en virtud de sentencia judicial o por decreto del letrado de la Administración de Justicia.
+
+
+Una vez terminado el procedimiento posteriormente se dictará sentencia y si es estimatoria de la separación o el divorcio aprobará o desaprobará el convenio propuesto. Si lo desaprueba por considerarlo dañoso para los hijos o gravemente perjudicial para alguno de los cónyuges en la misma sentencia concederá a los cónyuges un plazo de diez días para que se le sometan otra propuesta en relación con los puntos no aprobados. Transcurrido este plazo dicta dentro de los tres días un auto complementario que pueda aprobar estos puntos del convenio en cuyo caso recibe el nombre de autorratificador del convenio o no aprobarlos en cuyo caso un juez decreta las medidas que considere procedentes en orden a los puntos no aprobados.
+
+
+La sentencia que deniegue la separación o el divorcio y el auto que acuerde a alguna medida que sea parte de los términos del convenio propuesto por los cónyuges podrán ser recurridos en apelación que aunque no es objeto de este tema pero te recuerdo que está previsto en el artículo 458 de la Ley de Juiciamiento Civil. El recurso contra el auto que decida sobre las medidas no suspenderá la eficacia de éstas, la sentencia o el auto que apruebe en su totalidad la propuesta de convenio sólo podrá ser recurridos en interés de los hijos menores o incapacitados por el Ministerio Fiscal. Si no existen hijos menores o con capacidad modificada según el apartado 10 del artículo 778 de la Ley de Juiciamiento Civil, si la competencia fuera del letrado de la Administración de Justicia por no existir hijos menores no emancipados o con la capacidad modificada judicialmente que dependan de sus progenitores inmediatamente después de la ratificación de los cónyuges ante el letrado de la Administración de Justicia éste dictará decreto pronunciándose sobre el convenio regulador, éste no es más que el acuerdo de las partes.
+
+
+El decreto que formalice la propuesta del convenio regulador declarará la separación o el divorcio de los cónyuges. Si considerase que a su juicio alguno de los acuerdos del convenio pudiera ser dañoso o gravemente perjudicial para uno de los cónyuges o para los hijos mayores o menores emancipados afectados lo advertirá a los otorgantes y dará por terminado el procedimiento. Pongamos un ejemplo, en el convenio regulador presentado Carmen y Diego acordaron que Carmen, la madre, tendría la custodia exclusiva de sus dos hijos menores mientras que Diego tendría un derecho muy limitado a las visitas, sólo cuatro días al año, sin pernoctación y sin posibilidad de vacaciones o días festivos.
+
+
+¿Cuál es el motivo de preocupación? El juez, al revisar el convenio, consideró que este acuerdo era gravemente perjudicial para los hijos y posiblemente también para Diego. Limitar el contacto de los niños con su padre de manera tan drástica podría afectar negativamente a su bienestar emocional y a su desarrollo, a menos que existieran circunstancias atenuantes justificadas como una evidencia de abuso o una indigencia. ¿Cuál sería la posible acción del juez? El juez advertiría a Carmen y a Diego de que el acuerdo propuesto podría ser perjudicial para el bienestar emocional y psicológico de los hijos.
+
+
+Explica que aunque los padres son libres de tomar sus propias decisiones, el tribunal tiene la responsabilidad de asegurar que los acuerdos no perjudiquen a los menores involucrados. Dado que el acuerdo parecía unilateral y posiblemente dañino para la relación de los hijos con uno de sus padres, el juez decide no aprobar el convenio en su forma actual y da por terminado el procedimiento, instando a las partes a reconsiderar y modificar el acuerdo de custodia y visitas. En este caso, los cónyuges sólo pueden acudir ante el juez para la aprobación de la propuesta del convenio regulador.
+
+
+El decreto que se dicte no será recurrible. La modificación del convenio regulador, formalizada por letrado de la Administración de Justicia, se sustanciará conforme al procedimiento de mutuo acuerdo cuando concurran los requisitos necesarios para él. Y hasta aquí lo referente al procedimiento de mutuo acuerdo que se derivan de los procesos matrimoniales.
+
+
+Como último inciso, antes de finalizar, es preciso hacer una mención a la eficacia civil de la nulidad eclesiástica. En los casos en los que los tribunales eclesiásticos hayan dictado resoluciones sobre nulidad del matrimonio canónico o decisiones sobre el matrimonio rato y no consumado, para conseguir su eficacia civil es necesario presentar una demanda ante los juzgados de primera instancia o en su caso de familia. Si no se pide la adopción o modificación de medidas, se dará audiencia por diez días al otro cónyuge y al fiscal, y se resolverá por auto.
+
+
+Cuando la demanda se hubiera solicitado la adopción o modificación de medidas, se sustanciará la petición de eficacia civil de la resolución o decisión canónica conjuntamente con la relativa a las medidas, siguiendo el procedimiento que corresponda con la regla lo previsto en el artículo 770 de la Ley de Enjuiciamiento Civil. Recuerda que era el procedimiento matrimonial contencioso. Veamos para terminar ejemplos que ilustran ambos escenarios en un contexto de resoluciones eclesiásticas y su reconocimiento en el ámbito civil.
+
+
+Veamos el primer escenario, un reconocimiento civil de una nulidad matrimonial canónica sin medidas adicionales. El contexto sería María y Carlos contraen matrimonio en una ceremonia canónica, posteriormente el Tribunal Eclesiástico declara la nulidad de su matrimonio debido a defectos en el consentimiento. María presenta una demanda ante el juez de primera instancia para reconocer la eficacia civil de la resolución eclesiástica.
+
+
+No solicita la adopción o modificación de medidas adicionales como custodia de los hijos o pensión alimentiva. El proceso consistiría en se da audiencia por 10 días a Carlos y al fiscal. Luego el juzgado resuelve por auto reconociendo la nulidad del matrimonio en el ámbito civil basándose en la resolución eclesiástica.
+
+
+Veamos otro escenario, el reconocimiento civil de una decisión canónica sin solicitud de medidas adicionales. El contexto sería que Laura y Pedro casados en una ceremonia canónica reciben una decisión de un Tribunal Eclesiástico que declara su matrimonio como rato y no consumado. Laura presenta una demanda en el juzgado de familia no sólo para obtener el reconocimiento civil de esta decisión sino también para solicitar la modificación de medidas como pensión alimenticia y la división de bienes.
+
+
+El proceso sería la demanda de Laura se tramita siguiendo el procedimiento contencioso establecido en el artículo 770 de la ley de enjuiciamiento civil. El juzgado evalúa conjuntamente la petición de eficacia civil de la decisión canónica y la solicitud relativa a las medidas adicionales procediendo a un juicio contencioso donde ambas partes pueden presentar sus argumentos y pruebas. En ambos casos el proceso civil es necesario para que las decisiones eclesiásticas tengan efecto legal en el ámbito civil y el procedimiento seguido varía dependiendo de si se solicitan medidas adicionales o no.
+
+
+Y hasta aquí el vídeo relativo a procesos matrimoniales de mutuo acuerdo. Has podido ver en estos vídeos que se consideran estos procesos en los que reina la conformidad de las partes. Ya has visto que no se dan todos los supuestos sino en aquellos en los que no existan hijos menores o con discapacidad.
+
+
+Además es importante saber cuáles son los documentos que tienes que aportar. Ya has estudiado cómo se hace la ratificación de los números de la pareja para que sea efectiva y por último hemos visto tramitación y terminación del procedimiento. Además será necesario que supieras la importancia de tocar eficacia civil a las unidades eclesiásticas.
+
+
+Mucho ánimo con el estudio. Nos vemos en el siguiente vídeo.
+

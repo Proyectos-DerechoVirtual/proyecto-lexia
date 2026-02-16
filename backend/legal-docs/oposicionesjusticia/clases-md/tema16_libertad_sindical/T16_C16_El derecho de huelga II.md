@@ -1,0 +1,53 @@
+# Libertad Sindical
+
+## El derecho de huelga II
+
+**Tema:** Libertad Sindical  
+**Clase:** T16_C16  
+**Archivo:** T16_C16_El derecho de huelga II.txt  
+**Tipo:** Material de Clase  
+**Categoría:** Oposiciones de Justicia  
+
+---
+
+Hola a todos y a todas y bienvenidos. En la clase de hoy vamos a continuar hablando del derecho a huelga y vamos a hablar de los tipos de huelga que existen. Según las causas que motiven la huelga, se podrá diferenciar entre huelga laboral, que es aquella que deriva de las causas de la relación laboral, por ejemplo, exigir una mejora salarial.
+
+
+También podemos hablar de huelga extralaboral, que deriva de causas que no tienen que ver con intereses profesionales y estas huelgas son consideradas ilegales, salvo que los trabajadores demuestren ante los tribunales que afectan a los intereses profesionales. También existe la denominada huelga de solidaridad y en este caso los trabajadores actúan apoyando a otros trabajadores que se encuentran en conflicto y estas huelgas también son ilegales, salvo que se pueda aprobar ante un tribunal que afecte indirectamente a sus intereses profesionales, y así lo dijo el Tribunal Constitucional en su sentencia 11-1981, de 8 de abril. Dependiendo del comportamiento que se lleve a cabo durante la huelga, podremos hablar también de distintos tipos de huelga y es que existe la huelga rotatoria, que tiene la finalidad de afectar a la coordinación de la producción.
+
+
+También existe la huelga estratégica de tapón, que afecta sólo de modo directo a la actividad productiva básica de la empresa, pero paraliza todo el proceso. Por otra parte, también existe la huelga de celo o reglamento, que consiste en ejecutar minuciosamente el reglamento de trabajo, provocando un retraso en el mismo. Y por último existe la huelga intermitente, que alterna el parón laboral con la actividad y se puede llevar a cabo de diversos modos, por ejemplo, trabajando durante determinada hora y haciendo un parón durante otra, trabajando un día sí y un día no, haciéndolo por semanas e incluso por meses.
+
+
+Y en último lugar, también podremos clasificar las huelgas como legales, ilegales o abusivas. Serán consideradas ilegales aquellas huelgas en las que se produzca un daño grave e intencionado de tal naturaleza que sobrepase la pretensión de la huelga. En nuestro país, además, se consideran ilegales las huelgas políticas, las de solidaridad o apoyo y las novatorias.
+
+
+Una huelga política sería, por ejemplo, que los trabajadores de una empresa que fabrica tornillos convocasen una huelga porque no están de acuerdo con el alcalde que ha salido elegido en su pueblo y con la nueva ordenanza de ruido municipal. Por otra parte, las huelgas novatorias serán ilegales cuando tengan por objeto alterar dentro de su periodo de vigencia lo pactado en un convenio colectivo o lo que se establezca en un laudo. Pero no serán ilegales cuando su objeto sea modificar un aspecto de la relación laboral que viene regulado por otra fuente y que no altera el convenio colectivo.
+
+
+Y tampoco son ilegales cuando el empresario incumpla el convenio colectivo o tengan por objeto la reclamación de la interpretación del mismo. Así como tampoco serán ilegales cuando exijan reivindicaciones que no impliquen la modificación del convenio. Imagina ahora que la empresa de tornillos ha convocado una huelga porque no están de acuerdo con una serie de medidas que va a llevar a cabo su empresa y que para ello ocupan ilegalmente el centro de trabajo y se niegan a desalojarlo.
+
+
+Pues bien, en ese caso sería considerada también una huelga ilegal. Y ojo, porque efectos jurídicos también se considerará ilegal toda aquella huelga que contravenga lo que se dispone en la legislación o en los convenios colectivos. Y por otra parte tenemos lo que se conoce como huelga abusiva.
+
+
+Una huelga es abusiva cuando tiene una finalidad y unas actuaciones que sobrepasan la defensa de los derechos. Como por ejemplo la huelga efectuada por los servicios en sectores estratégicos con la finalidad de interrumpir un proceso productivo. Es decir, no se persigue una mejora económica o social sino interrumpir el proceso.
+
+
+Además se llevan a cabo actuaciones distintas a las de la propia huelga. Es decir, se llevan a cabo actuaciones de presión que se alejan de la mera ausencia del puesto de trabajo. Como por ejemplo podría ser llevarse maquinaria o llevarse utensilios del mismo centro.
+
+
+Por ejemplo, se consideró abusiva una huelga convocada en dos horas para cada turno de una empresa de fabricación en línea y con la sola participación de un porcentaje de trabajadores vinculados a esta línea de producción. Y se consideró abusiva porque podía suponer la paralización de la producción de la planta y de la factoría. Y estoy segura que te estarás preguntando cómo probamos que una huelga es ilegal o abusiva.
+
+
+En este caso el control administrativo o judicial se realiza una vez la huelga ya se ha producido o una vez se encuentra vigente. Por lo que siempre que se convoque una huelga habrá algo de incertidumbre hasta que veamos cómo se desarrolla. Y si un empresario considera que una huelga es ilegal o abusiva deberá acreditarlo en un procedimiento judicial.
+
+
+Y ahora te voy a presentar a Teresa que trabaja para la empresa de tornillos cuyos trabajadores se encuentran en huelga. Pero Teresa ha decidido no realizar la huelga y cuando se acercaba al centro de trabajo unos compañeros la pararon y no la dejaron acceder al mismo y además la llegaron a amenazar. Pues bien, esto sería ilegal puesto que los piquetes informativos podrán efectuar la publicidad de la huelga pero de forma pacífica y deben respetar a los trabajadores que quieran acudir a su puesto de trabajo.
+
+
+Pero es que además de que estas coacciones y estas amenazas pueden dar lugar a sanciones por parte de la empresa también podrían constituir un delito puesto que las coacciones y las amenazas no se encuentran amparadas por el derecho a huelga. Y como hemos explicado anteriormente Teresa en su vertiente individual puede elegir si se adhiere o no a la huelga. Y si quieres conocer los efectos que tienen la huelga ilegal y abusiva y las huelgas legales lo veremos en la siguiente clase.
+
+
+Un saludo
+

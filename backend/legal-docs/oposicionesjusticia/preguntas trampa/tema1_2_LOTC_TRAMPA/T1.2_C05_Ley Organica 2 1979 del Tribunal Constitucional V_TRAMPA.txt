@@ -1,0 +1,42 @@
+
+IMPUGNACIÓN DE TRATADOS Y DISPOSICIONES AUTONÓMICAS – TC
+
+1. Impugnación gubernativa: legitimación exclusiva del Gobierno
+RECUERDA: Solo el Consejo de Ministros puede impugnar disposiciones autonómicas con fuerza inferior a ley que vulneren el interés general o el orden constitucional. Ningún otro sujeto está legitimado (art. 161.2 CE; art. 76 LOTC).
+TEN CUIDADO: No confundir con conflicto competencial. Solo el Gobierno puede iniciar este procedimiento.
+REGLA MNEMOTÉCNICA: LEG: Legitimación Exclusiva del Gobierno
+
+2. Suspensión automática y plazo de cinco meses
+RECUERDA: La mera interposición suspende automáticamente la norma impugnada. El TC debe confirmar o alzar la suspensión en cinco meses. Si no se pronuncia, la suspensión decae (art. 161.2 CE; art. 77 LOTC).
+TEN CUIDADO: La suspensión no prejuzga el fondo del recurso.
+REGLA MNEMOTÉCNICA: SA5: Suspensión Automática 5 meses
+
+3. Ventana temporal de interposición: dos meses
+RECUERDA: La impugnación debe presentarse en 2 meses desde publicación de la norma, o desde comunicación fehaciente del Gobierno si no se publicó (art. 76 LOTC). Es plazo de caducidad, sin prórroga.
+TEN CUIDADO: Alegar “falta de presupuesto” no suspende el cómputo. Tarde = inadmisión.
+REGLA MNEMOTÉCNICA: P2M: Plazo 2 Meses
+
+4. Impugnación (161.2 CE) vs. conflicto positivo de competencias
+RECUERDA: Art. 161.2 CE protege interés general frente a normas infralegales. El conflicto positivo se usa para leyes o actos con fuerza de ley que invaden competencias Estado-CCAA. El conflicto lo inician también las CCAA afectadas (art. 161.1.c CE).
+TEN CUIDADO: Usar mal la vía (impugnación de ley autonómica por 161.2 CE) es error procesal grave.
+REGLA MNEMOTÉCNICA: CIP: Conflicto–Impugnación–Procesos distintos
+
+5. Control previo de constitucionalidad de tratados
+RECUERDA: Antes de ratificación, Gobierno, Congreso o Senado pueden pedir al TC examen del texto final para ver si contradice la CE (art. 95 CE; art. 78 LOTC).
+TEN CUIDADO: No se controla sobre borradores ni tratados ya ratificados.
+REGLA MNEMOTÉCNICA: CPT: Control Previo de Tratados
+
+6. Dictamen del TC: un mes y fuerza vinculante
+RECUERDA: El TC tiene 30 días naturales para pronunciarse. Su dictamen es vinculante. Si declara inconstitucionalidad, España debe reformar la CE o rechazar ratificación (art. 78.2 LOTC).
+TEN CUIDADO: No confundirlo con dictamen consultivo. Es vinculante.
+REGLA MNEMOTÉCNICA: P1V: Plazo 1 mes, resultado Vinculante
+
+7. Facultad de pedir aclaraciones al Gobierno
+RECUERDA: Durante ese mes, el TC puede pedir aclaraciones al Ejecutivo (traducciones, reservas, protocolos). El plazo queda suspendido hasta recibir información (art. 78.3 LOTC).
+TEN CUIDADO: Ignorar requerimiento priva al TC de datos y puede derivar en dictamen desfavorable.
+REGLA MNEMOTÉCNICA: ACG: Aclaraciones al Gobierno
+
+8. Control después de la ratificación
+RECUERDA: Una vez ratificado y publicado el tratado, solo cabe recurso de inconstitucionalidad contra la ley de autorización o QIC cuando un juez deba aplicarlo (arts. 27 y 35 LOTC).
+TEN CUIDADO: Pedir control previo extemporáneo es inadmisible.
+REGLA MNEMOTÉCNICA: PCR: Post-ratificación Control Recurso

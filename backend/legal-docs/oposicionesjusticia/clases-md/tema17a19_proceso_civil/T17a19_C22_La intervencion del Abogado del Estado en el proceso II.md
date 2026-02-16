@@ -1,0 +1,47 @@
+# Proceso Civil
+
+## T17a19 C22 La intervencion del Abogado del Estado en el proceso II
+
+**Tema:** Proceso Civil  
+**Clase:** T17a19_C22_La intervencion del Abogado del Estado en el proceso II  
+**Archivo:** T17a19_C22_La intervencion del Abogado del Estado en el proceso II.txt  
+**Tipo:** Material de Clase  
+**Categoría:** Oposiciones de Justicia  
+
+---
+
+Buenas opositores, bienvenidos a una nueva clase. Hoy vamos a ver la segunda parte del tema 18.1, la intervención del abogado del Estado en los procesos civiles. En la parte 1 hemos visto figura del abogado del Estado a través de su definición, regulación y funciones y en esta segunda clase vamos a aprender cómo hay que realizar las notificaciones y los procedimientos en los que interviene el abogado del Estado.
+
+
+¿Qué ocurre si se realizan mal? ¿A quién corresponde la competencia de resolver los procesos civiles en que intervenga el abogado del Estado? Una particularidad en la intervención del abogado del Estado en los procesos civiles. Un ejemplo especialmente curioso y lucrativo para el Estado en el que participará en el proceso civil amparado por la ley de enoficiamiento civil. Y también hablaremos de una figura importante como es la dirección del servicio jurídico del Estado.
+
+
+Pues atentos que empezamos. ¿Sabéis cómo hay que notificar, citar, emplazar y en general realizar los actos de comunicación en procesos seguidos ante cualquier jurisdicción en que sea parte la Administración General del Estado o sus organismos autónomos o constitucionales, es decir, a los que asiste jurídicamente el abogado del Estado? Pues siempre directamente en la sede oficial de la Abogacía del Estado, esto es, directamente al abogado del Estado. Y esto está previsto en el artículo 11 de la ley 52 barra 97 de 27 de noviembre.
+
+
+Y si no se hace así, pues la consecuencia es muy grave ya que serán nulos, es decir, como si no se hubieran notificado. Esto se prevé igualmente en el artículo 11 antes citado, en concreto en el apartado 3. Ahora quiero que estéis atentos porque hay una particularidad en la intervención del abogado del Estado en los procesos civiles que es importante y que se recoge en el artículo 14 de la ley 52 barra 97 de 27 de noviembre. El abogado del Estado recabará los antecedentes para la defensa de la Administración, así como elevará, en su caso, consulta ante la Dirección del Servicio Jurídico del Estado.
+
+
+Además puede solicitar al recibir el primer traslado la suspensión del procedimiento y el juez la acordará, salvo casos en los que excepcionalmente y por automotivado estime que produciría un grave perjuicio para el interés general. El piazo de suspensión será fijado por el juez entre 15 días como mínimo y un mes como máximo, que se computa desde el día siguiente de la notificación de la providencia por la que se acuerde la suspensión. Atención, porque según el apartado 2 del mismo artículo, existe una excepción en los que el plazo de suspensión será fijado discrecionalmente por el juez, no siendo más de 10 días ni menos de 6, y se trata de los interdictos procedimientos del artículo 41 de la Ley Hipotecaria, Aseguramiento de Bienes Litigiosos e Incidentes.
+
+
+Quizás te hayas preguntado, llegados a este punto, ¿quién posee realmente la competencia de resolver los procesos civiles en que intervenga el abogado del Estado? Pues para resolver esta pregunta debemos acudir al artículo 15 de la Ley 52, barra 97, de 27 de noviembre, que a estas alturas seguro ya os sonará. Este artículo establece que, con carácter general, serán competentes los que tengan su sede en las capitales de provincia, en Ceuta o en Mililla, y es importante tener claro que esta norma se aplicará con preferencia a cualquier otra norma sobre competencia territorial que pudiera concurrir en el procedimiento. En las circunscripciones del Tribunal Superior de Justicia de Islas Baleares y el Tribunal Superior de Justicia de Canarias, el fuero territorial del Estado ante sindicado se aplicará con igual preferencia en la isla donde radique la sede de la capital de provincia.
+
+
+En los juzgados que radiquen en las restantes islas se podrá optar por el fuero previsto en el apartado ante sindicado o el que resulte de aplicar las normas sobre competencia territorial previstas en la línea de juiciamiento civil. Y el que puede elegir es el demandante. Eso sí, cuando opte por este último, será de aplicación obligatoria lo previsto en el artículo 16 de esta ley que establece la comparecencia por videoconferencia.
+
+
+Ojo, debéis tener en cuenta que, como casi siempre en derecho, las normas no son absolutas, sino que existen excepciones y, en este caso, la excepción se aplica a los procesos universales, por ejemplo, sucesiones o concursos, a los que no será de aplicación lo dispuesto en el artículo 15 respecto a competencia y resolución. Esta excepción está prevista en el propio artículo 15 en el apartado 3. Y ahora os voy a contar un caso concreto en el que deberá intervenir el abogado del Estado en el proceso civil y que es especialmente curioso y lucrativo para el Estado. Y lo voy a hacer a través de un ejemplo.
+
+
+Si Juan fallece sin testamento, ni cónyuge o parientes que puedan tener derecho a la sucesión legítima, el abogado del Estado, o en los casos previstos legalmente los servicios jurídicos de las comunidades autónomas, deberán ser citados para la formación de inventario por la letrada de la Administración de Justicia como interesado. Esto está regulado en el artículo 793 de la Ley de Enjuiciamiento Civil. Para finalizar, vamos a hablar de una figura importante, la dirección del servicio jurídico del Estado.
+
+
+Se regula en el artículo 3 de la Ley 52 barra 97 y, aunque es un artículo bastante teórico, vamos a intentar ver sus principales nociones. En primer lugar, quédate con que es el centro superior consultivo de la Administración del Estado, organismos autónomos y entidades públicas dependientes, conforme a sus disposiciones reguladoras en el caso de estas últimas, y sin perjuicio de las competencias atribuidas por la legislación a los subsecretarios y secretarios generales técnicos, así como de las especiales funciones atribuidas al Consejo de Estado como supremo órgano consultivo del Gobierno, de conformidad con lo dispuesto en el artículo 107 de la Constitución y en su Ley Orgánica de Desarrollo, y que también es el centro superior directivo de los asuntos contenciosos en los que sea parte el Estado y sus organismos autónomos o las entidades públicas empresariales u órganos constitucionales cuando corresponda. ¿Está sujeta a alguien esta dirección? Pues te diré que sí, como reconoce el artículo 3.3 del titular del Departamento Ministerial en que se integra, por ejemplo, de Hacienda.
+
+
+En resumen, en esta clase hemos aprendido respecto a la figura del abogado del Estado en el proceso civil, cómo deben realizarse las notificaciones, los fueros competentes para resolver, particularidad en la intervención del abogado del Estado en los procesos civiles, el caso específico del artículo 793 de la Ley de Adjuicimiento Civil y en qué consiste la figura de la dirección del servicio jurídico del Estado. Hasta aquí la clase de hoy. Nos vemos en la siguiente.
+
+
+Como siempre, mucho ánimo con el estudio.
+

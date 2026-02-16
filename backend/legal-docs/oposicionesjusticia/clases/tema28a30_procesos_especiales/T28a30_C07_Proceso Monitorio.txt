@@ -1,0 +1,63 @@
+Muy buenas, ¿qué tal? Aquí estamos de nuevo, hoy toca el proceso especial monitorio. Para que te ubiques, ten en cuenta los artículos 812 a 818 de la ley de juiciamiento civil. Ten cuidado porque algunos de estos preceptos han sido modificados por el Real Decreto Legislativo 6 barra 2023, así que tienes que ajustarte a esta actualización para el estudio.
+
+Según se establece en la exposición de motivos de la LEC, su objetivo es ofrecer un sistema ágil para cobrar deudas. ¿Por qué se hace un proceso especial para esto? Pues porque el proceso declarativo ordinario es extraordinariamente lento y la morosidad afectaba en España a los particulares así como a la pequeña y mediana empresa, en el sentido de que su subsistencia dependía de cobrar esos créditos. Si acudieramos a un proceso declarativo ordinario, tendríamos que esperar a la sentencia para tener el título ejecutivo y al final el proceso monitorio simplifica mucho esos trámites. 
+
+Lo que pretende es crear ese título ejecutivo mucho antes, tomando como base un documento privado que refleja una relación. Así que quiero que conozcas cuáles son los casos en los que procede un monitorio, los que son legalmente tasados. Se exponen en el artículo 812, quien pretende de otro el pago de una deuda dineraria de cualquier importe. 
+
+Se podría reclamar, por ejemplo, un millón de euros. Y, por otro lado, tiene que ser estrictamente dineraria. No vale, por ejemplo, con una pretensión de hacer. 
+
+Y además, la deuda tiene que ser líquida, es decir, tiene que ser una cantidad determinada o concreta expresada en signos comprensibles, por ejemplo, en euros. No vale, por ejemplo, que yo le reclame a alguien la mitad del valor de mi casa. En segundo lugar, mucho ojo porque esta deuda tiene que ser necesariamente líquida, determinada, vencida y exigible. 
+
+Es decir, tiene que haber pasado el plazo de cumplimiento voluntario, siempre que no haya ningún acuerdo que permita retrasar la reclamación. Así, el plazo de pago de las facturas, por ejemplo, es de un máximo extensible de 60 días. Por lo tanto, durante ese plazo no vamos a poder reclamar nada. 
+
+Y, por último, el otro requisito al que tenemos que hablar es el de la acreditación de la deuda. Y es que debe hacerse de varias maneras. En primer lugar, mediante documentos, cualquiera que sea su forma y clase o el soporte físico en que se encuentren, que aparezcan firmados por el deudor o con su sello.
+
+En segundo lugar, mediante facturas, albaranes de entrega, certificaciones, telegramas o cuales quieran otros documentos que, aún unilateralmente creados por el acreedor, sean de los que habitualmente documentan los créditos y deudas. Y en tercer lugar, cuando junta el documento que cuesta la deuda, se aporten documentos comerciales que acrediten una relación anterior o duradera, En cuarto lugar, cuando la deuda se acredite mediante certificaciones de impago de cantidades debidas en concepto de gastos comunes de comunidades de propietarios. Por ejemplo, imagínate un contrato que está firmado de manera bilateral por el acreedor y por el deudor. 
+
+En este caso también van a valer los documentos creados por el acreedor. Esto se refiere a facturas, albaranes de entrega, certificaciones, etc. Esto tiene lógica porque cuando una empresa hace una factura, la hace de manera automática tras el servicio y no va a hacer falta la firma del deudor. 
+
+También cabe acreditar la deuda con las dos opciones a la vez, es decir, aportar el documento en el que coste la deuda y también aportar un documento que certifique la relación comercial. En este caso se admitirá la petición directamente, mientras que en los dos casos anteriores tendremos que analizar primero si el documento puede llegar a constituir una prueba. Pasemos entonces a analizar algunos otros aspectos que tienes que saber y a ver todo esto en práctica. 
+
+Parece bastante claro que según el artículo 813 de la LEC, la competencia es de juzgado de primera instancia del domicilio o residencia del deudor, y no es de aplicación la sumisión de ningún tipo. Sin embargo, la jurisprudencia ha sostenido que los asuntos relativos a la competencia isleal, a la propiedad intelectual, propiedad industrial o publicidad va a conocer el juzgado de mercantil. Por ejemplo, si creamos una aplicación de móvil y alguien nos la copia con otro nombre, ¿pero qué juzgado va a conocer? Como ya hemos comentado, va a conocer el juzgado del domicilio o residencia del deudor, esto es así para facilitar su acceso al proceso. 
+
+Sin embargo, por ejemplo, imagínate una comunidad de vecinos que demanda un propietario por no pagar los gastos comunes. Esta comunidad podría elegir entre el juzgado de domicilio del deudor o el juzgado donde esté la comunidad situada. Por ejemplo, si la comunidad es de Vigo, y el propietario tiene su domicilio habitual en Madrid, lo más probable es que esta comunidad elija por comodidad que se ocupe el juzgado de primera instancia de Vigo. 
+
+Es habitual que en los procesos monitoreos el acreedor no sepa dónde vive el deudor. Es importante saberlo para efectuarle el requerimiento de pago, del que hablaremos más adelante. En este caso, quédate con que el detallado de la Administración de Justicia va a efectuar las averiguaciones oportunas para conocer el lugar donde vive. 
+
+Otro caso del que tenemos que hablar es, por ejemplo, si una empresa de Barcelona firma un contacto con un cliente de Madrid y esta empresa incluye en el contacto una cláusula que dispone que los conflictos se resolverán en los juzgados del domicilio de la empresa, es decir, en los juzgados de Barcelona. Bien, pues esta cláusula no vale para nada. Va a conocer el juzgado de primera instancia de Madrid porque, como ya hemos visto antes, no cabe la sumisión expresa ni tampoco tácita. 
+
+Ten en cuenta que el proceso monitoreo se inicia por petición para la cual no se va a necesitar abogado ni procurador. Esta petición tiene un contenido mínimo expresado en el artículo 814.1. Y ten en cuenta también que no es lo mismo la petición que iniciar por demanda. Así que ahora toca ver todo esto con un ejemplo para que te quede mucho más claro. 
+
+Vamos a imaginarnos que le prestamos el 20 de julio de 2020 una cantidad de 500 euros a nuestro amigo, o más bien ex amigo, Edu, porque quiere comprarse una moto y quedamos en que nos lo va a devolver en el plazo de dos meses, es decir, el 20 de septiembre de 2020. Llegado este día le pedimos el dinero, pero nos da largas, no nos contesta o se excusa. En este momento acudimos a un abogado y este nos recomienda reclamársela de manera extrajudicial. 
+
+Así que lo que hacemos es mandarle un burofax a Edu reclamándole los 500 euros el día 2 de noviembre de 2020. Tampoco hace caso al burofax, así que un año más tarde, el día 2 de noviembre de 2021, decidimos acudir a los tribunales. Lo primero que tenemos que hacer es pedir que se inicie el procedimiento monitoreo. 
+
+Es lo que se llama petición inicial, de la que hemos hablado antes. Dentro de esta petición, en virtud del artículo 814 del ALEC, vamos a tener que detallar varios datos. En primer lugar, nuestro dato de identificación como acreedores. 
+
+En segundo lugar, los datos de Edu como deudor. En tercer lugar, tenemos que detallar también el importe que le estamos reclamando. En este caso serían los 500 euros como importe principal, pero tendríamos que sumarle los intereses vencidos y los intereses de mora procesal, o intereses moratorios. 
+
+En este sentido, como no tenemos un documento en el que hayamos pactado con Edu, el porcentaje de interés de mora procesal, se entiende que tendríamos que partir de la base de interés legal de dinero, que actualmente es algo más de un 3%. Este interés contaría desde la fecha en la que le hemos reclamado la deuda de manera extrajudicial, es decir, desde que le hemos mandado el burofax. Por otra parte, el interés vencido se contaría desde el momento en que Edu incumple la fecha máxima de pago, es decir, desde el 20 de septiembre de 2020. 
+
+Para no dificultar más el caso y el vídeo, imaginemos que sumado los intereses, finalmente le reclamamos un total de 650 euros. Tendríamos que detallar también en la petición de los hechos, el origen de la deuda y por último, los documentos oportunos que la justifiquen. En este punto pensarás que estamos perdidos, porque no tenemos ningún contrato ni ninguna factura. 
+
+Pero la verdad es que la ley de enjuiciamiento civil abre la posibilidad a, por ejemplo, aportar capturas de WhatsApp si fuera lo único que tenemos, ya que en el artículo 815.1 admite aquellos documentos que constituyen un principio de prueba y un pantallazo puede llegar a serlo según la jurisprudencia más reciente. Ya ves que este procedimiento de petición inicial es extremadamente sencillo y solo se pide completar los datos que acabamos de explicar. Y además tienes que saber que existe un impreso normalizado elaborado por el Consejo General de Poder Judicial, por lo que solo tendríamos que rellenarlo. 
+
+Tampoco, como hemos expuesto, necesitaríamos abogado ni procurador, en ningún caso y dando igual a cuantía. Si en lugar de ser 500 euros fueran 50.000, seguiríamos pudiendo hacer la petición inicial sin intervención de ningún profesional. El siguiente paso será que nos admita la petición, pero antes de eso, el letrado de la Administración de Justicia tendrá que analizar si las capturas de WhatsApp que hemos presentado pueden ser un principio de prueba, es decir, si se ajustan a lo que exponemos en la petición. 
+
+En el caso de que el dé el visto bueno, va a admitir la petición y mandará a Edu un requerimiento de pago con los requisitos del artículo 181 de la LEC, es decir, enviará una notificación a su casa para que pague en un plazo de 20 días, o que en caso contrario se oponga en ese momento. Una vez que Edu recibe esa notificación, tiene varias opciones. La primera opción es pagar los 650 euros, en ese caso se archivarán las actuaciones y es importante destacar que nosotros seguiríamos sin necesidad de contar con abogado ni procurador, así como establece el artículo 817 de la LEC.
+
+La segunda opción que tiene es la de no comparecer, es decir, no pagar pero tampoco presentar escrito de oposición. En ese caso se da por terminado el monitoreo y podríamos instar despacho y ejecución contra Edu en virtud del artículo 816 de la LEC. Seguiríamos sin necesitar abogado ni procurador porque la cuantía es menor a 2000 euros.
+
+En tercer lugar, Edu también puede oponerse según dispone el artículo 818 y lo puede hacer de dos formas, lo puede hacer de forma total o parcial. Si se opone de forma total, esto se acaba resolviendo en un juicio y la sentencia tiene fuerza de cosa juzgada. Es importante destacar que Edu no necesitaría la firma de abogado ni procurador porque la cuantía es de 650 euros, menor a 2000. 
+
+Si fuera mayor a 2000, sí que la necesitaría. Tenemos que saber que puede seguirse por dos tipos de procedimientos. Por juicio verbal, si la cuantía es inferior a 15.000 euros, es importante que te quedes con que esta cuantía sea modificada en virtud del Real Decreto Legislativo 6 barra 2023 y es el procedimiento que se seguiría en este caso porque la cuantía es de 650 euros. 
+
+Así, el detalle de la Administración de Justicia dará por terminado el monitoreo y acordará la tramitación por los cauces de juicio verbal. Y también puede darse por el juicio ordinario si la cuantía fuera superior a 15.000 euros. Por ejemplo, si la deuda fuera de 20.000. En este caso, tendríamos que presentar una demanda en el plazo de un mes conforme al proceso ordinario. 
+
+Edu también puede oponerse de forma parcial, alegando que en realidad no son 500 euros lo que le hemos prestado y lo que nos debe, sino que son 300. Y que tampoco acepta los 150 euros de intereses. En este caso, Edu ya está admitiendo que nos debe 300 euros, por lo que esa cantidad ya estaría reconocida. 
+
+Por lo tanto, solo existiría oposición sobre los 350 euros restantes. Así que en resumen, tienes que saber que un monitoreo procede en los casos de quien pretenda de otro el pago de una deuda dineraria de cualquier importe. Esta deuda tiene que ser líquida, determinada, vencida y exigible, pudiéndose acreditar mediante documentos como pueden ser facturas, albaranes de entrega, certificaciones, telegramas, etc. 
+
+Así como documentos comerciales que acrediten una relación anterior duradera. Tienes que saber que la competencia es del juzgado de primera instancia del domicilio o residencia del deudor, y no se puede aplicar la sumisión de ningún tipo. Así que espero que todo te haya quedado claro y si tienes alguna pregunta, déjala abajo y la responderemos lo antes posible. 
+
+Muchas gracias.

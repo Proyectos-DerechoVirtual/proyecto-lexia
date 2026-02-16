@@ -1,0 +1,92 @@
+# El Sumario
+
+## Incoacion del proceso pena
+
+**Tema:** El Sumario  
+**Clase:** T45_C02  
+**Archivo:** T45_C02_Incoacion del proceso pena.txt  
+**Tipo:** Material de Clase  
+**Categoría:** Oposiciones de Justicia  
+
+---
+
+Muy buenas a todos chicos, bienvenidos a otra clase más. En la clase anterior habíamos explicado ya el procedimiento ordinario, que es el procedimiento penal tipo. Y en la clase de hoy vamos a examinar la incoación del proceso penal.
+
+
+Y bien, ¿qué significa esto de incoación? Pues básicamente es lo equivalente a la iniciación del proceso penal. A la hora de iniciar el cuatro formas fundamentales de hacerlo. La primera de ellas es la denuncia.
+
+
+Evidentemente todos sabemos más o menos en qué consiste una denuncia, pero desde un punto de vista formal se puede definir como la declaración de conocimiento por la cual el denunciante transmite a un órgano judicial, al ministerio fiscal o a la policía judicial, la noticia de un hecho que reviste los caracteres de delito. Vamos a ver un pequeño ejemplo para continuar con la explicación. Imaginémonos que Juan, un sábado a la noche, presencia una agresión por parte de unos sujetos a un tercero al cual le parten la mandíbula.
+
+
+Bien, en base a esto, Juan tendría obligación de denunciar estos hechos. La respuesta es afirmativa, ya que el artículo 259 de la ley de enjuiciamiento criminal dispone que el que presenciare la perpetración de cualquier delito público está obligado a ponerlo inmediatamente en conocimiento del juez de instrucción o funcionario fiscal más próximo al sitio en que se hallare bajo multa. Por tanto, podemos ver que la denuncia es una obligación de cualquier ciudadano.
+
+
+Ahora bien, esta obligación de denunciar conoce ciertas excepciones. La primera de ellas aparece en el artículo 260 de la ley de enjuiciamiento criminal, que dispone que la obligación establecida en el artículo anterior no comprende a los impúberes ni a los que no gozaren del pleno uso de su razón. Por tanto, para denunciar es necesaria la plena capacidad de obrar, lo que implica que un menor de edad o una persona que por cualquier motivo no tuviese plena capacidad de obrar no podrá denunciar hechos delictivos.
+
+
+Por otro lado, el artículo 261 de la ley de enjuiciamiento criminal dispensa de la obligación de denunciar al cónyuge del delincuente no separado legalmente o de hecho o la persona que conviva con él en análoga relación de afectividad, así como a los ascendientes y descendientes del delincuente y sus parientes colaterales hasta el segundo grado inclusive. Por tanto, si en este caso nuestro hermano hubiera cometido un delito y nosotros tuviésemos conocimiento de ello, no estaríamos obligados a denunciarlo por este parentesco que tenemos. Además, hay que destacar que el artículo 263 de la ley de enjuiciamiento criminal también dispensa de la obligación de denunciar a los abogados y a los procuradores respecto de las instrucciones o explicaciones que recibieran de sus clientes.
+
+
+Por tanto, si un abogado es contratado por un cliente para algún tipo de asesoramiento jurídico y éste le comenta que ha cometido un delito, el abogado no estará por ello obligado a denunciar en base al secreto profesional. Además, también se dispensa de declarar en el artículo 263 a los eclesiásticos y ministros de culto disidentes respecto de las noticias que se le hubieran revelado en el ejercicio de las funciones de su ministerio. Aquí encontraríamos a los curas, rabinos o cualquier otra profesión religiosa.
+
+
+Así, si un tercero acude a confesarse un cura y uno de los pecados que le revela es que ha cometido un robo de 600 euros, que ya es un delito público, estos hechos no tendrán por qué ser denunciados por el cura. Una vez explicados los sujetos obligados a denunciar y los dispensados, hay que preguntarse lo siguiente. ¿Cómo se realiza una denuncia? La verdad es que aquí rige el principio de libertad de forma y puede hacerse tanto oralmente como por escrito.
+
+
+A continuación hay que exponer los efectos de la denuncia. ¿Cuáles son los efectos de la interposición de una denuncia? Pues aparecen estos en el artículo 269 de la ley de enjuiciamiento criminal, el cual establece que formalizada que sea la denuncia, se procederá o mandará proceder inmediatamente por el juez o funcionario a quien se hiciese a la comprobación del hecho denunciado, salvo que éste no revistiere carácter de delito o que la denuncia fuere manifiestamente falsa. En cualquiera de estos dos casos, el tribunal o funcionario se abstenerán de todo procedimiento sin perjuicio de la responsabilidad en que incurran si desestimasen aquello indebidamente.
+
+
+Por tanto, el principal y fundamental efecto de la denuncia es la comprobación del hecho delictivo. Así, volviendo al ejemplo que citamos antes de aquella agresión, lo que hará la policía, si es a ella a la que se acude para denunciar el hecho, es comprobar todo lo referente a esta agresión, ver si se produjo en el lugar en que se indicó, si se sabe la identidad de los agresores y todo lo que permita precisamente averiguar el delito. El siguiente mecanismo de iniciación del proceso penal es la querella.
+
+
+Ahora bien, ¿qué podemos entender por querella? Se puede definir la misma como el acto por el que se solicita del juez de instrucción competente la apertura del proceso penal contra una persona determinada a la que se atribuye la comisión de una infracción penal. En resumidas cuentas, podríamos decir que viene a hacer prácticamente lo mismo que una denuncia, pero a mayores también supone el ejercicio de la acción penal, de manera que se comunica un hecho punible y al mismo tiempo la persona en cuestión que interpone la querella formula la acción penal y se constituye como acusador particular o popular según el caso. Por tanto, en el caso de las agresiones que mencionamos anteriormente, la persona que presenció los hechos tendría dos posibilidades.
+
+
+La primera sería denunciar simplemente el hecho y la otra querellarse por tal supuesto, en cuyo caso comunicaría el hecho punible y a mayores ejercería la acción penal y se constituiría en acusación particular. Ahora bien, ¿cómo podemos diferenciar la querella de la denuncia? Pues fundamentalmente porque la denuncia es un deber y la querella es un derecho. Así, el artículo 270 de la ley de enjuiciamiento criminal dispone que todos los ciudadanos españoles hayan sido o no ofendidos por el delito pueden querellarse ejercitando la acción popular establecida en el artículo 101 de esta ley.
+
+
+Pero además, aquí me gustaría haceros ahora una pregunta. ¿Es posible presentar una querella oralmente? Esto no es posible, ya que la querella, a diferencia de la denuncia, es extremadamente formalista. Es necesario seguir unos pasos y cumplir unos requisitos para poder presentarla válidamente.
+
+
+Y bien, ¿dónde podemos encontrar estos requisitos? Pues aparecen todos ellos en el artículo 277 de la ley de enjuiciamiento criminal. El mismo establece que la persona que la presente debe estar adecuadamente representada y defendida, como vimos anteriormente en el tema de defensa y representación de las partes. Además, la querella se extenderá en papel de oficio y en ella se expresará lo que se va a enumerar a continuación.
+
+
+El juez o tribunal ante quien se presente, que además debe ser el competente, nombre, apellidos y vecindad tanto del querellante como del querellado. Ahora bien, ¿sería posible presentar una querella sin saber la identidad del querellado? La respuesta aquí es afirmativa, ya que el propio artículo dispone que en caso de ignorarse estas circunstancias, se deberá hacer la designación del querellado por las señas que mejor pudieran darle a conocer. Por tanto, habrá que describirlo físicamente, cómo era de rasgos, sus facciones, etcétera.
+
+
+A mayores también debe incluirse la relación circunstanciada del hecho con expresión del lugar, año, mes, día y hora en que se ejecutó, si se supieren. En definitiva, en la querella habrá de reproducirse de la forma más detallada posible los hechos constitutivos de infracción penal. Además, en la querella será necesaria la expresión de las diligencias que se deberán practicar para la comprobación del hecho.
+
+
+Aquí habrá que incluir en este caso, pues, declaraciones de testigos, pruebas documentales de que se disponga, etcétera. Y también, casi para terminar, habrá que incluir la petición de que se admita a la querella, se practiquen las diligencias indicadas en el número anterior, se proceda a la detención y prisión del presunto culpable o a exigirle fianza de libertad provisional y se acuerde el embargo de sus bienes en la cantidad necesaria en los casos en que así proceda. Y por último, la firma del querellante o la de otra persona a su ruego si éste no supiere o no pudiere firmar, además de cuando el procurador no tuviera poder especial para formular la querella.
+
+
+Por tanto, la principal consecuencia de esto es que si el procurador tiene poder especial para presentarla, no será necesario este último requisito. Por tanto, si la persona que presenció aquella agresión que mencionamos al principio de la clase decide presentar a una querella y lo hace cumpliendo esto, bastaría ya para entender la formulada. La respuesta aquí es negativa y es que hay un requisito a mayores.
+
+
+Y es que el artículo 280 de la ley de enjuiciamiento criminal dice que el particular querellante prestará fianza de la clase y en la cuantía que fijar el juez o tribunal para responder de las resultas del juicio, siendo éste también un requisito adicional de la querella. Ahora bien, hay ciertas excepciones a esta obligación de prestar fianza. Y bien, ¿dónde encontramos a las mismas? Se encuentran fundamentalmente en el artículo 281 de la ley de enjuiciamiento criminal que dispensa de la obligación de prestar fianza, entre otros, al ofendido y sus herederos o representantes legales, al cónyuge y a la pareja de hecho, así como a ciertos parientes, y por último también a las asociaciones de víctimas de delito.
+
+
+Ya casi para terminar, hay que examinar otro mecanismo de iniciación del proceso penal, que es el atestado policial, el cual se puede definir como el instrumento formal o expediente que refleja la actividad llevada a cabo por la policía judicial. Así, podríamos decir que el atestado es el resultado de las actuaciones realizadas por la policía judicial, al cual se refiere también el artículo 292 de la ley de enjuiciamiento criminal y dispone que en el mismo se especificarán con la mayor exactitud los hechos por ellos averiguados, insertando las declaraciones e informes recibidos y anotando todas las circunstancias que hubiesen observado y pudiesen ser prueba o indicio del delito. Así, uno de los ejemplos más habituales de atestados policiales es el caso de las famosas pruebas de alcoholemia, en el cual normalmente se identifica al conductor, se le practica la prueba y se dispone en el propio atestado el resultado que arrojó la misma y si es constitutivo o no de delito o de infracción administrativa o directamente no es constitutivo de delito ni de infracción administrativa alguna.
+
+
+Además, hay que destacar que este atestado tiene simple valor de denuncia. Ahora bien, ¿hay alguna excepción para esto? En principio, esta regla general tiene una excepción y es que cuando el atestado incorpora ciertos datos objetivos, como podría ser un plano, esto tiene valor probatorio y también igualmente cuando es el caso del test alcoholimétrico que mencionamos anteriormente o cuando el atestado contiene huellas que se encontraron en la zona de comisión del delito. En estos supuestos, el atestado sí tendrá valor probatorio respecto a estas cuestiones.
+
+
+Y, por último, vamos a ver un método de incoación del proceso penal bastante llamativo y que vamos a examinar con un ejemplo. Imaginémonos que un juez de instrucción llega a saber que en su partido judicial se ha cometido un robo que no ha sido denunciado, siendo este un delito público que puede perseguirse de oficio. ¿Puede este juez de instrucción incoar el proceso penal para investigar tales hechos? Si el juez de instrucción tiene noticia de los hechos, ya sea porque se difunde por las noticias o porque los presencia directamente él mismo, puede incoar la apertura del proceso penal y formar el correspondiente sumario, comenzando así la investigación judicial.
+
+
+Ahora bien, aquí hay una importante excepción para todo esto que está previsto en el artículo 308 de la ley de enjuiciamiento criminal. En ningún caso el juez podrá ser sujeto pasivo del delito cometido, es decir, el juez no puede incoar un procedimiento penal por un delito cometido contra su propia persona. Y con esto ya podemos dar por terminada la clase.
+
+
+Vamos a ver un muy breve resumen de todo lo que hemos visto en ella. El proceso penal se puede iniciar de cuatro formas diferentes. La primera es la denuncia, que es una declaración de conocimiento por la cual el denunciante transmite a un órgano judicial, al ministerio fiscal o a la policía judicial, la noticia de un hecho que reviste los caracteres de delito.
+
+
+El artículo 259 de la ley de enjuiciamiento criminal configura la denuncia como un deber, al mismo tiempo que se rige la misma por el principio de libertad de forma. El segundo mecanismo del proceso penal es la querella, en la cual precisamente se solicita del juez de instrucción competente la apertura del procedimiento penal contra una persona determinada a la que se atribuye la comisión de una infracción penal. A diferencia de la denuncia, la querella es un derecho y además es rígidamente formalista y deben seguirse determinados trámites y requisitos para que se pueda interponer válidamente.
+
+
+El siguiente mecanismo de inicio del proceso penal es el atestado policial, que es el instrumento formal o expediente que refleja la actividad llevada a cabo por la policía judicial, el cual tiene un simple valor de denuncia, salvo para aquellos casos en que el atestado incorpore algún dato objetivo, como podría ser un testal colimétrico o huellas. Y por último, también puede incuarse el proceso penal de oficio por el propio juez de instrucción que tenga noticia de un hecho que revista los caracteres de delito. Con esto ya podemos dar por finalizada la clase.
+
+
+Un saludo y nos vemos en la próxima.
+

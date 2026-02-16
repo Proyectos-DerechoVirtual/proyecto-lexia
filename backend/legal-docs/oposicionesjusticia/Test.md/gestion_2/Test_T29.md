@@ -1,0 +1,1862 @@
+## Pregunta 1
+**Según el artículo 826 de la Ley de Enjuiciamiento Civil (LEC), una vez que el deudor haya presentado su escrito de oposición cambiaria, ¿cuántos días tiene el acreedor para impugnar dicho escrito?**
+
+**Opciones:**
+- 1)10 días.
+- 2)7 días.
+- 3)5 días.
+- 4)15 días.
+
+**Respuesta correcta:** 1
+
+**Explicación (correcta):**  
+¡Correcto! El acreedor dispone de 10 días para impugnar el escrito de oposición cambiaria presentado por el deudor según el artículo 826 de la LEC.
+
+**Explicación (errada):**  
+Lo siento, esa no es la respuesta correcta. Según el artículo 826 de la LEC, el acreedor tiene 10 días para impugnar el escrito de oposición cambiaria. (Respuesta correcta 1)
+
+---
+
+## Pregunta 2
+**Conforme al artículo 24 del Reglamento (CE) n.º 1896/2006 sobre el proceso monitorio europeo, ¿es necesario contar con la representación de un abogado u otro profesional del derecho?**
+
+**Opciones:**
+- 1)Siempre es necesario.
+- 2)Solo se excluye para el demandante al iniciar un requerimiento europeo de pago.
+- 3)Depende de la cuantía de la reclamación.
+- 4)Solo se excluye para el demandado al oponerse a un requerimiento europeo de pago.
+
+**Respuesta correcta:** 4
+
+**Explicación (correcta):**  
+¡Exacto! No se necesita representación para el demandado cuando se opone a un requerimiento europeo de pago, según el artículo 24 del Reglamento mencionado.
+
+**Explicación (errada):**  
+Esa no es la respuesta adecuada. De acuerdo con el artículo 24 del Reglamento, solo se excluye la necesidad de representación para el demandado al oponerse a un requerimiento europeo de pago. (Respuesta correcta 4)
+
+---
+
+## Pregunta 3
+**Según la estructura de la Ley de Enjuiciamiento Civil, ¿en qué libro se aborda el tema del juicio cambiario?**
+
+**Opciones:**
+- 1)V.
+- 2)VI.
+- 3)IV.
+- 4)III.
+
+**Respuesta correcta:** 3
+
+**Explicación (correcta):**  
+¡Bien hecho! El juicio cambiario se regula en el Libro IV de la Ley de Enjuiciamiento Civil.
+
+**Explicación (errada):**  
+Lo siento, esa no es la opción correcta. El juicio cambiario se encuentra en el Libro IV de la Ley de Enjuiciamiento Civil. (Respuesta correcta 3)
+
+---
+
+## Pregunta 4
+**Según la Ley Orgánica del Poder Judicial, tras la implantación de los Tribunales de Instancia, ¿qué órgano es competente para el procedimiento monitorio?**
+
+**Opciones:**
+- 1)La Sección Civil del Tribunal de Instancia del domicilio o residencia del deudor.
+- 2)El Juez de Paz de la residencia del acreedor.
+- 3)La Audiencia Provincial del domicilio del deudor.
+- 4)La Sección de lo Mercantil del Tribunal de Instancia.
+
+**Respuesta correcta:** 1
+
+**Explicación (correcta):**  
+¡Correcto! Con la nueva estructura judicial, la competencia para el proceso monitorio recae en la Sección Civil del Tribunal de Instancia del domicilio o residencia del deudor.
+
+**Explicación (errada):**  
+Respuesta incorrecta. La Ley Orgánica del Poder Judicial, tras su reforma, atribuye la competencia del proceso monitorio a la Sección Civil del Tribunal de Instancia del domicilio o residencia del deudor. (Respuesta Correcta 1)
+
+---
+
+## Pregunta 5
+**Con relación al Reglamento (CE) nº 1896/2006, ¿cuál de las siguientes afirmaciones sobre asuntos transfronterizos es incorrecta?**
+
+**Opciones:**
+- 1)El domicilio se establece según los artículos 59 y 60 del Reglamento (CE) no 44/2001 del Consejo.
+- 2)Son considerados transfronterizos cuando al menos una parte reside o está domiciliada en un Estado miembro diferente al del órgano jurisdiccional donde se presenta la petición.
+- 3)El momento pertinente para determinar si existe un asunto transfronterizo será aquél en que se admita la tramitación del requerimiento europeo de pago.
+- 4)El Reglamento mencionado no se aplica en cuestiones fiscales, aduaneras, administrativas o en casos de responsabilidad del Estado por actos u omisiones al ejercer su autoridad.
+
+**Respuesta correcta:** 3
+
+**Explicación (correcta):**  
+¡Bien hecho! La determinación sobre si un asunto es transfronterizo no se hace en el momento mencionado.
+
+**Explicación (errada):**  
+Lo siento, esa afirmación no es incorrecta. La determinación de si un asunto es transfronterizo se realiza en otro momento. (Respuesta correcta 3)
+
+---
+
+## Pregunta 6
+**Si el deudor cumple con el requerimiento de pago en el proceso monitorio, ¿qué debe hacer para que el Letrado de la Administración de Justicia decida el archivo del caso?**
+
+**Opciones:**
+- 1)Debe demostrar que ha cumplido con lo indicado en el requerimiento de pago.
+- 2)Basta con que el deudor responda al requerimiento sin más procedimientos.
+- 3)No debe demostrar que ha cumplido con lo indicado en el requerimiento de pago.
+- 4)Dos opciones son correctas.
+
+**Respuesta correcta:** 1
+
+**Explicación (correcta):**  
+¡Correcto! El deudor tiene que acreditar que ha cumplido con el requerimiento de pago.
+
+**Explicación (errada):**  
+Desafortunadamente, esa no es la respuesta adecuada. El deudor necesita demostrar que ha cumplido con el requerimiento de pago para que el Letrado proceda con el archivo. (Respuesta correcta 1)
+
+---
+
+## Pregunta 7
+**¿Cuál de las siguientes no es una excepción válida que el deudor cambiario puede presentar?**
+
+**Opciones:**
+- 1)La alegación de que su residencia es falsa.
+- 2)La inexistencia de las formalidades requeridas en la letra de cambio.
+- 3)La invalidez de su propia declaración cambiaria.
+- 4)Excepción personal en la obligación con el acreedor cambiario.
+
+**Respuesta correcta:** 1
+
+**Explicación (correcta):**  
+¡Exacto! El deudor cambiario no puede alegar la falsedad de su residencia como excepción.
+
+**Explicación (errada):**  
+Esa no es la respuesta correcta. El deudor cambiario no puede presentar la falsedad de su residencia como excepción. (Respuesta correcta 1)
+
+---
+
+## Pregunta 8
+**Conforme a la nueva organización judicial, ¿qué órgano tiene competencia para conocer del juicio cambiario?**
+
+**Opciones:**
+- 1)La Sección de lo Penal del Tribunal de Instancia del domicilio del demandado.
+- 2)La Sección Civil del Tribunal de Instancia del domicilio del demandado.
+- 3)La Audiencia Provincial del domicilio del demandado.
+- 4)El Juzgado de Paz del domicilio del demandante.
+
+**Respuesta correcta:** 2
+
+**Explicación (correcta):**  
+¡Correcto! Tras la reforma de la LOPJ, la competencia para el juicio cambiario corresponde a la Sección Civil del Tribunal de Instancia del domicilio del demandado.
+
+**Explicación (errada):**  
+Respuesta incorrecta. La nueva organización judicial atribuye la competencia para el juicio cambiario a la Sección Civil del Tribunal de Instancia del domicilio del demandado. (Respuesta Correcta 2)
+
+---
+
+## Pregunta 9
+**El Reglamento (CE) que establece un proceso monitorio europeo, ¿a qué país de la Unión Europea no se aplica?**
+
+**Opciones:**
+- 1)España.
+- 2)Dinamarca.
+- 3)Portugal.
+- 4)Suecia.
+
+**Respuesta correcta:** 2
+
+**Explicación (correcta):**  
+¡Correcto! El Reglamento (CE) que establece un proceso monitorio europeo no se aplica a Dinamarca.
+
+**Explicación (errada):**  
+Lo siento, esa no es la respuesta correcta. El país al que no se aplica el Reglamento (CE) del proceso monitorio europeo es Dinamarca. (Respuesta correcta 2)
+
+---
+
+## Pregunta 10
+**De acuerdo con el artículo 821 de la LEC, ¿cómo se inicia el juicio cambiario?**
+
+**Opciones:**
+- 1)Presentando una demanda concisa sin el título cambiario adjunto.
+- 2)Presentando una demanda extensa con el título cambiario adjunto.
+- 3)De oficio, si el Fiscal lo considera necesario.
+- 4)Presentando una demanda sucinta con el título cambiario adjunto.
+
+**Respuesta correcta:** 4
+
+**Explicación (correcta):**  
+¡Bien hecho! El juicio cambiario se inicia presentando una demanda breve acompañada del título cambiario, según lo establecido en el artículo 821 de la LEC.
+
+**Explicación (errada):**  
+Esa no es la respuesta correcta. El artículo 821 de la LEC establece que el juicio cambiario se comienza mediante una demanda breve a la que se adjunta el título cambiario. (Respuesta correcta 2)
+
+---
+
+## Pregunta 11
+**¿Qué consecuencia tiene una sentencia firme emitida en un juicio cambiario?**
+
+**Opciones:**
+- 1)Genera efecto de cosa juzgada, respecto a los argumentos que pudieron alegarse y debatirse en el juicio cambiario. Las cuestiones restantes pueden ser discutidas en el juicio pertinente.
+- 2)Genera efecto de cosa juzgada, respecto a los argumentos que pudieron presentarse y debatirse en el juicio cambiario. Las cuestiones restantes no pueden ser discutidas en el juicio pertinente.
+- 3)No genera efecto de cosa juzgada, respecto a los argumentos que pudieron presentarse y debatirse en el juicio cambiario. Las cuestiones restantes pueden ser discutidas en el juicio pertinente.
+- 4)Genera efecto de cosa juzgada, respecto a los hechos que no pudieron presentarse y debatirse en el juicio cambiario.
+
+**Respuesta correcta:** 1
+
+**Explicación (correcta):**  
+¡Correcto! Una sentencia firme en un juicio cambiario tiene efecto de cosa juzgada sobre las cuestiones que pudieron debatirse durante el juicio.
+
+**Explicación (errada):**  
+Lo siento, esa no es la respuesta adecuada. La sentencia firme en un juicio cambiario produce efecto de cosa juzgada en relación a los temas debatidos durante el juicio. (Respuesta correcta 1)
+
+---
+
+## Pregunta 12
+**Según el art. 826 de la LEC, si se decide la celebración de una vista para tratar la oposición cambiaria y el acreedor, aunque debidamente citado, no comparece, ¿qué sucede?**
+
+**Opciones:**
+- 1)El juez tomará una decisión respecto a la oposición escuchando al deudor.
+- 2)El juez tomará una decisión respecto a la oposición escuchando al acreedor.
+- 3)El juez tomará una decisión respecto a la oposición sin escuchar al deudor.
+- 4)El juez tomará una decisión respecto a la oposición sin escuchar al acreedor.
+
+**Respuesta correcta:** 4
+
+**Explicación (correcta):**  
+¡Exacto! Si el acreedor no asiste, a pesar de haber sido citado correctamente, el tribunal tomará una decisión sobre la oposición sin escucharlo.
+
+**Explicación (errada):**  
+Esa no es la respuesta correcta. Si el acreedor, debidamente citado, no comparece, el tribunal decide sobre la oposición sin escucharlo. (Respuesta correcta 4)
+
+---
+
+## Pregunta 13
+**Conforme a la Ley de Enjuiciamiento Civil, ¿cómo se da inicio al procedimiento cambiario?**
+
+**Opciones:**
+- 1)Mediante una demanda sucinta a la que se añade el título cambiario.
+- 2)Mediante una solicitud breve a la que se añade la prueba.
+- 3)De oficio por el LAJ.
+- 4)De oficio por el Juez.
+
+**Respuesta correcta:** 1
+
+**Explicación (correcta):**  
+¡Bien hecho! La Ley de Enjuiciamiento Civil establece que el procedimiento cambiario comienza con una demanda concisa acompañada del título cambiario.
+
+**Explicación (errada):**  
+Esa no es la respuesta correcta. Según la Ley de Enjuiciamiento Civil, el procedimiento cambiario se inicia con una demanda breve a la que se añade el título cambiario. (Respuesta correcta 1)
+
+---
+
+## Pregunta 14
+**En el contexto del juicio cambiario, ¿cuál de las siguientes proposiciones es válida?**
+
+**Opciones:**
+- 1)Si el deudor cumple con la demanda de pago, el acreedor tiene que asumir los gastos.
+- 2)La oposición se presenta como una solicitud de formulario.
+- 3)Las normas sobre sumisión expresa o tácita de la Ley de Enjuiciamiento Civil son aplicables.
+- 4)La oposición se presenta como una demanda.
+
+**Respuesta correcta:** 4
+
+**Explicación (correcta):**  
+¡Exactamente! La oposición en el juicio cambiario se realiza presentándola como una demanda.
+
+**Explicación (errada):**  
+Esa respuesta no es correcta. La oposición en el juicio cambiario se presenta como una demanda. (Respuesta correcta 4)
+
+---
+
+## Pregunta 15
+**En relación con el inicio del juicio cambiario, ¿qué acción tomará el juez?**
+
+**Opciones:**
+- 1)Ordenará el embargo inmediato de activos del deudor basado en la suma del título ejecutivo, agregando montos para intereses, gastos y costas, en caso de no cumplir con el requerimiento de pago, siempre y incluso si el título cambiario no ha sido validado formalmente.
+- 2)Ordenará el embargo inmediato de activos del deudor basado en la suma del título ejecutivo.
+- 3)Ordenar el inmediato embargo preventivo de los bienes del deudor por la cantidad que figure en el título ejecutivo, más otra para intereses de demora, gastos y costas, por si no se atendiera el requerimiento de pago, siempre y cuando la corrección formal previamente realizada del título cambiario lo encuentra conforme.
+- 4)Ordenará el embargo inmediato de activos del deudor basado en la suma del título ejecutivo, agregando montos para intereses, gastos y costas, en caso de cumplir con el requerimiento de pago.
+
+**Respuesta correcta:** 3
+
+**Explicación (correcta):**  
+¡Muy bien! El juez puede ordenar el embargo inmediato de los activos del deudor, teniendo en cuenta la cantidad del título ejecutivo y otros gastos, una vez que el título cambiario se haya verificado.
+
+**Explicación (errada):**  
+Esa no es la acción correcta. El juez puede ordenar el embargo inmediato de los activos del deudor después de validar el título cambiario. (Respuesta correcta 3)
+
+---
+
+## Pregunta 16
+**En cuanto a la competencia en el juicio cambiario, ¿son válidas las normas de sumisión tácita del Título II, Libro I de la Ley de Enjuiciamiento Civil?**
+
+**Opciones:**
+- 1)Jamás serán aplicables las normas de sumisión, ya sean expresas o tácitas, mencionadas en ese título y libro.
+- 2)Solo son válidas las normas de sumisión tácita, excluyendo las expresas.
+- 3)Solo son válidas las normas de sumisión expresa, excluyendo las tácitas.
+- 4)Ninguna es correcta.
+
+**Respuesta correcta:** 1
+
+**Explicación (correcta):**  
+¡Correcto! Las normas sobre sumisión, ya sean expresas o tácitas del Título II, Libro I de la LEC, no son aplicables en el juicio cambiario.
+
+**Explicación (errada):**  
+Lo siento, esa respuesta no es acertada. En el juicio cambiario, las normas de sumisión del Título II, Libro I de la LEC no son aplicables. (Respuesta correcta 1)
+
+---
+
+## Pregunta 17
+**En el juicio cambiario, si se rechaza el requerimiento de pago al deudor, ¿qué recurso puede emplear el acreedor?**
+
+**Opciones:**
+- 1)El acreedor puede optar por un recurso de reposición antes de uno de apelación.
+- 2)El acreedor puede optar por un recurso de revisión antes de uno de apelación.
+- 3)El acreedor puede optar por un recurso de queja antes de uno de apelación.
+- 4)El acreedor puede optar por un recurso de reforma antes de uno de apelación.
+
+**Respuesta correcta:** 1
+
+**Explicación (correcta):**  
+¡Acertaste! El acreedor tiene la opción de emplear un recurso de reposición previo a uno de apelación.
+
+**Explicación (errada):**  
+Lo siento, esa opción no es la correcta. El acreedor puede optar por interponer un recurso de reposición antes que uno de apelación. (Respuesta correcta 1)
+
+---
+
+## Pregunta 18
+**En el juicio cambiario, si el deudor presenta oposición conforme a la LEC pero no asiste a la vista, ¿qué ocurre?**
+
+**Opciones:**
+- 1)El tribunal archivará el caso y dirigirá a las partes al juicio declarativo pertinente.
+- 2)El tribunal considerará que el deudor ha renunciado a su oposición y no procederá con la ejecución de las sumas reclamadas.
+- 3)El tribunal considerará que el deudor no ha renunciado a su oposición y no procederá con la ejecución de las sumas reclamadas.
+- 4)El tribunal considerará que el deudor ha desistido a su oposición y se procederá con la ejecución de las sumas reclamadas.
+
+**Respuesta correcta:** 4
+
+**Explicación (correcta):**  
+¡Exacto! Si el deudor presenta oposición pero no comparece a la vista, el tribunal considerará que ha renunciado a su oposición.
+
+**Explicación (errada):**  
+Esa no es la acción correcta. Si el deudor presenta oposición y no asiste a la vista, el tribunal interpretará que ha renunciado a su oposición. (Respuesta correcta 4)
+
+---
+
+## Pregunta 19
+**¿Bajo qué circunstancias es viable el juicio cambiario?**
+
+**Opciones:**
+- 1)Solo es viable si, al iniciar el proceso, se presenta una letra de cambio, cheque o pagaré que cumplan con los requisitos de la Ley cambiaria y del cheque.
+- 2)Solo es viable si, al iniciar el proceso, se presentan medios probatorios.
+- 3)Solo es viable si, al iniciar el proceso, se presenta una letra de cambio, cheque o pagaré.
+- 4)Siempre que se verifique el certificado de no pago.
+
+**Respuesta correcta:** 1
+
+**Explicación (correcta):**  
+¡Correcto! El juicio cambiario procede solo si se presenta un título que cumple con la Ley cambiaria y del cheque.
+
+**Explicación (errada):**  
+Lo siento, esa respuesta no es acertada. El juicio cambiario solo es viable si el título presentado sigue las especificaciones de la Ley cambiaria y del cheque. (Respuesta correcta 1)
+
+---
+
+## Pregunta 20
+**Según el artículo 824 de la LEC, ¿cómo se debe presentar la oposición cambiaria?**
+
+**Opciones:**
+- 1)Se presenta como una demanda.
+- 2)Se hace mediante una comparecencia ante el LAJ.
+- 3)Se hace mediante una comparecencia ante el Juez de Primera Instancia.
+- 4)Se hace mediante una comparecencia ante el Juez de Instrucción.
+
+**Respuesta correcta:** 1
+
+**Explicación (correcta):**  
+¡Bien hecho! La oposición cambiaria se presenta en formato de demanda según el artículo 824 de la LEC.
+
+**Explicación (errada):**  
+Esa opción no es la correcta. La oposición cambiaria se presenta como una demanda de acuerdo con la LEC. (Respuesta correcta 1)
+
+---
+
+## Pregunta 21
+**En el juicio cambiario, cuando el titular de un título demanda a varios deudores que tienen obligación por el mismo título, ¿qué juzgado tiene competencia?**
+
+**Opciones:**
+- 1)El Juzgado de Primera Instancia del domcilio de la deuda de mayor cuantía.
+- 2)El Juzgado de Primera Instancia del domicilio del acreedor.
+- 3)El Juzgado de Primera Instancia del domicilio de cualquiera de los deudores.
+- 4)El Juzgado de Primera Instancia del domicilio del librador.
+
+**Respuesta correcta:** 3
+
+**Explicación (correcta):**  
+¡Acertaste! El Juzgado de Primera Instancia del domicilio de cualquiera de los deudores es el competente.
+
+**Explicación (errada):**  
+Esa respuesta no es correcta. La competencia recae en el Juzgado de Primera Instancia del domicilio de cualquiera de los deudores. (Respuesta correcta 3)
+
+---
+
+## Pregunta 22
+**En el juicio cambiario, si el deudor no presenta oposición en el tiempo estipulado, ¿cuál es el procedimiento?**
+
+**Opciones:**
+- 1)Se emite sentencia condenatoria.
+- 2)Se procederá a suspender las cantidades demandadas.
+- 3)El LAJ establecerá una vista.
+- 4)Se procederá a ejecutar las cantidades demandadas.
+
+**Respuesta correcta:** 4
+
+**Explicación (correcta):**  
+¡Exactamente! Si no se presenta oposición a tiempo, se procederá a la ejecución de las cantidades demandadas.
+
+**Explicación (errada):**  
+Lo siento, esa opción no es correcta. Sin la oposición en el plazo establecido, se procederá directamente a la ejecución de las cantidades solicitadas. (Respuesta correcta 4)
+
+---
+
+## Pregunta 23
+**Según el artículo 822 de la LEC, si el deudor cambiario responde al requerimiento de pago conforme al artículo 583 de la LEC, ¿quién correrá con las costas?**
+
+**Opciones:**
+- 1)Las costas serán compartidas entre el acreedor y el deudor por igual.
+- 2)Las costas recaerán sobre el acreedor.
+- 3)Las costas recaerán sobre el deudor.
+- 4)Ninguna es correcta.
+
+**Respuesta correcta:** 2
+
+**Explicación (correcta):**  
+¡Correcto! Si el deudor cambiario atiende al requerimiento de pago, las costas serán de su responsabilidad.
+
+**Explicación (errada):**  
+La respuesta es incorrecta. Si el deudor atiende al requerimiento de pago, las costas recaen sobre él. (Respuesta correcta 2)
+
+---
+
+## Pregunta 24
+**¿Bajo qué circunstancias es provisionalmente ejecutable la sentencia del juicio cambiario?**
+
+**Opciones:**
+- 1)Cuando el Juez de oficio observa temeridad.
+- 2)Cuando la oposición es rechazada.
+- 3)Cuando la oposición es rechazada y la sentencia es recurrida.
+- 4)Cuando la oposición es rechazada o la sentencia es recurrida.
+
+**Respuesta correcta:** 3
+
+**Explicación (correcta):**  
+¡Acertaste! La sentencia es provisionalmente ejecutable cuando la oposición es desestimada y se recurre la sentencia.
+
+**Explicación (errada):**  
+Esa respuesta no es correcta. La sentencia es provisionalmente ejecutable cuando la oposición es desestimada y la sentencia es recurrida. (Respuesta correcta 3)
+
+---
+
+## Pregunta 25
+**¿En qué plazo el tribunal emitirá un fallo sobre la oposición cambiaria?**
+
+**Opciones:**
+- 1)En un lapso de 5 días.
+- 2)En un lapso de 7 días.
+- 3)En un lapso de 15 días.
+- 4)En un lapso de 10 días.
+
+**Respuesta correcta:** 4
+
+**Explicación (correcta):**  
+¡Exacto! El tribunal tiene un plazo de 10 días para dictar sentencia sobre la oposición cambiaria.
+
+**Explicación (errada):**  
+Esa opción no es la correcta. El tribunal dictará sentencia en un plazo de 10 días. (Respuesta correcta 4)
+
+---
+
+## Pregunta 26
+**¿Cuánto tiempo tiene el deudor para presentar una demanda de oposición al juicio cambiario después del requerimiento de pago?**
+
+**Opciones:**
+- 1)Dispone de 15 días posteriores al requerimiento para hacerlo.
+- 2)Dispone de 20 días posteriores al requerimiento para hacerlo.
+- 3)Dispone de 10 días posteriores al requerimiento para hacerlo.
+- 4)Dispone de 7 días posteriores al requerimiento para hacerlo.
+
+**Respuesta correcta:** 3
+
+**Explicación (correcta):**  
+¡Correcto! El deudor tiene 10 días después del requerimiento de pago para interponer una demanda de oposición.
+
+**Explicación (errada):**  
+Esa respuesta no es correcta. El deudor tiene un plazo de 10 días después del requerimiento de pago para presentar una demanda de oposición. (Respuesta correcta 3)
+
+---
+
+## Pregunta 27
+**Señale la afirmación incorrecta en relación con el juicio cambiario:**
+
+**Opciones:**
+- 1)El cheque presentado debe cumplir con los requisitos de la Ley cambiaria y del cheque.
+- 2)La competencia corresponde a la Sección de Instrucción del Tribunal de Instancia.
+- 3)Procede cuando se presenta una letra de cambio, un pagaré o un cheque.
+- 4)No son aplicables las normas sobre sumisión expresa o tácita.
+
+**Respuesta correcta:** 2
+
+**Explicación (correcta):**  
+¡Correcto! La competencia para el juicio cambiario corresponde a la Sección Civil del Tribunal de Instancia, no a la de Instrucción.
+
+**Explicación (errada):**  
+La afirmación de la opción 2 es incorrecta. La competencia para el juicio cambiario es de la Sección Civil del Tribunal de Instancia. (Respuesta Correcta 2)
+
+---
+
+## Pregunta 28
+**Respecto a cómo inicia el juicio cambiario, señale la opción correcta:**
+
+**Opciones:**
+- 1)Se inicia con una demanda sucinta acompañada del título cambiario correspondiente.
+- 2)Se inicia con una providencia concisa acompañada del título cambiario correspondiente.
+- 3)Se inicia con un formulario conciso acompañado del título cambiario correspondiente.
+- 4)Se inicia de oficio.
+
+**Respuesta correcta:** 1
+
+**Explicación (correcta):**  
+¡Bien hecho! El juicio cambiario comienza con una demanda concisa a la que se anexa el título cambiario.
+
+**Explicación (errada):**  
+Lo siento, esa respuesta no es correcta. La iniciación del juicio cambiario se hace mediante una demanda breve acompañada del título cambiario. (Respuesta correcta 1)
+
+---
+
+## Pregunta 29
+**Con base en el artículo 827 de la Ley de Enjuiciamiento Civil, ¿cuál es la eficacia de una sentencia firme dictada en un juicio cambiario?**
+
+**Opciones:**
+- 1)Todas son correctas.
+- 2)Tendrá efectos de cosa juzgada en relación a las cuestiones planteadas exclusivamente por el deudor.
+- 3)Tendrá efectos de cosa juzgada en relación a las cuestiones planteadas exclusivamente por el acreedor.
+- 4)Generará efectos de cosa juzgada sobre las cuestiones que pudieron haber sido presentadas y debatidas durante el proceso.
+
+**Respuesta correcta:** 4
+
+**Explicación (correcta):**  
+¡Exacto! La sentencia firme en un juicio cambiario tiene efectos de cosa juzgada sobre las cuestiones que pudieron haber sido presentadas y discutidas en el proceso.
+
+**Explicación (errada):**  
+Esa opción no es la correcta. La sentencia firme en un juicio cambiario produce efectos de cosa juzgada sobre las cuestiones que pudieron ser presentadas y debatidas. (Respuesta correcta 4)
+
+---
+
+## Pregunta 30
+**En el caso de que el deudor cambiario cumpla con el requerimiento de pago, ¿quién será responsable de las costas?**
+
+**Opciones:**
+- 1)El tribunal decidirá quién asume las costas, pudiendo limitarlas.
+- 2)Las costas serán asumidas por el deudor.
+- 3)Las costas serán asumidas por el acreedor.
+- 4)Las costas serán asumidas por ambas partes.
+
+**Respuesta correcta:** 2
+
+**Explicación (correcta):**  
+¡Correcto! Si el deudor cambiario atiende al requerimiento de pago, las costas serán a su cargo.
+
+**Explicación (errada):**  
+Lo siento, esa respuesta no es correcta. Si el deudor cambiario cumple con el requerimiento de pago, él será responsable de las costas. (Respuesta correcta 2)
+
+---
+
+## Pregunta 31
+**Un juicio cambiario procederá solo si al iniciarlo se presenta:**
+
+**Opciones:**
+- 1)Una letra de cambio que cumpla con los requisitos establecidos en la Ley cambiaria y del cheque.
+- 2)Un cheque que cumpla con los requisitos establecidos en la Ley cambiaria y del cheque.
+- 3)Un pagaré que cumpla con los requisitos establecidos en la Ley cambiaria y del cheque.
+- 4)Todas son correctas.
+
+**Respuesta correcta:** 4
+
+**Explicación (correcta):**  
+¡Exacto! El juicio cambiario procederá si se presenta una letra de cambio, un cheque o un pagaré que cumpla con los requisitos estipulados en la Ley cambiaria y del cheque.
+
+**Explicación (errada):**  
+Esa opción no es correcta. El juicio cambiario procederá si se presenta cualquiera de los títulos mencionados que cumpla con la Ley cambiaria y del cheque. (Respuesta correcta 4)
+
+---
+
+## Pregunta 32
+**¿En qué situaciones no se levantará el embargo?**
+
+**Opciones:**
+- 1)Cuando el libramiento, la aceptación, el aval o el endoso hayan sido intervenidos por un corredor de comercio colegiado o las firmas estén legitimadas en la letra por un notario.
+- 2)Cuando el obligado cambiario haya reconocido su firma judicialmente o mediante documento público.
+- 3)Cuando el deudor cambiario no haya negado de manera enfática la autenticidad de su firma en el título durante el protesto o requerimiento notarial de pago, o no haya alegado falta absoluta de representación.
+- 4)Todas son correctas.
+
+**Respuesta correcta:** 4
+
+**Explicación (correcta):**  
+¡Bien hecho! En todas las situaciones mencionadas no se levantará el embargo.
+
+**Explicación (errada):**  
+Esa respuesta no es la correcta. El embargo no se levantará en ninguno de los casos enumerados anteriormente. (Respuesta correcta 4)
+
+---
+
+## Pregunta 33
+**Conforme al artículo 816 de la LEC, si el deudor no atiende el requerimiento de pago ni comparece en el proceso monitorio, el Letrado de la Administración de Justicia dictará:**
+
+**Opciones:**
+- 1)Diligencia dando por terminado el proceso monitorio.
+- 2)Auto dando por terminado el proceso monitorio.
+- 3)Providencia dando por terminado el proceso monitorio.
+- 4)Decreto dando por terminado el proceso monitorio.
+
+**Respuesta correcta:** 4
+
+**Explicación (correcta):**  
+¡Correcto! El artículo 816.1 de la LEC establece que el LAJ dictará un decreto dando por terminado el proceso monitorio en ese supuesto.
+
+**Explicación (errada):**  
+Respuesta incorrecta. La resolución que pone fin al proceso monitorio por incomparecencia del deudor es un decreto del Letrado de la Administración de Justicia. (Respuesta Correcta 4)
+
+---
+
+## Pregunta 34
+**En un proceso monitorio si el deudor presenta un escrito de oposición dentro del plazo, ¿qué sucede?**
+
+**Opciones:**
+- 1)Se dará al asunto el curso del juicio verbal.
+- 2)El asunto se resolverá provisionalmente en el juicio que corresponda, sin tener la sentencia que se dicte fuerza de cosa juzgada
+- 3)El asunto se resolverá definitivamente en el juicio que corresponda, teniendo la sentencia que se dicte fuerza de cosa juzgada
+- 4)El asunto se resolverá provisionalmente en el juicio que corresponda, teniendo la sentencia que se dicte fuerza de cosa juzgada
+
+**Respuesta correcta:** 3
+
+**Explicación (correcta):**  
+¡Exacto! Si hay oposición, el asunto prosigue por los trámites del juicio que corresponda.
+
+**Explicación (errada):**  
+Incorrecto. Si hay oposición, el asunto prosigue por los trámites del juicio que corresponda. (Respuesta correcta 3)
+
+---
+
+## Pregunta 35
+**En el procedimiento monitorio, ¿es posible realizar el requerimiento al deudor mediante edictos?**
+
+**Opciones:**
+- 1)Sí, si la cuantía supera los 60.000€.
+- 2)Sí, en el caso de reclamación de deudas por impago de gastos comunes de Comunidades de propietarios de inmuebles urbanos.
+- 3)Sí, si el deudor se declaría en rebeldía.
+- 4)Nunca.
+
+**Respuesta correcta:** 2
+
+**Explicación (correcta):**  
+Correcto. Es posible en esos supuestos específicos.
+
+**Explicación (errada):**  
+Incorrecto. Es posible en esos supuestos específicos. (Respuesta correcta 2)
+
+---
+
+## Pregunta 36
+**En el contexto del proceso monitorio, si los documentos presentados inicialmente son de los que se mencionan en el apartado 2 del artículo 812 de la Ley de Enjuiciamiento Civil o constituyen un principio de prueba del derecho del solicitante, tal como se describe en la petición, ¿qué acción se requiere por parte del Letrado de la Administración de Justicia respecto al deudor?**
+
+**Opciones:**
+- 1)El Juez pedirá al deudor que pague al demandante en un plazo de diez días o que presente un escrito de contestación explicando por qué no se adeuda la cantidad reclamada.
+- 2)El Juez solicitará al deudor que realice el pago al demandante en un plazo de veinte días o que presente un escrito de oposición fundamentando la no deuda de la cantidad reclamada.
+- 3)El Letrado de la Administración de Justicia requerirá al deudor para que, en el plazo de veinte días, pague al peticionario, acreditándolo ante el tribunal, o comparezca ante éste y alegue de forma fundada y motivada, en escrito de oposición, las razones por las que, a su entender, no debe, en todo o en parte, la cantidad reclamada.
+- 4)El Letrado de la Administración de Justicia pedirá al deudor que en un plazo de diez días realice el pago al demandante o que comparezca ante el tribunal con un escrito de contestación detallando las razones por las que no debe la cantidad reclamada.
+
+**Respuesta correcta:** 3
+
+**Explicación (correcta):**  
+Correcto, la opción 3 es la adecuada. En el proceso monitorio, si se presentan documentos que suponen un principio de prueba, es el Letrado de la Administración de Justicia quien requiere al deudor que, en un plazo de veinte días, realice el pago al peticionario o que alegue, mediante un escrito de oposición, las razones fundamentadas por las que considera que no debe la cantidad reclamada o parte de ella.
+
+**Explicación (errada):**  
+La opción que has seleccionado no es correcta. No es el Juez quien realiza el requerimiento directo al deudor, sino el Letrado de la Administración de Justicia, y el plazo otorgado para el pago o la presentación del escrito de oposición es de veinte días, no de diez. La respuesta correcta es la 3, que establece el procedimiento y el plazo adecuado según la Ley de Enjuiciamiento Civil. (Respuesta correcta 3)
+
+---
+
+## Pregunta 37
+**Para acudir al proceso monitorio, ¿cuál es el límite de la deuda?**
+
+**Opciones:**
+- 1)20.000€.
+- 2)10.000€.
+- 3)100.000€.
+- 4)No existe cuantía máxima fijada para acudir al proceso monitorio.
+
+**Respuesta correcta:** 4
+
+**Explicación (correcta):**  
+¡Exacto! El proceso monitorio no tiene un límite de cuantía establecido.
+
+**Explicación (errada):**  
+Incorrecto. El proceso monitorio no tiene un límite de cuantía establecido. (Respuesta correcta 4)
+
+---
+
+## Pregunta 38
+**Con respecto al despacho de ejecución en los procesos monitorios, ¿cuál es la respuesta correcta?**
+
+**Opciones:**
+- 1)Desde que se dicte el auto despachando ejecución, la deuda devengará el interés que corresponda por pacto de las partes.
+- 2)Desde que se dicte el decreto despachando ejecución, la deuda devengará el interés que corresponda aumentado 2 puntos.
+- 3)Desde que se dicte el auto despachando ejecución, la deuda devengará el interés que corresponda aumentado 2 puntos.
+- 4)Desde que se dicte el decreto despachando ejecución, la deuda devengará el interés que corresponda aumentado 3 puntos.
+
+**Respuesta correcta:** 1
+
+**Explicación (correcta):**  
+¡Correcto! Si las partes acordaron un interés específico, este prevalecerá.
+
+**Explicación (errada):**  
+Incorrecto. Si las partes acordaron un interés específico, este prevalecerá. (Respuesta correcta 1)
+
+---
+
+## Pregunta 39
+**Si en un proceso monitorio, de la documentación aportada se infiere que la cantidad reclamada no es la correcta, ¿qué ocurrirá?**
+
+**Opciones:**
+- 1)El Letrado de la Administración de Justicia archivará directamente el procedimiento.
+- 2)El Letrado de la Administración de Justicia dará cuenta al Juez, quien mediante auto podrá proponer al peticionario un requerimiento por un importe inferior, disponiendo de 10 días para aceptarlo.
+- 3)El Juez inadmitirá la petición sin más trámite.
+- 4)Se requerirá al deudor por la cantidad que figure en la petición, sin perjuicio de su derecho de oposición.
+
+**Respuesta correcta:** 2
+
+**Explicación (correcta):**  
+¡Correcto! Según el artículo 815.3 de la LEC, el LAJ lo pondrá en conocimiento del Juez, quien podrá proponer una cantidad ajustada, y el peticionario dispondrá de diez días para aceptarla.
+
+**Explicación (errada):**  
+Respuesta incorrecta. El procedimiento correcto es que el LAJ informe al Juez para que este proponga una cantidad menor al peticionario, que tendrá un plazo de 10 días para aceptarla o rechazarla. (Respuesta Correcta 2)
+
+---
+
+## Pregunta 40
+**¿Cuándo puede iniciarse un proceso monitorio?**
+
+**Opciones:**
+- 1)Cuando junto al documento que constata la deuda, se presenten documentos comerciales que prueben una relación anterior duradera.
+- 2)Cuando la deuda se pruebe mediante certificados de impago de ingresos.
+- 3)Ambas son correctas.
+- 4)Ninguna es correcta.
+
+**Respuesta correcta:** 1
+
+**Explicación (correcta):**  
+Correcto. Una relación comercial duradera anterior puede ser una base válida para iniciar un proceso monitorio.
+
+**Explicación (errada):**  
+Incorrecto. Una relación comercial duradera anterior puede ser una base válida para iniciar un proceso monitorio. (Respuesta correcta 1)
+
+---
+
+## Pregunta 41
+**Si el deudor no atiende el requerimiento de pago o no aparece, ¿qué sucede?**
+
+**Opciones:**
+- 1)Se da traslado al juicio verbal.
+- 2)Se dicta Decreto de archivo y se convoca a las partes a una vista.
+- 3)El Letrado de la Administración de Justicia dictará Decreto, dando por terminado el proceso monitorio y dará traslado al acreedor para que inste el despacho de ejecución, bastando para ello con la mera solicitud, sin necesidad de que transcurra el plazo de veinte días previsto en el artículo 548 LEC.
+- 4)Se le cita de nuevo, advirtiendo de la sanción por no comparecer.
+
+**Respuesta correcta:** 3
+
+**Explicación (correcta):**  
+Correcto. Si el deudor no responde, el acreedor puede proceder directamente con la ejecución.
+
+**Explicación (errada):**  
+Incorrecto. Si el deudor no responde, el acreedor puede proceder directamente con la ejecución. (Respuesta correcta 3)
+
+---
+
+## Pregunta 42
+**En caso de oposición en el proceso monitorio que supera el límite del juicio verbal, ¿cuál es el plazo para interponer la demanda?**
+
+**Opciones:**
+- 1)20 días.
+- 2)30 días.
+- 3)Un mes.
+- 4)31 días.
+
+**Respuesta correcta:** 3
+
+**Explicación (correcta):**  
+Correcto. Se otorga un mes para interponer la demanda.
+
+**Explicación (errada):**  
+Incorrecto. Se otorga un mes para interponer la demanda. (Respuesta correcta 3)
+
+---
+
+## Pregunta 43
+**Según la Ley de Propiedad Horizontal, si hay oposición en el proceso monitorio, ¿cómo puede el deudor enervar el embargo preventivo?**
+
+**Opciones:**
+- 1)Pagando un tercio de la dueda.
+- 2)Pagando la mitad de la deuda.
+- 3)Proporcionando las garantías establecidas en la ley procesal.
+- 4)Pagando un cuarto de la deuda.
+
+**Respuesta correcta:** 3
+
+**Explicación (correcta):**  
+Correcto. La ley procesal ofrece opciones para enervar el embargo.
+
+**Explicación (errada):**  
+Incorrecto. La ley procesal ofrece opciones para enervar el embargo. (Respuesta correcta 3)
+
+---
+
+## Pregunta 44
+**Si el deudor cumple con el requerimiento de pago durante el proceso monitorio:**
+
+**Opciones:**
+- 1)Tan pronto como lo acredite, el Letrado de la Administración de Justicia acordará el archivo de las actuaciones
+- 2)Al ser probado, el Juez ordenará finalizar y archivar el proceso
+- 3)El LAJ dará paso a la tasación de costas.
+- 4)Ninguna es correcta.
+
+**Respuesta correcta:** 1
+
+**Explicación (correcta):**  
+Exactamente, si el deudor cumple con el requerimiento de pago, se finaliza el proceso.
+
+**Explicación (errada):**  
+No, en caso de que el deudor cumpla con el requerimiento, es el Letrado de la Administración de Justicia quien ordenará finalizar y archivar el proceso. (Respuesta correcta 1)
+
+---
+
+## Pregunta 45
+**En el juicio monitorio, al reclamar rentas debidas por el inquilino de una propiedad urbana, si presenta oposición, el caso se solucionará:**
+
+**Opciones:**
+- 1)Mediante los procedimientos del juicio ordinario, independientemente del monto demandado por rentas adeudadas.
+- 2)Mediante los procedimientos del juicio ordinario, si la deuda supera los 6000€.
+- 3)Mediante los procedimientos del juicio verbal, independientemente del monto demandado por rentas adeudadas.
+- 4)Mediante los procedimientos del juicio verbal, si la deuda no supera los 3000€.
+
+**Respuesta correcta:** 3
+
+**Explicación (correcta):**  
+Correcto, el juicio verbal es el procedimiento utilizado en esta situación.
+
+**Explicación (errada):**  
+La solución es el juicio verbal, independientemente de la cantidad de rentas adeudadas. (Respuesta correcta 3)
+
+---
+
+## Pregunta 46
+**El inicio del proceso monitorio se realiza mediante la solicitud del acreedor que debe indicar:**
+
+**Opciones:**
+- 1)Todas son correctas.
+- 2)La fundamentación jurídica.
+- 3)El incumplimiento del deudor.
+- 4)Las direcciones del acreedor y del deudor o los lugares donde puedan ser localizados.
+
+**Respuesta correcta:** 4
+
+**Explicación (correcta):**  
+Correcto, la identificación y ubicación de las partes involucradas es esencial.
+
+**Explicación (errada):**  
+El elemento esencial para iniciar un proceso monitorio es la identificación y localización de las partes. (Respuesta correcta 4)
+
+---
+
+## Pregunta 47
+**En el proceso monitorio para reclamaciones de cuotas de comunidades de propietarios, ¿cuál es el juzgado competente?**
+
+**Opciones:**
+- 1)Ninguna es correcta.
+- 2)El Juzgado de Primera Instancia del lugar de la Comunidad de Propietarios.
+- 3)El Juzgado de Primera Instancia del lugar de residencia del deudor o donde está la propiedad, según la elección del demandado.
+- 4)El Juzgado de Primera Instancia del lugar de residencia del deudor o donde está la propiedad, según la elección del demandante.
+
+**Respuesta correcta:** 4
+
+**Explicación (correcta):**  
+Correcto, la competencia puede basarse en la residencia del deudor o la ubicación de la propiedad, dependiendo de lo que elija el demandante.
+
+**Explicación (errada):**  
+La respuesta adecuada es que puede ser tanto el lugar de residencia del deudor como el de la propiedad, dependiendo de la elección del demandante. (Respuesta correcta 4)
+
+---
+
+## Pregunta 48
+**Respecto a la introducción de la petición inicial en el proceso monitorio:**
+
+**Opciones:**
+- 1)Dos son correctas.
+- 2)Es necesario contar siempre con un procurador.
+- 3)Es necesario contar con un abogado ni un procurador.
+- 4)No es necesario contar con un abogado ni un procurador.
+
+**Respuesta correcta:** 4
+
+**Explicación (correcta):**  
+Exacto, en el proceso monitorio no es imprescindible tener ni abogado ni procurador para presentar la petición inicial.
+
+**Explicación (errada):**  
+Incorrecto, en el proceso monitorio no es imprescindible tener ni abogado ni procurador para presentar la petición inicial. (Respuesta correcta 4)
+
+---
+
+## Pregunta 49
+**Según el artículo 21 de la Ley de Propiedad Horizontal, cuando un deudor se opone a la petición inicial del proceso monitorio y se pide un embargo preventivo de sus bienes:**
+
+**Opciones:**
+- 1)El tribunal ordenará el embargo preventivo en todos los casos, sin necesidad de que el acreedor presente caución.
+- 2)El tribunal otorgará el embargo preventivo si el acreedor proporciona una garantía, a menos que la comunidad de propietarios se oponga.
+- 3)El tribunal ordenará el embargo preventivo en todos los casos, con necesidad de que el acreedor presente una garantía.
+- 4)Todas son correctas.
+
+**Respuesta correcta:** 1
+
+**Explicación (correcta):**  
+Correcto, el tribunal ordenará el embargo preventivo sin que el acreedor necesite proporcionar una garantía.
+
+**Explicación (errada):**  
+Incorrecto, el tribunal ordenará el embargo preventivo sin que el acreedor necesite proporcionar una garantía. (Respuesta correcta 1)
+
+---
+
+## Pregunta 50
+**En el proceso monitorio, si el deudor no cumple con el requerimiento de pago o no se presenta, el Letrado de la Administración de Justicia dictará:**
+
+**Opciones:**
+- 1)Un auto finalizando el proceso monitorio y pasando el caso al acreedor para que solicite la ejecución, siendo suficiente con simplemente solicitarlo, sin necesidad de esperar el plazo de veinte días establecido en el artículo 548 de la LEC.
+- 2)Un decreto finalizando el proceso monitorio y pasando el caso al acreedor para que solicite la ejecución, siendo suficiente con simplemente solicitarlo, sin necesidad de esperar el plazo de veinte días establecido en el artículo 548 de la LEC.
+- 3)Un requerimiento finalizando el proceso monitorio y pasando el caso al acreedor para que solicite la ejecución, siendo suficiente con simplemente solicitarlo, sin necesidad de esperar el plazo de veinte días establecido en el artículo 548 de la LEC.
+- 4)Un decreto finalizando el proceso monitorio y pasando el caso al LAJ para que solicite la ejecución, siendo suficiente con simplemente solicitarlo, sin necesidad de esperar el plazo de veinte días establecido en el artículo 548 de la LEC.
+
+**Respuesta correcta:** 2
+
+**Explicación (correcta):**  
+Efectivamente, el Letrado concluirá el proceso monitorio y pasará el caso al acreedor para que proceda a la ejecución.
+
+**Explicación (errada):**  
+Incorrecto, el Letrado concluirá el proceso monitorio y pasará el caso al acreedor para que proceda a la ejecución. (Respuesta correcta 2)
+
+---
+
+## Pregunta 51
+**En el contexto del proceso monitorio, si los documentos presentados inicialmente son de los que se mencionan en el apartado 2 del artículo 812 de la Ley de Enjuiciamiento Civil o constituyen un principio de prueba del derecho del solicitante, tal como se describe en la petición, ¿qué acción se requiere por parte del Letrado de la Administración de Justicia respecto al deudor?**
+
+**Opciones:**
+- 1)El Juez pedirá al deudor que pague al demandante en un plazo de diez días o que presente un escrito de contestación explicando por qué no se adeuda la cantidad reclamada.
+- 2)El Juez solicitará al deudor que realice el pago al demandante en un plazo de veinte días o que presente un escrito de oposición fundamentando la no deuda de la cantidad reclamada.
+- 3)El Letrado de la Administración de Justicia requerirá al deudor que en el plazo de veinte días efectúe el pago al demandante o que presente un escrito de oposición fundamentado sobre las razones por las cuales no debe la cantidad.
+- 4)El Letrado de la Administración de Justicia pedirá al deudor que en un plazo de diez días realice el pago al demandante o que comparezca ante el tribunal con un escrito de contestación detallando las razones por las que no debe la cantidad reclamada.
+
+**Respuesta correcta:** 3
+
+**Explicación (correcta):**  
+Correcto, la opción 3 es la adecuada. En el proceso monitorio, si se presentan documentos que suponen un principio de prueba, es el Letrado de la Administración de Justicia quien requiere al deudor que, en un plazo de veinte días, realice el pago al peticionario o que alegue, mediante un escrito de oposición, las razones fundamentadas por las que considera que no debe la cantidad reclamada o parte de ella.
+
+**Explicación (errada):**  
+La opción que has seleccionado no es correcta. No es el Juez quien realiza el requerimiento directo al deudor, sino el Letrado de la Administración de Justicia, y el plazo otorgado para el pago o la presentación del escrito de oposición es de veinte días, no de diez. La respuesta correcta es la 3, que establece el procedimiento y el plazo adecuado según la Ley de Enjuiciamiento Civil. (Respuesta correcta 3)
+
+---
+
+## Pregunta 52
+**Al introducir la petición inicial en el procedimiento monitorio:**
+
+**Opciones:**
+- 1)Ninguna es correcta.
+- 2)No es necesario contar con un procurador ni con un abogado.
+- 3)Se necesitará un procurador, pero no un abogado.
+- 4)Se necesitará un abogado, pero no un procurador.
+
+**Respuesta correcta:** 2
+
+**Explicación (correcta):**  
+Efectivamente, no se requiere ni procurador ni abogado para iniciar este procedimiento.
+
+**Explicación (errada):**  
+Incorrecto, no se requiere ni procurador ni abogado para iniciar este procedimiento. (Respuesta correcta 2)
+
+---
+
+## Pregunta 53
+**Indique cuál de las siguientes opciones no es un requisito para acudir al proceso monitorio en busca del pago de una deuda monetaria:**
+
+**Opciones:**
+- 1)Que la deuda este vencida.
+- 2)Que la deuda sea determinada.
+- 3)Que la deuda sea liquida.
+- 4)Que la deuda sea indeterminada.
+
+**Respuesta correcta:** 4
+
+**Explicación (correcta):**  
+Exactamente, las deudas indeterminadas no son adecuadas para el proceso monitorio.
+
+**Explicación (errada):**  
+Incorrecto, las deudas indeterminadas no son adecuadas para el proceso monitorio. (Respuesta correcta 4)
+
+---
+
+## Pregunta 54
+**De acuerdo con la Ley de Enjuiciamiento Civil, si después de iniciar un procedimiento monitorio se encuentra que el demandado reside en otro partido judicial, ¿cuál sería el procedimiento correcto?**
+
+**Opciones:**
+- 1)Se emitirá una diligencia finalizando el proceso, dejando al acreedor la opción de iniciar el proceso nuevamente ante el juez competente.
+- 2)Se emitirá una providencia finalizando el proceso, dejando al acreedor la opción de iniciar el proceso nuevamente ante el juez competente.
+- 3)Se emitirá un decreto finalizando el proceso, dejando al acreedor la opción de iniciar el proceso nuevamente ante el juez competente.
+- 4)Se emitirá un auto finalizando el proceso, dejando al acreedor la opción de iniciar el proceso nuevamente ante el juez competente.
+
+**Respuesta correcta:** 4
+
+**Explicación (correcta):**  
+Si el demandado reside en otro partido judicial, se finaliza el proceso y se da la opción al acreedor de iniciar de nuevo ante el juez adecuado.
+
+**Explicación (errada):**  
+Si el demandado reside en otro partido judicial, se finaliza el proceso y se da la opción al acreedor de iniciar de nuevo ante el juez adecuado. (Respuesta correcta 4)
+
+---
+
+## Pregunta 55
+**Con base en el artículo 818 de la Ley de Enjuiciamiento Civil, si en un proceso monitorio se exige una cantidad de 4.000 Euros y el deudor se opone al requerimiento de pago, ¿cuál es el procedimiento correcto?**
+
+**Opciones:**
+- 1)Debe oponerse en un plazo de diez días, presentando un escrito firmado por un Abogado y un Procurador.
+- 2)Debe oponerse en un plazo de veinte días, presentando un escrito firmado por un Abogado.
+- 3)Debe oponerse en un plazo de veinte días, presentando un escrito firmado por un Abogado y un Procurador.
+- 4)Debe oponerse en un plazo de diez días, presentando un escrito firmado por un Procurador.
+
+**Respuesta correcta:** 2
+
+**Explicación (correcta):**  
+¡Correcto! Si se reclama una cantidad de 4.000 Euros, el deudor tiene un plazo de veinte días para oponerse y debe presentar un escrito firmado por un Abogado y un Procurador.
+
+**Explicación (errada):**  
+El plazo no es el adecuado y se requiere la intervención de un Abogado y un Procurador para esta cantidad. (Respuesta correcta 2)
+
+---
+
+## Pregunta 56
+**De acuerdo con la Ley de Enjuiciamiento Civil y la nueva organización judicial, ¿qué órgano es competente para tramitar un proceso monitorio?**
+
+**Opciones:**
+- 1)La Sección de Instrucción del Tribunal de Instancia del lugar donde resida el deudor.
+- 2)La Sección Civil del Tribunal de Instancia del lugar donde resida el acreedor.
+- 3)El Juez de Paz del lugar donde se emitió la deuda.
+- 4)La Sección Civil del Tribunal de Instancia del domicilio o residencia del deudor.
+
+**Respuesta correcta:** 4
+
+**Explicación (correcta):**  
+Efectivamente, el órgano competente para el proceso monitorio es la Sección Civil del Tribunal de Instancia del domicilio o residencia del deudor.
+
+**Explicación (errada):**  
+Incorrecto, el órgano competente para el proceso monitorio es la Sección Civil del Tribunal de Instancia del domicilio o residencia del deudor. (Respuesta Correcta 4)
+
+---
+
+## Pregunta 57
+**Si el deudor se opone en un proceso monitorio y la cantidad solicitada no supera la del juicio verbal, ¿cuál es el plazo para que el actor impugne dicha oposición?**
+
+**Opciones:**
+- 1)Tres días.
+- 2)Cinco días.
+- 3)Diez días.
+- 4)Quince días.
+
+**Respuesta correcta:** 3
+
+**Explicación (correcta):**  
+Correcto, el actor tiene diez días para impugnar la oposición del deudor.
+
+**Explicación (errada):**  
+Incorrecto, el actor tiene diez días para impugnar la oposición del deudor. (Respuesta correcta 3)
+
+---
+
+## Pregunta 58
+**En el ámbito de la competencia del proceso monitorio, ¿son aplicables las reglas de sumisión tácita del Título II de la Ley de Enjuiciamiento Civil?**
+
+**Opciones:**
+- 1)Ninguna es correcta.
+- 2)No se aplican las normas de sumisión expresa.
+- 3)Solo se aplican las normas de sumisión expresa.
+- 4)No se aplican ni las normas de sumisión tácita ni las de sumisión expresa del Título II.
+
+**Respuesta correcta:** 4
+
+**Explicación (correcta):**  
+Efectivamente, en el proceso monitorio no se aplican estas normas de sumisión.
+
+**Explicación (errada):**  
+Incorrecto, en el proceso monitorio no se aplican estas normas de sumisión. (Respuesta correcta 4)
+
+---
+
+## Pregunta 59
+**Si un deudor desea oponerse a un requerimiento en un juicio monitorio, de acuerdo con el artículo 815 de la LEC, ¿qué debe hacer?**
+
+**Opciones:**
+- 1)Exponer de manera fundamentada las razones por las que no debe, ya sea en totalidad o en parte, el monto solicitado.
+- 2)Proporcionar una respuesta breve mencionando detalles identificativos del actor y del demandado.
+- 3)Proporcionar una respuesta breve mencionando detalles identificativos del actor y de la cuantía.
+- 4)Pagar la deuda.
+
+**Respuesta correcta:** 1
+
+**Explicación (correcta):**  
+Es correcto, el deudor debe presentar razones bien fundamentadas por las que considera que no debe la cantidad reclamada.
+
+**Explicación (errada):**  
+Es incorrecto, el deudor debe presentar razones bien fundamentadas por las que considera que no debe la cantidad reclamada. (Respuesta correcta 1)
+
+---
+
+## Pregunta 60
+**Si, conforme al artículo 815.3 de la LEC en el proceso monitorio, se observa que la cantidad solicitada no es la adecuada, ¿qué acción procede?**
+
+**Opciones:**
+- 1)El Letrado de la Administración de Justicia notifica al deudor, dándole un plazo de 3 días.
+- 2)El Letrado de la Administración de Justicia informa al Juez, quien puede sugerir al demandante una cantidad diferente para el requerimiento de pago.
+- 3)El Tramitador Procesal informa al LAJ , quien puede sugerir al demandante una cantidad diferente para el requerimiento de pago.
+- 4)El Gestor Procesal informa al LAJ , quien puede sugerir al demandante una cantidad diferente para el requerimiento de pago.
+
+**Respuesta correcta:** 2
+
+**Explicación (correcta):**  
+Correcto, es el Juez quien, tras ser informado por el Letrado, puede hacer una propuesta de requerimiento de pago por una cantidad diferente.
+
+**Explicación (errada):**  
+Incorrecto, es el Juez quien, tras ser informado por el Letrado, puede hacer una propuesta de requerimiento de pago por una cantidad diferente. (Respuesta correcta 2)
+
+---
+
+## Pregunta 61
+**En el escrito que inicia el procedimiento monitorio, ¿cuál de los siguientes elementos no es obligatorio incluir?**
+
+**Opciones:**
+- 1)Justificación concisa de la solicitud.
+- 2)Los domicilios actuales.
+- 3)Justificación detallada de la solicitud.
+- 4)La cuantía reclamada.
+
+**Respuesta correcta:** 3
+
+**Explicación (correcta):**  
+No es necesario detallar exhaustivamente el fundamento de la reclamación.
+
+**Explicación (errada):**  
+No es necesario detallar exhaustivamente el fundamento de la reclamación. (Respuesta correcta 3)
+
+---
+
+## Pregunta 62
+**¿Qué da inicio al procedimiento monitorio?**
+
+**Opciones:**
+- 1)Solicitud realizada por el acreedor.
+- 2)Solicitud realizada por el LAJ.
+- 3)Iniciativa propia o solicitud del acreedor.
+- 4)Todas son correctas.
+
+**Respuesta correcta:** 1
+
+**Explicación (correcta):**  
+El procedimiento se inicia con la solicitud del acreedor.
+
+**Explicación (errada):**  
+El procedimiento se inicia con la solicitud del acreedor. (Respuesta correcta 1)
+
+---
+
+## Pregunta 63
+**En el procedimiento monitorio, si de los documentos presentados con la solicitud se deduce que la cantidad reclamada no es la correcta y el tribunal propone un requerimiento de pago por un importe menor, ¿cuál es el plazo del que dispone el peticionario para aceptar o rechazar esta propuesta?**
+
+**Opciones:**
+- 1)Hasta 5 días.
+- 2)Hasta 10 días.
+- 3)Hasta 3 días.
+- 4)Hasta 7 días.
+
+**Respuesta correcta:** 2
+
+**Explicación (correcta):**  
+El peticionario tiene hasta 10 días para tomar una decisión.
+
+**Explicación (errada):**  
+El peticionario tiene hasta 10 días para tomar una decisión. (Respuesta correcta 2)
+
+---
+
+## Pregunta 64
+**Para un proceso monitorio relacionado con deudas de gastos comunes de Comunidades de propietarios de inmuebles urbanos, ¿cuál es el Juez competente?**
+
+**Opciones:**
+- 1)El Juez de Primera Instancia del domicilio o residencia del deudor o, si no fueren conocidos, el del lugar en que el deudor pudiera ser hallado a efectos del requerimiento de pago por el Tribunal, o el Juzgado del lugar en donde se halle la finca, a elección del solicitante.
+- 2)El Juez del lugar donde esté la propiedad.
+- 3)El Juez de Primera Instancia según el domicilio del acreedor o, en su defecto, el Juez del lugar donde esté la propiedad, a elección del demandante.
+- 4)El Juez del lugar de origen de la deuda.
+
+**Respuesta correcta:** 1
+
+**Explicación (correcta):**  
+Esta es la jurisdicción correcta en casos de deudas de comunidades de propietarios.
+
+**Explicación (errada):**  
+Esta es la jurisdicción correcta en casos de deudas de comunidades de propietarios. (Respuesta correcta 1)
+
+---
+
+## Pregunta 65
+**En el proceso monitorio, si el deudor ignora el requerimiento de pago o no comparece, ¿qué acción sigue?**
+
+**Opciones:**
+- 1)El Letrado de la Administración de Justicia dictará decreto dando por terminado el proceso monitorio y dará traslado al acreedor para que inste el despacho de ejecución, bastando para ello con la mera solicitud.
+- 2)El Tramitador Procesal concluye el proceso y permite al acreedor solicitar ejecución.
+- 3)El Gestor Procesal concluye el proceso y permite al acreedor solicitar ejecución.
+- 4)El Juez concluye el proceso y permite al acreedor solicitar ejecución.
+
+**Respuesta correcta:** 1
+
+**Explicación (correcta):**  
+Así es, el Letrado puede concluir el proceso y el acreedor puede solicitar la ejecución con una simple solicitud.
+
+**Explicación (errada):**  
+Incorrecto, el Letrado puede concluir el proceso y el acreedor puede solicitar la ejecución con una simple solicitud. (Respuesta correcta 1)
+
+---
+
+## Pregunta 66
+**Si el deudor se opone al proceso monitorio alegando una pluspetición, ¿qué procede?**
+
+**Opciones:**
+- 1)Se da paso para una vista bajo el cauce del juicio verbal.
+- 2)Se procederá con la cantidad que se reconozca como debida.
+- 3)Se suspende el procedimiento.
+- 4)Se da paso para una vista bajo el cauce del juicio ordinario.
+
+**Respuesta correcta:** 2
+
+**Explicación (correcta):**  
+Efectivamente, se actúa conforme a lo reconocido como deuda.
+
+**Explicación (errada):**  
+Incorrecto, se actúa conforme a lo reconocido como deuda. (Respuesta correcta 2)
+
+---
+
+## Pregunta 67
+**En el proceso monitorio según el artículo 815.1 de la LEC, ¿cómo se lleva a cabo el requerimiento de pago al deudor por parte del Letrado de la Administración de Justicia?**
+
+**Opciones:**
+- 1)Mediante notifiaciones electrónicas siempre.
+- 2)Mediante entrega al destinatario de la comunicación de la copia de la resolución que se efectuará en la sede del tribunal o en el domicilio de la persona que deba ser notificada, requerida, citada o emplazada.
+- 3)Mediante valija judicial.
+- 4)Al entregar directamente al receptor un burofax, ya sea en las instalaciones judiciales o en el domicilio de la persona notificada.
+
+**Respuesta correcta:** 2
+
+**Explicación (correcta):**  
+Correcto, se realiza una entrega directa de la copia de la resolución al deudor.
+
+**Explicación (errada):**  
+Incorrecto, se realiza una entrega directa de la copia de la resolución al deudor. (Respuesta correcta 2)
+
+---
+
+## Pregunta 68
+**En el contexto del proceso monitorio, ¿quién se encarga de investigar el domicilio o residencia del deudor?**
+
+**Opciones:**
+- 1)Ell funcionario de correos.
+- 2)El Auxilio Judicial.
+- 3)El Letrado de la Administración de Justicia.
+- 4)La Policia Judicial.
+
+**Respuesta correcta:** 3
+
+**Explicación (correcta):**  
+Es el Letrado de la Administración de Justicia quien realiza estas investigaciones.
+
+**Explicación (errada):**  
+Es el Letrado de la Administración de Justicia quien realiza estas investigaciones. (Respuesta correcta 3)
+
+---
+
+## Pregunta 69
+**En cuanto al juicio monitorio, ¿cuál de las siguientes afirmaciones es correcta?**
+
+**Opciones:**
+- 1)Para iniciar el proceso monitorio se requiere demanda ordinaria.
+- 2)Para iniciar el proceso monitorio no es necesario contar con procurador ni abogado.
+- 3)La autenticidad de la deuda se verifica mediante testigos.
+- 4)Para iniciar el proceso monitorio no es necesario contar con procurador ni abogado, incluso si la deuda supera los 5000€.
+
+**Respuesta correcta:** 2
+
+**Explicación (correcta):**  
+Exacto, no es obligatorio tener procurador y abogado para este proceso.
+
+**Explicación (errada):**  
+Incorrecto, no es obligatorio tener procurador y abogado para este proceso. (Respuesta correcta 2)
+
+---
+
+## Pregunta 70
+**Si en el procedimiento monitorio civil se determina que una cláusula contractual es abusiva, ¿qué recurso se puede presentar contra esta decisión?**
+
+**Opciones:**
+- 1)Recurso directo de apelación.
+- 2)Recurso de reposición.
+- 3)Recurso de queja.
+- 4)Recurso de reforma.
+
+**Respuesta correcta:** 1
+
+**Explicación (correcta):**  
+Sí, se puede presentar un recurso directo de apelación.
+
+**Explicación (errada):**  
+No, se puede presentar un recurso directo de apelación. (Respuesta correcta 1)
+
+---
+
+## Pregunta 71
+**¿Quién tiene derecho a utilizar el proceso monitorio para reclamar el pago de una deuda y a través de qué medios se puede acreditar dicha deuda?**
+
+**Opciones:**
+- 1)Aquel que exija el pago de una deuda en dinero, que sea líquida, vencida y exigible, acreditada mediante documentos como facturas, albaranes de entrega, certificaciones, telegramas o telefax, u otros documentos que, aun siendo emitidos unilateralmente por el acreedor, sean habituales para documentar créditos y deudas en el tipo de relación existente entre acreedor y deudor.
+- 2)Mediante certificados de impago de cantidades debidas por gastos comunes en Comunidades de Propietarios de inmuebles urbanos.
+- 3)A través de documentos en cualquier formato o tipo o soporte físico, que estén firmados por el deudor o lleven su sello, impronta o marca, o cualquier otro signo, físico o electrónico, de su reconocimiento.
+- 4)Todas son correctas.
+
+**Respuesta correcta:** 4
+
+**Explicación (correcta):**  
+Todos los medios mencionados son formas válidas para acreditar una deuda en el proceso monitorio.
+
+**Explicación (errada):**  
+Todos los medios mencionados son formas válidas para acreditar una deuda en el proceso monitorio. (Respuesta correcta 4)
+
+---
+
+## Pregunta 72
+**En el proceso monitorio, el escrito de oposición del deudor:**
+
+**Opciones:**
+- 1)Debe ser firmado únicamente por un procurador cuando sea necesario por la cuantía, conforme a las reglas generales.
+- 2)Necesita la firma de un abogado y un procurador cuando su intervención sea necesaria debido al monto involucrado, siguiendo las reglas generales.
+- 3)Debe ser firmado únicamente por un abogado cuando sea necesario por la cuantía, conforme a las reglas generales.
+- 4)Ninguna es correcta.
+
+**Respuesta correcta:** 2
+
+**Explicación (correcta):**  
+La intervención de abogado y procurador puede ser requerida dependiendo del monto de la deuda.
+
+**Explicación (errada):**  
+La intervención de abogado y procurador puede ser requerida dependiendo del monto de la deuda. (Respuesta correcta 2)
+
+---
+
+## Pregunta 73
+**Si en el proceso monitorio, el deudor no responde al requerimiento de pago o no se presenta, según la LEC:**
+
+**Opciones:**
+- 1)El Letrado de la Administración de Justicia emitirá un decreto finalizando el proceso monitorio.
+- 2)El Letrado de la Administración de Justicia emitirá una diligencia finalizando el proceso monitorio.
+- 3)El Juez emitirá un auto finalizando el proceso monitorio.
+- 4)El Juez emitirá una providencia finalizando el proceso monitorio.
+
+**Respuesta correcta:** 1
+
+**Explicación (correcta):**  
+El Letrado de la Administración de Justicia tiene la potestad de terminar el proceso monitorio en estas circunstancias.
+
+**Explicación (errada):**  
+El Letrado de la Administración de Justicia tiene la potestad de terminar el proceso monitorio en estas circunstancias. (Respuesta correcta 1)
+
+---
+
+## Pregunta 74
+**En el proceso monitorio europeo, si el órgano jurisdiccional requiere al demandante que complete o rectifique la petición de requerimiento de pago:**
+
+**Opciones:**
+- 1)Especificará un plazo de tiempo adecuado a las circunstancias que no podrá exceder de diez días, y que podrá ser prorrogado por el órgano jurisdiccional por otros quince días más.
+- 2)Especificará un plazo de tiempo adecuado a las circunstancias que podrá ser prorrogado por el órgano jurisdiccional de manera discrecional.
+- 3)Especificará un plazo de tiempo adecuado a las circunstancias que no podrá exceder de quince días, y que podrá ser prorrogado por el órgano jurisdiccional por otros diez días más.
+- 4)Especificará un plazo de tiempo adecuado a las circunstancias que no podrá exceder de cinco días, y que podrá ser prorrogado por el órgano jurisdiccional por otros veinte días más.
+
+**Respuesta correcta:** 2
+
+**Explicación (correcta):**  
+Esta opción refleja correctamente la flexibilidad que se otorga al órgano jurisdiccional para prorrogar el plazo.
+
+**Explicación (errada):**  
+Esta opción no refleja correctamente la flexibilidad que se otorga al órgano jurisdiccional para prorrogar el plazo. (Respuesta correcta 2)
+
+---
+
+## Pregunta 75
+**La petición de requerimiento europeo de pago en el proceso monitorio europeo:**
+
+**Opciones:**
+- 1)Se presentará en papel.
+- 2)Se podrá presentar en cualquier otro medio de comunicación.
+- 3)Se podrá presentar en formato electrónico.
+- 4)Todas las respuestas son correctas.
+
+**Respuesta correcta:** 4
+
+**Explicación (correcta):**  
+Todas las opciones anteriores son formas válidas de presentación de la petición, conforme al reglamento.
+
+**Explicación (errada):**  
+Todas las opciones anteriores son formas válidas de presentación de la petición, conforme al reglamento. (Respuesta correcta 4)
+
+---
+
+## Pregunta 76
+**El Reglamento (CE) 1896/2006 no se aplicará:**
+
+**Opciones:**
+- 1)En materia fiscal.
+- 2)En materia penal.
+- 3)En materia social.
+- 4)Ninguna es correcta.
+
+**Respuesta correcta:** 4
+
+**Explicación (correcta):**  
+El Reglamento no se aplica en las áreas fiscales, aduaneras o administrativas.
+
+**Explicación (errada):**  
+El Reglamento no se aplica en las áreas fiscales, aduaneras o administrativas. (Respuesta correcta 4)
+
+---
+
+## Pregunta 77
+**En relación con la oposición al requerimiento de pago europeo, señale la respuesta incorrecta:**
+
+**Opciones:**
+- 1)El demandado deberá indicar en su escrito de oposición que impugna la deuda, y deberá motivar su impugnación.
+- 2)El escrito de oposición deberá llevar la firma del demandado o, si procede, de su representante.
+- 3)El escrito de oposición se presentará en papel o por cualquier otro medio de comunicación, incluido el soporte electrónico, aceptado por el Estado miembro de origen y disponible en el órgano jurisdiccional de origen.
+- 4)El escrito de oposición se enviará en un plazo de 10 días desde la notificación al demandado del requerimiento.
+
+**Respuesta correcta:** 1
+
+**Explicación (correcta):**  
+Esta opción es incorrecta porque el demandado no tiene que motivar su impugnación en el proceso monitorio europeo. Simplemente tiene que indicar que impugna la deuda.
+
+**Explicación (errada):**  
+La opción 1 es incorrecta porque el demandado no tiene que motivar su impugnación en el proceso monitorio europeo. Simplemente tiene que indicar que impugna la deuda. (Respuesta Correcta 1)
+
+---
+
+## Pregunta 78
+**En el proceso monitorio europeo, ¿qué circunstancia no es necesario que concurra para una revisión en casos excepcionales?**
+
+**Opciones:**
+- 1)Que la notificación no se hubiere efectuado con la suficiente antelación para permitirle organizar su defensa, sin que pueda imputársele responsabilidad por ello.
+- 2)Que el requerimiento de pago se hubiere notificado mediante un depósito del requerimiento en el buzón del demandado.
+- 3)Que la solicitud para la revisión se incluya en el escrito de oposición al requerimiento europeo de pago.
+- 4)Que el demandado no hubiere podido impugnar el crédito por razones de fuerza mayor o debido a circunstancias extraordinarias ajenas a su responsabilidad, siempre que en ambos casos actuare con prontitud.
+
+**Respuesta correcta:** 3
+
+**Explicación (correcta):**  
+Esta circunstancia no es necesaria para solicitar una revisión en casos excepcionales. La solicitud de revisión y la oposición al requerimiento son procedimientos distintos.
+
+**Explicación (errada):**  
+La circunstancia de la opción 3 no es necesaria para solicitar una revisión en casos excepcionales. La solicitud de revisión y la oposición al requerimiento son procedimientos distintos. (Respuesta Correcta 3)
+
+---
+
+## Pregunta 79
+**Según el art. 4 del Reglamento 1896/2006, se establece el proceso monitorio europeo para el cobro de créditos:**
+
+**Opciones:**
+- 1)Pecuniarios, de importe determinado, vencidos y exigibles.
+- 2)Pecuniarios, de importe determinado, iliquídos y exigibles.
+- 3)Pecuniarios, de importe determinable, vencidos y exigibles.
+- 4)Pecuniarios, de importe determinado y que no se hayan vencido.
+
+**Respuesta correcta:** 1
+
+**Explicación (correcta):**  
+Este es el criterio establecido en el art. 4 del Reglamento 1896/2006 para la aplicación del proceso monitorio europeo.
+
+**Explicación (errada):**  
+Este no es el criterio establecido en el art. 4 del Reglamento 1896/2006 para la aplicación del proceso monitorio europeo. (Respuesta correcta 1)
+
+---
+
+## Pregunta 80
+**En el contexto del proceso monitorio europeo, en caso de rechazo de la solicitud de requerimiento de pago europeo, ¿qué recurso puede presentar el solicitante?**
+
+**Opciones:**
+- 1)Se admite recurso de apelación.
+- 2)No se admite recurso alguno.
+- 3)Se admite recurso de reposición.
+- 4)Se admite recurso de queja.
+
+**Respuesta correcta:** 2
+
+**Explicación (correcta):**  
+En el proceso monitorio europeo, no se permite ningún recurso contra el rechazo de la solicitud de requerimiento de pago europeo.
+
+**Explicación (errada):**  
+El proceso monitorio europeo específicamente no permite recursos contra el rechazo de la solicitud de requerimiento de pago europeo. (Respuesta correcta 2)
+
+---
+
+## Pregunta 81
+**En el marco del procedimiento monitorio europeo, ¿cómo se reconoce y ejecuta un requerimiento europeo de pago que tiene fuerza ejecutiva en su Estado miembro original en otros Estados miembros?**
+
+**Opciones:**
+- 1)Se reconoce y ejecuta automáticamente, con la posibilidad de impugnarlo y sin necesidad de una declaración adicional de ejecutabilidad.
+- 2)Se reconoce y ejecuta automáticamente, sin la posibilidad de impugnarlo, pero con la necesidad de una declaración adicional de ejecutabilidad.
+- 3)Sí, sin posibilidad alguna de impugnar su reconocimiento y sin que se requiera ninguna declaración de ejecutividad.
+- 4)Se reconoce y se ejecuta habiendo procedido previamente al exequatur.
+
+**Respuesta correcta:** 3
+
+**Explicación (correcta):**  
+En el procedimiento monitorio europeo, un requerimiento europeo de pago con fuerza ejecutiva se reconoce y ejecuta automáticamente en otros Estados miembros sin obstáculos.
+
+**Explicación (errada):**  
+El procedimiento monitorio europeo permite que un requerimiento europeo de pago con fuerza ejecutiva se reconozca y ejecute de manera directa en otros Estados miembros. (Respuesta correcta 3)
+
+---
+
+## Pregunta 82
+**¿Para qué propósito fue creado el proceso monitorio europeo en relación con los créditos?**
+
+**Opciones:**
+- 1)Está destinado a recuperar créditos pecuniarios, con un monto determinable, vencido y exigible.
+- 2)Se establece para el cobro de créditos pecuniarios, de importe determinado, vencidos y exigibles en la fecha en que se presenta la petición de requerimiento europeo de pago.
+- 3)Está destinado a recuperar créditos pecuniarios, con un monto específico, vencidos y exigibles al momento de presentar una demanda de requerimiento europeo de pago.
+- 4)Está destinado a recuperar créditos pecuniarios, con un monto líquido, vencido y exigible.
+
+**Respuesta correcta:** 2
+
+**Explicación (correcta):**  
+El proceso monitorio europeo tiene como objetivo la recuperación de créditos pecuniarios específicos que están vencidos y son exigibles al momento de presentar la solicitud.
+
+**Explicación (errada):**  
+La naturaleza específica de los créditos abordados por el proceso monitorio europeo implica que son pecuniarios, de un monto definido, vencidos y exigibles en el momento de la solicitud. (Respuesta correcta 2)
+
+---
+
+## Pregunta 83
+**En el marco del proceso monitorio europeo, ¿cuál es el tiempo otorgado al demandado para presentar oposición al requerimiento de pago?**
+
+**Opciones:**
+- 1)Se le otorga un período de 10 días.
+- 2)Se le otorga un período de 20 días.
+- 3)Se le otorga un período de 30 días.
+- 4)Se le otorga un período de 15 días.
+
+**Respuesta correcta:** 3
+
+**Explicación (correcta):**  
+En el proceso monitorio europeo, al demandado se le da un plazo de 30 días para oponerse al requerimiento de pago.
+
+**Explicación (errada):**  
+Es importante recordar que en el proceso monitorio europeo, el demandado tiene exactamente 30 días para presentar su oposición. (Respuesta correcta 3)
+
+---
+
+## Pregunta 84
+**En relación con el REGLAMENTO (CE) No 1896/2006, ¿cuál de las siguientes opciones no está cubierta por el proceso monitorio europeo?**
+
+**Opciones:**
+- 1)Deudas líquidas resultantes de obligaciones extracontractuales provenientes de una comunidad de propietarios.
+- 2)Deudas derivadas de obligaciones extracontractuales que han sido acordadas entre las partes.
+- 3)Deudas resultantes de obligaciones extracontractuales donde ha habido un reconocimiento de deuda.
+- 4)Procedimientos relacionados con la liquidación de empresas.
+
+**Respuesta correcta:** 4
+
+**Explicación (correcta):**  
+El REGLAMENTO (CE) No 1896/2006 excluye específicamente los procedimientos relacionados con la liquidación de empresas.
+
+**Explicación (errada):**  
+El proceso monitorio europeo no se aplica a los procedimientos de liquidación de empresas según el REGLAMENTO (CE) No 1896/2006. (Respuesta correcta 4)
+
+---
+
+## Pregunta 85
+**Según el proceso monitorio europeo, ¿qué se comunica al demandado en el requerimiento europeo de pago?**
+
+**Opciones:**
+- 1)Que si se presenta oposición, el proceso se supenderá en el Estado miembro de origen incluso si el demandante pide expresamente terminar el proceso.
+- 2)Que si se presenta oposición, el proceso continuará en el Estado miembro de origen incluso si el demandante pide expresamente terminar el proceso.
+- 3)Que si se presenta oposición, el proceso se suspenderá en el Estado miembro de origen a menos que el demandante pida expresamente terminar el proceso.
+- 4)Que si se presenta oposición, el proceso continuará en el Estado miembro de origen a menos que el demandante pida expresamente terminar el proceso.
+
+**Respuesta correcta:** 4
+
+**Explicación (correcta):**  
+En el proceso monitorio europeo, se informa al demandado que si presenta oposición, el proceso continuará en el Estado miembro de origen salvo solicitud contraria del demandante.
+
+**Explicación (errada):**  
+Una de las piezas clave de información que se comunica al demandado es que el proceso continuará en el Estado miembro de origen si hay oposición, a menos que el demandante lo solicite de otro modo. (Respuesta correcta 4)
+
+---
+
+## Pregunta 86
+**Conforme al artículo 16 del Reglamento (CE) nº 1896/2006, ¿tiene el demandado la obligación de justificar su escrito de oposición?**
+
+**Opciones:**
+- 1)No, pero deberá indicar en su escrito de oposición que impugna la deuda.
+- 2)Sí, a menos que el órgano jurisdiccional que recibe la petición de requerimiento determine lo contrario.
+- 3)Siempre.
+- 4)Sí, salvo para la excepción de pluspetición.
+
+**Respuesta correcta:** 1
+
+**Explicación (correcta):**  
+El demandado no está obligado a justificar su oposición, pero sí debe indicar que disputa la deuda.
+
+**Explicación (errada):**  
+Según el Reglamento, el demandado solo necesita indicar que disputa la deuda sin la necesidad de justificar su oposición. (Respuesta correcta 1)
+
+---
+
+## Pregunta 87
+**¿Cuál de los siguientes datos no es necesario incluir en la petición de requerimiento de pago según el proceso monitorio europeo?**
+
+**Opciones:**
+- 1)Las pruebas.
+- 2)El método utilizado para la notificación.
+- 3)La legislación aplicable.
+- 4)El carácter internacional.
+
+**Respuesta correcta:** 2
+
+**Explicación (correcta):**  
+No es necesario especificar el método de notificación en la petición de requerimiento de pago dentro del proceso monitorio europeo.
+
+**Explicación (errada):**  
+En el proceso monitorio europeo, no se requiere que se indique el método de notificación en la petición de requerimiento de pago. (Respuesta correcta 2)
+
+---
+
+## Pregunta 88
+**En relación con el proceso monitorio europeo, ¿cómo se define el concepto de "Estado miembro de origen"?**
+
+**Opciones:**
+- 1)Es el Estado miembro donde se emite la ejecución europea de pago.
+- 2)Es el Estado miembro donde se expide un requerimiento europeo de pago.
+- 3)Es el Estado miembro donde se recibe un requerimiento europeo de pago.
+- 4)Ninguna es correcta.
+
+**Respuesta correcta:** 2
+
+**Explicación (correcta):**  
+Correcto, has identificado correctamente el término "Estado miembro de origen". En el contexto del proceso monitorio europeo, se refiere al Estado miembro en el cual se expide un requerimiento europeo de pago.
+
+**Explicación (errada):**  
+La opción seleccionada no proporciona la definición adecuada del "Estado miembro de origen". No se refiere al lugar donde se ejecuta el requerimiento, sino al lugar donde se emite. El término "Estado miembro de origen" está directamente relacionado con el lugar de emisión del requerimiento europeo de pago. La respuesta correcta es la 2. (Respuesta correcta 2)
+
+---
+
+## Pregunta 89
+**¿Cuál de estas declaraciones sobre el procedimiento monitorio europeo no es verdadera?**
+
+**Opciones:**
+- 1)No es posible apelar la negativa de la petición por parte del tribunal.
+- 2)Es aplicable a los regímenes económicos matrimoniales, testamentos y sucesiones.
+- 3)El demandado tiene un plazo de treinta días desde la notificación para presentar oposición al requerimiento europeo de pago.
+- 4)No hay límite en la cantidad reclamada.
+
+**Respuesta correcta:** 2
+
+**Explicación (correcta):**  
+Correcto, el procedimiento monitorio europeo no se aplica a los regímenes económicos matrimoniales, testamentos y sucesiones.
+
+**Explicación (errada):**  
+El procedimiento monitorio europeo no es aplicable a los regímenes económicos matrimoniales, testamentos y sucesiones. (Respuesta correcta 2)
+
+---
+
+## Pregunta 90
+**En términos de notificación en el proceso monitorio europeo, ¿es posible notificar al demandado sin confirmación de recepción?**
+
+**Opciones:**
+- 1)Sí, podrá realizarse mediante depósito del requerimiento en el buzón del demandado.
+- 2)Sí, mediante burofax.
+- 3)No puede hacerse dejando el requerimiento en el buzón del demandado.
+- 4)Sí, mediante valija judicial internacional.
+
+**Respuesta correcta:** 1
+
+**Explicación (correcta):**  
+Correcto, es posible notificar al demandado dejando el requerimiento en su buzón.
+
+**Explicación (errada):**  
+La notificación puede realizarse mediante depósito del requerimiento en el buzón del demandado. (Respuesta correcta 1)
+
+---
+
+## Pregunta 91
+**En el procedimiento monitorio europeo, ¿cuál es la forma válida de notificar al demandado el requerimiento europeo de pago?**
+
+**Opciones:**
+- 1)Notificación personal validada por un acuse de recibo, con fecha y firma del demandado.
+- 2)Notificación a través de medios electrónicos, validada por un acuse de recibo, con fecha y reenviado por el demandado.
+- 3)Notificación por correo validada por un acuse de recibo, con fecha y reenviado por el demandado.
+- 4)Todas son correctas.
+
+**Respuesta correcta:** 4
+
+**Explicación (correcta):**  
+Correcto, todas las opciones mencionadas son formas válidas de notificar al demandado en el procedimiento monitorio europeo.
+
+**Explicación (errada):**  
+Las tres opciones anteriores son formas válidas de notificación en el procedimiento monitorio europeo. (Respuesta correcta 4)
+
+---
+
+## Pregunta 92
+**En España, ¿qué órgano judicial es competente para conocer en primera instancia de la petición de un requerimiento europeo de pago?**
+
+**Opciones:**
+- 1)La Sala Primera del Tribunal Supremo.
+- 2)La Audiencia Nacional.
+- 3)La Sección de lo Mercantil del Tribunal de Instancia.
+- 4)El Tribunal Superior de Justicia de la Comunidad Autónoma.
+
+**Respuesta correcta:** 3
+
+**Explicación (correcta):**  
+¡Correcto! La competencia para el requerimiento europeo de pago corresponde a la Sección de lo Mercantil del Tribunal de Instancia.
+
+**Explicación (errada):**  
+Respuesta incorrecta. La competencia en España para el requerimiento europeo de pago corresponde a la Sección de lo Mercantil del Tribunal de Instancia. (Respuesta Correcta 3)
+
+---
+
+## Pregunta 93
+**¿En qué situación se aplica el Reglamento (CE) 1896/2006 que establece un proceso monitorio europeo?**
+
+**Opciones:**
+- 1)Todas son correctas.
+- 2)Deudas ilíquidas de una comunidad de propietarios derivadas de una obligación contractual.
+- 3)Los regímenes económicos matrimoniales.
+- 4)Crédito de obligación extracontractual, derivado de reclamación de deudas líquidas de una comunidad de propietarios.
+
+**Respuesta correcta:** 4
+
+**Explicación (correcta):**  
+¡Correcto! El proceso monitorio europeo se aplica en el caso de deudas líquidas de una comunidad de propietarios derivadas de una obligación extracontractual.
+
+**Explicación (errada):**  
+Lo siento, esa no es la respuesta correcta. El proceso monitorio europeo se aplica en el caso de deudas líquidas de una comunidad de propietarios derivadas de una obligación extracontractual. (Respuesta correcta 4)
+
+---
+
+## Pregunta 94
+**Si el demandado ha solicitado una revisión excepcional del requerimiento europeo de pago, ¿qué puede hacer el tribunal competente del Estado miembro de ejecución?**
+
+**Opciones:**
+- 1)Esperar a la resolución de la revisión.
+- 2)Subordinar la ejecución a la constitución de una garantía que determinará dicho órgano jurisdiccional competente.
+- 3)Suspende la ejecución preventiva.
+- 4)Ninguna es correcta.
+
+**Respuesta correcta:** 2
+
+**Explicación (correcta):**  
+¡Correcto! El tribunal puede subordinar la ejecución a la presentación de una garantía.
+
+**Explicación (errada):**  
+Lo siento, esa no es la respuesta correcta. El tribunal puede subordinar la ejecución a la presentación de una garantía. (Respuesta correcta 2)
+
+---
+
+## Pregunta 95
+**En el proceso monitorio europeo, ¿cuándo puede presentar el demandado una oposición escrita?**
+
+**Opciones:**
+- 1)Dentro de los 30 días siguientes a la notificación del requerimiento.
+- 2)Dentro de los 20 días siguientes a la notificación del requerimiento.
+- 3)Dentro de los 10 días siguientes a la notificación del requerimiento.
+- 4)Dentro de los 31 días siguientes a la notificación del requerimiento.
+
+**Respuesta correcta:** 1
+
+**Explicación (correcta):**  
+¡Correcto! El demandado tiene 30 días naturales desde la notificación para presentar una oposición.
+
+**Explicación (errada):**  
+Lo siento, esa no es la respuesta correcta. El demandado tiene 30 días naturales desde la notificación para presentar una oposición. (Respuesta correcta 1)
+
+---
+
+## Pregunta 96
+**En el proceso monitorio europeo, ¿cuándo debe el tribunal revisar si se cumplen los requisitos para un requerimiento europeo de pago?**
+
+**Opciones:**
+- 1)En 12 horas tras recibir el requerimiento.
+- 2)En 24 horas tras recibir el requerimiento.
+- 3)En 48 horas tras recibir el requerimiento.
+- 4)A la mayor brevedad.
+
+**Respuesta correcta:** 4
+
+**Explicación (correcta):**  
+¡Correcto! El tribunal debe examinar si se cumplen los requisitos lo antes posible.
+
+**Explicación (errada):**  
+Lo siento, esa no es la respuesta correcta. El tribunal debe revisar si se cumplen los requisitos lo antes posible. (Respuesta correcta 4)
+
+---
+
+## Pregunta 97
+**Según el Reglamento (CE) nº 1896/2006, ¿en qué plazo debe expedirse el requerimiento europeo de pago?**
+
+**Opciones:**
+- 1)Mediante providencia en un máximo de 10 días desde la fecha de presentación de la petición.
+- 2)Mediante auto en un máximo de 15 días desde la fecha de presentación de la petición.
+- 3)Mediante decreto en un máximo de 20 días desde la fecha de presentación de la petición.
+- 4)Lo antes posible y, por lo general, en un plazo de 30 días desde la fecha de presentación de la petición.
+
+**Respuesta correcta:** 4
+
+**Explicación (correcta):**  
+¡Correcto! El artículo 12 del Reglamento (CE) nº 1896/2006 establece que el requerimiento de pago debe expedirse, por lo general, en un plazo de 30 días desde la presentación de la petición.
+
+**Explicación (errada):**  
+Respuesta incorrecta. El Reglamento (CE) nº 1896/2006 indica que el requerimiento se expedirá, como regla general, en 30 días desde la presentación. (Respuesta Correcta 4)
+
+---
+
+## Pregunta 98
+**Señale la afirmación incorrecta respecto al pago en el juicio cambiario, según el artículo 822 de la LEC:**
+
+**Opciones:**
+- 1)Si el deudor paga, el Letrado de la Administración de Justicia pone la suma a disposición del ejecutante.
+- 2)Una vez satisfechos los intereses y costas, el Juez dictará auto dando por terminada la ejecución.
+- 3)Las costas son a cargo del deudor.
+- 4)Se entregará al ejecutado un justificante del pago realizado.
+
+**Respuesta correcta:** 2
+
+**Explicación (correcta):**  
+¡Correcto! La afirmación 2 es incorrecta. Según el art. 822 LEC, es el Letrado de la Administración de Justicia quien, una vez satisfechos intereses y costas, acordará el archivo y la terminación de la ejecución, no el Juez.
+
+**Explicación (errada):**  
+Lo siento, esa no es la respuesta correcta. La afirmación incorrecta es la 2, ya que la terminación de la ejecución en este supuesto corresponde al Letrado de la Administración de Justicia, no al Juez. (Respuesta Correcta 2)
+
+---
+

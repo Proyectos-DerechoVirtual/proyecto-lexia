@@ -1,0 +1,113 @@
+# Procedimiento por Delitos Leves
+
+## Procedimiento por delitos leves III
+
+**Tema:** Procedimiento por Delitos Leves  
+**Clase:** T54_C03  
+**Archivo:** T54_C03_Procedimiento por delitos leves III.txt  
+**Tipo:** Material de Clase  
+**Categoría:** Oposiciones de Justicia  
+
+---
+
+¡Hola a todos, hola a todas! Bienvenidos y bienvenidas a una nueva clase de Derecho Virtual. En la clase de hoy vamos a adentrarnos en un tema que resulta fundamental en el ámbito del derecho, la ejecución de las sentencias por delitos leves. Es posible que para muchos de vosotros el proceso de ejecución puede parecer algo complejo y hasta un poco tedioso.
+
+
+Si es así, presta atención porque en este vídeo te lo voy a explicar de forma breve y práctica. ¿Estás preparado? ¡Comenzamos! En primer lugar, lo que tienes que saber es que la ejecución de una sentencia por delitos leves implica la implementación de las medidas y consecuencias establecidas en la sentencia una vez que ésta se ha vuelto firme, es decir, una vez que la sentencia ha adquirido firmeza y, por tanto, ya no es susceptible de ser apelada o impugnada, de forma que la autoridad competente procederá a ejecutarla de acuerdo con lo dispuesto en la misma. Es importante que tengas en cuenta además que cuando hablamos de la ejecución de las sentencias en el caso de juicios por delitos leves existen aspectos relevantes tanto desde el punto de vista penal como civil.
+
+
+Recuerda que en general los delitos leves están asociados con penas menos graves en comparación con delitos más serios. De hecho, la imposición de una multa es una pena frecuente en casos de delitos leves. La multa, recuerda, consista en el pago de una cantidad de dinero determinada por la ley o establecida por el tribunal como sanción por el delito cometido.
+
+
+También se puede imponer al condenado la obligación de realizar trabajos comunitarios o prestar servicios a la comunidad. Estos trabajos suelen ser tareas no remuneradas que se realizan en beneficio de la sociedad. Te pongo un ejemplo para que lo entiendas mejor.
+
+
+Supongamos que en un juicio por delito leve de hurto, Juan es condenado a una pena de multa de 500 euros. Después de la sentencia, Juan decide no presentar un recurso de apelación, por lo que la sentencia se vuelve firme, es decir, ya no puede ser impugnada. Una vez que la sentencia adquirió firmeza, las autoridades competentes, en este caso el juzgado que dictó la sentencia, procederá a ejecutarla.
+
+
+En este caso, la ejecución implica que Juan debe pagar la multa de 500 euros dentro del plazo establecido en la sentencia. El juzgado notificará a Juan la obligación de cumplir con el pago de la multa y le proporcionará las instrucciones necesarias para hacerlo. Por su parte, Juan tendrá un plazo específico, por ejemplo, 30 días para realizar el pago.
+
+
+Llegados a este punto, ¿qué crees que ocurriría si en situaciones más extremas Juan continuase sin cumplir con la sanción impuesta, es decir, continuase sin cumplir con el pago de la multa dentro del plazo establecido? Pues que en estos casos, el juez que debe supervisar el cumplimiento de las penas y medidas impuestas podrá aplicar medidas adicionales para asegurar el cumplimiento de la sanción impuesta. ¿Cuáles crees que serían esas acciones legales que se podrían adoptar para garantizar que Juan cumpliese con esa obligación impuesta por la sentencia? Pues muy fácil. Entre ellas, el juez puede imponer recargos por mora que no son sino cargos adicionales que se suman a la multa inicial debido al retraso en el pago.
+
+
+Estos recargos por mora pueden ser un porcentaje adicional de la cantidad adeudada o pueden aplicarse intereses sobre la cantidad impagada. Siguiendo con el ejemplo, según la sentencia, Juan debe pagar la multa dentro de un plazo de 30 días a partir de la fecha en que la sentencia adquiere firmeza. Sin embargo, Juan no cumple con el pago de la multa dentro del plazo establecido.
+
+
+¿Qué crees que pasaría en este caso? Pues que el juez podría imponer un recargo por mora como consecuencia del retraso en el pago. El recargo por mora puede ser un porcentaje adicional de la cantidad adeudada o puede aplicarse como intereses sobre la cantidad impagada. Supongamos que el juez decide aplicar un recargo del 10% sobre la multa impuesta a Juan.
+
+
+Debido al incumplimiento de Juan, se le añadiría un recargo por mora del 10% a los 500 euros de la multa original. Esto significa que la cantidad total adeudada por Juan sería de 550 euros. De esta forma, Juan deberá pagar el importe total incluyendo el recargo por mora para cumplir con la sanción impuesta.
+
+
+En caso de no hacerlo, podrían tomarse medidas adicionales como la ejecución forzosa del pago mediante embargos u otras acciones legales para asegurar el cumplimiento de la sanción. ¿Quieres saber qué otra medida podría acordar el juez? Aquí lo tienes. De entre esas medidas adicionales, el juez podrá ordenar la ejecución forzosa del pago a través de embargos de bienes o cuentas bancarias pertenecientes a Juan.
+
+
+Como bien estarás pensando, esto implica que el juez pueda autorizar a las autoridades competentes a embargar los bienes de Juan o bloquear sus cuentas bancarias para asegurar el pago de la multa. El juzgado, a través de las autoridades competentes, llevará a cabo el proceso de embargo de los bienes de Juan con el objetivo de obtener el total adeudado de la multa. En el caso que te planteo, las autoridades competentes, como por ejemplo un agente judicial o un funcionario designado, visitarán la vivienda de Juan para realizar el embargo de sus bienes, se identificarán y seleccionarán los bienes embargables para cubrir la deuda de la multa.
+
+
+¿Sabrías decirme qué bienes podrían ser objeto de embargo ante una situación de incumplimiento de pago? Los bienes embargables en este caso pueden incluir, por ejemplo, cuentas bancarias. Los fondos depositados en cuentas bancarias pueden ser embargados para satisfacer una deuda, recuérdalo. Bienes personales y objetos de valor, como joyas, relojes, obras de arte y otros objetos de valor, podrían también ser embargados para cubrir una deuda.
+
+
+Vehículos, como por ejemplo una motocicleta o un automóvil, o incluso inmuebles, un terreno u otros activos que, por ejemplo, Juan poseyese y que sean suficientes para cubrir la cantidad adeudada de esa pena de multa. Una vez que se ha realizado el embargo de los bienes, se procederá a su valoración y venta para obtener los fondos necesarios para el pago de la multa. Los fondos obtenidos se destinarán a cubrir la deuda de la multa y, si hay un excedente, se le devolverían a Juan.
+
+
+En cualquier caso, recuerda que existen límites y garantías legales que protegen los derechos del deudor durante el proceso de embargo. Y, finalmente, en algunos casos, incluso el juez podrá ordenar la retención de ingresos del condenado. Esto significa que seducirá una parte de los ingresos del condenado como salario o rentas para pagar la multa.
+
+
+Al no cumplir Juan con el pago de la multa dentro del plazo establecido, el juzgado, a través de las autoridades competentes, notificará a las entidades relevantes, como el empleador de Juan o la entidad que realiza los pagos de sus ingresos, sobre la obligación de retener una parte de los ingresos de Juan para cubrir la deuda de la multa. Las autoridades competentes, en coordinación con el empleador o la entidad responsable de los pagos de Juan, retendrán una parte de los ingresos de Juan de acuerdo con las regulaciones y límites establecidos por la ley. Esta retención se realizará periódicamente hasta que se haya cubierto completamente la cantidad adeudada de la multa.
+
+
+Ese importe retenido de los ingresos de Juan se destinará a pagar la deuda de la multa y, una vez que la deuda se haya cubierto por completo, se suspenderá la retención de ingresos y Juan recuperará el control total de sus ingresos. En resumen, supuestos en los que el juez podrá adoptar otras medidas legales adicionales con un objetivo muy claro, garantizar el cumplimiento de la sanción impuesta y transmitir un mensaje claro de que el incumplimiento de las obligaciones legales conlleva consecuencias adicionales. Otro aspecto interesante en la ejecución de las sentencias por delitos leves es que el juez que dictó la sentencia por el delito leve puede promover de oficio la ejecución de la reparación del daño y la indemnización de perjuicios, siguiendo en este caso los procedimientos y requisitos establecidos en la ley de enjuiciamiento civil.
+
+
+Supongamos que, en un juicio por delito leve de daños a la propiedad, Ana es condenada por causar daños a la vivienda de Pedro. La sentencia establece que Ana debe reparar los daños causados y pagar una indemnización a Pedro por los perjuicios sufridos. Una vez que la sentencia ha adquirido firmeza, el juez que dictó la sentencia por el delito leve se encarga de promover la ejecución de la reparación del daño y la indemnización de perjuicios.
+
+
+En el caso de la reparación del daño, el juez puede ordenar que Ana repare directamente los daños causados a la vivienda de Pedro, lo cual implica que Ana debe asumir los costos necesarios para restaurar la propiedad en su estado original o reparar los elementos dañados. En cuanto a la indemnización de perjuicios, el juez puede determinar la cantidad que Ana debe pagar a Pedro como compensación por los perjuicios sufridos. Esto puede incluir los gastos de reparación adicionales, la pérdida de la propiedad, el valor de los bienes dañados u otros daños y perjuicios sufridos por Pedro.
+
+
+Como habrás comprobado, el juez supervisa el cumplimiento de estas medidas y puede tomar acciones adicionales para asegurar que la reparación del daño y la indemnización de perjuicios se lleven a cabo. Esto puede incluir el seguimiento de los avances de la reparación, el establecimiento de plazos para el cumplimiento y la imposición de sanciones si Ana no cumple con sus obligaciones. Por otro lado, un aspecto fundamental y que no podemos pasar por alto es este que te planteo a continuación.
+
+
+¿A quién crees que corresponde la ejecución de las sentencias en causas por delitos leves? ¿Te atreverías a contestar? Pues efectivamente. La ejecución de la sentencia en los juicios por delitos leves, tal y como dispone el artículo 984 de la Ley de Enjuiciamiento Criminal, corresponde al órgano que haya conocido del juicio. Ojo, no lo olvides porque es muy probable que os encontréis con esta pregunta en los exámenes a justicia.
+
+
+Una vez que la sentencia adquiere firmeza, es decir, ya no susceptible de ser apelada o impugnada, el juzgado se encarga de llevar a cabo la ejecución de la misma. El juzgado que haya dictado la sentencia firme en una causa por delito leve es el responsable de la ejecución de la sentencia y tomará las medidas necesarias para garantizar su cumplimiento. Esto puede incluir el pago de multas, la indemnización a las víctimas y la imposición de medidas adicionales en caso de incumplimiento.
+
+
+Lo vemos con un ejemplo. Supongamos que Mario, vecino de Madrid, es condenado por un delito leve de coacciones contra su mujer. En este caso, será el juzgado de violencia sobre la mujer el competente para conocer, juzgar y ejecutar las sentencias relacionadas con este tipo de delitos.
+
+
+Recuerda que el juzgado de violencia sobre la mujer es un órgano especializado que tiene la competencia para investigar y juzgar los delitos de violencia de género, incluyendo las coacciones en el ámbito de las relaciones de pareja. Este juzgado se encargará de llevar a cabo todas las actuaciones judiciales pertinentes desde la investigación inicial hasta el juicio y la emisión de la sentencia. Una vez que la sentencia por delito leve coacciones contra la mujer ha adquirido firmeza, el juzgado de violencia sobre la mujer se encargará de supervisar y garantizar el cumplimiento de las medidas y consecuencias establecidas en la sentencia.
+
+
+Esto puede incluir medidas de protección para la víctima, órdenes de alejamiento, programas de rehabilitación para el agresor, entre otras medidas. En caso de incumplimiento de las medidas impuestas, el juzgado de violencia sobre la mujer podrá adoptar medidas adicionales para asegurar el cumplimiento de la sanción. Entre esas medidas, recuerda, podríamos incluir la imposición de recargos por mora, la ejecución forzosa de las medidas mediante embargos u otras acciones legales para garantizar el cumplimiento de la sentencia.
+
+
+Te planteo ahora una cuestión un poco más compleja. ¿Preparado? Ahí va. ¿Sería posible ejecutar provisionalmente una sentencia recurrida en apelación? O dicho de otra forma, siguiendo con el ejemplo de antes, si Juan, condenado a una pena de multa de 500 euros por un delito leve de hurto, decidiera presentar un recurso de apelación, ¿podría ejecutarse provisionalmente esa sentencia? ¿Qué dirías? Pues en este caso, el juzgado que conoció del juicio por el delito leve de hurto podrá efectivamente considerar la posibilidad de conceder la ejecución provisional de la sentencia mientras se resuelve el recurso de apelación.
+
+
+¿Pero podrá hacerlo de oficio o se requiere de alguna condición? Pues, como bien estarás pensando, la parte demandante tendrá que solicitar específicamente la ejecución provisional y presentar argumentos convincentes que justifiquen esa medida. A partir de aquí, el juzgado que dictó la sentencia evaluará la solicitud de ejecución provisional teniendo en cuenta varios factores, como la gravedad del delito, los intereses en juego y los argumentos presentados por las partes. Si el juzgado considera que existen razones justificadas para ello, podrá ordenar la ejecución provisional de la sentencia de multa, lo que implicaría que Juan tendría que cumplir con el pago de la multa mientras el recurso de apelación sigue en proceso.
+
+
+Sin embargo, es importante que tengas en cuenta que si el tribunal de segunda instancia, recuerda en este caso la audiencia provincial, revoca la sentencia de primera instancia y absolve a Juan, los efectos de la ejecución provisional deberán ser revertidos y deberá restituirse a Juan lo que haya pagado en virtud de dicha ejecución. Dicho esto, atento porque te lo voy a complicar un poco más. ¿Podría un juzgado de instrucción o de violencia sobre la mujer ejecutar acciones civiles impuestas en la sentencia? Si piensas que sí, estás en lo cierto.
+
+
+¡Enhorabuena! Efectivamente, los pronunciamientos sobre responsabilidad civil que se incluyan en una sentencia penal, así lo establece el artículo 989 de la Ley de Enjuiciamiento Criminal, pueden ser susceptibles de ejecución provisional de acuerdo con lo establecido en la Ley de Enjuiciamiento Civil. Esto significa que si una sentencia penal impone una indemnización por daños y perjuicios u otra medida de responsabilidad civil a favor de la parte perjudicada, dicha parte puede solicitar la ejecución provisional de esa parte de la sentencia. La ejecución provisional permite que la parte perjudicada comience a recibir la compensación económica antes de que se agote totalmente el proceso de apelaciones o de recursos.
+
+
+Y ya para terminar, recuerda que es posible que el órgano competente que deba ejecutar la sentencia no pueda practicar todas las diligencias necesarias. En este caso, podrá solicitar auxilio judicial del juzgado que corresponda. Te lo explico con otro ejemplo.
+
+
+Supongamos que en un juicio por delito leve el juzgado competente dicta una sentencia condenatoria contra Juan por un delito de hurto. La sentencia impone una pena de multa y una restitución de los bienes sustraídos. Una vez que la sentencia adquiere firmeza, el juzgado encargado de ejecutarla se da cuenta de que no cuenta con los recursos o la capacidad necesaria para realizar la restitución de los bienes sustraídos, ya que implica localizar y devolver los objetos a sus propietarios legítimos.
+
+
+En este caso, el juzgado solicitará auxilio judicial al juzgado competente para obtener la colaboración necesaria y poder obtener ayuda en la ejecución de la sentencia. En este caso, el juzgado que recibe la solicitud de auxilio judicial colaborará con el juzgado de primera instancia, recuerda, en este caso, el juzgado de instrucción, y llevará a cabo las diligencias necesarias para localizar y restituir los bienes sustraídos a sus propietarios legítimos. Esto puede implicar la realización de investigaciones adicionales, el contacto con las partes involucradas y la coordinación con las autoridades competentes.
+
+
+¿Cuál crees que sería el objetivo principal de este auxilio judicial? Pues, como puedes observar, a través de este auxilio judicial, el juzgado que ejecuta la sentencia por el delito leve de hurto podrá cumplir con todas las diligencias necesarias para garantizar la completa ejecución de la sentencia, incluida también la restitución de los bienes sustraídos. Bueno, y hasta aquí la clase de hoy. Espero que con esta breve explicación hayas alcanzado una comprensión clara y sólida sobre la ejecución de las sentencias por delitos leves, que no implica sino garantizar que la pena impuesta se cumpla, ya sea a través del pago de una multa, restitución de daños o cualquier disposición establecida por el juzgado competente.
+
+
+Gracias a todos, gracias a todas por vuestra atención y mucho ánimo con el estudio.
+

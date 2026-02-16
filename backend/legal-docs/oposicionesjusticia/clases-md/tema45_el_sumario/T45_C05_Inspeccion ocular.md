@@ -1,0 +1,92 @@
+# El Sumario
+
+## Inspeccion ocular
+
+**Tema:** El Sumario  
+**Clase:** T45_C05  
+**Archivo:** T45_C05_Inspeccion ocular.txt  
+**Tipo:** Material de Clase  
+**Categoría:** Oposiciones de Justicia  
+
+---
+
+Muy buenas a todos, gente. Bienvenidos a otra clase más. En la clase de hoy vamos a ver tres diligencias de investigación que se pueden acordar en el sumario.
+
+
+La inspección ocular, las declaraciones testificales y los actos de pericia. Vamos a comenzar con la inspección ocular. Esta aparece regulada en los artículos 326 a 333 de la ley de enjuiciamiento criminal.
+
+
+Ahora bien, hay que hacerse aquí una pregunta. ¿Qué podemos entender por inspección ocular? Se trata de una diligencia que seguramente hayáis visto en muchísimas series policíacas, siendo el caso mítico de aquellas series tipo CSI o mentes criminales en que cuando se comete un asesinato, los agentes de policía se personan prácticamente en la escena del delito y comienzan a elaborar un plano del mismo así como a recoger las diferentes pruebas que se encuentren en éste. Ahora bien, hay que añadir aquí un pequeño detalle, y es que realmente esta diligencia se realiza por el juez de instrucción asistido por el letrado de la Administración de Justicia.
+
+
+Vamos a examinar brevemente ciertos aspectos de esta diligencia de investigación. Lo primero de todo es que, normalmente, si resulta conveniente, se levantará un plano del lugar y se tomarán imágenes o fotografías de la persona o objeto del delito así como de los efectos o instrumentos que se hallen en el mismo. Así imaginémonos ahora que aparece una persona muerta con indicios de violencia, pues en estos supuestos la inspección ocular consistiría, básicamente, en personarse en el lugar con el juez de instrucción, levantar un plano del lugar, en el que se hará constar el lugar en el que estaba la víctima, en qué posición se encontraba y los diferentes efectos o instrumentos que se hallaron en el mismo tomando fotografías e imágenes de todos ellos.
+
+
+Ahora bien, imaginémonos que en el lugar en que sucedieron los hechos no hay ningún tipo de rastro o vestigio del delito. ¿Qué sucede en estos casos? Pues bien, la respuesta nos la da el artículo 330 de la ley de enjuiciamiento criminal que para estos casos dispone que el juez de instrucción averiguará y hará constar, siendo posible, si la desaparición de las pruebas materiales ha ocurrido natural, casual o intencionadamente, y las causas de la misma o los medios que para ello se hubieran empleado, procediendo seguidamente a recoger y consignar en el sumario las pruebas de cualquier clase que se puedan adquirir acerca de la perpetración del delito. Por tanto, corresponderá al juez de instructor determinar si la desaparición de las pruebas, efectos o instrumentos del delito ha sido natural o intencionadamente.
+
+
+¿Cómo podría ser, por ejemplo, que un tercero decidiese sustraerlas del lugar de los hechos? Hay que tener en cuenta también que hay ciertos delitos que no dejan huellas o efectos o instrumento alguno en el lugar en el que se perpetren. ¿Se os ocurre alguno? Un ejemplo podría ser la violación, que no tiene por qué dejar ningún tipo de vestigio o efecto del delito en la zona en que se cometa. En estos supuestos, el artículo 331 de la ley de enjuiciamiento criminal dispone que el juez de instructor procurará hacer constar por declaraciones de testigos y por los demás medios de comprobación la ejecución del delito y sus circunstancias, así como la preexistencia de la cosa cuando el delito hubiese tenido por objeto la sustracción de la misma.
+
+
+Y con esto habríamos terminado ya la diligencia de inspección ocular. Tan solo un pequeño apunte más. Y es que no confundáis esta diligencia con la que sería la reconstrucción de los hechos, la cual consiste en la reproducción de aquellos hechos objeto de investigación.
+
+
+En otras palabras, sería básicamente contar cómo tuvieron lugar los hechos. Y a continuación vamos con una parte fundamental de las diligencias de investigación, siendo ésta quizás la parte más importante de esta clase, así que presta bastante atención. Vamos a examinar las declaraciones testificales.
+
+
+Lo primero de todo, ¿sabes lo que es un testigo? Seguramente tengas una idea más o menos acertada de lo mismo, pero desde un punto de vista más estricto, un testigo es una persona que tiene conocimiento de un hecho, de relevancia judicial en este caso. Y bien, ¿cómo puede tener este conocimiento? Pues por un lado puede tenerlo debido a que ha presenciado directamente los hechos, como sería el caso de un tercero que sin intervenir en una pelea presencia la misma y ve como uno de los sujetos agrede al otro repetidas veces. Este sería el caso de un testigo directo.
+
+
+Por otro lado puede haber testigos indirectos o de referencia. ¿Cuáles son estos? Pues son aquellos que tienen conocimiento del hecho por medio de terceras personas. Así, podríamos citar aquí un caso en que precisamente este testigo que presencia la pelea se la cuenta a un amigo suyo con todo lujo de detalles.
+
+
+Pues bien, esta persona que no ha presenciado los hechos pero en cambio tiene conocimiento de los mismos gracias a su amigo es un testigo indirecto o de referencia. Explicando esto vamos a comenzar ya con el estudio de la diligencia de declaración testifical. Lo primero de todo es que hay que destacar que se encuentra regulada en los artículos 410 a 450 de la ley de enjuiciamiento criminal de la que vamos a examinar ciertas cuestiones.
+
+
+La primera de ellas. ¿Qué testigos tienen el deber de declarar? Pues la verdad es que como regla general todos los testigos tienen un triple deber. Tienen el deber de comparecer, el de declarar y el de decir la verdad.
+
+
+Así el artículo 410 de la ley de enjuiciamiento criminal dispone que todos los que residan en territorio español, nacionales o extranjeros, que no estén impedidos, tendrán obligación de concurrir al llamamiento judicial para declarar cuanto supieren sobre lo que les fuere preguntado si para ello se les cita con las formalidades prescritas en la ley. Por tanto, en el ejemplo de antes, aquellas personas que presenciaron dicha pelea estarán obligados a declarar acerca de la misma, siempre y cuando se les cite con las formalidades previstas en la ley de enjuiciamiento criminal. Ahora bien, hay ciertas excepciones a este deber de comparecer y aparecen ellas previstas en el artículo 412 de la ley de enjuiciamiento criminal que menciona a ciertos cargos públicos que por razón de la importancia del mismo no están obligados a comparecer personalmente y pueden declarar bien por escrito o bien desde su despacho y podríamos citar entre otros el presidente y demás miembros del gobierno, diputados o senadores, magistrados del tribunal constitucional y los vocales del Consejo General del Poder Judicial, entre otros.
+
+
+Un ejemplo que seguramente os ayude a recordar esto lo podréis encontrar en la trama de corrupción del PP, la Gürtel, en la que el por aquel entonces presidente de gobierno Mariano Rajoy solicitó a la Audiencia Nacional declarar por videoconferencia o por escrito y no comparecer personalmente ante el propio órgano judicial, aunque finalmente tuvo que ir a declarar personalmente en la fase de juicio oral. Por otro lado, los artículos 416 y 417 dispensan a ciertas personas de la obligación de declarar, como podrían ser los parientes del procesado en línea directa ascendente y descendente, su cónyuge o persona unida por relación de hecho análoga a la matrimonial, sus hermanos consanguíneos o uterinos y los colaterales consanguíneos hasta el segundo grado civil. Así, si por ejemplo Guille estuviese casado con Lucía y atribuyesen a Lucía algún hecho delictivo del que Guille hubiese tenido conocimiento como testigo, sin haber participado en el mismo, por supuesto, Guille no tendría obligación de declarar porque precisamente podrían pararse en esta dispensa por razón de estar ambos casados.
+
+
+Además, también están dispensados de la obligación de declarar el abogado del procesado respecto a los hechos que éste le hubiese confiado en su calidad de defensor, así como tampoco los eclesiásticos y ministros de culto disidentes sobre los hechos que les fueran revelados en el ejercicio de las funciones de su ministerio. Tanto en este caso como en el anterior se trata de una dispensa por razón de secreto profesional. Así, aunque el procesado revela a su abogado información importantísima acerca del caso en cuestión, como podría ser la ubicación de pruebas decisivas, o también si ha cometido otros hechos penalmente relevantes, no por ello el abogado tendrá obligación de declarar acerca de los mismos.
+
+
+Además, tal y como dispone también el artículo 417 de la Ley de Enjuiciamiento Criminal, no podrán ser obligados a declarar como testigos los funcionarios públicos tanto civiles como militares de cualquier clase que sean, cuando no pudieran declarar sin violar el secreto que por razón de sus cargos estuvieran obligados a guardar cuando, procediendo en virtud de obediencia debida, no fueran autorizados por su superior jerárquico para prestar declaración que se les pida. Así, aquí podríamos citar el caso de un militar que fuese citado como testigo para declarar acerca de un caso que tuviese relación, por ejemplo, con una operación militar secreta, y al comunicárselo a su superior, el mismo le ordene que no preste dicha declaración. A su vez, hay que destacar que también no pueden ser obligados a declarar los incapacitados física o moralmente.
+
+
+Aquí se trata de un supuesto en que no puede declarar la persona en cuestión simplemente porque carece de la capacidad física o psíquica necesaria para ello. Aquí podríamos citar el caso de que uno de los testigos fuese una persona que tuviese un profundo trastorno mental o una profunda discapacidad intelectual que hiciese que no pudiese comprender nada de lo que presenció y que en nada pueda contribuir al esclarecimiento del hecho. En estos supuestos, dicha persona no puede ser obligada a declarar.
+
+
+Y a continuación vamos a ver cómo se presta esta declaración testifical. Pues bien, lo primero de todo, la dirigencia se practica en la sede del juzgado de instrucción el día y hora señalado en la citación ante el propio juez de instrucción y el letrado de la administración de justicia. Ahora bien, hay ciertos supuestos en que un testigo está impedido para comparecer al llamamiento judicial, como podría ser el caso de que una persona sufriese un tremendo accidente que hiciese que estuviese hospitalizada y tenga que guardar reposo en su domicilio.
+
+
+En estos casos, la ley de enjuiciamiento criminal en el artículo 419 permite al juez y instructor recibirle declaración en su domicilio, siempre y cuando no se ponga en peligro la vida del enfermo. Además, los testigos deberán prestar juramento o promesa de decir todo lo que supieren acerca de lo que les fuere preguntado por el hecho punible, tal y como dispone el artículo 433 de la ley de enjuiciamiento criminal. Los testigos declararán separada y secretamente conforme al artículo 435 de la ley de enjuiciamiento criminal.
+
+
+Al comenzar la declaración, el testigo deberá manifestar en primer lugar, conforme al artículo 436 de la ley de enjuiciamiento criminal, su nombre, apellido materno y paterno, edad, estado y profesión, si conoce o no al procesado y a las demás partes y si tiene con ellos parentesco, amistad o relaciones de cualquier clase, si ha estado procesado y la pena que se le impuso y si el testigo fuere miembro de las fuerzas y cuerpos de seguridad en el ejercicio de sus funciones, será suficiente para su identificación, el número de su registro personal y la unidad administrativa a la que esté adscrito. Lo que se trata de descubrir con esta información es si el testigo va a ser o no parcial en su declaración, ya que no es lo mismo que declarar a una persona que tiene una enorme amistad con una de las partes o por el contrario que uno de los testigos, si el mayor enemigo de una de las partes y su declaración pueda afectar a ésta. Respecto a las fuerzas y cuerpos de seguridad del estado, un caso muy sonado y que os ayudará precisamente a recordar este último, fue el famoso caso del procés en el que declararon múltiples agentes de los mosos de escuadra y todos ellos eran identificados por su número de identificación personal, al igual que también los agentes de la policía nacional y demás fuerzas y cuerpos de seguridad que intervinieron en aquel 1-O en su momento.
+
+
+Seguidamente el artículo 436 de la ley de enjuiciamiento criminal dispone que el juez dejará al testigo narrar sin interrupción los hechos sobre los cuales declare y solamente le exigirá las explicaciones complementarias que sean conducentes a desvanecer los conceptos oscuros o contradictorios. Después le dirigirá las preguntas que estén oportunas para el esclarecimiento de los hechos. A esto hay que añadir que el artículo 437 de la ley de enjuiciamiento criminal obliga a que los mismos declaren de viva voz sin que le sea permitido leer declaración ni respuesta alguna que lleven escrita.
+
+
+Ahora bien, vamos a ver aquí un pequeño ejemplo con una pequeña cuestión además. Imaginémonos un delito societario que es hipercomplejo y que requiere en este caso el examen de las cuentas anuales de una empresa para ver los balances, los inventarios, las cifras anotadas en el libro diario. Bien, imaginémonos que se cita como testigo a la persona que llevaba estas operaciones.
+
+
+¿Vosotros creéis que esta persona sería capaz de declarar acerca de todos esos asientos y las operaciones que hizo durante su trabajo durante múltiples años? La respuesta es negativa, pero la ley de enjuiciamiento criminal para estos casos permite que el testigo pueda consultar algún apunte o memoria que contenga esos datos difíciles de recordar. Y ya para terminar, el artículo 439 de la ley de enjuiciamiento criminal dispone que no se harán al testigo preguntas capciosas ni sugestivas, ni se empleará coacción, engaño, promesa ni artificio alguno para obligarlo a inducirle a declarar en determinado sentido. Así, aquí destacar que la pregunta capciosa es aquella que está redactada con engaño para inducir al testigo a que declare de una determinada forma.
+
+
+Mientras que la pregunta sugestiva la podríamos definir como una especie de pregunta retórica en la que ya se está anteponiendo un poco la respuesta a la misma que va a dar el testigo. Es decir, es aquella que está formulada de manera que ya da pie a que se conteste en un determinado sentido, ya sea afirmativo o negativo. En definitiva, este artículo lo que viene a decir es que las preguntas dadas a los testigos deben ser claras y concisas.
+
+
+Y con esto ya damos por terminada la clase de hoy. Vamos a ver un muy breve resumen de todo lo visto en ella. En primer lugar, en cuanto a la inspección ocular hay que destacar que es una diligencia de investigación prevista en los artículos 326 a 333 de la ley de enjuiciamiento criminal y que se va a llevar a cabo por el juez instructor asistido por el letrado de la administración de justicia, siendo muy normal que en la misma se levante un plano del lugar de los hechos y se tomen imágenes o fotografías con ciertas medidas específicas para aquellos casos en que no haya huellas o vestigios del delito.
+
+
+Respecto a la declaración testifical, destacar que los testigos tienen normalmente el triple deber de comparecer, declarar y decir la verdad. Ahora bien, hay ciertas excepciones tanto para el deber de comparecer como para el deber de declarar, estando todas ellas previstas en los artículos 412, 416 y 417 de la ley de enjuiciamiento criminal. La diligencia de declaración testifical se platicará en primer lugar en la sede del juzgado de instrucción el día y hora señalado, debiendo prestar el testigo juramento promesa de decir la verdad y todo lo que supiera acerca de los hechos delictivos.
+
+
+Además, en caso de varios testigos, declararán separada y secretamente cada uno de ellos ante el juez de instrucción y el letrado de la administración de justicia, declararán todo de viva voz sin que puedan ser interrumpidos y no podrán consultar respuesta o apunte alguno salvo para casos muy excepcionales y complejos, quedando prohibidas también las preguntas capciosas y sugestivas. Y con esto ya damos por finalizada la clase, un saludo y nos vemos en la próxima.
+

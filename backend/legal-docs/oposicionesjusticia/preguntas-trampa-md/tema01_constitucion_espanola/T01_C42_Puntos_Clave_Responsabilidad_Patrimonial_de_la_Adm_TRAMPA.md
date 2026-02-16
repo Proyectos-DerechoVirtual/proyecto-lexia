@@ -1,0 +1,112 @@
+# Puntos Clave – Responsabilidad Patrimonial de la Administración (Art. 106.2 CE y Ley 40/2015)
+
+**📚 Tema:** Constitución Española  
+**🎓 Clase:** Titulo IV Del Gobierno y la Administracion, Art. 106.2 responsabilidad patrimonial  
+**🎯 Tipo:** Pregunta trampa / Punto clave  
+**📋 Archivo:** T01_C42 Titulo IV Del Gobierno y la Administracion, Art. 106.2 responsabilidad patrimonial_TRAMPA.txt
+
+---
+
+Puntos Clave – Responsabilidad Patrimonial de la Administración (Art. 106.2 CE y Ley 40/2015)
+
+1. Responsabilidad objetiva
+RECUERDA
+- No se exige culpa ni negligencia para indemnizar.
+- Basta daño antijurídico, efectivo y causado por funcionamiento público.
+
+MNEMOTÉCNICA
+OBJEINDA: OBJEtiva, INDAmniza
+📌 "Aunque no haya culpa, se indemniza".
+
+---------------------------------------------------
+
+2. Daño antijurídico
+RECUERDA
+- Solo indemnizable si afectado no tiene deber jurídico de soportarlo.
+
+MNEMOTÉCNICA
+DAANTI: DAño ANTijurídico
+📌 "Si no deberías sufrirlo, se paga".
+
+---------------------------------------------------
+
+3. Fuerza mayor
+RECUERDA
+- Exonera a Administración (imprevisibilidad/inevitabilidad).
+
+MNEMOTÉCNICA
+FUMAYOR: FUerza MAYOR
+📌 "Si no podías preverlo ni evitarlo, no se paga".
+
+---------------------------------------------------
+
+4. Plazos reclamación y resolución
+RECUERDA
+- Reclamar: 1 año desde daño (art. 67 LPAC).
+- Resolver: 6 meses (art. 91 LPAC).
+- Abreviado: 30 días (art. 96 LPAC).
+
+MNEMOTÉCNICA
+PRESEAB: PREscripción, SEis meses, ABreviado
+📌 "Reclama a tiempo o pierdes derecho".
+
+---------------------------------------------------
+
+5. Nexo causal imprescindible
+RECUERDA
+- Daño debe ser consecuencia directa de actuación administrativa.
+- Sin nexo claro, no hay responsabilidad.
+
+MNEMOTÉCNICA
+NEXOCLA: NEXO CLArO
+📌 "Sin nexo, no hay indemnización".
+
+---------------------------------------------------
+
+6. Indemnización íntegra
+RECUERDA
+- Cubre daño emergente, lucro cesante, daños morales/personales.
+
+MNEMOTÉCNICA
+DELUMO: DEño, LUcro, MOral
+📌 "Indemnización completa, no parcial".
+
+---------------------------------------------------
+
+7. Regímenes especiales
+RECUERDA
+- Estado juez (art. 121 CE).
+- Estado legislador (art. 32.4 Ley 40/2015).
+
+MNEMOTÉCNICA
+ESJULEG: EStado JUez, LEGislador
+📌 "Si juzgas o legislas mal, también pagas".
+
+---
+
+## 📊 **Información del chunk:**
+
+- **Chunk 1** de 1
+- ❌ Sin recordatorios
+- ❌ Sin advertencias  
+- ❌ Sin mnemotécnica
+
+## 🔍 **Metadata:**
+
+```json
+{
+  "topicName": "tema01_constitucion_espanola",
+  "topicTitle": "Constitución Española",
+  "topicNumber": 1,
+  "classTitle": "Titulo IV Del Gobierno y la Administracion, Art. 106.2 responsabilidad patrimonial",
+  "classNumber": "T01_C42",
+  "questionTitle": "Puntos Clave – Responsabilidad Patrimonial de la Administración (Art. 106.2 CE y Ley 40/2015)",
+  "questionNumber": null,
+  "chunkType": "question",
+  "chunkIndex": 0,
+  "hasReminder": false,
+  "hasWarning": false,
+  "hasMnemonic": false,
+  "embeddingModel": "text-embedding-3-large"
+}
+```

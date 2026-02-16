@@ -1,0 +1,101 @@
+# Medidas Cautelares
+
+## Medidas cautelares requisitos tipos y relaciones
+
+**Tema:** Medidas Cautelares  
+**Clase:** T38_C02  
+**Archivo:** T38_C02_Medidas cautelares requisitos tipos y relaciones.txt  
+**Tipo:** Material de Clase  
+**Categoría:** Oposiciones de Justicia  
+
+---
+
+Muy buenas a todos, en el vídeo de hoy vamos a seguir tratando las medidas cautelares. En este vídeo quiero que te quedes con que vamos a ver los requisitos para adoptar las medidas cautelares, los tipos de medidas cautelares y la relación entre ejecución y recursos con las medidas cautelares. Y recuerda, estas clases irán a las cuestiones más preguntables sobre esta materia.
+
+
+Para que te uiques, te diré que nos movemos en el artículo 721 siguientes de la ley de enjuiciamiento civil. Pero antes de entrar en materia, hay que resolver una duda que a muchos se os plantea y es en relación con la constelación. Para solicitar las medidas cautelares es preceptivo hacerlo con abogado y con procurador.
+
+
+Ojo, solo en un caso no será preceptivo abogado y procurador y es cuando se soliciten las medidas cautelares con anterioridad al proceso principal. Esto lo encontrarás regulado en los artículos 23 y 31 de la ley de enjuiciamiento civil. Despejada esta duda, ponemos un ejemplo de medida cautelar.
+
+
+Juan y Pepe tienen una controversia sobre la titularidad de un bien. Juan reclama la titularidad a Pepe, que es quien hasta ese momento está poseyendo el bien objeto del litigio. Pero se entera que Pepe va a vender el bien.
+
+
+Juan, junto con su demanda en la que solicita que el juez reconozca que es titular del bien frente a Pepe, además va a solicitar la medida cautelar de anotación preventiva de demanda en el registro de la propiedad para advertir a la persona que quiera comprar ese bien que su titularidad está siendo debatida en un proceso judicial. Visto el ejemplo, vamos a ver tres requisitos para adoptar las medidas cautelares. Estos son.
+
+
+El primero es el peligro de mora procesal. También lo habréis escuchado en latín y se dice periculum et mora. El solicitante tendrá que justificar que de no acordar el juez las medidas cautelares durante la pendencia del proceso, será difícil la efectividad de la futura sentencia estimatoria.
+
+
+No se acordarán medidas cautelares que alteren situaciones de hecho que han sido consentidas por el solicitante, salvo que justifique las razones por las que no solicitó hasta entonces las medidas. Un ejemplo de peligro de mora procesal sería el que hemos visto antes, en el caso en que se vendiera el bien. Si se vende el bien, el objeto sobre el que versa el proceso carece de sentido, por lo que para que evitarse este riesgo sería conveniente adoptar a tiempo la medida cautelar.
+
+
+Ahora lo entiendes, ¿verdad? Esto también se llama en derecho procesal la carencia sobrevenida del objeto del proceso y por lo tanto terminaría el proceso. La segunda es la apariencia de buen derecho, o lo que es lo mismo, que antes de haber dictado sentencia ya haya indicios de que el solicitante tiene todas las de ganar. El solicitante deberá presentar a la solicitud de medidas cautelares un medio de prueba para que el tribunal, ojo, sin prejuzgar el fondo del asunto, tenga un juicio provisional favorable a la pretensión del solicitante.
+
+
+En este caso, el solicitante puede presentar el anuncio de una inmobiliaria a la que ha acudido UPP para vender el bien. Y la tercera y última es ofrecer caución. El solicitante deberá ofrecer caución suficiente para responder de los daños y perjuicios que las medidas cautelares pudieran causar en el patrimonio del demandado.
+
+
+La caución se puede prestar en dinero efectivo, en aval solidario de duración indefinida y pagadero a primer requerimiento emitido por la entidad de crédito, es decir, un banco, y también por otro medio que a juicio del tribunal garantice la cantidad. Os pregunto, ¿creéis que hay alguien dispensado de prestar caución? La respuesta es que sí. Se está dispensado de prestar caución cuando se ejercite la acción de cesación para la defensa de los consumidores y usuarios, es decir, cuando una asociación o un consumidor, de manera particular, quiera ejercitar una acción a la que una empresa cese en una acción determinada o elimine la probabilidad de su producto.
+
+
+En estos casos, el tribunal podrá dispensar de prestar caución. Visto esto, vamos al siguiente tema. ¿Qué tipos de medidas cautelares hay? La Ley de Juiciamiento Civil recoge una serie de medidas cautelares, pero puede haber más que las que menciona la propia ley.
+
+
+Te recuerdo que no debes confundir las medidas cautelares con las diligencias preliminares que se recogen en el artículo 256 de la Ley de Juiciamiento Civil, y son números cerrados. Vamos, que las que existen son las que menciona el artículo de tasada. En contraposición, los tipos de medidas cautelares que se recogen en el artículo 727 de la Ley de Juiciamiento Civil son, entre otros, ese dictado que es abierto, por lo que es lo mismo, el artículo recoge ejemplos de medidas, pero podrían acordarse otras no mencionadas en él.
+
+
+Destacamos los tipos de medidas cautelares que más se preguntan en ustedes y casos plazos. Podrá acordarse, entre otras, la primera, el embargo preventivo, con la finalidad de asegurar la ejecución de sentencias de condena a la entrada de dinero o cosa que se puede cambiar por dinero. Ponemos un ejemplo.
+
+
+Juan y Pepe pactan en escritura que Juan le presta 5.000 euros en marzo y en el mes de abril Pepe se los devuelve. Pasado dicho plazo, Pepe incumple y hace que Juan presente una demanda de reclamación de cantidad. Pepe solo tiene un bien inmueble a su nombre y sabe por otras personas que quiere desprenderse de ese bien para declararse insolvente, ya que debe dinero a más gente.
+
+
+Juan, conjunto con su demanda, va a solicitar como medida cautelar el embargo preventivo del inmueble de Pepe para que, en caso que la sentencia sea condenatoria para Pepe, responda del pago de la deuda con ese inmueble. Hago un recordatorio, no confundir embargo preventivo con anotación preventiva de embargo. Esta última acción se realiza en fase de ejecución.
+
+
+La segunda medida más preguntable es la intervención o administración judicial. Finalidad es para la futura sentencia de condena a mantener o mejorar la productividad. Un ejemplo sería un litigio entre varios socios de una explotación agrícola o ganadera.
+
+
+El tercer ejemplo o medida sería el depósito de cosa mueble, cuando la finalidad de la demanda sea la entrega del bien mueble y se encuentra en posesión del demandado. En el ejemplo que hemos puesto arriba, cuando el litigio de Juan y Pepe sea por un bien mueble. Un ejemplo, una joya.
+
+
+El cuarto, anotación preventiva de la demanda, cuando la finalidad son bienes o derechos susceptibles de inscripción en registros públicos. Este ejemplo es el que hemos puesto de Juan y Pepe que tienen un litigio en torno a un bien inmueble, cuando presenta demanda sobre la titularidad de dicho bien. Y la última medida cautelar a destacar es la suspensión de acuerdos sociales impugnado.
+
+
+Un acuerdo en el cual un determinado grupo de accionistas o socios no considera pertinente y quieren impugnarlo. Los demandantes representen el 1% del capital social cuando la sociedad emita valores, es decir, cotiza en bolsa. En otro caso, cuando la sociedad no cotiza en bolsa, para solicitar esta medida, los demandantes tienen que representar el 5% del capital social.
+
+
+Pasamos a ver ahora la relación que hay entre la medida cautelar y el proceso. En el anterior vídeo dijimos que las medidas cautelares son accesorias al proceso principal, por tanto, no se mantendrán las medidas cautelares cuando el proceso se quede en suspenso, ojo, más de seis meses, por causas imputables al solicitante. Ponemos un ejemplo.
+
+
+Imaginémonos que el juzgado solicita que aporte nueva documentación en el proceso y el solicitante no la aporta, deteniéndose el proceso. Al ser culpa suya, si transcurren seis meses, decaen las medidas. También nos va a decir la ley que en los casos que el proceso termine bien por renuncia de la acción o bien por el desistimiento en la instancia, las medidas cautelares no se mantendrán.
+
+
+Ahora quiero que veamos la relación que hay entre las medidas cautelares y la sentencia absolutoria no firme. Ponemos ejemplo. Imaginémonos que en el pleito entre Juan y Pepe, el juez no da la razón a Juan y, por tanto, absuelve a Pepe, que es el titular del bien.
+
+
+Juan quiere recurrir a la sentencia. ¿Qué pasará con las medidas cautelares? Nos va a decir el artículo 744 de la ley del juezamiento civil que el letrado de la Administración de Justicia ordena el lanzamiento de las medidas cuando el recurrente no solicite su mantenimiento en el momento de interponer el recurso. Para ello, estribular o ir a la parte contraria resolverá la solicitud antes de remitir los autos al órgano competente.
+
+
+Recordar que se ha modificado el recurso de apelación y ahora se interpone ante la audiencia provincial y será ésta quien resuelva del mantenimiento de la medida cautelar. Yo os pregunto ¿y si la sentencia fuera firme y absolutoria? Es decir, que contra dicha sentencia ya no cabe recurso. En este caso, firme la sentencia, el letrado de la Administración de Justicia alza de oficio todas las medidas y se procede a la liquidación de daños y perjuicios.
+
+
+Cuando la sentencia sea condenatoria, las medidas permanecerán hasta que transcurra el plazo del artículo 548 de la ley, que es un plazo de 20 días. Transcurrido el plazo, se alzarán las medidas. Pasemos a ver otra cuestión.
+
+
+La relación entre las medidas cautelares y la ejecución provisional. Cuando se despacha a ejecución provisional, se alzan las medidas cautelares. Ponemos un ejemplo.
+
+
+Juan y Pepe se dejan mutuamente dinero y lo hacen costar en escritura pública. Juan le presta en un momento determinado 2.000 euros y Pepe en otro momento le presta 4.000. Ninguno paga al otro, con lo que Juan demanda a Pepe. El juez resuelve en sentencia que Pepe le debe a Juan 2.000 euros y Juan le debe a Pepe también 3.000 euros.
+
+
+Pepe no está contento y recurre la sentencia porque entiende que le debe todavía 1.000 euros. Mientras tanto, Juan ejecuta provisionalmente la sentencia. En ese momento, la medida cautelar que solicitó Juan en el proceso declarativo se alza.
+
+
+Para resumir, hemos visto tres requisitos que necesita el juez para adoptar las medidas cautelares y son el primero, peligro de moral procesal, es decir, si el juez no acuerda la medida, sería muy difícil hacer efectiva la futura sentencia contemplatoria. La segunda, la apariencia de buen derecho, que es tener un principio de prueba y que sin que el tribunal prejuzgue el asunto entienda que favorece la pretensión del solicitante. Y la tercera es prestar cautión por los posibles daños en el patrimonio de quien soporta la medida.
+
+
+Hasta aquí el vídeo de hoy. Un saludo y nos vemos en el siguiente vídeo.
+

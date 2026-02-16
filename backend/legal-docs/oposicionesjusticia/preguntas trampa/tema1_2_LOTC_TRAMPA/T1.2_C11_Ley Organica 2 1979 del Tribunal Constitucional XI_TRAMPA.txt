@@ -1,0 +1,45 @@
+
+RECURSO DE AMPARO – TC
+
+1. Naturaleza extraordinaria y subsidiaria
+RECUERDA: El amparo es el último recurso de tutela, solo procede tras agotar la vía judicial ordinaria y si persiste vulneración de derechos (arts. 14–30 CE). No revisa legalidad ordinaria, sino vigencia de DF.
+TEN CUIDADO: Si queda recurso ordinario, inadmisión (art. 44.1 LOTC).
+REGLA MNEMOTÉCNICA: ESU: Extraordinario–Subsidiario–Último
+
+2. Ámbito material restringido
+RECUERDA: Protege solo derechos de los arts. 14–30 CE (igualdad, libertades, derechos procesales, objeción de conciencia). Fuera: principios rectores (art. 47 CE, vivienda) salvo que se conecten con un DF típico (ej. discriminación art. 14).
+TEN CUIDADO: Invocar principios rectores → inadmisión (art. 50.1 LOTC).
+REGLA MNEMOTÉCNICA: AR14-30: Ámbito Restringido arts. 14–30 CE
+
+3. Triple requisito acumulativo
+RECUERDA: Requiere:  
+- Derecho fundamental invocado expresamente.  
+- Agotamiento de recursos judiciales.  
+- Especial trascendencia constitucional (ETC): debe motivarse que el caso trasciende interés individual.  
+TEN CUIDADO: Omitir ETC = inadmisión fulminante (art. 50.1 LOTC).
+REGLA MNEMOTÉCNICA: DAE: Derecho–Agotamiento–ETC
+
+4. Legitimación activa y pasiva
+RECUERDA: Activa → persona física/jurídica afectada, Defensor del Pueblo, Ministerio Fiscal.  
+Pasiva → quienes fueron favorecidos por la resolución impugnada.  
+TEN CUIDADO: Mandato expreso obligatorio para representación procesal (ATC 141/2015).
+REGLA MNEMOTÉCNICA: PDMF: Persona–Defensor–Ministerio Fiscal
+
+5. Modalidades y plazos
+RECUERDA:  
+- Decisiones parlamentarias: 3 meses.  
+- Actos administrativos: 20 días hábiles.  
+- Resoluciones judiciales: 30 días hábiles.  
+- Amparo electoral: 2–3 días naturales.  
+TEN CUIDADO: Agosto NO es inhábil en el TC. Amparo electoral fuera de 72h = inadmisión (ATC 28/2019).
+REGLA MNEMOTÉCNICA: 3-20-30-2E: 3m / 20d / 30d / 2–3 días electorales
+
+6. Postulación profesional y demanda
+RECUERDA: Requiere abogado colegiado y procurador de Madrid (excepto MF). La demanda debe incluir hechos, DF vulnerados, motivación ETC, peticiones y resoluciones.  
+TEN CUIDADO: Omisiones documentales o falta de firma = inadmisión (art. 49 LOTC).
+REGLA MNEMOTÉCNICA: APF: Abogado–Procurador–Formalismo
+
+7. Contenido y efectos de la sentencia
+RECUERDA: El fallo puede anular total/parcialmente el acto, reconocer DF y restablecer íntegramente (retroacción, repetición de juicio, etc.) (art. 55 LOTC).  
+TEN CUIDADO: El TC no otorga indemnización económica directa; para daños → vía contencioso-administrativa.
+REGLA MNEMOTÉCNICA: NRR: Nulidad–Reconocimiento–Restitución

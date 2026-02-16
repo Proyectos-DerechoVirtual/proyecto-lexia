@@ -1,0 +1,86 @@
+# Libertad Sindical
+
+## El proceso electoral
+
+**Tema:** Libertad Sindical  
+**Clase:** T16_C11  
+**Archivo:** T16_C11_El proceso electoral.txt  
+**Tipo:** Material de Clase  
+**Categoría:** Oposiciones de Justicia  
+
+---
+
+Hola a todos y a todas y bienvenidos. En la clase de hoy vamos a hablar del proceso electoral a delegado de personal y a miembro del comité de empresa. En primer lugar vamos a hablar de quienes están habilitados para promover elecciones, que son las organizaciones sindicales más representativas, las que cuenten con un mínimo del 10% de representantes en la empresa y los trabajadores del centro de trabajo por acuerdo mayoritario.
+
+
+Debemos mencionar que si un centro de trabajo tiene 30 trabajadores y nadie quiere convocar elecciones para estos órganos no es algo obligatorio. Ahora imagina que la empresa Don Álvaro, que es una empresa dedicada a fabricar herramientas, cuenta con un total de 100 trabajadores en su plantilla y 60 de ellos han decidido que les gustaría contar con un comité de empresa, por lo que los promotores deberán comunicarlo a la directiva de Don Álvaro y a la oficina pública con un mes de antelación. Los promotores deberán identificar la empresa y el centro de trabajo y la fecha de inicio del proceso electoral, que será la fecha en la que se constituya la mesa electoral.
+
+
+Pero ojo, porque no podrá comenzar antes de un mes ni podrá extenderse más de tres meses a partir del registro de la comunicación en la oficina pública dependiente de la autoridad laboral. Y ojo, porque sólo previo acuerdo mayoritario entre los sindicatos más representativos podrá promoverse la celebración de elecciones de manera generalizada en uno o varios ámbitos funcionales o territoriales. Por ejemplo, imagina que la empresa Don Álvaro tiene centros de trabajo repartidos por toda una comunidad autónoma.
+
+
+Pues bien, para que se promuevan elecciones de forma generalizada en todos estos centros de trabajo deberá ser previo acuerdo mayoritario de los sindicatos más representativos. Y si estas elecciones fuesen para renovar la representación que ya existe, sólo podrá efectuarse a partir de la fecha en la que falten tres meses para el vencimiento del mandato. Es decir, si el mandato vence en septiembre, estas elecciones sólo podrán convocarse en junio.
+
+
+Y si no se cumple con alguno de estos requisitos, el proceso electoral no tendrá validez. No obstante, si se omite la comunicación a la empresa, esto podrá subsanarse trasladando una copia de la comunicación presentada a la oficina pública siempre que ésta se produzca con una anterioridad mínima de 20 días respecto de la fecha de inicio del proceso electoral. ¿Y qué ocurre si hay distintos promotores que quieren llevar a cabo este proceso? Pues se considerará válida a efectos de inicio del proceso electoral la primera convocatoria registrada, excepto en aquellos supuestos en los que la mayoría sindical de la empresa o centro de trabajo con comité de empresa haya presentado en otra fecha distinta.
+
+
+En este caso prevalecerá ésta y podrán votar todos los trabajadores nacionales o extranjeros de la empresa o centro de trabajo mayores de 16 años y con una antigüedad de al menos un mes. Sin embargo, para poder ser elegido se deberán tener 18 años cumplidos y una antigüedad en la empresa de al menos seis meses, salvo en aquella actividades en las que por movilidad de personal se pacta a través del convenio colectivo un plazo inferior. Eso sí, con el límite mínimo de tres meses de antigüedad.
+
+
+Vaya que si tú llevas un mes trabajando en la empresa no podrás presentarte a delegado de personal y esto tiene su lógica en que se requiere que el delegado de personal o el miembro del comité de empresa conozca a fondo la empresa y su dinámica. En el caso de los delegados de personal podrán presentar candidatos para las elecciones, los sindicatos de trabajadores legalmente constituidos, las coaliciones formadas por dos o más sindicatos de trabajadores que tengan una denominación concreta y los trabajadores que avalen su candidatura con un número de firmas electorales en su mismo centro. En su caso equivalente al menos a tres veces el número de puestos a cubrir.
+
+
+Si por ejemplo hay dos puestos a cubrir se deberán recolectar seis firmas. Todo esto también resulta de aplicación para la presentación de candidatura al comité de empresa pero además en ese caso las candidaturas se presentarán ante la mesa electoral durante los nueve días siguientes a la publicación de la lista definitiva de electores y la proclamación se hará en los dos días laborables después de concluido dicho plazo. Contra este acuerdo de proclamación se podrá reclamar dentro del día laborable siguiente resolviendo la mesa en el día posterior hábil y entre la proclamación de candidato y la votación mediarán al menos cinco días.
+
+
+En cuanto a la votación para delegados de personal se efectuará mediante sufragio personal, directo, libre y secreto y se podrá efectuar por correo. En este caso cada elector podrá dar su voto a un número máximo de aspirantes equivalente al de puestos a cubrir entre los candidatos. Es decir si hay 20 candidatos y tres puestos a cubrir cada persona podrá votar como máximo a tres personas.
+
+
+Resultarán elegidos aquellos que obtengan un mayor número de votos y en caso de empate resultará elegido el trabajador que cuente con mayor antigüedad en la empresa. Se emitirá un acta y este acta junto con las papeletas de votos nulos o impugnados por los interventores y el acta de constitución de la mesa serán presentados en el plazo de tres días ante la oficina pública dependiente de la autoridad laboral por el presidente de la mesa y esta oficina pública procederá en el inmediato día hábil a la publicación en los tablones de anuncio de una copia del acta entregando copia a los sindicatos que la soliciten y dando traslado a la empresa de la misma, indicando la fecha en la que finaliza el plazo para impugnarla. En el caso de las votaciones para los miembros del comité de empresa el proceso es un poco distinto.
+
+
+El censo de electores y elegibles se distribuirá en dos colegios, uno integrado por los técnicos y administrativos y otro por los trabajadores especialistas y no cualificados. Por convenio colectivo y en función de la composición profesional del sector podrá establecerse un nuevo colegio que se adapte a esta composición. El sufragio, al igual que en el caso anterior, será libre, personal, directo y secreto y también se podrá realizar por correo.
+
+
+Pero ojo, porque en este caso cada elector podrá dar su voto a una sola lista de las presentadas para los del comité que corresponda. Es decir, en este caso se vota una lista y no a una persona y estas listas deberán contener como mínimo tantos nombres como puestos a cubrir. Además no tendrán derecho a la atribución de representantes en el comité de empresa aquellas listas que no hayan obtenido como mínimo el 5% de los votos en cada colegio.
+
+
+Es decir, si se configuran cinco colegios electorales y hay una lista que en todos ellos saca un 20% de los votos y en uno de ellos saca un 2% no tendría derecho a la atribución de representantes. Una vez finalizada la votación y el recuento se atribuirá a cada lista el número de puestos que le corresponda de conformidad con la división del número de votos válidos y el número de puestos a cubrir. Y si hubiese puestos sobrantes se atribuirán a la lista o listas que tengan un mayor número restante de votos.
+
+
+Dentro de cada lista resultarán elegidos los candidatos por el orden en el que figuren en la candidatura. Por ejemplo si sale elegida la lista A y se le asignan un total de 10 puestos pero tenía 20 candidatos se escogerán a los 10 primeros que figuraban en la lista. El resto del proceso es igual que el de los delegados de personal.
+
+
+Y hemos mencionado la mesa electoral y es que en la empresa o centro de trabajo se constituirá una mesa por cada colegio de 250 trabajadores. Eso sí, trabajadores, electores, trabajadores que puedan votar. Y cuando existan varias mesas electorales podrá constituirse por acuerdo mayoritario de los miembros una mesa electoral central integrada por cinco miembros elegidos de entre los componentes de estas mesas.
+
+
+También se podrá constituir una mesa itinerante en los centros de trabajo en los que los trabajadores no presten su actividad en el mismo lugar con carácter habitual. La mesa, como ya hemos visto, será quien vigile todo el proceso electoral, quien presida la votación, quien realice el escrutinio. Esta mesa tendrá un presidente que es el trabajador con mayor antigüedad en la empresa y dos vocales que serán los electores de mayor y menor edad y este último actuará de secretario.
+
+
+Además se designarán suplentes a aquellos trabajadores que sigan a los titulares de la mesa en el orden indicado según antigüedad y por supuesto ninguno de los componentes de la mesa podrá ser candidato y en caso de serlo le sustituirá su suplente. Cada candidato o candidatura podrá nombrar un interventor por mesa y además el empresario podrá designar un representante que en su nombre asista a la votación y al escrutinio. La duración del mandato será de cuatro años, entendiéndose que se mantendrán en funciones en el ejercicio de sus competencias y de sus garantías hasta que no se hubiesen promovido y celebrado nuevas elecciones.
+
+
+Pero ojo porque podrán ser revocados los delegados del personal y los miembros del comité durante su mandato si así lo deciden los trabajadores que lo hayan elegido mediante asamblea convocada a instancia de un tercio de los electores como mínimo y por mayoría absoluta de estos en una votación mediante sufragio personal, libre, secreto y directo. Pero esta revocación no podrá efectuarse durante la tramitación de un convenio colectivo ni replantearse hasta transcurridos por lo menos seis meses si la primera votación fuese fallida. Por ejemplo en una empresa de 60 trabajadores para poder revocar a los miembros del comité deberán estar de acuerdo 20 de los trabajadores contando con que todos ellos tengan derecho a voto y para poder proceder a destituir a los miembros del comité de empresa deberá haber una votación de 31 versus 29 y en caso de que la votación resultase negativa y no se revocasen a los miembros del comité no se podría volver a plantear hasta pasado mínimo seis meses.
+
+
+Revocaciones, dimisiones y extinciones de mandato se comunicarán a la autoridad laboral y al empresario publicándose en el tablón de anuncios. Y estoy segura de que te has preguntado qué ocurre con los representantes de los trabajadores fijo discontinuo y no fijo. Pues bien, los trabajadores fijo discontinuo y los vinculados por contrato de duración determinada estarán representados conjuntamente con los trabajadores fijos de la plantilla.
+
+
+Por lo tanto, a efectos de determinar el número de representantes se estará a lo siguiente. Los trabajadores fijo discontinuo y los vinculados por contrato de duración determinada superior a un año sí computarán como trabajadores fijos de la plantilla. Las sustituciones.
+
+
+Pero ahora bien, si un contrato temporal no llega al año se computará según el número de días trabajado en el periodo de un año anterior a la convocatoria de la elección. Cada 200 días trabajado se computará como un trabajador más. Pero seguro que todo esto te ha sonado un poco lioso, así que déjame que te ponga un ejemplo.
+
+
+Imagina que una empresa ha tenido a trabajadores contratados mediante contratos temporales inferiores a un año y en total han sido 10 trabajadores y han trabajado 500 días. En ese caso, aunque hayan sido 10 trabajadores, se computarán como 2 trabajadores. Si hubiesen sido 600 días, se computarían como 3 trabajadores.
+
+
+Y en este caso, las impugnaciones en materia electoral, en caso de que las hubiese, se tramitarían conforme al procedimiento arbitral, con excepción de las denegaciones de inscripción, cuyas reclamaciones podrían plantearse directamente ante la Jurisdicción Social. Todos los que tengan interés legítimo incluida la empresa podrán impugnar la elección, las decisiones que adopte la mesa, cualquier actuación de la mesa a lo largo del proceso, fundamentándose en la existencia de vicios graves que pudieran afectar a la garantía del proceso electoral y que alterasen sus resultados. También a la falta de capacidad o legitimidad de ciertos candidatos, en la discordancia del acta y el proceso electoral, en la falta de correlación entre el número de trabajadores que figuren en el acta y el número de representantes elegidos... Pero, ojo, porque la impugnación de los actos de la mesa requerirá haber efectuado reclamación dentro del día laborable siguiente al acto y deberá ser resuelta esta primera reclamación por la mesa en el día posterior hábil, salvo en el caso de elecciones en centro de trabajo de hasta 30 trabajadores, en las que se elige un solo delegado de personal y, por tanto, la reclamación se haría constar en el acta, así como en la resolución que tomase la mesa.
+
+
+Y esto ha sido todo por la clase de hoy. Espero que te haya gustado. Nos vemos en la próxima.
+
+
+¡Un saludo!
+

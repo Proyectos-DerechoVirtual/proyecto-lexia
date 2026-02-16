@@ -1,0 +1,62 @@
+# Procesos Especiales
+
+## T28a30 C08 Monitorio en la Comunidad de Propietarios Parte I
+
+**Tema:** Procesos Especiales  
+**Clase:** T28a30_C08_Monitorio en la Comunidad de Propietarios Parte I  
+**Archivo:** T28a30_C08_Monitorio en la Comunidad de Propietarios Parte I.txt  
+**Tipo:** Material de Clase  
+**Categoría:** Oposiciones de Justicia  
+
+---
+
+¡Buenas, opositores! Bienvenidos a una nueva clase. En esta vamos a ver un proceso que tiene mucha relevancia sobre todo para los casos prácticos de tu oposición. Por ello, no olvidéis repasarlo antes de este ejercicio.
+
+
+Se trata de un procedimiento monitorio, que ya lo conoces porque está recogido en la Ley del Cuiteamiento Civil, pero con las especialidades de que se mueve en el ámbito de la comunidad de propietarios, para lo cual habremos de acudir a la Ley de Propiedad Horizontal. El proceso monitorio se regula de los artículos 812 a 818 y tiene una clase específica para el mismo. Básicamente es un procedimiento con el cual se busca cobrar una ledda pendiente que figura acreditada en un documento comercial y satisfacer al acreedor de manera más rápida posible.
+
+
+Tal y como os dice el artículo 812 de la Ley de Cuiteamiento Civil, podrá acudir al proceso monitorio quien pretenda de otro el pago de una deuda dineraria de cualquier importe líquida determinada, vencida y exigible cuando la deuda se acredite por documentos, facturas, albaranes u otros documentos. En el apartado segundo de este mismo artículo se reconoce que, cumpliendo los requisitos estipulados en el primero, podrán también acudir al proceso monitorio, y aquí viene lo que más interesa, cuando la deuda se acredite mediante certificaciones de impago de cantidades debidas en concepto de gastos de comunidades de propietarios de inmuebles urbanos. Por ejemplo, imagina que una comunidad de propietarios detecta que el propietario del piso tercero B ha acumulado seis meses de cuotas de comunidad impagadas, sumando un total de 1.200 euros.
+
+
+Sería conveniente que la comunidad instara un proceso monitorio para el cobro de esas deudas. Pero la pregunta es ¿por qué puede hacer esto? Porque la comunidad tiene derecho a reclamar las cantidades que se le deben. Así, tal y como establece el artículo 21 de la Ley de Propiedad Horizontal, la comunidad podrá, sin perjuicio de la utilización de otros procedimientos judiciales, reclamar de lo obligado al pago todas las cantidades que le sean debidas en conceptos de gastos comunes, tanto si son ordinales como extraordinarios, generales o individuales, o fondos de reserva, y mediante el proceso monitorio especial aplicable a las comunidades de propietarios de inmuebles en régimen de propiedad horizontal.
+
+
+Hasta aquí hemos visto que el proceso aplicable va a ser el monitorio y por qué. Ahora, vamos a ver qué sujetos nos interesa conocer en este proceso. El demandante, pues obviamente, va a ser la comunidad de propietarios representada por su presidente o, en su defecto, por el administrador de fincas actuando en nombre de la comunidad.
+
+
+El demandado no puede ser otro que el propietario de una vivienda o local dentro de la comunidad que ha incurrido en deudas por no pagar las cuotas de comunidad. Pues bien, has de saber que este proceso y sus especialidades comienzan a regularse en el artículo 21.3 de la Ley de Propiedad Horizontal. Para instalar la reclamación a través del procedimiento monitorio habrá de acompañarse a la demanda un certificado de acuerdo de liquidación de la deuda emitida por quien haga las funciones de secretario de la comunidad, con el visto bueno del presidente, salvo que el primero sea un secretario administrador con cualificación profesional necesaria y legalmente reconocida que no vaya a intervenir profesionalmente en la relación judicial de la deuda, en cuyo caso no será precisa la firma del presidente.
+
+
+En este certificado deberá constar el importe adeudado y su desglose, es decir, habrá de hacerse constar, en nuestro ejemplo anterior, los 1.200 euros debidos por el piso tercero B. Y no solo eso, sino que además del certificado deberá aportarse, junto con la petición inicial del proceso monitorio, el documento acreditativo en el que conste haber notificado al deudor, pudiendo también hacerse de forma subsidiaria en el tablón de anuncios o lugar visible de la comunidad durante el plazo de al menos tres días. Imagínate que el propietario del tercero B es Pedro, pues hay que acreditar que se le notificó debidamente a Pedro mediante una comunicación previa y de no ser posible a través de las vías alternativas que pone el propio artículo. Y bueno, la pregunta lógica ahora sería ¿qué se puede incluir en la petición inicial del monitorio? Pues bien, se podrán incluir en la petición inicial del proceso monitorio las cuotas aprobadas que se deben hasta la notificación de la deuda, así como todos los gastos y costes que conlleven la reclamación de la deuda, incluidos los derivados de la intervención del secretario administrador, que serán a cargo del deudor.
+
+
+Ahora, vamos a verlo todo con un ejemplo. Imaginemos una comunidad de vecinos llamada Residencial Azul, donde el señor Juan Pérez es el presidente y la señora María Gómez actúa como secretaria administradora con la cualificación profesional necesaria. La comunidad tiene un vecino, el señor Carlos López, quien debe varias cuotas de comunidad que suman un total de 1.200 euros.
+
+
+Para iniciar el procedimiento monitorio y reclamar la deuda a Carlos López, la señora María Gómez prepara un certificado de liquidación de la deuda. Dado que ella tiene la cualificación profesional necesaria y legalmente reconocida, y no va a intervenir profesionalmente en la reclamación judicial de la deuda, el certificado no necesita el visto bueno del presidente, el señor Juan Pérez. En el certificado se detalla que Carlos López adeuda 1.200 euros desglosando las cuotas impagadas.
+
+
+Además, la señora Gómez asegura haber notificado al señor López sobre su deuda. Primero intentó notificarle personalmente, pero ante la imposibilidad colocó la notificación en el tablón de anuncios de Residencial Azul, donde permaneció visible durante tres días. Con el certificado de liquidación de la deuda y la evidencia de la notificación al deudor, la señora Gómez presenta la petición inicial del procedimiento monitorio.
+
+
+Esta petición incluye no solo las cuotas adeudadas hasta el momento, sino también aquellas que se deben en hasta la notificación de la deuda a Carlos López. Asimismo, añade todos los gastos y costes asociados a la reclamación de la deuda, incluidos los derivados de su intervención como secretaria administradora, los cuales serán cargo del señor López. Venga, y ahora, antes de irnos, vamos a repasar en profundidad el contenido de la petición inicial del escrito.
+
+
+Siguiendo el ejemplo de Residencial Azul, el escrito de petición inicial para el procedimiento monitorio contra el señor López sería algo así. Datos de la comunidad de propietarios, con su nombre, ya que hemos dicho que era la comunidad de propietarios Residencial Azul. La representante de dicha comunidad, que en este caso hemos dicho que es María Gómez, secretaria administradora con cualificación profesional.
+
+
+Ahora añadiríamos número de teléfono y correo electrónico de la comunidad de propietarios. Y seguimos, en cuanto a los datos del deudor han de constar su nombre completo, en nuestro ejemplo, Carlos López Rodríguez, el domicilio para notificaciones, su teléfono y su correo electrónico. Además de todos estos datos, deberemos añadir la relación de hechos acaecida.
+
+
+En nuestro ejemplo, la deuda se origina por el impago de cuotas de comunidades correspondientes a los meses de enero a abril de 2024 aprobadas por la Junta de Propietarios y debidamente notificadas al señor Carlos López. La cantidad de la deuda. La deuda asciende a un total de 1.200 euros, cantidad aprobada por la Junta de Propietarios de Residencial Azul y detallada en la certificación emitida por la secretaria administradora, la señora María Gómez.
+
+
+Y este sería el escrito y su contenido. Como ya sabes, este documento se presentaría en el juzgado correspondiente utilizando los formularios normalizados que facilitan los propios juzgados o descargándolo desde la página web del Consejo General del Poder Judicial. La presentación de este escrito inicia formalmente el procedimiento monitorio buscando la reclamación judicial de la deuda que el señor Carlos López mantiene con la comunidad de propietarios Residencial Azul.
+
+
+Y bueno, hasta aquí la clase de hoy chicos. Hemos visto el proceso monitorio por el cual las comunidades de propietarios pueden cobrar sus deudas. Y también hemos visto los sujetos intervinientes y cómo se redacta el escrito de petición inicial para este proceso monitorio.
+
+
+Nos vemos en la próxima clase. ¡Mucho ánimo y a seguir estudiando!
+

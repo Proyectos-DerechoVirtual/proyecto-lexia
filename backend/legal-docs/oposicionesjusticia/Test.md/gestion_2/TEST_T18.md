@@ -1,0 +1,380 @@
+## Pregunta 1
+**De acuerdo con lo previsto en la Ley de Enjuiciamiento Civil, ¿cuál es la función de los procuradores?**
+
+**Opciones:**
+- 1)Ejecutar actos procesales de comunicación.
+- 2)Asistir a los tribunales en sus labores.
+- 3)Colaborar activamente con los tribunales.
+- 4)Todas las opciones anteriores son correctas.
+
+**Respuesta correcta:** 4
+
+**Explicación (correcta):**  
+¡Correcto! De acuerdo con la Ley de Enjuiciamiento Civil, los procuradores tienen la responsabilidad de asistir, colaborar y realizar actos procesales de comunicación con los tribunales.
+
+**Explicación (errada):**  
+Lo siento, esa no es la respuesta correcta. La Ley de Enjuiciamiento Civil establece que los procuradores deben asistir, colaborar y ejecutar actos procesales de comunicación con los tribunales. (Respuesta Correcta 4)
+
+---
+
+## Pregunta 2
+**Cuando se trata de la suspensión del trámite de los procesos civiles dirigidos contra el Estado, sus Organismos autónomos, entidades públicas subordinadas o los órganos constitucionales, ¿cuál es el límite de tiempo establecido para dicha suspensión?**
+
+**Opciones:**
+- 1)La duración de la suspensión no puede exceder los 30 días ni ser menos de 10 días.
+- 2)La duración de la suspensión no puede ser más de una semana.
+- 3)La duración de la suspensión no puede exceder los 15 días ni ser menos de 10 días.
+- 4)La duración de la suspensión puede ser más de un mes y no menos de 15 días.
+
+**Respuesta correcta:** 4
+
+**Explicación (correcta):**  
+¡Bien hecho! En relación a la suspensión de los procesos civiles contra entidades del Estado y similares, la ley establece que la suspensión no puede durar más de un mes ni menos de 15 días.
+
+**Explicación (errada):**  
+Esa no es la respuesta adecuada. En situaciones de suspensión de procesos civiles contra el Estado y sus entidades, la ley dicta que no puede durar más de un mes y no menos de 15 días. (Respuesta Correcta 4)
+
+---
+
+## Pregunta 3
+**En los procedimientos judiciales en los que la Administración General del Estado sea una parte involucrada, si las notificaciones y otros actos de comunicación procesal no se realizan directamente con el Abogado del Estado en la sede oficial de la Abogacía correspondiente, ¿qué ocurre?**
+
+**Opciones:**
+- 1)No se reconocen como válidas.
+- 2)Se consideran anualbles.
+- 3)Se consideran nulas.
+- 4)No se consideran nulas si las normativas procesales lo determinan.
+
+**Respuesta correcta:** 3
+
+**Explicación (correcta):**  
+¡Exacto! Si en dichos procesos las notificaciones y actos de comunicación procesal no se llevan a cabo directamente con el Abogado del Estado en la sede oficial, se consideran nulas.
+
+**Explicación (errada):**  
+Lo siento, esa no es la respuesta correcta. Si las notificaciones y otros actos de comunicación procesal no se realizan de la manera adecuada con el Abogado del Estado, se consideran nulas según la normativa. (Respuesta Correcta 3)
+
+---
+
+## Pregunta 4
+**¿Cómo puede acreditarse el apoderamiento de un procurador?**
+
+**Opciones:**
+- 1)Por medio de la certificación de su registro en el archivo electrónico único.
+- 2)A través de la autentificación de su registro en el archivo electrónico único.
+- 3)Mediante la certificación de su inscripción en el archivo electrónico de apoderamientos apud acta de las oficinas judiciales.
+- 4)A través de la autentificación de su registro en el archivo electrónico de apoderamientos apud acta de las oficinas judiciales.
+
+**Respuesta correcta:** 3
+
+**Explicación (correcta):**  
+¡Bien hecho! El apoderamiento de un procurador se acredita a través de la certificación de su inscripción en el archivo electrónico de apoderamientos apud acta de las oficinas judiciales.
+
+**Explicación (errada):**  
+Esa no es la respuesta correcta. El apoderamiento de un procurador se confirma a través de la certificación de su registro en el archivo electrónico de apoderamientos apud acta de las oficinas judiciales. (Respuesta Correcta 3)
+
+---
+
+## Pregunta 5
+**Dentro de las afirmaciones sobre la intervención del procurador en procesos civiles, ¿cuál es incorrecta?**
+
+**Opciones:**
+- 1)No se necesita la presencia de un procurador para la solicitud inicial de los procedimientos monitorios.
+- 2)Es posible ejercer simultáneamente las profesiones de abogado y procurador de los Tribunales.
+- 3)El Procurador debe poseer una licenciatura en Derecho, Grado en Derecho u otro título universitario de Grado equivalente, y estar habilitado para ejercer su profesión en el tribunal que maneje el juicio.
+- 4)No es obligatorio contar con un procurador cuando se piden medidas urgentes antes del juicio.
+
+**Respuesta correcta:** 2
+
+**Explicación (correcta):**  
+¡Correcto! No es posible ejercer de forma simultánea las profesiones de abogado y procurador de los Tribunales.
+
+**Explicación (errada):**  
+La respuesta correcta es que no se puede ejercer simultáneamente las profesiones de abogado y procurador de los Tribunales. Es importante conocer las restricciones y regulaciones en torno a la profesión de procurador en procesos civiles. (Respuesta Correcta 2)
+
+---
+
+## Pregunta 6
+**En un juicio verbal determinado por la cuantía, ¿cuándo no es obligatoria la intervención de un abogado?**
+
+**Opciones:**
+- 1)La intervención de un abogado es obligatoria.
+- 2)No es obligatoria si la cuantía no supera los 2.000 euros.
+- 3)Es obligatorio contar con un abogado si la cuantía supera los 600 euros.
+- 4)No es necesario contar con un abogado si la cuantía es igual o menor a 6.000 euros.
+
+**Respuesta correcta:** 2
+
+**Explicación (correcta):**  
+¡Correcto! En un juicio verbal, si la cuantía es igual o inferior a 2.000 euros, no es preceptiva la intervención de un abogado.
+
+**Explicación (errada):**  
+La respuesta adecuada es que en un juicio verbal, cuando la cuantía es igual o inferior a 2.000 euros, no es necesaria la intervención de un abogado. Es fundamental estar al tanto de las regulaciones relacionadas con la necesidad de intervención de un abogado según la cuantía en disputa. (Respuesta Correcta 2)
+
+---
+
+## Pregunta 7
+**Según el artículo 33.3 de la Ley de Enjuiciamiento Civil, ¿en qué plazo debe el demandado solicitar el reconocimiento del derecho de asistencia jurídica gratuita o pedir la designación de abogado y procurador de oficio, con la consecuente suspensión del proceso?**
+
+**Opciones:**
+- 1)En los cinco días posteriores a la notificación de la demanda.
+- 2)En los tres días posteriores a la notificación de la demanda.
+- 3)En los tres días posteriores a su aparición en el proceso.
+- 4)En los cinco días posteriores a su aparición en el proceso.
+
+**Respuesta correcta:** 2
+
+**Explicación (correcta):**  
+¡Correcto! Según el artículo 33.3 de la Ley de Enjuiciamiento Civil, el demandado tiene un plazo de tres días tras la notificación de la demanda para solicitar el reconocimiento del derecho de asistencia jurídica gratuita o pedir la designación de un abogado y procurador de oficio.
+
+**Explicación (errada):**  
+La respuesta correcta es que, de acuerdo con el artículo 33.3 de la Ley de Enjuiciamiento Civil, el demandado tiene tres días después de recibir la notificación de la demanda para solicitar el derecho de asistencia jurídica gratuita o la designación de un abogado y procurador de oficio. Es crucial conocer los plazos establecidos en la ley para tales situaciones. (Respuesta Correcta 2)
+
+---
+
+## Pregunta 8
+**De acuerdo con la Ley 52/1997, de 27 de noviembre, de Asistencia Jurídica al Estado e Instituciones Públicas, y exceptuando lo establecido en leyes especiales, ¿bajo qué circunstancias puede el Abogado del Estado desistir de acciones?**
+
+**Opciones:**
+- 1)Solo antes del proceso de respuesta a la demanda.
+- 2)Sí, pero siempre necesitará la aprobación del demandado.
+- 3)Sí, pero necesitará una autorización clara de la Abogacía General del Estado Dirección del Servicio Jurídico del Estado.
+- 4)Nunca.
+
+**Respuesta correcta:** 3
+
+**Explicación (correcta):**  
+¡Bien hecho! El Abogado del Estado puede desistir de acciones, pero para ello es necesario contar con una autorización expresa de la Abogacía General del Estado- Dirección del Servicio Jurídico del Estado, según lo establecido en la Ley 52/1997.
+
+**Explicación (errada):**  
+La respuesta correcta es que, según la Ley 52/1997, el Abogado del Estado puede retirar acciones, pero requiere una autorización específica de la Abogacía General del Estado- Dirección del Servicio Jurídico del Estado. Es esencial conocer los procedimientos y requerimientos legales en este tipo de situaciones. (Respuesta Correcta 3)
+
+---
+
+## Pregunta 9
+**¿En qué situaciones es necesario un poder especial?**
+
+**Opciones:**
+- 1)En las circunstancias en que las leyes así lo determinen.
+- 2)Todas las opciones son correctas.
+- 3)Para realizar acciones como renuncia, transacción, desistimiento, allanamiento, sometimiento a arbitraje y declaraciones que puedan llevar al cierre del proceso por acuerdos extrajudiciales o falta de objeto.
+- 4)Para llevar a cabo acciones que el poderdante haya excluido del poder general.
+
+**Respuesta correcta:** 2
+
+**Explicación (correcta):**  
+¡Exacto! Es necesario un poder especial en todas las situaciones mencionadas: cuando lo dictaminen las leyes, en acciones específicas que tienen implicaciones legales significativas y cuando el poderdante haya excluido ciertas acciones del poder general.
+
+**Explicación (errada):**  
+La respuesta correcta es que se necesita un poder especial en todas las situaciones mencionadas anteriormente. Es crucial entender las diferencias entre poder general y poder especial y las circunstancias bajo las cuales se requiere cada uno. (Respuesta Correcta 2)
+
+---
+
+## Pregunta 10
+**Conforme al artículo 11 LEC, ¿para qué están legitimadas las entidades habilitadas de acuerdo a la normativa comunitaria europea en relación a los intereses colectivos y difusos de los consumidores y usuarios?**
+
+**Opciones:**
+- 1)Para emprender la acción de reclamación en defensa de los intereses colectivos y los intereses difusos de los consumidores y usuarios.
+- 2)Para llevar a cabo la acción de compensación por daños y perjuicios.
+- 3)Para iniciar la acción de cesación en defensa de los intereses colectivos y los intereses difusos de los consumidores y usuarios.
+- 4)Para iniciar la acción de cesación en defensa de sus propios derechos.
+
+**Respuesta correcta:** 3
+
+**Explicación (correcta):**  
+¡Correcto! Según el artículo 11 LEC, las entidades que estén habilitadas según la normativa comunitaria europea tienen legitimación para ejercer la acción de cesación en defensa de los intereses colectivos y difusos de los consumidores y usuarios.
+
+**Explicación (errada):**  
+La respuesta adecuada es que, según el artículo 11 LEC, las entidades habilitadas conforme a la normativa europea tienen legitimidad para ejercer la acción de cesación en favor de los intereses colectivos y difusos de los consumidores y usuarios. Es vital conocer las especificidades de la ley y los derechos que protege. (Respuesta Correcta 3)
+
+---
+
+## Pregunta 11
+**¿A quién corresponde la representación y defensa de las comunidades autónomas y entes locales?**
+
+**Opciones:**
+- 1)A los Abogados del Estado que formen parte del Servicio Jurídico de la respectiva Comunidad Autónoma.
+- 2)Los Abogados del Estado se encargarán de representar y defender a las Comunidades Autónomas y a los entes locales, según lo estipulado en la Ley 52/1997, de 27 de noviembre, de Asistencia Jurídica al Estado e Instituciones Públicas y su reglamentación correspondiente.
+- 3)Siempre a los abogados que trabajen en los servicios jurídicos de estas administraciones públicas.
+- 4)A los letrados que trabajen en los servicios jurídicos de dichas administraciones públicas, a menos que se designe a un abogado colegiado para que les represente y defienda.
+
+**Respuesta correcta:** 4
+
+**Explicación (correcta):**  
+¡Muy bien! Es correcto. La representación y defensa de las comunidades autónomas y entes locales está generalmente a cargo de los letrados de sus respectivos servicios jurídicos. Sin embargo, pueden optar por designar a un abogado colegiado para que les represente y defienda.
+
+**Explicación (errada):**  
+Lo siento, la respuesta correcta es que la representación y defensa de las comunidades autónomas y entes locales normalmente está a cargo de los letrados de sus respectivos servicios jurídicos. No obstante, pueden designar a un abogado colegiado para su representación y defensa si así lo eligen. Es importante entender los mecanismos de representación legal en el marco de la administración pública. (Respuesta Correcta 4)
+
+---
+
+## Pregunta 12
+**Conforme a la legislación vigente tras la implantación de los Tribunales de Instancia, en los procesos civiles en que sean parte el Estado, los organismos públicos o los órganos constitucionales, y salvo que una ley disponga otra cosa, ¿qué órgano será competente territorialmente?**
+
+**Opciones:**
+- 1)La Sección Civil del Tribunal de Instancia que tenga su sede en la capital de la provincia, Ceuta o Melilla.
+- 2)Exclusivamente las Secciones Civiles de los Tribunales de Instancia de Madrid.
+- 3)La Sección Civil del Tribunal de Instancia del lugar de residencia del otro litigante.
+- 4)La Sección Civil del Tribunal de Instancia que las partes elijan por sumisión expresa.
+
+**Respuesta correcta:** 1
+
+**Explicación (correcta):**  
+¡Correcto! La competencia en estos casos corresponde a las Secciones Civiles de los Tribunales de Instancia con sede en las capitales de provincia, Ceuta o Melilla, adaptando la regla tradicional a la nueva estructura judicial.
+
+**Explicación (errada):**  
+La respuesta correcta es la 1. La LO 1/2025 transforma los antiguos juzgados en Secciones de los Tribunales de Instancia, pero mantiene la regla de competencia territorial en las capitales de provincia para litigios contra el Estado. (Respuesta Correcta 1)
+
+---
+
+## Pregunta 13
+**Según la Ley de Enjuiciamiento Civil, modificada por la LO 1/2025, si la intervención de abogado y procurador no es preceptiva, ¿en qué caso NO se excluirán sus honorarios de la condena en costas a la parte contraria?**
+
+**Opciones:**
+- 1)Cuando la parte vencedora sea titular del derecho de asistencia jurídica gratuita.
+- 2)Cuando el tribunal aprecie temeridad o abuso del servicio público de Justicia en la conducta del condenado en costas.
+- 3)Cuando el importe de la minuta del abogado no exceda la tercera parte de la cuantía del proceso.
+- 4)Siempre se excluirán, sin excepción, para no perjudicar a la parte que no se valió de dichos profesionales.
+
+**Respuesta correcta:** 2
+
+**Explicación (correcta):**  
+¡Correcto! La reforma del artículo 32.5 de la LEC introduce expresamente el "abuso del servicio público de Justicia" como una de las excepciones a la exclusión de honorarios en la condena en costas.
+
+**Explicación (errada):**  
+La respuesta correcta es la 2. La nueva redacción del art. 32.5 de la LEC permite incluir los honorarios en la condena en costas si el tribunal aprecia temeridad o, como novedad, "abuso del servicio público de Justicia". (Respuesta Correcta 2)
+
+---
+
+## Pregunta 14
+**De acuerdo con las modificaciones introducidas por la LO 1/2025, ¿qué nuevas funciones pueden ser delegadas por la autoridad judicial en los profesionales de la procura, a petición de la parte ejecutante y a su costa?**
+
+**Opciones:**
+- 1)La tasación de costas y la liquidación de intereses.
+- 2)La realización de determinadas actuaciones materiales propias del proceso de ejecución, como la práctica de requerimientos.
+- 3)La redacción de la sentencia en procesos monitorios sin oposición.
+- 4)La representación del Ministerio Fiscal en ausencias justificadas.
+
+**Respuesta correcta:** 2
+
+**Explicación (correcta):**  
+¡Correcto! La LO 1/2025, al modificar el artículo 543 de la LOPJ y diversos preceptos de la LEC (como el 539 o el 705), faculta la delegación en el procurador de ciertos actos materiales de ejecución.
+
+**Explicación (errada):**  
+La respuesta correcta es la 2. La reforma busca agilizar la ejecución permitiendo que el procurador, bajo delegación, realice actos como los requerimientos de pago o para hacer, que antes eran competencia exclusiva de la oficina judicial. (Respuesta Correcta 2)
+
+---
+
+## Pregunta 15
+**En el ámbito de los procesos civiles donde el Estado, entidades públicas u órganos constitucionales sean partes, ¿cuáles son los órganos judiciales competentes?**
+
+**Opciones:**
+- 1)Aquellos órganos judiciales ubicados en las capitales de provincia, Ceuta o Melilla, pero solo cuando se refiera a juicios universales o interdictos de obra ruinosa.
+- 2)Siempre serán competentes los órganos judciales en las capitales de provincia, Ceuta o Melilla, excepto cuando otra norma específica determine una competencia territorial distinta.
+- 3)De manera general, los órganos judiciales con sede en las capitales de provincia, Ceuta o Melilla.
+- 4)Exclusivamente los órganos judiciales que tengan su sede en las capitales de provincia.
+
+**Respuesta correcta:** 3
+
+**Explicación (correcta):**  
+¡Bien hecho! Has identificado correctamente que, en términos generales, los órganos judiciales con sede en las capitales de provincia, Ceuta o Melilla son competentes en casos civiles en que sean parte el Estado, Organismos públicos u órganos constitucionales.
+
+**Explicación (errada):**  
+Lo siento, esa no es la respuesta correcta. Es esencial conocer las competencias territoriales de los órganos judiciales para determinar dónde se deben presentar los casos. En general, en los procesos civiles con el Estado, entidades públicas u órganos constitucionales como partes, los órganos judiciales en las capitales de provincia, Ceuta o Melilla son los competentes. (Respuesta Correcta 3)
+
+---
+
+## Pregunta 16
+**Dentro de la tasación de costas contra la parte que actúe en oposición al Estado, sus entidades, órganos constitucionales o aquellas representadas por el Abogado del Estado, indica cuál de las siguientes afirmaciones es incorrecta:**
+
+**Opciones:**
+- 1)En cuanto a su cuantía, seguirán las normas generales.
+- 2)En los conceptos de la tasación de costas se excluirán, en todo caso, los correspondientes a las funciones de representación del Abogado del Estado
+- 3)Los montos obtenidos por tasación de costas se destinarán según lo establecido en el presupuesto.
+- 4)En relación a sus conceptos, se guiarán por las normas generales.
+
+**Respuesta correcta:** 2
+
+**Explicación (correcta):**  
+¡Perfecto! Has identificado correctamente que no se excluyen automáticamente los conceptos asociados a la representación del Abogado del Estado en la tasación de costas.
+
+**Explicación (errada):**  
+Esa no fue la opción correcta. En la tasación de costas, no se excluyen automáticamente los gastos relacionados con la representación del Abogado del Estado. Es importante estar al tanto de cómo se determinan las costas en casos relacionados con el Estado y sus representantes. (Respuesta Correcta 2)
+
+---
+
+## Pregunta 17
+**De los escenarios que se presentan a continuación, ¿en cuál se requerirá un poder específico?**
+
+**Opciones:**
+- 1)Al pedir que se posponga una audiencia.
+- 2)Al pedir medidas de urgencia previas al inicio del juicio.
+- 3)Para desistir del procedimiento.
+- 4)Al presentarse en juicios en los que participen menores o personas incapaces.
+
+**Respuesta correcta:** 3
+
+**Explicación (correcta):**  
+¡Bien hecho! Es correcto que se requiere un poder especial para desistir en un procedimiento.
+
+**Explicación (errada):**  
+Oops, esa no es la respuesta correcta. En el ámbito legal, un poder especial es necesario específicamente para desistir en un procedimiento. Es esencial para garantizar que las partes tengan claridad y certeza sobre sus acciones legales. (Respuesta Correcta 3)
+
+---
+
+## Pregunta 18
+**¿Bajo qué circunstancia los abogados del Estado pueden tomar la representación y defensa en juicio de las autoridades y empleados públicos del Estado?**
+
+**Opciones:**
+- 1)Nunca.
+- 2)Si la autoridad o empleado público solicita expresamente su ayuda.
+- 3)Cuando los procedimientos estén relacionados con actos o negligencias vinculados a sus funciones oficiales.
+- 4)Siempre.
+
+**Respuesta correcta:** 3
+
+**Explicación (correcta):**  
+¡Exacto! Los abogados del Estado pueden representar a las autoridades y empleados públicos cuando los procedimientos estén vinculados directamente con sus responsabilidades oficiales.
+
+**Explicación (errada):**  
+Lo siento, esa no es la respuesta correcta. Los abogados del Estado tienen la facultad de representar a las autoridades y empleados públicos únicamente cuando los procedimientos están relacionados con actos o negligencias realizadas en el ejercicio de sus funciones oficiales. (Respuesta Correcta 3)
+
+---
+
+## Pregunta 19
+**En un proceso civil, ¿cuál de las siguientes acciones puede llevar a cabo un procurador legalmente autorizado?**
+
+**Opciones:**
+- 1)Hacer actos de presencia personal en nombre de aquellos a quienes representa cuando así lo solicite el Juez, Tribunal o LAJ.
+- 2)Presentarse en cualquier tipo de procedimientos sin la necesidad de un abogado, exclusivamente para escuchar y recibir comunicaciones.
+- 3)Llevar a cabo actos de comunicación, pero sin la capacidad de certificar.
+- 4)Ejercer de manera simultánea las profesiones de abogado y procurador de los Tribunales.
+
+**Respuesta correcta:** 2
+
+**Explicación (correcta):**  
+¡Correcto! Un procurador legalmente habilitado puede aparecer en cualquier proceso sin la necesidad de un abogado, pero solo para escuchar y recibir comunicaciones.
+
+**Explicación (errada):**  
+Esa respuesta no es la correcta. En el proceso civil, un procurador legalmente habilitado tiene permitido presentarse en cualquier tipo de procedimientos sin la necesidad de un abogado, pero únicamente para escuchar y recibir actos de comunicación. (Respuesta Correcta 2)
+
+---
+
+## Pregunta 20
+**¿Quiénes tienen legitimidad en el ámbito civil para defender el derecho a igualdad de trato y no discriminación?**
+
+**Opciones:**
+- 1)En relación con las personas afiliadas o asociadas a los mismos, los partidos políticos, los sindicatos, las asociaciones profesionales de trabajadores autónomos, las organizaciones de personas consumidoras y usuarias y las asociaciones y organizaciones legalmente constituidas que tengan entre sus fines la defensa y promoción de los derechos humanos, de acuerdo con lo establecido en la Ley integral para la igualdad de trato y la no discriminación, siempre con autorización de las personas afectadas.
+- 2)Solamente las personas directamente afectadas.
+- 3)Si los afectados son un grupo no determinado o de difícil especificación, solo el Ministerio Fiscal tiene legitimidad, aunque los sindicatos y asociaciones pueden solicitar formalmente su intervención.
+- 4)El Ministerio Fiscal, pero solo en casos de acoso sexual o por razón de género.
+
+**Respuesta correcta:** 1
+
+**Explicación (correcta):**  
+¡Bien hecho! Varios entes, como partidos políticos, sindicatos y asociaciones orientadas a los derechos humanos, están legitimados para defender el derecho a igualdad y no discriminación en el ámbito civil, siempre y cuando cuenten con el consentimiento de las personas afectadas.
+
+**Explicación (errada):**  
+Lo siento, esa no es la respuesta correcta. En el ámbito civil, distintas organizaciones y entidades tienen legitimidad para defender el derecho a igualdad y no discriminación, pero siempre deben contar con la autorización de las personas directamente afectadas. (Respuesta Correcta 1)
+
+---
+

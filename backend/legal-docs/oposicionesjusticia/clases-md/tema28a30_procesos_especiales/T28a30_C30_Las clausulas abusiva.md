@@ -1,0 +1,80 @@
+# Procesos Especiales
+
+## T28a30 C30 Las clausulas abusiva
+
+**Tema:** Procesos Especiales  
+**Clase:** T28a30_C30_Las clausulas abusiva  
+**Archivo:** T28a30_C30_Las clausulas abusiva.txt  
+**Tipo:** Material de Clase  
+**Categoría:** Oposiciones de Justicia  
+
+---
+
+Muy buenas a todos. ¿Estáis preparados para ver qué novedades y qué tramitación se le da al proceso civil cuando se haya una cláusula considerada como abusiva? Lo primero que hemos de ver es, obviamente, ¿qué es esto de una cláusula abusiva? ¿Se consideran cláusulas abusivas según el artículo 82 de la propia ley general para la defensa de consumidores y usuarios? ¿Todas aquellas estipulaciones no negociadas individualmente y todas aquellas prácticas no consentidas expresamente que, en contra de las exigencias de la buena fe, causen un perjuicio del consumidor y usuario o un desequilibrio importante de los derechos y obligaciones de las partes que se deriven del contrato? Por ejemplo, imagínate que existe una cláusula que restringe o condiciona el derecho de resistimiento del consumidor. Venga, ahora vamos a ver ejemplos de cláusulas abusivas.
+
+
+Entre ellas mencionemos las cláusulas de renuncia anticipada al derecho a impugnar. Un contrato que incluye una cláusula donde una de las partes renuncia de antemano a la posibilidad de impugnar judicialmente cualquier aspecto del contrato. Esto limita seriamente el acceso a la justicia para la parte más débil.
+
+
+Cláusula de arbitraje obligatorio. Por ejemplo, imagínate un contrato entre Paula y Héctor, de compra-venta. En este, se estipula que cualquier disputa debe resolverse exclusivamente a través del arbitraje, eliminando el derecho de una de las partes a llevar el caso a los tribunales.
+
+
+Esto puede ser abusivo si el arbitraje es claramente favorable a una de las partes. Cláusula de limitación de responsabilidad. Imagínate que se limita la responsabilidad de una de las partes en casos de negligencia o incumplimiento de contrato, dejando a la otra parte sin suficientes remedios en caso de perjuicio.
+
+
+Cláusula de renovación automática. Renuevan automáticamente el contrato por periodos adicionales sin el consentimiento explícito de ambas partes, lo que puede atrapar a una de las partes en términos contractuales no deseados. Por ejemplo, imagínate que adquieres una suscripción y sin ningún tipo de aviso se te renueva por un par de años más cuando realmente tú querías haberla cancelado.
+
+
+Cláusula de modificación unilateral. Permite a una de las partes modificar los términos del contrato sin el consentimiento de la otra parte. Esto puede incluir, por ejemplo, aumentos de precio o cambios en el servicio sin aviso previo.
+
+
+Por ejemplo, imagina un contrato de Alkiner donde el arrendador, sin avisar al arrendatario, directamente le sube 500 euros más. Cláusula de pago por incumplimiento excesivo. Son aquellas cláusulas donde se establecen multas desproporcionadas para la parte que incumple el contrato sin relación con el daño real sufrido por la otra parte.
+
+
+Y la pregunta lógica ahora sería ¿cuál es la reacción ante la existencia de estas cláusulas abusivas? Pues debes saber que se instaula una medida, el control. Recuerda que esta materia ha sido reformada por el Real Decreto Ley 6.2023 y por eso le dedicamos esta clase. El control de las cláusulas abusivas ha sido instaurado como novedad legislativa en las siguientes esferas.
+
+
+En los procedimientos de reclamación de derechos y gastos que se le deben al procurador por prestar sus servicios y a los abogados, es decir, sus honorares correspondientes. Esto se establece en el artículo 34 y 35 de la Ley de Juiciamiento Civil. Ahora veámoslo con un ejemplo porque el control siempre se suele efectuar del mismo modo en todas las esferas.
+
+
+El juez o jueza examina de oficio si alguna de las cláusulas que constituyen el fundamento de la petición o que hubiesen de determinar la cantidad exigible pueden ser calificadas como abusivas. Es decir, imagínate que Pedro contrata los servicios de María, abogada, y tienen un conflicto en cuanto al pago que este primero debe hacer a María por sus servicios prestados. En dicho contrato existe claramente una cláusula abusiva añadida por María que ataca a los derechos de Pedro.
+
+
+En este caso que te comento, el juez, sin necesidad de que se lo pida ni Pedro ni María, examina de oficio esta cláusula. Lo siguiente que va a hacer el juez es escuchar a ambos por 5 días. Una vez oídos, va a resolver mediante auto en otros 5 días.
+
+
+Para este proceso de control no se va a necesitar abogado ni procurador. Ahora imagínate que efectivamente el juez determina que la cláusula es abusiva para Pedro, pues en el auto en el que así lo diga tendrá que añadir qué consecuencias tendrá para María la inclusión de esta cláusula y así calificada como abusiva. Entre las consecuencias posibles tenemos varias.
+
+
+Bien la improcedencia de la pretensión, bien la continuación del procedimiento sin aplicación de las consideradas abusivas. Por otro lado, si el tribunal no estima la existencia de cláusulas abusivas lo declarará así. Ten en cuenta, en última instancia, que este auto del que venimos hablando es apelable en todo caso, ojo con este detalle, para el test.
+
+
+Una vez que sea firme tendrá fuerza y autoridad de cosa juzgada. Segunda, otra esfera donde se introduce este control sobre las cláusulas abusivas es en la ejecución de títulos extrajudiciales. En este artículo ya existía un control de oficio en el artículo 552 de la Ley de Juiciamiento Civil.
+
+
+Sin embargo, se ha incorporado la necesidad expresa de que el título extrajudicial a ejecutar no contenga cláusulas de este tipo para poder dictar autos conteniendo orden general de ejecución y el despacho de la misma, tal y como se recoge en el artículo 551.1 de la Ley de Juiciamiento Civil. En este sentido, se prevé expresamente que el auto que contenga la orden general de ejecución se pronunciará sobre la inexistencia de cláusula abusiva cuando la ejecución se fundamente en un contrato celebrado entre un empresario o un profesional y un consumidor o usuario, tal y como recoge el artículo 551.2.5 de la Ley. Asimismo, el decreto que se dicte tras el auto con la orden general de ejecución indicará expresamente al deudor que puede oponerse a dicha valoración y se le advertirá que, en caso de no hacerlo en tiempo y forma, no podrá impugnarla en un momento ulterior, tal y como recoge el 551.4 de la Ley de Juiciamiento Civil.
+
+
+Tercero y último, otras novedades a tener en cuenta se dan en el procedimiento de ejecución especial sobre bienes hipotecados o ignorados. El auto que se dicte resolviendo la oposición a la ejecución por el carácter abusivo de la cláusula se pronunciará expresamente al respecto y, una vez firme, dicho pronunciamiento tendrá eficacia de causa juzgada, así lo dispone el artículo 695.3 de la Ley de Juiciamiento Civil. Imaginemos que un banco ha iniciado un procedimiento de ejecución hipotecaria contra un individuo, llamémoslo Carlos, debido al impago de su préstamo hipotecario.
+
+
+Durante el proceso de ejecución, Carlos presenta una oposición alegando que ciertas cláusulas del contrato hipotecario son abusivas. En este caso, el tribunal emite un auto para resolver la oposición de Carlos. En el auto, el tribunal analiza las cláusulas en cuestión y determina si son abusivas o no.
+
+
+Si el tribunal encuentra que las cláusulas son abusivas, el auto se pronunciará expresamente al respecto. Una vez que el auto se vuelve firme, lo que significa que no se han presentado recursos en contra o que los recursos han sido resueltos y confirmados, el pronunciamiento del tribunal sobre la abusividad de las cláusulas tendrá eficacia de cosa juzgada. Esto significa que la cuestión de la abusividad de las cláusulas ya no podrá ser discutida nuevamente en futuros procesos relacionados con la misma hipoteca entre Carlos y el banco.
+
+
+Por otro lado, también hay novedades en aquellos casos de prejudicialidad. Si se suspendiera por prejudicialidad civil un proceso en el que se ejercita una acción individual de un consumidor relativa al carácter abusivo de una cláusula contractual, se podrá acordar de oficio sin necesidad de prestar caución las medidas cautelares que se consideren necesarias para asegurar la eficacia de un eventual pronunciamiento estimatorio, tal y como recoge el artículo 721.3 de la Ley de Juiciamiento Civil. Supongamos que un consumidor, al que llamaremos Juan, presenta una demanda contra una entidad bancaria alegando que una cláusula contractual en su contrato de hipoteca es abusiva.
+
+
+Mientras se desarrolla el proceso judicial, surge un problema de prejudicialidad civil. Esto significa que hay otro proceso pendiente que podría afectar al caso de Juan. En este escenario, se podría suspender el proceso judicial de Juan debido a la prejudicialidad civil.
+
+
+Sin embargo, para asegurar que, en caso de que el fallo sea favorable a Juan, se pueda hacer cumplir adecuadamente, el tribunal puede tomar medidas cautelares de oficio. Estas medidas cautelares podrían incluir, por ejemplo, la congelación de ciertos activos de la entidad bancaria para garantizar que, si el fallo es favorable a Juan, se pueda ejecutar de manera efectiva y que no se vea perjudicado por la situación financiera de la entidad. Antes de acabar, te recuerdo una cosa.
+
+
+No te olvides tampoco de revisar las novedades habidas en el proceso monitoreo a este respecto. Para ello, hay una clase específica de ese tema. Y bueno, hasta aquí la clase de hoy, opositores.
+
+
+Hemos visto qué es una cláusula abusiva y en qué espera se han introducido novedades sobre la misma por el Real Decreto Ley 6.0.023. Recuerda que sobre todo en el ámbito de cuentas del procurador y honorarios del abogado, así como en el tema de ejecución, se han introducido matices importantes. Hasta la próxima, opositores. ¡Mucho ánimo y a seguir estudiando!
+

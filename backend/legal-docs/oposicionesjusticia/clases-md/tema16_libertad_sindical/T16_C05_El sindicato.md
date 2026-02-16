@@ -1,0 +1,44 @@
+# Libertad Sindical
+
+## El sindicato
+
+**Tema:** Libertad Sindical  
+**Clase:** T16_C05  
+**Archivo:** T16_C05_El sindicato.txt  
+**Tipo:** Material de Clase  
+**Categoría:** Oposiciones de Justicia  
+
+---
+
+Hola a todos y a todas y bienvenidos. Estoy segura de que la palabra sindicato te resulta familiar, pero jurídicamente, ¿qué se considera un sindicato? Pues se trata de una asociación de trabajadores para la defensa y promoción de los intereses económicos y sociales que les son propios y es importante tener conciencia de que el sindicato se trata de una asociación que permite a los trabajadores organizarse de forma independiente y ajena a la empresa a través de unos estatutos y que dispone de una organización estable, órganos, domicilio, identidad jurídica y para poder defender los intereses de los trabajadores, los sindicatos cuentan con herramientas como la negociación colectiva, la concertación social y los conflictos colectivos como la huelga. Y ojo, porque lo que te voy a decir ahora es muy importante, el sindicato se encuentra especialmente protegido en la constitución española y atento porque jurídicamente el sindicato no es una asociación cualquiera sino que goza de la misma protección y el régimen jurídico que los partidos políticos puesto que constituye uno de los pilares del estado social y democrático de derecho y si te interesa profundizar más pueden leer la sentencia del tribunal constitucional 210 barra 1996 de 17 de diciembre.
+
+
+Y esta importancia que le otorga la constitución en su artículo 7 es vital porque los sindicatos podrán también defender los intereses de aquellas personas que no se encuentren afiliadas a ningún sindicato. Y sí, he utilizado la palabra persona y no trabajadores y es que la representación institucional que se les atribuye a los sindicatos que democráticamente cuentan con más apoyo es tal que se les ha reconocido la capacidad de actuación en defensa de los intereses generales incluso de colectivos que no están dentro del ámbito laboral como serían los trabajadores autónomos los jubilados o los desempleados. Si te interesa conocer más sobre este tema tienes a tu disposición la sentencia del tribunal constitucional 88 barra 2001 de 2 de abril y la sentencia del tribunal supremo de 21 de marzo de 1981.
+
+
+Pero ¿cuál es el procedimiento para la constitución de un sindicato? Pues bien, el requisito previo para que un sindicato adquiera personalidad jurídica y plena capacidad de obrar es que deposite los estatutos y el acta de constitución en la oficina pública que se establezca para esto. Una vez se han depositado los estatutos en las unidades correspondientes éstas darán publicidad de los mismos en su tablón de anuncios y en el boletín oficial correspondiente y tanto la autoridad pública como quienes acrediten un interés personal directo y legítimo podrán promover ante la autoridad judicial la declaración de no conformidad a derechos de los estatutos de aquellos sindicatos que hayan sido objeto de depósito y publicación y una vez transcurrido 20 días hábiles desde el depósito de los estatutos el sindicato adquiere personalidad jurídica y plena capacidad de obrar siempre y cuando, claro, estos estatutos no hayan sido impugnados. Los estatutos, por su parte, deberán contener la denominación del sindicato incluida en la sigla, lo acrónimo y no podrá coincidir ni inducir a confusión con otro sindicato que esté legalmente inscrito.
+
+
+Por ejemplo, tú mañana no puedes crear un sindicato que se llame comisión obrera. Se deberá incluir también el domicilio y el ámbito territorial y funcional de actuación. Los órganos de representación, gobierno y administración, a su vez, deberá también contener el régimen de provisión electiva de los cargos que habrá de ajustarse a principios democráticos.
+
+
+Por su parte, también deberán contener los requisitos y procedimientos para la adquisición y pérdida de la condición de afiliado. También el régimen de modificación de estatutos, el de fusión, el de disolución y el de destino del patrimonio que no desvirtúe el carácter no lucrativo del sindicato. Y el régimen económico, la forma en la que se establece la procedencia y el destino de los recursos, los medios que permitan conocer a los afiliados la situación económica, también la inclusión de los fines propiamente laborales que identifican al sindicato y cualesquiera otras disposiciones y condiciones lícitas que los promotores consideren convenientes.
+
+
+Es decir, como hemos dicho en otras lecciones, ajustada a derecho. Unos estatutos de un sindicato no pueden contener una cláusula discriminatoria en la que establezcan, por ejemplo, quienes no pueden afiliarse a hombres de más de 35 años. Por otra parte, los sindicatos pueden clasificarse del modo siguiente.
+
+
+Por un lado están los sindicatos de oficio, que son aquellos organizados por actividades profesionales, típicos del principio del sindicalismo y de los modelos británicos o norteamericanos. Si bien es cierto que en España son escasos, son conocidos por su fuerza, debido a que agrupan a trabajadores de alta cualificación, como por ejemplo los conductores de locomotora, los médicos, los pilotos de aeronaves civiles... También tenemos a los sindicatos de industria, que agrupan a los trabajadores por sectores o ramas de actividad y son típicos de los sistemas de producción industrial. En España suelen agrupar a trabajadores no especializados.
+
+
+También existen los sindicatos generales, que agrupan a una diversidad de categoría laboral dentro de un mismo sector y de un ámbito geográfico. Y por último existe lo que se conoce como sindicato de empresa. Estos sindicatos en España se conocen como sindicatos amarillos y están prohibidos expresamente por el artículo 13 de la LOMS.
+
+
+Por otra parte, la actividad más importante de los sindicatos se ejerce a través de las federaciones y las confederaciones, puesto que a través de este mecanismo se marcan las pautas de actuación de los sindicatos federado o confederado. Y esto lo ha señalado el Tribunal Constitucional en su sentencia 187-1987 de 24 de noviembre. Dice el Constitucional que el objetivo de las federaciones y las confederaciones es el de agregar y conjugar la capacidad de acción de todos los sindicatos federado o confederado para obtener mejores resultados en el desarrollo de la actividad sindical y de la negociación colectiva, y esto no hace que se pierda la personalidad jurídica propia y la denominación específica de cada sindicato.
+
+
+Pero es que estas confederaciones sindicales, interprofesionales o sectoriales de ámbito nacional, como por ejemplo serían UGT o comisiones obreras, pueden integrarse en organizaciones sindicales internacionales. Y este derecho de los sindicatos y asociaciones empresariales, de las que hablaremos más tarde, a fundar organizaciones sindicales internacionales o a afiliarse a las mismas, se contempla en el artículo 5 del convenio 87 de la Organización Internacional del Trabajo y en la LOMS. Actualmente la Confederación Internacional de Organizaciones Sindicales Libres agrupa desde 1949 a la mayor parte de los sindicatos occidentales y también existe la Confederación Mundial del Trabajo, que agrupa a confederaciones sindicales de carácter sociocristiano, y los principales sindicatos de la Unión se agrupan en la Confederación Europea de Sindicatos.
+
+
+Y esto ha sido todo por la clase de hoy, espero que te haya gustado y nos vemos en la próxima. ¡Un saludo!
+

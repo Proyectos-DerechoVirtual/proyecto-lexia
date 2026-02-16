@@ -1,0 +1,874 @@
+## Pregunta 1
+**¿Cuál es el período estipulado para enviar la certificación que valide la condición de ministro de culto al Encargado competente del Registro Civil para su registro?**
+
+**Opciones:**
+- 1)10 días.
+- 2)5 días.
+- 3)15 días.
+- 4)20 días.
+
+**Respuesta correcta:** 2
+
+**Explicación (correcta):**  
+¡Correcto! La certificación acreditativa debe ser remitida al Encargado competente del Registro Civil en un plazo de cinco días.
+
+**Explicación (errada):**  
+Lo siento, eso no es correcto. La certificación acreditativa tiene que ser enviada al Encargado del Registro Civil competente dentro de un período de cinco días. (Respuesta Correcta 2)
+
+---
+
+## Pregunta 2
+**¿Tiene la autoridad el Encargado del Registro Civil para aprobar una modificación de nombre?**
+
+**Opciones:**
+- 1)Sí, con una declaración previa del individuo involucrado, quien debe demostrar el uso constante del nuevo nombre y siempre que se cumplan las otras condiciones requeridas por la legislación del Registro Mercantil.
+- 2)Sí, con una declaración previa del individuo involucrado, quien no debe demostrar el uso constante del nuevo nombre y siempre que se cumplan las otras condiciones requeridas por la legislación del Registro Civil.
+- 3)Sí, con una declaración previa del individuo involucrado, quien debe demostrar el uso constante del nuevo nombre y siempre que se cumplan las otras condiciones requeridas por la legislación del Registro Civil.
+- 4)Sí, sin una declaración previa del individuo involucrado, quien debe demostrar el uso constante del nuevo nombre y siempre que se cumplan las otras condiciones requeridas por la legislación del Registro Civil.
+
+**Respuesta correcta:** 3
+
+**Explicación (correcta):**  
+¡Correcto! El cambio de nombre puede ser autorizado por el Encargado del Registro Civil con una declaración previa del interesado, quien debe demostrar el uso constante del nuevo nombre, siempre que se cumplan las otras condiciones requeridas por la legislación del Registro Civil.
+
+**Explicación (errada):**  
+Lo siento, eso no es correcto. El cambio de nombre puede ser autorizado solamente con una declaración previa del interesado, quien tiene que demostrar el uso constante del nuevo nombre, y siempre que se cumplan las otras condiciones establecidas en la legislación del Registro Civil. (Respuesta Correcta 3)
+
+---
+
+## Pregunta 3
+**Según las normas de control de legalidad establecidas en la Ley del Registro Civil de 2011, elija la opción correcta:**
+
+**Opciones:**
+- 1)El Encargado de la Oficina del Registro Civil ante el que se solicita la inscripción deberá controlar la legalidad de las formas extrínsecas del documento, la validez de los actos y la realidad de los hechos contenidos en éste.
+- 2)El Encargado de la Oficina del Registro Civil que recibe la solicitud de inscripción debe verificar la legalidad de las formas intrínsecas del documento, la validez de los actos y la verdad de los hechos en él descritos.
+- 3)El Encargado de la Oficina del Registro Civil que recibe la solicitud de inscripción debe verificar la legalidad de las formas extrínsecas del documento, la invalidez de los actos y la verdad de los hechos en él descritos.
+- 4)El Encargado de la Oficina del Registro Civil que recibe la solicitud de inscripción debe verificar la legalidad de las formas extrínsecas del documento, la validez de los actos y la falsedad de los hechos en él descritos.
+
+**Respuesta correcta:** 1
+
+**Explicación (correcta):**  
+¡Bien hecho! El encargado debe revisar la legalidad de las formas extrínsecas del documento, validar los actos y verificar la realidad de los hechos en el documento.
+
+**Explicación (errada):**  
+Incorrecto. De acuerdo con las normas de control de legalidad, el Encargado de la Oficina del Registro Civil debe verificar la legalidad de las formas extrínsecas del documento, la validez de los actos y la verdad de los hechos descritos en el documento. (Respuesta Correcta 1)
+
+---
+
+## Pregunta 4
+**Indique la opción incorrecta. Según el artículo 32 de la Ley del Registro Civil, las solicitudes y declaraciones de los ciudadanos deben incluir:**
+
+**Opciones:**
+- 1)Incapacidad del funcionario de la oficina a la que se ha dirigido.
+- 2)Documento Nacional de Identidad.
+- 3)Capacidad del funcionario de la oficina a la que se ha dirigido.
+- 4)Identidad del solicitante.
+
+**Respuesta correcta:** 3
+
+**Explicación (correcta):**  
+¡Correcto! La opción incorrecta es que en las solicitudes y declaraciones deba constar la capacidad del funcionario de la oficina a la que se ha dirigido.
+
+**Explicación (errada):**  
+Incorrecto. La opción que no es correcta es la que menciona la capacidad del funcionario de la oficina a la que se ha dirigido. En las solicitudes y declaraciones no se requiere esta información. (Respuesta Correcta 3)
+
+---
+
+## Pregunta 5
+**Conforme al artículo 70 de la Ley del Registro Civil, ¿cuál de las siguientes situaciones no tendrá efectos frente a terceros hasta que no se registre en el Registro Civil?**
+
+**Opciones:**
+- 1)La concesión de emancipación, ya sea judicial o por quienes ejercen la patria potestad.
+- 2)La emancipación por vida independiente.
+- 3)El beneficio de la mayor edad.
+- 4)Todas las opciones son correctas.
+
+**Respuesta correcta:** 4
+
+**Explicación (correcta):**  
+¡Correcto! Todas las situaciones mencionadas no producirán efectos frente a terceros mientras no se inscriban en el Registro Civil, según el artículo 70 de la Ley del Registro Civil.
+
+**Explicación (errada):**  
+Incorrecto. Todas las situaciones listadas, no solo la seleccionada, carecerán de efectos frente a terceros si no están inscritas en el Registro Civil. (Respuesta Correcta 4)
+
+---
+
+## Pregunta 6
+**Indique la respuesta incorrecta respecto a la notificación de defunción por parte de los centros sanitarios:**
+
+**Opciones:**
+- 1)Se notificará a la Oficina del Registro Civil correspondiente.
+- 2)Se notificará al Instituto Nacional de Estadística.
+- 3)Será remitida por el personal del centro sanitario.
+- 4)Será remitida por la autoridad pública en el plazo legalmente establecido.
+
+**Respuesta correcta:** 4
+
+**Explicación (correcta):**  
+¡Correcto! La opción incorrecta es que la notificación de defunción será remitida por la autoridad pública en el plazo legalmente establecido. Este no es un procedimiento regularmente seguido por los centros sanitarios.
+
+**Explicación (errada):**  
+Incorrecto. La opción incorrecta en este caso es que la notificación será remitida por la autoridad pública en el plazo legalmente establecido. Esto no se alinea con los procedimientos típicos de los centros sanitarios para comunicar defunciones. (Respuesta Correcta 4)
+
+---
+
+## Pregunta 7
+**De acuerdo con la Ley de 2011 del Registro Civil, ¿en cuánto tiempo la dirección de hospitales, clínicas y establecimientos sanitarios informará sobre cada nacimiento ocurrido en sus instalaciones?**
+
+**Opciones:**
+- 1)Dentro de 72 horas.
+- 2)Dentro de 24 horas.
+- 3)Dentro de 12 horas.
+- 4)Dentro de 86 horas.
+
+**Respuesta correcta:** 1
+
+**Explicación (correcta):**  
+¡Correcto! De acuerdo con la Ley de 2011 sobre el Registro Civil, los nacimientos deben ser comunicados por los centros sanitarios en un plazo de setenta y dos horas.
+
+**Explicación (errada):**  
+Incorrecto. Según la Ley de 2011 del Registro Civil, los centros sanitarios deben comunicar los nacimientos que ocurren en sus instalaciones dentro de un plazo de setenta y dos horas, no en los plazos que ha seleccionado. (Respuesta Correcta 1)
+
+---
+
+## Pregunta 8
+**En relación con la notificación de defunciones por parte de los centros sanitarios, seleccione la respuesta correcta:**
+
+**Opciones:**
+- 1)La notificación se enviará mediante el formulario oficial debidamente completado y acompañado del certificado médico firmado por el facultativo correspondiente.
+- 2)La notificación se enviará en formato papel dentro del plazo reglamentariamente establecido.
+- 3)La notificación puede enviarse por cualquier medio autorizado por el centro sanitario.
+- 4)El médico de guardia notificará a la Oficina del Registro Civil competente y al Instituto Nacional de Estadística cada una de las defunciones ocurridas en el centro durante su turno.
+
+**Respuesta correcta:** 1
+
+**Explicación (correcta):**  
+¡Bien hecho! La comunicación de la defunción se realiza mediante el envío del formulario oficial cumplimentado, acompañado del certificado médico firmado por el facultativo.
+
+**Explicación (errada):**  
+Incorrecto. La comunicación correcta de defunción se lleva a cabo mediante el envío del formulario oficial debidamente completado, que debe ir acompañado del certificado médico firmado por el profesional correspondiente, no de las formas que ha seleccionado. (Respuesta Correcta 1)
+
+---
+
+## Pregunta 9
+**Para un matrimonio religioso, ¿cuál es el plazo para otorgar el consentimiento matrimonial desde la fecha del acta o resolución que incluye el juicio de capacidad matrimonial?**
+
+**Opciones:**
+- 1)Antes de que transcurran cinco meses.
+- 2)Antes de que transcurran tres meses.
+- 3)Antes de que transcurran seis meses.
+- 4)Antes de que transcurran cuatro meses.
+
+**Respuesta correcta:** 3
+
+**Explicación (correcta):**  
+¡Correcto! Para los matrimonios religiosos, el consentimiento matrimonial debe otorgarse dentro de los seis meses siguientes a la fecha del acta o resolución que contiene el juicio de capacidad matrimonial.
+
+**Explicación (errada):**  
+Incorrecto. El consentimiento matrimonial para un matrimonio religioso debe ser otorgado antes de que transcurran seis meses desde la fecha del acta o resolución que contiene el juicio de capacidad matrimonial, no en los plazos que ha seleccionado. (Respuesta Correcta 3)
+
+---
+
+## Pregunta 10
+**¿Cuál resolución judicial será vinculante frente a terceros solo cuando se realicen las inscripciones correspondientes en el Registro Civil?**
+
+**Opciones:**
+- 1)La que anula una resolución judicial emitida en un procedimiento de provisión de apoyos.
+- 2)La que rescinde una resolución judicial emitida en un procedimiento de provisión de apoyos.
+- 3)La que valida una resolución judicial emitida en un procedimiento de provisión de apoyos.
+- 4)La que subsana una resolución judicial emitida en un procedimiento de provisión de apoyos.
+
+**Respuesta correcta:** 1
+
+**Explicación (correcta):**  
+¡Correcto! Las resoluciones judiciales que dejan sin efecto resoluciones previas dictadas en procedimientos de provisión de apoyos solo son vinculantes frente a terceros una vez que se han inscrito en el Registro Civil.
+
+**Explicación (errada):**  
+Incorrecto. La respuesta correcta es que las resoluciones que dejan sin efecto decisiones previas en procedimientos de provisión de apoyos son las que solo tienen efectos frente a terceros después de ser inscritas en el Registro Civil. (Respuesta Correcta 1)
+
+---
+
+## Pregunta 11
+**En relación con la inscripción de la nacionalidad y de la vecindad civil, señale la respuesta correcta:**
+
+**Opciones:**
+- 1)Las declaraciones de voluntad referentes a la pérdida de la nacionalidad española se pueden realizar ante notario.
+- 2)Las declaraciones de voluntad referentes a la conservación de la nacionalidad española se pueden realizar ante el Encargado del Registro Civil.
+- 3)Las declaraciones de voluntad referentes a la recuperación de la nacionalidad española se pueden realizar ante el funcionario diplomático o consular del Registro Civil.
+- 4)Todas las opciones mencionadas son correctas.
+
+**Respuesta correcta:** 4
+
+**Explicación (correcta):**  
+¡Correcto! Todas las declaraciones de voluntad mencionadas (pérdida, conservación y recuperación de la nacionalidad española) pueden realizarse ante las autoridades y funcionarios especificados.
+
+**Explicación (errada):**  
+Incorrecto. La opción correcta es que todas las respuestas anteriores son válidas en relación con las declaraciones de voluntad sobre la nacionalidad y vecindad civil españolas. (Respuesta Correcta 4)
+
+---
+
+## Pregunta 12
+**Indique cuál de las siguientes opciones no es un título válido para realizar una inscripción en el Registro Civil:**
+
+**Opciones:**
+- 1)Un título de compraventa público.
+- 2)Los documentos notariales.
+- 3)Las sentencias definitivas.
+- 4)Las sentencias firmes.
+
+**Respuesta correcta:** 3
+
+**Explicación (correcta):**  
+¡Correcto! Las sentencias definitivas no son un título que permita practicar una inscripción en el Registro Civil por sí mismas.
+
+**Explicación (errada):**  
+Incorrecto. La opción correcta es "Las sentencias definitivas", ya que estas por sí mismas no constituyen un título que permita realizar inscripciones en el Registro Civil. (Respuesta Correcta 3)
+
+---
+
+## Pregunta 13
+**Señale la respuesta correcta en relación con la inscripción de defunción:**
+
+**Opciones:**
+- 1)El Ministerio Fiscal también promoverá la inscripción de nacimiento de menores que ya han sido inscritos.
+- 2)El personal sanitario que remita la comunicación de defunción utilizará mecanismos seguros de identificación y firma electrónicos.
+- 3)El Ministerio Fiscal también promoverá la inscripción de fallecimiento de menores que aún no han sido inscritos.
+- 4)El personal sanitario que remita la comunicación de defunción utilizará mecanismos seguros de identificación y firma personales.
+
+**Respuesta correcta:** 2
+
+**Explicación (correcta):**  
+¡Correcto! El personal sanitario que envíe la comunicación de la defunción utilizará mecanismos seguros para identificación y firma electrónicos.
+
+**Explicación (errada):**  
+Incorrecto. El personal sanitario debe utilizar mecanismos seguros de identificación y firma electrónicos al enviar la comunicación de defunción. (Respuesta Correcta 2)
+
+---
+
+## Pregunta 14
+**¿Quién tiene la obligación de promover la inscripción de defunción?**
+
+**Opciones:**
+- 1)Los médicos.
+- 2)Cualquier habitante de la casa donde se haya producido el fallecimiento.
+- 3)Cualquier persona mayor de edad que estuviera presente en el lugar del fallecimiento al momento de ocurrir.
+- 4)Ninguna es correcta.
+
+**Respuesta correcta:** 2
+
+**Explicación (correcta):**  
+¡Correcto! Cualquier habitante de la casa donde se haya producido el fallecimiento está obligado a promover la inscripción de defunción.
+
+**Explicación (errada):**  
+Incorrecto. La respuesta correcta es que cualquier habitante de la casa donde se produzca el fallecimiento está obligado a promover la inscripción de defunción. (Respuesta Correcta 2)
+
+---
+
+## Pregunta 15
+**Indique cuál de los siguientes sujetos no está obligado a promover la inscripción de nacimiento:**
+
+**Opciones:**
+- 1)Los padres.
+- 2)Los parientes cercanos.
+- 3)El alcalde del pueblo donde se produzca el nacimiento.
+- 4)La dirección de hospitales, clínicas y establecimientos sanitarios.
+
+**Respuesta correcta:** 3
+
+**Explicación (correcta):**  
+¡Correcto! El alcalde del pueblo donde se produzca el nacimiento no está obligado a promover la inscripción de nacimiento.
+
+**Explicación (errada):**  
+Incorrecto. La respuesta correcta es el alcalde del pueblo donde ocurra el nacimiento, ya que no está obligado a promover la inscripción de nacimiento. (Respuesta Correcta 3)
+
+---
+
+## Pregunta 16
+**Conforme a la disposición adicional cuarta de la Ley del Registro Civil de 21 de julio de 2011, señale la opción correcta:**
+
+**Opciones:**
+- 1)Se registrarán en un archivo del Registro Civil, sin efectos jurídicos, los fallecimientos que ocurran después de los seis meses de gestación y que no cumplan con las condiciones estipuladas en el artículo 30 del Código Civil, permitiendo a los progenitores asignar un nombre.
+- 2)Se registrarán en un archivo del Registro Civil, sin efectos jurídicos, los fallecimientos que ocurran después de los siete meses de gestación y que no cumplan con las condiciones estipuladas en el artículo 30 del Código Civil, permitiendo a los progenitores asignar un nombre.
+- 3)Se registrarán en un archivo del Registro Civil, sin efectos jurídicos, los fallecimientos que ocurran después de los ocho meses de gestación y que no cumplan con las condiciones estipuladas en el artículo 30 del Código Civil, permitiendo a los progenitores asignar un nombre.
+- 4)Se registrarán en un archivo del Registro Civil, sin efectos jurídicos, los fallecimientos que ocurran después de los seis meses de gestación y que no cumplan con las condiciones estipuladas en el artículo 35 del Código Civil, permitiendo a los progenitores asignar un nombre.
+
+**Respuesta correcta:** 1
+
+**Explicación (correcta):**  
+¡Correcto! Los fallecimientos que ocurran después de los seis meses de gestación y que no cumplan con las condiciones del artículo 30 del Código Civil se registrarán en un archivo del Registro Civil sin efectos jurídicos, y los progenitores podrán asignar un nombre.
+
+**Explicación (errada):**  
+Incorrecto. La respuesta correcta es que los fallecimientos que ocurran después de seis meses de gestación y que no cumplan con el artículo 30 del Código Civil se registran sin efectos jurídicos, permitiendo a los progenitores asignar un nombre. (Respuesta Correcta 1)
+
+---
+
+## Pregunta 17
+**Conforme al artículo 56 de la Ley del Registro Civil de 21 de julio de 2011, quien adquiere la nacionalidad española podrá conservar los apellidos que tenga de forma diferente a la legal, si lo declara al adquirir la nacionalidad o:**
+
+**Opciones:**
+- 1)Dentro de los tres meses siguientes a la adquisición o a la mayoría de edad, siempre que los apellidos que desea conservar no sean contrarios al orden público internacional.
+- 2)Dentro de los dos meses siguientes a la adquisición o a la mayoría de edad, siempre que los apellidos que desea conservar no sean contrarios al orden público internacional.
+- 3)Dentro de los cuatro meses siguientes a la adquisición o a la mayoría de edad, siempre que los apellidos que desea conservar no sean contrarios al orden público internacional.
+- 4)Dentro de los cinco meses siguientes a la adquisición o a la mayoría de edad, siempre que los apellidos que desea conservar no sean contrarios al orden público internacional.
+
+**Respuesta correcta:** 2
+
+**Explicación (correcta):**  
+¡Correcto! La declaración para conservar apellidos distintos a los legales puede realizarse dentro de los dos meses siguientes a la adquisición de la nacionalidad española o a la mayoría de edad, siempre que dichos apellidos no sean contrarios al orden público internacional.
+
+**Explicación (errada):**  
+Incorrecto. La declaración debe realizarse dentro de los dos meses siguientes a la adquisición de la nacionalidad o a la mayoría de edad, no en los plazos que ha seleccionado. (Respuesta Correcta 2)
+
+---
+
+## Pregunta 18
+**Según el artículo 77 de la Ley del Registro Civil de 2011, indique la opción correcta:**
+
+**Opciones:**
+- 1)En el registro individual del interesado, puede inscribirse el documento privado que contenga las medidas de apoyo previstas por una persona respecto de sí misma o de sus bienes.
+- 2)En el registro individual del interesado, puede inscribirse el documento público que contenga las medidas de apoyo previstas por su representante respecto de los bienes del interesado únicamente.
+- 3)En el registro individual del interesado, puede inscribirse el documento público que contenga las medidas de apoyo previstas por una persona respecto de sí misma o de sus bienes.
+- 4)En el registro individual del interesado, puede inscribirse el documento privado que contenga las medidas de apoyo previstas por su representante respecto de los bienes del interesado únicamente.
+
+**Respuesta correcta:** 3
+
+**Explicación (correcta):**  
+¡Correcto! Puede inscribirse en el registro individual del interesado el documento público que contenga las medidas de apoyo que una persona haya previsto para sí misma o para sus bienes.
+
+**Explicación (errada):**  
+Incorrecto. La opción correcta es que puede inscribirse el documento público con medidas de apoyo previstas por una persona para sí misma o sus bienes, no los documentos privados o los que se refieren únicamente a los bienes del interesado previstos por un representante. (Respuesta Correcta 3)
+
+---
+
+## Pregunta 19
+**Marque la opción incorrecta en relación con las inscripciones en el Registro Civil, según lo estipulado en el Capítulo Cuarto del Título VI de la Ley del Registro Civil (LRC):**
+
+**Opciones:**
+- 1)Se registrará en el registro individual del menor en situación de desamparo la tutela ejercida por la entidad pública asignada para proteger a los menores en el respectivo territorio, conforme a la legislación aplicable.
+- 2)Para realizar inscripciones relacionadas con la nacionalidad y la vecindad civil, será suficiente el título que haya reconocido la nacionalidad española o la vecindad civil correspondiente.
+- 3)Las declaraciones judiciales de fallecimiento se inscribirán en el registro individual del declarado fallecido y de sus herederos o representantes legales.
+- 4)Se puede inscribir en el registro individual del interesado el documento público que contenga las medidas de apoyo previstas por una persona para sí misma o sus bienes.
+
+**Respuesta correcta:** 3
+
+**Explicación (correcta):**  
+¡Correcto! La opción incorrecta es que las declaraciones judiciales de fallecimiento se inscriban en el registro individual tanto del declarado fallecido como de sus herederos o representantes legales. Estas se inscriben únicamente en el registro del declarado fallecido.
+
+**Explicación (errada):**  
+Incorrecto. La opción incorrecta es que las declaraciones judiciales de fallecimiento se inscriban tanto en el registro del declarado fallecido como en el de sus herederos o representantes legales. (Respuesta Correcta 3)
+
+---
+
+## Pregunta 20
+**Según el segundo apartado del artículo 54 de la Ley del Registro Civil de 21 de julio de 2011, señale los requisitos necesarios para la petición de cambio de apellidos:**
+
+**Opciones:**
+- 1)Que el apellido o apellidos que se tratan de unir o modificar pertenezcan legítimamente al peticionario.
+- 2)Que los apellidos resultantes del cambio provengan de la misma línea.
+- 3)Que el apellido propuesto refleje una situación de derecho, aunque el interesado no lo use habitualmente.
+- 4)Ninguna es correcta.
+
+**Respuesta correcta:** 1
+
+**Explicación (correcta):**  
+¡Correcto! Es necesario que el apellido que se tratan de unir o modificar pertenezcan legítimamente al peticionario.
+
+**Explicación (errada):**  
+Incorrecto. La opción correcta es que el apellido que se tratan de unir o modificar pertenezcan legítimamente al peticionario. (Respuesta Correcta 1)
+
+---
+
+## Pregunta 21
+**Indique cuál forma de emancipación se registra mediante escritura pública:**
+
+**Opciones:**
+- 1)Vida e ingresos independientes de los padres.
+- 2)Mayoría de edad.
+- 3)Emancipación concedida judicialmente.
+- 4)Emancipación otorgada por aquellos que tienen la patria potestad.
+
+**Respuesta correcta:** 4
+
+**Explicación (correcta):**  
+¡Bien hecho! La emancipación otorgada por quienes ejercen la patria potestad se registra mediante escritura pública.
+
+**Explicación (errada):**  
+Lo siento, pero no es correcto. La emancipación que se inscribe mediante escritura pública es la otorgada por quienes ejercen la patria potestad, no las otras formas mencionadas. (Respuesta Correcta 4)
+
+---
+
+## Pregunta 22
+**Según la Ley 20/2011, de 21 de julio, del Registro Civil, si un nacimiento ocurre fuera de un centro de salud, ¿cuánto tiempo tienen los responsables de promover el registro para declarar dicho nacimiento en la Oficina del Registro Civil?**
+
+**Opciones:**
+- 1)10 días.
+- 2)15 días.
+- 3)20 días.
+- 4)30 días.
+
+**Respuesta correcta:** 1
+
+**Explicación (correcta):**  
+¡Correcto! Cuando un nacimiento sucede fuera de un establecimiento sanitario, los responsables tienen un plazo de 10 días para declararlo ante la Oficina del Registro Civil.
+
+**Explicación (errada):**  
+Incorrecto. El plazo para declarar nacimientos ocurridos fuera de establecimientos sanitarios ante la Oficina del Registro Civil es de 10 días, no un mes, dos meses o 15 días. (Respuesta Correcta 1)
+
+---
+
+## Pregunta 23
+**Según el artículo 40 de la Ley 20/2011, ¿quiénes pueden solicitar que se realicen anotaciones registrales?**
+
+**Opciones:**
+- 1)Pueden ser extendidas a solicitud del Ministerio Fiscal o cualquier persona interesada.
+- 2)Se realizan únicamente a solicitud de cualquier persona interesada.
+- 3)El propio Registrador.
+- 4)El notario.
+
+**Respuesta correcta:** 1
+
+**Explicación (correcta):**  
+¡Acertado! Las anotaciones registrales se extenderán a petición del Ministerio Fiscal o de cualquier persona que tenga interés en el asunto.
+
+**Explicación (errada):**  
+Eso no es correcto. Las anotaciones registrales no se realizan únicamente a solicitud de interesados, ni automáticamente por el Encargado del Registro, ni a solicitud del Letrado de la Administración de Justicia. El Ministerio Fiscal también puede solicitarlas. (Respuesta Correcta 1)
+
+---
+
+## Pregunta 24
+**¿Cómo se deben custodiar y conservar los documentos presentados en las Oficinas del Registro Civil y en las Oficinas Colaboradoras?**
+
+**Opciones:**
+- 1)Se hará conforme a lo establecido por las normas que regulan esta materia para las Administraciones Públicas.
+- 2)Se hará según lo dispuesto por la normativa para los Registros de la Propiedad.
+- 3)Se hará según lo dispuesto por la normativa para los notarios.
+- 4)En función de lo determinado en la Ley del Registro Civil.
+
+**Respuesta correcta:** 1
+
+**Explicación (correcta):**  
+¡Correcto! Los documentos presentados se custodiarán y conservarán según lo establecido por la normativa aplicable a las Administraciones Públicas.
+
+**Explicación (errada):**  
+Incorrecto. Los documentos no se conservan según normativas específicas para los Registros de la Propiedad ni bajo la custodia del Letrado de la Administración de Justicia según la Ley de Enjuiciamiento Civil, y hay una opción correcta en las respuestas proporcionadas. (Respuesta Correcta 1)
+
+---
+
+## Pregunta 25
+**Conforme al artículo 53 de la Ley 20/2011, de 21 de julio, del Registro Civil, ¿cuánto tiempo tienen los hijos o descendientes para solicitar la conservación de sus apellidos previos luego de una rectificación de filiación?**
+
+**Opciones:**
+- 1)Dos meses después de registrar la nueva filiación o al alcanzar la mayoría de edad.
+- 2)Tres meses después de registrar la nueva filiación o al alcanzar la mayoría de edad.
+- 3)Cuatro meses después de registrar la nueva filiación o al alcanzar la mayoría de edad.
+- 4)Seis meses después de registrar la nueva filiación o al alcanzar la mayoría de edad.
+
+**Respuesta correcta:** 1
+
+**Explicación (correcta):**  
+¡Bien hecho! Los hijos o descendientes tienen un plazo de dos meses desde la inscripción de la nueva filiación o desde que alcanzan la mayoría de edad para solicitar la conservación de los apellidos que usaban anteriormente.
+
+**Explicación (errada):**  
+Esa respuesta es incorrecta. El plazo es de dos meses desde la inscripción de la nueva filiación o desde que se alcanza la mayoría de edad, no un mes y no desde la emancipación. (Respuesta Correcta 1)
+
+---
+
+## Pregunta 26
+**¿Cuál de los documentos listados a continuación no es válido para registrar un evento o acción en el Registro Civil?**
+
+**Opciones:**
+- 1)Todas son correctas.
+- 2)Documento privado original.
+- 3)Documento notarial.
+- 4)Documento privado copia.
+
+**Respuesta correcta:** 2
+
+**Explicación (correcta):**  
+¡Correcto! Un documento privado original no es un título válido para la inscripción de hechos o actos en el Registro Civil.
+
+**Explicación (errada):**  
+Esta opción es incorrecta. Los documentos auténticos, ya sean administrativos, notariales o judiciales, son títulos válidos para inscripciones en el Registro Civil, a diferencia de los documentos privados originales. (Respuesta Correcta 2)
+
+---
+
+## Pregunta 27
+**Según el cuarto apartado del artículo 62 de la Ley del Registro Civil, seleccione la afirmación correcta respecto a la inscripción de la defunción y el registro individual:**
+
+**Opciones:**
+- 1)La inscripción de la defunción cerrará el registro individual, y el código personal asignado nunca podrá reasignarse.
+- 2)La inscripción de la defunción cerrará el registro individual, y el código personal asignado siempre podrá reasignarse.
+- 3)La inscripción de la defunción finaliza el registro colectivo, y el código personal asignado nunca podrá reasignarse.
+- 4)Ninguna es correcta.
+
+**Respuesta correcta:** 1
+
+**Explicación (correcta):**  
+¡Correcto! La inscripción de la defunción resulta en el cierre del registro individual y el código personal que fue asignado no se puede reasignar bajo ninguna circunstancia.
+
+**Explicación (errada):**  
+La respuesta seleccionada es incorrecta. La inscripción de la defunción cierra el registro individual y el código personal no podrá ser reutilizado en ningún caso. (Respuesta Correcta 1)
+
+---
+
+## Pregunta 28
+**De acuerdo con la Ley 20/2011, de 21 de julio, del Registro Civil, ¿cuáles son los tipos de asientos que se reconocen?**
+
+**Opciones:**
+- 1)Anotaciones y cancelaciones.
+- 2)Inscripciones, anotaciones y notas.
+- 3)Inscripciones y cancelaciones.
+- 4)Inscripciones, anotaciones y cancelaciones.
+
+**Respuesta correcta:** 4
+
+**Explicación (correcta):**  
+¡Correcto! Los tipos de asientos reconocidos por la Ley 20/2011, de 21 de julio, del Registro Civil son: inscripciones, anotaciones y cancelaciones.
+
+**Explicación (errada):**  
+Esa respuesta es incorrecta. Los asientos se clasifican en inscripciones, anotaciones y cancelaciones, no en las otras combinaciones mencionadas. (Respuesta Correcta 4)
+
+---
+
+## Pregunta 29
+**Identifique la opción incorrecta en relación con las inscripciones adicionales estipuladas en el Capítulo Cuarto del Título VI de la LRC:**
+
+**Opciones:**
+- 1)Cualquier representación otorgada por nombramiento especial que incluya la administración y protección de un patrimonio puede acceder al Registro Civil.
+- 2)La resolución judicial emitida durante un procedimiento para la provisión de apoyos se registrará en el registro individual del individuo con discapacidad.
+- 3)En la inscripción de la declaración de fallecimiento se indicará el lugar donde se presume que ocurrió la muerte.
+- 4)La suspensión de la patria potestad se registrará en el Registro Civil.
+
+**Respuesta correcta:** 3
+
+**Explicación (correcta):**  
+Incorrecto. Esta afirmación es incorrecta ya que en la inscripción de la declaración de fallecimiento no se indica el lugar presunto del deceso.
+
+**Explicación (errada):**  
+Estas opciones son incorrectas porque la opción correcta es la que indica que en la inscripción de la declaración de fallecimiento se señalará el lugar presunto del fallecimiento. (Respuesta Correcta 3)
+
+---
+
+## Pregunta 30
+**¿En cuántos capítulos está dividido el TÍTULO VI "Hechos y actos inscribibles" de la Ley del Registro Civil de 2011?**
+
+**Opciones:**
+- 1)Diez capítulos, incluyendo inscripción de nacimiento, inscripciones relativas al matrimonio, inscripción de defunción, inscripción de nacionalidad y vecindad civil, entre otros.
+- 2)Seis capítulos, cubriendo inscripción de nacimiento, inscripciones relativas al matrimonio, inscripción de defunción, entre otros.
+- 3)Cinco capítulos, que abarcan inscripción de nacimiento, inscripciones relativas al matrimonio, inscripción de defunción, entre otros.
+- 4)Siete capítulos, que incluyen inscripción de nacimiento, inscripciones relativas al matrimonio, inscripción de defunción, entre otros.
+
+**Respuesta correcta:** 3
+
+**Explicación (correcta):**  
+¡Correcto! El TÍTULO VI consta de 5 capítulos.
+
+**Explicación (errada):**  
+La opción seleccionada no es correcta. Para determinar el número exacto de capítulos en los que se divide el Título VI de la Ley del Registro Civil de 2011, es necesario referirse directamente al texto de la ley. La respuesta correcta debe reflejar la estructura precisa del Título VI según lo establecido en la Ley del Registro Civil de 2011, indicando el número exacto de capítulos y sus respectivos contenidos. (Respuesta Correcta 3)
+
+---
+
+## Pregunta 31
+**Según el artículo 40 de la Ley 20/2011 del Registro Civil, ¿qué relevancia poseen las anotaciones registrales?**
+
+**Opciones:**
+- 1)Tienen un valor principalmente jurídico, excepto cuando la Ley les otorgue valor de presunción.
+- 2)Tienen un valor principalmente presuntivo, excepto cuando la Ley les otorgue valor de información.
+- 3)Tienen un valor principalmente informativo, excepto cuando la Ley les otorgue valor de presunción.
+- 4)Ninguna es correcta.
+
+**Respuesta correcta:** 3
+
+**Explicación (correcta):**  
+¡Correcto! Las anotaciones registrales son principalmente informativas, a menos que la ley les asigne un valor de presunción en casos específicos.
+
+**Explicación (errada):**  
+Incorrecto. Las anotaciones registrales no tienen el mismo valor que las inscripciones, no son puramente informativas en todos los casos, y no tienen un valor probatorio completo. (Respuesta Correcta 3)
+
+---
+
+## Pregunta 32
+**Conforme al artículo 30 de la Ley del Registro Civil de 21 de julio de 2011, ¿cuál de los siguientes elementos no necesita ser controlado por el Encargado de la Oficina del Registro Civil al recibir una solicitud de inscripción?**
+
+**Opciones:**
+- 1)La legalidad de las formas intrínsecas del documento.
+- 2)La legalidad de las formas extrínsecas del documento.
+- 3)La veracidad de los hechos descritos en el documento.
+- 4)Ninguna es correcta.
+
+**Respuesta correcta:** 1
+
+**Explicación (correcta):**  
+¡Correcto! El Encargado de la Oficina del Registro Civil no tiene la responsabilidad de verificar la legalidad de las formas intrínsecas del documento presentado.
+
+**Explicación (errada):**  
+Incorrecto. El Encargado del Registro Civil sí debe controlar la validez de los actos y la realidad de los hechos contenidos en el documento, no siendo todas las respuestas correctas. (Respuesta Correcta 1)
+
+---
+
+## Pregunta 33
+**En el caso de que los responsables de asignar un nombre no lo hagan, y una vez que hayan sido advertidos por el Encargado del Registro Civil, este último asignará un nombre común después de transcurrido un plazo de:**
+
+**Opciones:**
+- 1)Dos días.
+- 2)Siete días.
+- 3)Diez días.
+- 4)Tres días.
+
+**Respuesta correcta:** 4
+
+**Explicación (correcta):**  
+¡Correcto! Si los responsables de asignar un nombre no lo hacen, el Encargado del Registro Civil asignará un nombre común después de tres días tras haber advertido a los responsables.
+
+**Explicación (errada):**  
+Incorrecto. El plazo correcto después del cual el Encargado del Registro Civil asignará un nombre es de tres días, no de dos, cuatro o cinco días. (Respuesta Correcta 4)
+
+---
+
+## Pregunta 34
+**Según el artículo 58 de la Ley del Registro Civil 20/2011, ¿quién tiene la competencia para oír a los contrayentes de forma reservada y por separado para cerciorarse de su capacidad y de la inexistencia de impedimentos?**
+
+**Opciones:**
+- 1)El Letrado de la Administración de Justicia y el Juez de Paz.
+- 2)El Notario y el Encargado del Registro Civil, exclusivamente.
+- 3)El Letrado de la Administración de Justicia, el Notario, o el Encargado del Registro Civil.
+- 4)Únicamente el Juez Encargado del Registro Civil.
+
+**Respuesta correcta:** 3
+
+**Explicación (correcta):**  
+¡Correcto! Tras la reforma de la Ley Orgánica 1/2025, la competencia para la entrevista reservada a los contrayentes corresponde, a elección de estos, al Letrado de la Administración de Justicia, al Notario o al Encargado del Registro Civil.
+
+**Explicación (errada):**  
+Incorrecto. La respuesta correcta es la C. La Ley Orgánica 1/2025 ha modificado el artículo 58 de la Ley del Registro Civil, estableciendo que tanto el Letrado de la Administración de Justicia como el Notario o el Encargado del Registro Civil son competentes para realizar la entrevista reservada a los contrayentes. (Respuesta Correcta 3)
+
+---
+
+## Pregunta 35
+**En las inscripciones que se realizan para las declaraciones de ausencia y fallecimiento, ¿qué se debe registrar obligatoriamente?**
+
+**Opciones:**
+- 1)La escritura de confusión de bienes realizada a raíz de la declaración de ausencia o los documentos que oficializan la distribución de bienes en casos correspondientes.
+- 2)La escritura que describe o inventaría los bienes involucrados.
+- 3)La escritura de división de bienes realizada a raíz de la declaración de ausencia o los documentos que oficializan la distribución de bienes en casos correspondientes.
+- 4)La escritura de segregación de bienes realizada a raíz de la declaración de ausencia o los documentos que oficializan la distribución de bienes en casos correspondientes.
+
+**Respuesta correcta:** 2
+
+**Explicación (correcta):**  
+¡Correcto! La escritura de descripción o inventario de los bienes debe constar en las inscripciones de declaraciones de ausencia y fallecimiento.
+
+**Explicación (errada):**  
+Estas opciones no son correctas. Es esencial revisar y entender lo que cada inscripción debe contener para cumplir con los requisitos legales. (Respuesta Correcta 2)
+
+---
+
+## Pregunta 36
+**Conforme al artículo 66 de la Ley del Registro Civil, ¿es posible efectuar la inscripción de defunción sin presentar al Registro Civil el certificado médico de defunción?**
+
+**Opciones:**
+- 1)Depende.
+- 2)Siempre.
+- 3)No, bajo ninguna circunstancia.
+- 4)Ninguna es correcta.
+
+**Respuesta correcta:** 3
+
+**Explicación (correcta):**  
+¡Bien hecho! No es posible realizar la inscripción de defunción sin presentar el certificado médico de defunción al Registro Civil.
+
+**Explicación (errada):**  
+Estas respuestas son incorrectas. El certificado médico de defunción es un documento esencial que debe presentarse para proceder con la inscripción de defunción. (Respuesta Correcta 3)
+
+---
+
+## Pregunta 37
+**Para los matrimonios celebrados mediante ceremonia religiosa, ¿cuánto tiempo tiene el responsable de enviar al encargado correspondiente del Registro Civil la certificación que demuestra la celebración del matrimonio?**
+
+**Opciones:**
+- 1)Seis días.
+- 2)Diez días.
+- 3)Veinte días.
+- 4)Cinco días.
+
+**Respuesta correcta:** 4
+
+**Explicación (correcta):**  
+¡Correcto! Para los matrimonios celebrados de forma religiosa, la certificación de la celebración del matrimonio debe enviarse al encargado del Registro Civil correspondiente dentro de los cinco días.
+
+**Explicación (errada):**  
+Estas opciones no son correctas. Es crucial enviar la certificación dentro del plazo establecido para asegurar la debida inscripción del matrimonio en el Registro Civil. (Respuesta Correcta 4)
+
+---
+
+## Pregunta 38
+**¿Es factible llevar a cabo inscripciones basadas únicamente en certificaciones de Registros Civiles extranjeros, sin la necesidad de un expediente adicional?**
+
+**Opciones:**
+- 1)No, cuando se cumplan los requisitos establecidos en las regulaciones pertinentes para que la inscripción sea válida en España.
+- 2)Salvo excepciones.
+- 3)Solo en los casos que así lo disponga la norma legal vigente.
+- 4)Sí, siempre y cuando se cumplan los requisitos establecidos en las regulaciones pertinentes para que la inscripción sea válida en España.
+
+**Respuesta correcta:** 4
+
+**Explicación (correcta):**  
+¡Bien hecho! Las inscripciones pueden realizarse con certificaciones de Registros Civiles extranjeros siempre que se cumplan los requisitos normativos para su validez en España.
+
+**Explicación (errada):**  
+Estas opciones no son correctas. Es fundamental conocer y cumplir con los requisitos legales para asegurar la validez de las inscripciones basadas en certificaciones extranjeras. (Respuesta Correcta 4)
+
+---
+
+## Pregunta 39
+**Para que se practique la inscripción de nacimiento, ¿qué documento debe acompañar a la declaración oficial firmada por la(s) persona(s) declarante(s)?**
+
+**Opciones:**
+- 1)Un informe médico detallado que incluya, entre otros datos, la identidad de la madre del neonato.
+- 2)Un documento oficial emitido por el hospital donde tuvo lugar el nacimiento, certificando el evento del nacimiento.
+- 3)Ambas opciones son correctas.
+- 4)Ninguna es correcta.
+
+**Respuesta correcta:** 1
+
+**Explicación (correcta):**  
+¡Correcto! La inscripción de nacimiento se realiza mediante una declaración en un documento oficial firmado por el/los declarante(s), acompañada de un parte facultativo que incluye, entre otros datos, la identidad de la madre del recién nacido.
+
+**Explicación (errada):**  
+Estas opciones no son correctas. El documento que debe acompañar la declaración oficial debe contener información detallada y precisa, incluida la identidad de la madre del neonato. (Respuesta Correcta 1)
+
+---
+
+## Pregunta 40
+**¿Ante qué autoridad se lleva a cabo la celebración del matrimonio de ciudadanos españoles residentes en el extranjero?**
+
+**Opciones:**
+- 1)Ante un registrador español.
+- 2)Ante un Notario extranjero.
+- 3)Ante un Juez de Paz español.
+- 4)Ante el oficial consular o diplomático a cargo del Registro Civil en el extranjero.
+
+**Respuesta correcta:** 4
+
+**Explicación (correcta):**  
+¡Exacto! Los ciudadanos españoles que residen en el extranjero pueden celebrar su matrimonio ante el oficial consular o diplomático a cargo del Registro Civil en el país en que se encuentren.
+
+**Explicación (errada):**  
+Las opciones mencionadas no son correctas en el contexto de ciudadanos españoles que desean casarse mientras residen en el extranjero. Para estos casos, el oficial consular o diplomático tiene la autoridad pertinente. (Respuesta Correcta 4)
+
+---
+
+## Pregunta 41
+**¿Quién no está autorizado para manejar la documentación previa al matrimonio civil?**
+
+**Opciones:**
+- 1)El juez.
+- 2)El Letrado de la Administración de Justicia.
+- 3)El Juez de Paz.
+- 4)El Notario.
+
+**Respuesta correcta:** 3
+
+**Explicación (correcta):**  
+¡Correcto! El Juez de Paz no está autorizado para tramitar la documentación previa al matrimonio civil.
+
+**Explicación (errada):**  
+Estos individuos están autorizados para manejar la documentación previa al matrimonio civil. (Respuesta Correcta 3)
+
+---
+
+## Pregunta 42
+**Según el artículo 40 de la Ley 20/2011, elige la opción incorrecta. ¿Cuál de los siguientes eventos o acciones no puede ser objeto de una anotación en el registro?**
+
+**Opciones:**
+- 1)El régimen económico matrimonial, ya sea legal o acordado.
+- 2)Las declaraciones que tienen valor presuntivo.
+- 3)Custodia de hecho.
+- 4)Custodia administrativa.
+
+**Respuesta correcta:** 1
+
+**Explicación (correcta):**  
+¡Correcto! El régimen económico matrimonial, ya sea legal o acordado, no es objeto de anotación en el registro según el artículo 40 de la Ley 20/2011.
+
+**Explicación (errada):**  
+Estas opciones representan hechos y actos que pueden ser objeto de anotación registral según la ley mencionada. (Respuesta Correcta 1)
+
+---
+
+## Pregunta 43
+**Con base en el artículo 70 de la LRC 2011, ¿cuál de las siguientes situaciones tiene efectos frente a terceros, incluso si no está inscrita en el Registro Civil?**
+
+**Opciones:**
+- 1)Emancipación por alcanzar la mayoría de edad.
+- 2)Emancipación por vida independiente.
+- 3)Emancipación por autorización de los padres.
+- 4)Ninguna es correcta.
+
+**Respuesta correcta:** 1
+
+**Explicación (correcta):**  
+¡Bien hecho! La emancipación por mayor edad produce efectos frente a terceros, incluso sin estar inscrita en el Registro Civil, conforme al art. 70 de la LRC 2011.
+
+**Explicación (errada):**  
+Estas opciones no tienen efectos frente a terceros si no están inscritas en el Registro Civil según la legislación aplicable. (Respuesta Correcta 1)
+
+---
+
+## Pregunta 44
+**Con respecto a los asientos del Registro Civil según el artículo 36 de la Ley 20/2011, ¿cuál de las siguientes afirmaciones es correcta?**
+
+**Opciones:**
+- 1)Después de abrir los asientos del Registro Civil, estos deben ser guardados en un registro confidencial.
+- 2)Después de cerrar los asientos del Registro Civil, estos deben ser guardados en un registro electrónico seguro.
+- 3)Después de cerrar los asientos del Registro Civil, estos deben ser guardados en un registro físico seguro.
+- 4)Después de abrir los asientos del Registro Civil, estos deben ser guardados en un registro privado seguro.
+
+**Respuesta correcta:** 2
+
+**Explicación (correcta):**  
+¡Bien hecho! Los asientos cerrados del Registro Civil deben archivarse en un registro electrónico seguro conforme al artículo mencionado.
+
+**Explicación (errada):**  
+Incorrecto. La opción correcta es (b). Los asientos del Registro Civil se deben archivar de manera segura electrónicamente después de su cierre. (Respuesta Correcta 2)
+
+---
+
+## Pregunta 45
+**Según el artículo 53 de la Ley 20/2011, de 21 de julio, del Registro Civil, ¿cuáles de las siguientes modificaciones en los apellidos puede aprobar el Encargado del Registro Civil mediante una declaración de voluntad por parte del interesado?**
+
+**Opciones:**
+- 1)Ajuste de los apellidos de los hijos mayores de edad o emancipados para alinearlos con los cambios de apellidos realizados por los padres.
+- 2)Cambio en el orden de los apellidos.
+- 3)Corrección ortográfica de los apellidos a cualquier idioma oficial correspondiente al origen o domicilio del interesado.
+- 4)Todas son correctas.
+
+**Respuesta correcta:** 4
+
+**Explicación (correcta):**  
+¡Correcto! El Encargado del Registro Civil puede autorizar todas las modificaciones de apellidos mencionadas mediante una declaración de voluntad del interesado.
+
+**Explicación (errada):**  
+Las opciones individuales son válidas, pero la respuesta más completa y correcta es que todas las mencionadas son aplicables. (Respuesta Correcta 4)
+
+---
+
+## Pregunta 46
+**De las afirmaciones siguientes sobre la Ley del Registro Civil de 2011, ¿cuál es incorrecta?**
+
+**Opciones:**
+- 1)La inscripción de nacimiento certifica la fecha, hora y lugar del nacimiento, la identidad, el sexo y la nacionalidad de la persona recién nacida.
+- 2)El pariente más cercano está obligado a promover el registro de nacimiento.
+- 3)Los apellidos de una persona se determinan por su filiación.
+- 4)Si la filiación de una persona recién nacida no se determina, el encargado del registro asignará un nombre y apellidos comunes a la persona recién nacida.
+
+**Respuesta correcta:** 1
+
+**Explicación (correcta):**  
+¡Correcto! Esta afirmación es incorrecta. La inscripción de nacimiento certifica el hecho del nacimiento, pero no necesariamente la hora.
+
+**Explicación (errada):**  
+Estas afirmaciones son correctas según la Ley del Registro Civil de 2011. (Respuesta Correcta 1)
+
+---
+

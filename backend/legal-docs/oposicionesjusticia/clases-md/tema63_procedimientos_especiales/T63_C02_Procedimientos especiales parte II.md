@@ -1,0 +1,59 @@
+# Procedimientos Especiales
+
+## Procedimientos especiales parte II
+
+**Tema:** Procedimientos Especiales  
+**Clase:** T63_C02  
+**Archivo:** T63_C02_Procedimientos especiales parte II.txt  
+**Tipo:** Material de Clase  
+**Categoría:** Oposiciones de Justicia  
+
+---
+
+¡Buenas, opositores! Bienvenidos a una nueva clase. En esta ocasión vamos a seguir viendo los procedimientos especiales en contencioso administrativo, concretamente lo que regula la Ley de Obligación Contencioso Administrativa de 1998. Debes saber que varios preceptos que mencionaremos han sido reformados por el Real Decreto Ley 6.0.2023 y a esta nueva redacción has de ajustarte para su estudio.
+
+
+Como siempre, te indico antes de empezar. Nos moveremos en el título quinto y entre los artículos 114 a 127 quinquies de la Ley de la Jurisdicción Contencioso Administrativa. En la clase anterior ya vimos los procedimientos que se originan en el artículo 114 a 122.
+
+
+En el artículo 122b no vamos a ver, ya que hemos de centrarnos en lo que posiblemente nos puedan preguntar. Te animo a echarle un vistazo en caso de que no quieras saltarte nada. Por ello, seguimos con el artículo 122 ter relativo al procedimiento de autorización judicial de conformidad con una decisión de la Comisión Europea en materia de transferencia internacional de datos.
+
+
+El procedimiento para obtener la autorización judicial a que se refiere la disposición adicional quinta de la Ley Orgánica de Protección de Datos Personales y Garantía de los Derechos Digitales se inicia con la solicitud de la Autoridad de Protección de Datos dirigida al Tribunal Competente para que se pronuncie acerca de la conformidad de una decisión de la Comisión Europea en materia de transferencia internacional de datos con el derecho de la Unión Europea. La solicitud irá acompañada de copias del expediente que se encontrase pendiente de resolución ante la Autoridad de Protección de Datos. Venga, vamos a verlo a nivel práctico para que esto no te suena chino.
+
+
+Imaginemos que una empresa tecnológica española desea transferir datos personales a un país fuera de la Unión Europea. La Comisión Europea ha emitido una decisión permitiendo tales transferencias a otros países específicos, considerándolas seguras. Sin embargo, la Agencia Española de Protección de Datos tiene dudas sobre si esta decisión cumple completamente con los estándares de protección de datos de la Unión Europea.
+
+
+La Agencia Española de Protección de Datos, al tener estas dudas, inicia el procedimiento solicitando autorización judicial. Esta solicitud se dirige al Tribunal Competente, que en este caso sería la Audiencia Nacional, para que revise la decisión de la Comisión Europea en relación con la conformidad de la transferencia internacional de datos con el derecho de la Unión Europea. El Tribunal Competente revisará la solicitud y el expediente proporcionado para determinar si la decisión de la Comisión Europea sobre la transferencia de datos personales al país no miembro de la Unión Europea se alinea con los requisitos de protección de datos establecidos en el derecho de la Unión Europea, garantizando así que se mantengan los altos estándares de protección de datos personales exigidos por la legislación europea.
+
+
+De acuerdo, visto el ejemplo, aclaremos los siguientes conceptos. En el procedimiento va a ser parte, además de la Autoridad de Protección de Datos, quienes lo fueran en el procedimiento tramitado ante ella y, en todo caso, en la Comisión Europea. Ojo porque esta última, como ves, no puede faltar.
+
+
+Con el acuerdo de admisión o inadmisión a trámite del procedimiento, se confirma, modifica o levanta la suspensión del procedimiento por posible vulneración de la normativa de protección de datos tramitada ante la Autoridad de Protección de Datos. Una vez admitida a trámite la solicitud, el tribunal competente lo notificará a la Autoridad de Protección de Datos a fin de que dé traslado a quienes interviniesen en el procedimiento tramitado ante la misma para que se personen en el plazo de tres días. Igualmente, se dará traslado a la Comisión Europea a los mismos efectos.
+
+
+Concluido este plazo mencionado, se dará traslado de la solicitud a las partes personadas a fin de que en el plazo de diez días aleguen lo procedente, pudiendo solicitar en ese momento la práctica de las pruebas. Trascurrido el periodo de prueba, en caso de que así se hubiera pedido, se celebrará una vista. Una vez finalizado este trámite, el tribunal competente adoptará en el plazo de diez días una de estas decisiones.
+
+
+Primera, si considerase que la decisión de la Comisión Europea es conforme al derecho de la Unión Europea, dictará sentencia declarándolo así y denegando la autorización solicitada. Segunda, en caso de considerar que la decisión es contraria al derecho de la Unión Europea, dictará auto de planteamiento de cuestión prejudicial de validez de la citada decisión ante el Tribunal de Justicia de la Unión Europea, en los términos del artículo 167 del Tratado de Funcionamiento de la Unión Europea. La autorización solamente podrá ser concedida si la decisión de la Comisión Europea cuestionada fuere declarada inválida por el Tribunal de Justicia de la Unión Europea.
+
+
+Ahora vamos a continuar con el artículo 122-4, relativo a la autorización o ratificación judicial de las medidas que las autoridades sanitarias consideren urgentes y necesarias para la salud pública e impliquen limitación o restricción de derechos fundamentales. Estas autorizaciones a las que se refiere el artículo 122-4 se mencionan en otro artículo de una ley muy diferente, como es el artículo 8.6, segundo párrafo de la Ley de Juiciamiento Civil. Y a él te remito.
+
+
+Sobre su tramitación en la ley de la jurisdicción contencioso-administrativa, ten en cuenta que será parte del Ministerio Fiscal. Además, esta tramitación tendrá siempre carácter preferente y deberá resolverse por auto en un plazo máximo de tres días naturales. Por último, vamos a ver un ejemplo de este procedimiento.
+
+
+Imaginemos que hay un brote repentino de una enfermedad altamente contagiosa en una ciudad específica. Las autoridades sanitarias deciden que, para contener la propagación de la enfermedad, es necesario imponer un confinamiento estricto en ciertas áreas, restringiendo la libertad de movimiento de las personas, lo cual afecta directamente a sus derechos fundamentales. Las autoridades sanitarias, reconociendo la necesidad de estas medidas extremas, pero también su impacto en los derechos fundamentales, solicitan al tribunal competente la autorización o ratificación de estas restricciones.
+
+
+Esta solicitud se realiza de forma urgente dada la naturaleza inmediata de la amenaza para la salud pública. Conforme a la ley, el Ministerio Fiscal se involucra en el proceso aportando su opinión sobre la legalidad y proporcionalidad de las medidas propuestas, asegurando que se respeten los principios legales y los derechos individuales, incluso en el contexto de una emergencia sanitaria. El tribunal, tras recibir la solicitud y considerar la opinión del Ministerio Fiscal, debe decidir rápidamente, dentro de un plazo máximo de tres días naturales, emitir a un autojudicial que autorice, modifique o rechace las medidas propuestas, asegurando que cualquier restricción a los derechos fundamentales sea legal, proporcional y estrictamente necesaria dada la situación sanitaria.
+
+
+Y bueno, hasta aquí la clase de opositores. La de hoy es algo más corta porque lo siguiente que tenemos que ver es la cuestión de ilegalidad y es un tema que preferimos tratar en una nueva clase para no andar liándote. A modo de resumen, te diré que hoy hemos visto el procedimiento de autorización judicial de conformidad de una decisión de la Comisión Europea en materia de transferencia internacional de datos y lo poco que dice la Ley de la Abolición Contenciosa Administrativa sobre la autorización o ratificación judicial de las medidas que las autoridades sanitarias consideren urgentes y necesarias para la salud pública e impliquen limitación o restricción de derechos fundamentales.
+
+
+¡Mucho ánimo y nos vemos en la siguiente! ¡A seguir estudiando!
+

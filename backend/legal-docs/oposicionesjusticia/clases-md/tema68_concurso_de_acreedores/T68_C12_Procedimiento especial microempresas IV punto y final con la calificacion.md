@@ -1,0 +1,71 @@
+# Concurso de Acreedores
+
+## Procedimiento especial microempresas IV punto y final con la calificacion
+
+**Tema:** Concurso de Acreedores  
+**Clase:** T68_C12  
+**Archivo:** T68_C12_Procedimiento especial microempresas IV punto y final con la calificacion.txt  
+**Tipo:** Material de Clase  
+**Categoría:** Oposiciones de Justicia  
+
+---
+
+Muy buenas a todos, esta es la última clase sobre el procedimiento especial para microempresas. Tras tratar los procedimientos de continuación y de liquidación, vamos a hablar sobre la calificación abreviada del procedimiento especial para microempresas. Para empezar, ¿qué es? La calificación abreviada es un procedimiento especial que se aplica en aquellos casos en los que se sospecha que la insolvencia de la empresa se debe a la conducta culposa o dolosa del deudor y que, por tanto, la empresa ha actuado de manera negligente o fraudulenta en su gestión empresarial.
+
+
+En estos casos, se abre una investigación para determinar si la empresa ha incurrido en una conducta dolosa o culpable. ¿Cuándo se aplica este procedimiento? Pues se aplica en aquellos casos en los que se trata de una empresa con menos de 10 trabajadores y que tengan una facturación anual inferior a 2 millones de euros. La apertura de la calificación abreviada puede ser solicitada por varios actores.
+
+
+En primer lugar, la administración concursal se ha sido nombrada. En segundo lugar, los acreedores con el 10% del pasivo pueden solicitar la apertura si sospechan que ha habido una conducta culposa o dolosa por parte del deudor. Y en tercer lugar, cualquier acreedor puede solicitar la apertura si el deudor ha cometido inexactitud grave en cualquiera de los formularios o documentos remitidos o ha presentado documentos falsos.
+
+
+También pueden solicitar la apertura los socios personalmente responsables de las deudas. La solicitud debe presentarse en un formulario normalizado, incluyendo una memoria expresando los motivos y documentos necesarios. Esta solicitud debe ser presentada dentro de los 60 días naturales siguientes a la apertura de la liquidación.
+
+
+Y una vez comprobados los requisitos legales, el LAG notifica la apertura del procedimiento a las partes. ¿Y respecto a los plazos, cómo van a ser? En cuanto a la tramitación del procedimiento, se establecen varios plazos. En primer lugar, la administración concursal debe presentar un informe razonando y documentando con propuesta de resolución en un plazo de 20 días.
+
+
+Si la administración concursal propone la calificación culpable, debe expresar la identidad de las personas afectadas por la calificación, así como la identidad de los cómplices, la justificación de la causa, la determinación de los daños y perjuicios causados y demás pretensiones que considere procedentes. En segundo lugar, los acreedores con el 10% del pasivo y los acreedores públicos deben presentar también un informe razonado y documentado en un plazo de 20 días. Si el informe de la administración concursal califica el concurso como fortuito, el juez se lavará las manos y ordenará el archivo, salvo que los acreedores públicos consideren que debe ser calificado como culpable.
+
+
+En caso contrario, se trasladarán los informes con calificación como culpable al deudor y a todas las demás personas afectadas por la calificación o declaradas cómplices. Así, estas personas tienen 15 días para aceptar o para oponerse a la calificación, siendo necesario en este último caso la firma de un letrado. Finalmente, se celebra una vista en 5 días y se dicta sentencia.
+
+
+El régimen jurídico de la calificación se encuentra regulado en el artículo 718 de la ley concursal y establece que se aplicará el libro primero de la ley referido a la calificación del concurso y la sentencia de calificación. Es importante destacar que existen ciertas presunciones de culpabilidad, como la provisión de información o documentación inexacta o falsa sin que se admita prueba en contrario, tal como se establece en el artículo 688 de la ley concursal. Por tanto, en estos casos, directamente se considerará culpable al deudor y se aplicarán las consecuencias legales correspondientes.
+
+
+Por ver un ejemplo, supongamos que la empresa ABCSL se encuentra en un procedimiento especial para microempresas debido a su situación de insolvencia. En el transcurso del procedimiento se abre la fase de liquidación y se permite la apertura de la calificación abreviada. En este supuesto, uno de los acreedores de la empresa ABCSL, llamado Juan Pérez, decide solicitar la calificación abreviada porque considera que el deudor ha presentado información inexacta en los documentos remitidos.
+
+
+Juan Pérez es titular de una deuda por valor de 10.000 euros, que representa el 15% del pasivo de la empresa. El juez admite la solicitud de Juan Pérez y se notifica la apertura de la calificación abreviada a todas las partes implicadas. La administración concursal realiza su informe razonado y documentado proponiendo la calificación de la insolvencia como culpable debido a que la empresa presentó información inexacta en los documentos remitidos, como he dicho antes.
+
+
+Además, se identifica el administrador de la empresa, Carlos Rodríguez, como responsable de la presentación de información falsa y se cuantifican los daños y perjuicios causados. Los acreedores del 10% del pasivo y los acreedores públicos también presentan sus informes razonados y documentados en el plazo establecido, que si recordamos, era de 20 días. Una vez recibidos todos los informes, el juez concede un plazo de 15 días para que las partes afectadas acepten o se opongan a la calificación propuesta.
+
+
+En este caso hipotético, el administrador de la empresa ABCSL y Carlos Rodríguez aceptan la calificación como culpable, mientras que otros acreedores se oponen. Se celebra una vista y finalmente el juez dicta sentencia, calificando la insolvencia como culpable y condenando a Carlos Rodríguez a la inhabilitación para administrar bienes ajenos durante 5 años. Este ha sido solo un ejemplo hipotético de cómo podría desarrollarse una calificación abreviada en un procedimiento especial para microempresas, pero ilustra la importancia de cumplir con los requisitos legales y proporcionar información precisa y veraz durante el proceso concursal.
+
+
+¿Y cómo se concluye este procedimiento? La conclusión del procedimiento especial de liquidación es el momento en el que se termina el proceso de liquidación de la empresa y se procede a su cierre definitivo. Este proceso se lleva a cabo mediante la presentación del informe final de liquidación, que debe ser elaborado por el deudor o la administración concursal y presentado en un formulario normalizado, comunicado electrónicamente. El plazo para presentar este informe es dentro de los 10 días siguientes a la conclusión de la liquidación y en todo caso, transcurridos 3 meses desde su comienzo o 4 meses si se concede prórroga.
+
+
+En caso de que exista en trámite la calificación una acción rescisoria o de responsabilidad, el plazo se extiende a 15 días desde la sentencia. El contenido mínimo del informe debe detallar todas las operaciones de liquidación realizadas, incluyendo los momentos y cantidades, la lista de los créditos que quedan por satisfacer, la lista de los activos aún no liquidados y los detalles de pago de los acreedores con créditos aún insatisfechos. Una vez presentado el informe, existe la posibilidad de que se produzca una oposición al mismo, en cuyo caso se debe presentar un formulario normalizado con las alegaciones y documentos probatorios necesarios.
+
+
+En caso de que se produzca una oposición, se realizará una vista virtual potestativa en los 5 días siguientes, en la que asistirán el deudor, la administración concursal y la parte oponente. Y ya sí que sí, finalmente se dictará una sentencia irrecurrible. La conclusión del procedimiento especial y el archivo de las actuaciones pueden darse en 4 supuestos diferentes, que es cuando se considere cumplido el plan de continuación, una vez liquidada la masa activa, cuando se compruebe la insuficiencia de la masa activa para el pago de los créditos contra la masa o cuando se compruebe el pago o consignación de todos los créditos reconocidos o su satisfacción por otros medios o el desistimiento o renuncia de todos los acreedores.
+
+
+En el auto de conclusión, se ordena la cancelación de la hoja abierta en el registro público y se informa de los efectos de la conclusión, cesan así las limitaciones sobre las facultades de administración y disposición, salvo sentencia de calificación, y el deudor sigue siendo responsable del pago de los créditos insatisfechos, salvo obtención de la exoneración del pasivo insatisfecho que veremos más adelante. Por cerrar la clase con un ejemplo, supongamos que Juan es el administrador concursal del procedimiento especial de liquidación de la empresa XYZSL. Tras varios meses de liquidación, ha logrado vender todos los activos de la empresa y ha pagado a todos los acreedores que han presentado sus créditos.
+
+
+Juan presenta entonces el informe final de liquidación en el que detalla todas las operaciones realizadas en la liquidación, incluyendo el momento y la cantidad de las mismas, y presenta una lista de los créditos que quedan por satisfacer y de los activos que todavía no se han liquidado. El informe es comunicado electrónicamente, en el plazo de los 10 días siguientes a la conclusión de la liquidación, y a pesar de que Juan ha logrado satisfacer a todos los acreedores, una de las empresas que presentó un crédito se opone al informe final de liquidación, alegando que no se han tenido en cuenta todos los pagos realizados. La empresa presenta sus alegaciones y documentos probatorios mediante formulario normalizado, en el plazo de 10 días, como te dije, y se celebrará así la vista virtual potestativa en la que asisten Juan, la empresa oponente y el representante de la administración concursal.
+
+
+Tras la vista, como ya sabes, se dicta sentencia irrecurrible en la que se desestima la posición de la empresa y se aprueba el informe final de liquidación. Era evidente. El procedimiento especial de liquidación concluye así con la presentación del informe final y la celebración de la vista virtual potestativa, y se procede al archivo de las actuaciones con la cancelación de la hoja abierta en el registro público.
+
+
+Juan informa al juzgado de la conclusión del procedimiento y de la cancelación de la hoja registral y se ordena la cancelación de las limitaciones sobre sus facultades de administrar y disponer. Eso sí, como hemos liquidado, a partir de ese momento, la empresa XYZSL queda disuelta y su actividad cesada. Y esto es todo por la clase de hoy, espero que te hayan quedado un poco claros los procedimientos especiales para microempresas, porque la mayoría de las empresas españolas son microempresas, me parece incluso que es el 97%.
+
+
+Así que estate muy pendiente, repasa estas clases porque probablemente sean las que más se den en la práctica. Nos vemos en la próxima y un saludo.
+

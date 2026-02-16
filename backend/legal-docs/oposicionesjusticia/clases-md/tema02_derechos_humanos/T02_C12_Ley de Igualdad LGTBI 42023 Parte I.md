@@ -1,0 +1,56 @@
+# Derechos Humanos
+
+## Ley de Igualdad LGTBI 42023 Parte I
+
+**Tema:** Derechos Humanos  
+**Clase:** T02_C12  
+**Archivo:** T02_C12_Ley de Igualdad LGTBI 42023 Parte I.txt  
+**Tipo:** Material de Clase  
+**Categoría:** Oposiciones de Justicia  
+
+---
+
+¡Buenas, opositores! Espero que estéis listos para comenzar con una ley de igualdad que tendremos que tener en cuenta en nuestro tema 2. Se trata de la Ley 4-2023, de 28 de febrero, para la igualdad real y efectiva de las personas trans y para la garantía de los derechos de las personas LGTBI. Vamos a realizar un visionado rápido de la misma, por si te cae en el examen, que no se te resiste. Sin más dilaciones, comenzamos.
+
+
+¿Cuál es el objetivo de esta ley? Según el preámbulo, el objeto de la presente ley es desarrollar y garantizar los derechos de las personas lesbianas, gays, bisexuales, trans e intersexuales, en adelante LGTBI, erradicando las situaciones de discriminación para asegurar que en España se pueda vivir la orientación sexual, la identidad sexual, la expresión de género y las características sexuales y la diversidad familiar con plena libertad. Teniendo esto presente, vamos a ver cómo se estructura la ley. Esta ley se estructura en un título preliminar, 4 títulos, 4 disposiciones adicionales, 2 disposiciones transitorias, 1 disposición derogatoria y 20 disposiciones finales.
+
+
+Empecemos con el título preliminar, disposiciones generales. En el artículo 1 nos expone el objeto de la ley y tenemos que resaltar que el mismo es garantizar la igualdad real y efectiva de las personas lesbianas, gays, trans, bisexuales e intersexuales, en adelante LGTBI, así como de sus familias. Entre otras actuaciones que se prevé a los poderes públicos podemos encontrar una cuestión importante en el apartado de tercero, la rectificación registral relativa al sexo y en su caso nombre de la persona y con esta posibilidad quiero que te quedes.
+
+
+Continuamos. ¿Esta ley a quién se aplica? Pues no tiene sentido que sea de otra manera que a toda persona física o jurídica, de carácter público o privado, que resida, se encuentre o actúe en el territorio español, cualquiera que fuera su nacionalidad, origen racial o étnico, religión, domicilio, residencia, edad, estado civil o situación administrativa. El artículo 3 nos da unas definiciones que te recomiendo te revises con profundidad.
+
+
+Sin embargo, aquí me limito a darte las claves. A. Discriminación directa, situación en que se encuentra una persona o grupo que sea tratado de manera menos favorable que otra en situación análoga o comparable por razón de orientación sexual e identidad sexual, expresión de género o características sexuales. Se considerará discriminación directa la denegación de ajustes razonables a las personas con discapacidad.
+
+
+Podría ser el caso de una empresa que rechaza la candidatura de una persona para un puesto de trabajo debido a su orientación sexual. Por ejemplo, si un hombre gay se postula para un trabajo y cumple con todos los requisitos y calificaciones necesarias, pero dentro del proceso de entrevista se le informa que no será contratado específicamente debido a su orientación sexual. B. Discriminación indirecta, se produce cuando una disposición, criterio o práctica aparentemente neutros ocasionan o ocasionan a una o varias personas una desventaja particular con respecto a otras por razón de orientación sexual e identidad sexual, expresión de género o características sexuales.
+
+
+Un ejemplo de discriminación indirecta podría ser una empresa que implementa un código de vestimenta estricto que requiere que los hombres vistan trajes y las mujeres falda y blusa. Aunque esta política puede parecer neutral, podría discriminar indirectamente a las personas transgénero, no binarias o aquellas que expresan su género de manera diferente. B. Discriminación múltiple e interseccional, cuando una persona es discriminada y de manera simultánea o consecutiva por dos o más causas de las previstas en esta ley y o por otra causa o causas de discriminación previstas en la Ley 15.2022, de 12 de julio, integral para la igualdad de trato y no discriminación.
+
+
+C. Se produce discriminación interseccional cuando concurren o interactúan diversas causas comprendidas en el apartado anterior generando una forma específica de discriminación. Un ejemplo de discriminación múltiple e interseccional sería el caso de una mujer negra lesbiana que enfrenta discriminación en su lugar de trabajo. Aquí la discriminación no se debe únicamente a su género, raza u orientación sexual de manera aislada, sino a la combinación de estas identidades que interactúan y se superponen generando una forma específica y compleja de discriminación.
+
+
+Discriminación por asociación y discriminación por error. Existe discriminación por asociación cuando una persona o grupo en que se integra debido a su relación con otra sobre la que concurra alguna de las causas de discriminación por razón de orientación e identificación sexual, expresión de género o características sexuales, es objeto de un trato discriminatorio. La discriminación por error es aquella que se funda en una apreciación incorrecta acerca de las características de la persona o personas discriminadas.
+
+
+Un ejemplo de discriminación por asociación podría ser el caso de una persona heterosexual que es despedida de su trabajo después de asistir a un evento del orgullo gay con un amigo homosexual. Aunque la persona no es homosexual, el empleador actúa bajo la percepción de su asociación con la comunidad LGTBI y decide terminar su empleo basándose en esta asociación. Siguiendo con las definiciones que presenta esta ley, abordamos ahora persona trans, persona cuya identidad sexual no se corresponde con el sexo asignado al nacer.
+
+
+Continuamos con la definición de familia LGTBI, aquella en la que uno o más de sus integrantes son personas LGTBI englobándose dentro de ellas las familias homoparentales, es decir, las compuestas por personas lesbianas, gays o bisexuales con descendientes menores de edad que se encuentran de forma estable bajo guarda, custodia, tutela, patria potestad o con descendientes mayores de edad con discapacidad a cargo. Ahora veremos una definición que aunque aparentemente tenga un nombre tanto complejo, simplemente es la fobia al grupo LGTBI. Es la consistente en la LGTBI-fobia, toda actitud, conducta o discurso de rechazo, repudio, perjuicio, discriminación o intolerancia hacia las personas LGTBI por el hecho de serlo o ser percibidas como tales.
+
+
+Un ejemplo de LGTBI-fobia podría ser el caso verbal que sufre una persona transexual al caminar por la calle. Los transeúntes pueden dirigirle insultos, burlas o comentarios despectivos basados exclusivamente en su identidad de género. Te recomiendo que le eches un vistazo también a los conceptos de homofobia, bifobia y transfobia que establece el artículo 3. Continuamos con el título primero, actuación de los poderes públicos.
+
+
+En este capítulo primero nos explican los criterios y líneas generales de actuación de los poderes públicos y órganos de participación ciudadana. Se reconoce el deber de los poderes públicos de desarrollar todas las medidas necesarias para garantizar de nuevo la igualdad y no discriminación, así como el fomento del reconocimiento institucional y participación en los actos conmemorativos de las personas LGTBI. A su vez, los poderes públicos promoverán campañas de sensibilización e impulsarán los estudios y encuestas a las personas LGTBI, incluyendo memoria o estadísticas.
+
+
+Como bien dice el artículo 7, en cualquier caso, los responsables del tratamiento de los datos personales de las actividades contempladas en este artículo deberán cumplir diligentemente las obligaciones que impone el Reglamento de la Unión Europea 2016-679 del Parlamento Europeo y del Consejo de 27 de abril de 2016 y la Ley Orgánica 3-2018 y la Ley Orgánica 7-2021. Bueno opositores, hasta aquí la clase de hoy. Hemos visto la introducción de esta ley y los primeros siete artículos.
+
+
+Nos vemos en la próxima clase, donde continuaremos con las claves del articulado de esta ley. Un saludo y nos vemos pronto. ¡Ánimo!
+

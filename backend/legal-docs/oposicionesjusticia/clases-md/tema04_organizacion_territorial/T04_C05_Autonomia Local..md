@@ -1,0 +1,50 @@
+# Organización Territorial del Estado
+
+## Autonomia Local.
+
+**Tema:** Organización Territorial del Estado  
+**Clase:** T04_C05  
+**Archivo:** T04_C05_Autonomia Local..txt  
+**Tipo:** Material de Clase  
+**Categoría:** Oposiciones de Justicia  
+
+---
+
+Muy buenos a todos, hoy vamos a hablar de la autonomía local que aparece prevista en los artículos 140 y 141. Estos artículos ya los hemos examinado brevemente en su momento. Recordáis su contenido, todos ellos hacían referencia a la existencia de entidades territoriales distintas de las comunidades autónomas, las cuales tenían autonomía para gestionar sus intereses, siendo este el caso de los municipios, provincias y las islas.
+
+
+Así, el ayuntamiento en que vivís vosotros, la provincia en que se encuentra y cualquier isla española, como podría ser la de Tenerife, son entidades locales territoriales, las cuales se rigen por la ley reguladora de las bases del régimen local. Estas entidades públicas tienen diversos poderes para así gestionar los intereses y procurar el beneficio de sus habitantes, como podría ser la potestad de recaudar tributos, siendo un ejemplo de impuesto que se percibe por las entidades locales el impuesto de circulación de vehículos. Y la autonomía de estas entidades es lo que da lugar a lo que se conoce como autonomía local, siendo una garantía institucional que implica una doble dimensión.
+
+
+Por un lado, estos entes deben existir jurídicamente como tales, no pudiendo ser obligados a desaparecer por parte del Estado o de las comunidades autónomas. Así, una ley elaborada por Galicia, cuyo fin sea eliminar las provincias para absorber así sus competencias, sería directamente inconstitucional, al ir en contra de la autonomía local. En este sentido, el Tribunal Constitucional ha dispuesto que la autonomía local goza de una protección institucional reforzada.
+
+
+Por otro lado, la autonomía local, en relación con el poder del Estado, implica algo que hemos visto en clases anteriores. ¿Sabéis de qué puede tratarse? Pues se trata de la distribución del poder territorial del Estado, evitando así que sea monopolizado por éste. Ahora bien, aquí hay un problema, y es que, a diferencia de las comunidades autónomas, en que la Constitución Española indica qué pueden o no hacer, la Carta Magna guarda silencio en relación a las competencias de las entidades locales.
+
+
+Y esto da pie a una pregunta. ¿Quién la va a determinar? Pues la tarea de concretarlas corresponde al legislador ordinario, para lo que se dictó la denominada Ley de Bases de Régimen Local. Pasamos a ver ahora cómo se controla la autonomía local, existiendo diferentes garantías.
+
+
+Así, existen garantías de la autonomía local. Imaginémonos que el Estado dicta una norma que priva de toda competencia a las entidades locales, y por tanto, vulnera la autonomía local. ¿Tiene algún medio con el que defenderse? Pues sí, y es que podrán interponer el recurso contra la autonomía local, el cual se examina en el título correspondiente de la clase.
+
+
+Así, la defensa de la autonomía local puede hacerse ante el Tribunal Constitucional. Además, la autonomía local puede defenderse también ante los tribunales contencioso-administrativos, en caso de normas infralegales o actos administrativos, como sería un reglamento que infringiera alguna de las competencias de las entidades locales prevista en la Ley de Bases de Régimen Local. En la otra cara de la moneda están las garantías frente a la autonomía local.
+
+
+Las entidades locales, al igual que las comunidades autónomas, también tienen obligaciones y deben de cumplirlas, para lo que existen diferentes medios. ¿Cuáles son estos? Pues se trata de tres mecanismos. El cumplimiento subsidiario que permita al Estado a las comunidades autónomas adoptar las medidas necesarias para cumplir la obligación de la entidad local que haya sido desatendida por la misma, todo ello a su costa, se encuentra regulado en el artículo 60 de la Ley de Bases de Régimen Local.
+
+
+Disolución de los órganos de las corporaciones locales, artículo 61, es el equivalente al artículo 155 y se aplica para los casos de gestión gravemente dañosa para los intereses generales y que implique el incumplimiento de obligaciones constitucionales. Se utilizó en 2006 con el Ayuntamiento de Marbella, fruto de la trama de corrupción urbanística que hubo en ese municipio. Y, por último, estarían los controles ordinarios de legalidad para aquellos actos y disposiciones de las entidades locales, como podría ser, por ejemplo, la impugnación de una ordenanza ante la jurisdicción contencioso-administrativa por invadir competencias del Estado o de las comunidades autónomas.
+
+
+Y, en principio, esto ha sido todo. Veamos un rápido resumen. La autonomía local permite a las entidades locales, que son los municipios, las provincias y las islas, gestionar sus respectivos intereses.
+
+
+Gozan de una protección institucional reforzada y hace referencia a la efectiva distribución de poder territorial del Estado entre entes públicos territoriales. A diferencia de las comunidades autónomas, las competencias de las entidades locales no están determinadas en la Constitución, por lo que es tarea del legislador ordinario determinarlas. A lo anterior hay que añadir también que existen garantías, por un lado, de la autonomía local, pudiendo darse ante el Tribunal Constitucional o la jurisdicción contencioso-administrativa.
+
+
+Y, por otro lado, garantías frente a la autonomía local, como es la posibilidad de cumplimiento subsidiario, la disolución de órganos de las corporaciones locales para casos más graves y los controles ordinarios de legalidad. Y con esto ha terminado la clase. Esperamos que os haya divertido.
+
+
+Nos vemos en la próxima. Un saludo. CC por Antarctica Films Argentina
+

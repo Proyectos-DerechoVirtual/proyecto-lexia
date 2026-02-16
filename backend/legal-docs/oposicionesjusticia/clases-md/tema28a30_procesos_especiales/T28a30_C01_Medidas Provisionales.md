@@ -1,0 +1,68 @@
+# Procesos Especiales
+
+## T28a30 C01 Medidas Provisionales
+
+**Tema:** Procesos Especiales  
+**Clase:** T28a30_C01_Medidas Provisionales  
+**Archivo:** T28a30_C01_Medidas Provisionales.txt  
+**Tipo:** Material de Clase  
+**Categoría:** Oposiciones de Justicia  
+
+---
+
+Muy buenas a todos y bienvenidos a un nuevo vídeo de Derecho Virtual. En el vídeo de hoy veremos las medidas provisionales de los procedimientos matrimoniales. En la primera parte del vídeo explicaremos las medidas provisionales antes de la demanda y en la segunda parte del vídeo desarrollaremos las medidas provisionales simultáneas a la demanda.
+
+
+Así que sin más dilación comenzamos. Las medidas provisionales se pueden presentar antes de interponer la demanda tenuidad, separación, divorcio. Estas son las medidas provisionales previas a la demanda y se regulan en el artículo 771 para diferenciarlas de las medidas provisionales simultáneas con la demanda que está regulada en el artículo 773.
+
+
+Ponemos un ejemplo para su mejor explicación. Juan y María después de cinco años de casado no pasan por un buen momento de su relación y María interpone demanda de divorcio. Pero María quiere solicitar medidas que regulen el matrimonio.
+
+
+Por ejemplo, guardia y custodia, uso de la vivienda, la atribución de los animales de compañía, etc. Hasta que el juez dite la certeza. Y ahora os pregunto ¿cuándo puede solicitar María las medidas provisionales? María las puede solicitar estas medidas provisionales antes de presentar su demanda de divorcio o también trae la opción de presentar conjuntamente la demanda de divorcio y que se acompañen las medidas provisionales.
+
+
+¿A qué hora lo habéis entendido? ¡Fenomenal! Vamos a desarrollar las medidas provisionales previas a la demanda. En esta primera parte del vídeo que está reguladas como ya hemos dicho antes en el artículo 771 y tienen dos especialidades en cuanto a la postulación y a la competencia transferial. Si María quiere presentar las medidas provisionales no es necesario valerse de abogado y procurador.
+
+
+Esa es la primera especialidad para su presentación. ¡Ojo! Y la segunda especialidad es que será competente para conocer de las medidas provisionales previas a la demanda el tribunal del domicilio del solicitante porque tienen un fuero especial. Volviendo a nuestro ejemplo, María para presentar estas medidas lo hará en el juzgado de primera instancia de su domicilio y sin necesidad de abogado y procurador.
+
+
+Pero me paro aquí. Para solicitar estas medidas no son preceptivos estos profesionales pero serán necesarios para cualquier intervención posterior, es decir, ahora veremos en el caso de que vayan a la comparecencia deberá acudir con abogado y ¿Cómo es su tramitación de estas medidas? Pues según una vez presentada la solicitud el letrado de la Administración de Justicia una vez comprobada dicha solicitud cita las partes en el paso de 10 días a la comparecencia en la que se practicarán las pruebas propuestas y las que no se pueda practicar en la comparecencia estas pruebas se practican en los 10 días siguientes. ¿Qué ocurre en el caso de que no comparezca alguno de los cónyuges? Pues que se tendrán por admitidos los hechos por el cónyuge comparecido sobre las medidas de carácter patrimonial.
+
+
+Tras la práctica de las pruebas en los tres días siguientes el juez hizo autos y contra el cual no cabe recurso. Esta es una tónica que pasa en las medidas profesionales que los autos que son de medidas profesionales son irrecurribles contra los cuales no cabe recurso. Ya tenéis ahí una semejanza para los test.
+
+
+En este auto fijará el juez las medidas y ahora os pregunto ¿tienen algún plazo de vigencia estas medidas? Pues la respuesta es que sí. Estas medidas estarán en vigor durante 30 días si se presenta la demanda. La ley contempla también la posibilidad que María, la de nuestro ejemplo, solicite medidas profesionales con carácter urgente sin necesidad de escuchar a la otra parte Juan las denominadas medidas de carácter urgente y la audita parte presentada la solicitud de medidas urgentes en letrado de la Administración de Justicia da la cuenta juez el mismo día y resuelve por auto.
+
+
+¿Contra este auto cabe algún recurso? Como hemos dicho antes y volviendo a la especialidad la respuesta es que no. Y os pregunto ¿qué medidas son urgentes? También la ley nos va a establecer que estas medidas son la custodia de los hijos, el uso de la vivienda, esta es nueva, entró hace un par de años, la atribución de los animales de compañía y por último el ajuar familiar. Vamos ahora con la segunda parte del vídeo.
+
+
+En esta segunda parte vamos a ver las medidas profesionales previas simultáneas a la demanda. Como ya hemos visto y volviendo a nuestro ejemplo María junto con la demanda de divorcio acompañará la solicitud de medidas profesionales. Es preceptivo abogado y procurador y os pregunto ¿dónde se presenta la demanda de divorcio junto con las medidas? Pues tenemos que ir al artículo 769 y tiene la competencia territorial con carácter general el domicilio conyugal.
+
+
+Y os preguntaréis ¿cómo se tramitan estas medidas? Pues depende de quién las pida, me explico. Estas medidas puede pedirlas María junto con su demanda pero también se puede dar el caso que las pida Juan cuando conteste a la demanda de divorcio y la tramitación por tanto es distinta. Vamos a ver primero cómo se tramitan las medidas cuando las solicita el demandante que se tramitarán conforme el artículo 771 lo que hemos visto arriba es decir si la medida provisional las pide el actor o las pide María una presentada junto con la demanda o Joaquín el letrado de la administración de justicia en el plazo de 10 días convocan las partes a la comparecencia en la cual se practica la prueba en caso de no poderse practicar prueba se hará en los 10 días siguientes.
+
+
+Practicada dicha prueba en los tres siguientes se dictará auto y como sabemos contra ese auto con algún recurso os ese auto es irrecurrible. Repito acabamos de ver las medidas cuando las pide el actor y ahora vamos a ver cómo se tramitan las medidas cuando la solicita el demandado y os pregunto ¿Por qué va a solicitar el demandado medidas provisionales? Porque como nos dice la ley son medidas las cuales el juez no se va a pronunciar de oficio. Os pongo un ejemplo imaginémonos que en vez de ser el demandado Juan es María y ella cuando se casó dejó su trabajo para cuidar a la familia además cobraba más que Juan.
+
+
+Ahora en la contestación a la demanda de divorcio que ella solicita una pensión copesatoria por los años que no trabajó y mermó tanto sus ingresos como su nivel o vida laboral. Pero volvemos a nuestro ejemplo ¿Y quién es el demandado? Es Juan. Yo os hago otra pregunta ¿Dónde interpone las medidas el demandado? Como hemos visto antes con la contestación a la demanda.
+
+
+Muy bien y os hago otra pregunta ¿Y estas medidas cómo se tramitan? Pues aquí está aquí la cuestión pues dependerá de si la vista principal del procedimiento de divorcio del artículo 770 se puede señalar en los 10 días siguientes a la contestación a la demanda. Entonces si la vista principal del procedimiento de divorcio se puede señalar en los 10 días siguientes a la contestación de la demanda, el ELAG convoca a las partes a dicha vista principal y tras ella dictará, ojo, a oto cuando no se puede dictar la sentencia después de dicha vista principal. Una vez que se dicte sentencia las medidas provisionales quedarán sin efecto por las definitivas que estarán en la sentencia.
+
+
+¿Lo habéis entendido? Bueno pues vamos ahora a cuando la vista principal del procedimiento de divorcio no se pueda señalar en los 10 días siguientes a la contestación a la demanda. ¿Pues se va a tramitar? En este caso conforme el artículo 771 que ya hemos visto, es decir, LAZ en los 10 días siguientes a la contestación a la demanda citará a la comparecencia a las partes para la práctica de la prueba. Cuando la prueba no se pueda practicar en el acto de la vista se hará en los 10 días siguientes.
+
+
+Practicará la prueba en los tres días siguientes y hará auto. ¿Y este auto cabe recurso? Ya sabéis, es la tónica habitual, no cabe recurso, es irrecurrible. Y como hemos dicho antes, las medidas provisionales quedarán sin efecto cuando se dicte en sentencia las medidas definitivas.
+
+
+Hasta aquí el vídeo de hoy. Como veis hemos hablado de las medidas antes de la demanda y las medidas provisionales junto con la demanda. La que más complicación puede tener son las medidas provisionales junto con la demanda.
+
+
+Estas y su tramitación dependerá de si la solicita el actor o el demandado. En caso que la solicite el demandado, su tramitación dependerá a su vez de si la vista principal del procedimiento de divocio se señala en los 10 días siguientes a la contestación a la demanda o no se pueda señalar en los 10 días siguientes. Así que hasta el próximo vídeo y un saludo.
+

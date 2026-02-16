@@ -1,0 +1,83 @@
+# Procesos Especiales
+
+## T28a30 C23 Procesos Matrimoniales
+
+**Tema:** Procesos Especiales  
+**Clase:** T28a30_C23_Procesos Matrimoniales  
+**Archivo:** T28a30_C23_Procesos Matrimoniales.txt  
+**Tipo:** Material de Clase  
+**Categoría:** Oposiciones de Justicia  
+
+---
+
+Muy buenas, bienvenido a un nuevo vídeo de PlanoPositores. Continuamos con el tema 30 relativo a los procesos matrimoniales y sus clases. Ya sabes que es una materia muy extensa, así que la estudiarás en varios vídeos.
+
+
+Antes de nada, hagamos un índice para que pueda seguir la explicación de lo que podríamos llamar disposiciones comunes a estos procedimientos. Comenzamos con la jurisdicción y la competencia de los tribunales españoles. Dentro de la competencia veremos la objetiva y la territorial y quiénes están legitimados para iniciar el procedimiento.
+
+
+Ahora sí, comenzamos. En primer lugar, veremos jurisdicción y competencia. Jurisdicción.
+
+
+¿Cuándo pueden conocer los tribunales españoles de estos procedimientos matrimoniales? Es decir, ¿cuándo tienen jurisdicción los tribunales españoles en este ámbito? Según el artículo 22 quarter apartado c de la ley orgánica del Poder Judicial 6.1985, la jurisdicción civil española es competente en materia de relaciones personales y patrimoniales entre el cónyuge en unidad matrimonial, separación, divorcio y sus modificaciones, siempre que ningún otro tribunal extranjero tenga competencia. Cuando ambos cónyuges poseen residencia habitual en España al tiempo de la interposición de la demanda. Por ejemplo, un matrimonio de ciudadanos alemanes que llevan viviendo y trabajando en España desde hace cinco años deciden divorciarse.
+
+
+Al momento de presentar la demanda de divorcio, ambos residen en España, por lo tanto, la jurisdicción civil española es competente para tratar su caso de divorcio. Cuando hayan tenido en España su última residencia habitual y uno de ellos reside allí. Por ejemplo, una pareja de un español y un francés que viven en España, pero después de separarse el cónyuge francés se muda a Francia.
+
+
+El cónyuge español sigue viviendo en España y solicita la separación formal. Dado que su última residencia habitual como pareja fue España y uno de ellos, el español, aún reside allí, los tribunales civiles españoles tienen competencia para tratar el caso. Cuando España sea la residencia habitual del demandado.
+
+
+Un matrimonio donde un cónyuge es británico y el otro es español, pero se han separado. El cónyuge británico vive en Reino Unido y el español en España. Si el cónyuge británico inicia un proceso de divorcio, los tribunales civiles españoles serán competentes ya que el demandado, el cónyuge español, tiene su residencia habitual en España.
+
+
+En caso de demanda de mutuo acuerdo. Cuando en España resida uno de los cónyuges. Una pareja donde un cónyuge es italiano y el otro es español decide divorciarse de mutuo acuerdo.
+
+
+El cónyuge español vive en España mientras que el italiano reside en Italia. En este caso la jurisdicción civil española es competente para tramitar su divorcio debido a que uno de los cónyuges reside en España. Cuando el demandante lleve al menos un año de residencia habitual en España, desde la interposición de la demanda, un ciudadano alemán casado con otro ciudadano alemán se ha mudado a España.
+
+
+Después de vivir en España durante más de un año deciden iniciar un procedimiento de mutuo acuerdo. La jurisdicción civil española es competente porque el demandante, el ciudadano alemán residente en España, ha vivido allí por lo menos un año. Cuando el demandante sea español y tenga su residencia habitual en España, al menos seis meses antes de la interposición de la demanda, un matrimonio formado por un español y un británico que viven en Reino Unido decide divorciarse.
+
+
+El cónyuge español regresa a España y después de vivir allí durante seis meses inicia el proceso de divorcio de mutuo acuerdo. La jurisdicción civil española es competente ya que el demandante, el cónyuge español, ha residido en España durante al menos seis meses, así como cuando ambos cónyuges tengan nacionalidad española. Una pareja de españoles que vive en Alemania decide divorciarse de mutuo acuerdo.
+
+
+A pesar de residir fuera de España, la jurisdicción civil española es competente para tramitar su divorcio ya que ambos cónyuges poseen la nacionalidad española. Y hasta aquí el tema de la jurisdicción. Continuamos con la competencia.
+
+
+Veámoslo con un ejemplo. Juan y María, un matrimonio, han decidido divorciarse de mutuo acuerdo. Ellos vivían en Madrid, pero después de decidir divorciarse, Juan se mudó a Barcelona y María continúa viviendo en Madrid.
+
+
+La competencia objetiva está prevista en el artículo 769 de la ley de enjuiciamiento civil. Para el conocimiento de estos procesos se atribuye a los jugados de primera instancia, salvo en las poblaciones donde haya jugados de familia, que son los jugados de primera instancia especializados, en cuyo supuesto corresponde a estos. También serán competentes los jugados de violencia sobre la mujer en el ámbito que le es propio.
+
+
+Dado que están buscando un divorcio, el proceso debe ser conocido por un juzgado de primera instancia. Sin embargo, si en Madrid hay un juzgado de familia, éste será el competente para conocer del caso, ya que se trata de un juzgado de primera instancia especializado en asuntos familiares. Si existiera violencia de género involucrada, un juzgado de violencia sobre la mujer en Madrid podría ser competente.
+
+
+Respecto a la competencia territorial, el artículo 769 de la ley de enjuiciamiento civil establece que, salvo que expresamente se disponga otra cosa, será tribunal competente para conocer estos procedimientos el juzgado de primera instancia del lugar del domicilio conyugal. Por tanto, si la competencia territorial normalmente recaería en el tribunal del lugar del domicilio conyugal, en este caso sería Madrid. En el caso de residir los cónyuges en distintos partidos judiciales, será tribunal competente, a elección del demandante, el del último domicilio del matrimonio o el de residencia del demandado.
+
+
+Como Juan y María ahora residen en diferentes partidos judiciales, Juan en Barcelona y María en Madrid, la elección del tribunal competente dependerá del demandante. Podrían elegir entre el tribunal del último domicilio conyugal, que es Madrid, o el de la residencia del demandado, si fuera Juan el demandado sería Barcelona. Los que no tuvieran domicilio ni residencia fijos podrán ser demandados en el lugar en el que se hallen o en su última residencia a elección del demandante, y si tampoco pudiera determinarse si la competencia corresponderá hasta el tribunal del domicilio del actor.
+
+
+En el procedimiento de separación o divorcio de mutuo acuerdo al que se refiere el artículo 777 de la ley de enjuiciamiento civil, será competente el juzgado del último domicilio común o el del domicilio de cualquiera de los solicitantes. En el procedimiento de divorcio de mutuo acuerdo podrían elegir el juzgado del último domicilio común, que es Madrid, o el del domicilio de cualquiera de los solicitantes, lo que les daría la opción de Madrid o Barcelona. El órgano judicial examinará de oficio su competencia, siendo nulos los acuerdos de las partes que se opongan a estas reglas de competencia.
+
+
+Independientemente de la elección que hagan Juan y María, el órgano judicial correspondiente examinará de oficio si es competente para conocer del caso. Cualquier acuerdo al que lleguen Juan y María que se opongan las normas de competencia será considerado nulo. Continuamos con la legitimación.
+
+
+Pues bien, estad atentos porque vamos a distinguir según se trate de nulidad o de separación o divorcio van a estar unos u otros legitimados. ¿Quiénes pueden iniciar estos procedimientos? En el caso de nulidad, según el artículo 84 del Código Civil, el proceso puede iniciarse por los cónyuges, por el fiscal o por cualquier persona que tenga interés directo y legítimo en el asunto. Si la causa de nulidad fuera la falta de edad mientras el contradidente sea menor, sólo podrá ejercitar la acción cualquiera de sus padres, tutores o guardadores y, en todo caso, el Ministerio Fiscal.
+
+
+Al llegar a la mayoría de edad, sólo podrán ejercitar la acción el contradidente menor, salvo que los cónyuges hubieran vivido juntos durante un año después de alcanzada aquella. En los casos de error, coacción o miedo grave, solamente podrá ejercitar la acción de nulidad el cónyuge que hubiera sufrido el vicio. Caduca la acción y se convalida el matrimonio si los cónyuges hubieran vivido juntos durante un año después de desvanecido el error o de haber cesado la fuerza o causa del miedo.
+
+
+En cuanto a la separación o el divorcio, la demanda sólo puede ser presentada por los cónyuges. Y hasta aquí el segundo vídeo relativo a los procesos matrimoniales. Hemos visto las disposiciones comunes a tales procesos.
+
+
+Empezamos con la explicación de jurisdicción y competencia de los tribunales españoles, recuerda competencia objetiva y territorial. Has podido ver que depende de si estamos ante nulidad o separación o divorcio contencioso, es diferente quienes están legitimados para iniciar el procedimiento. Continuamos en el próximo vídeo con las disposiciones comunes.
+
+
+¡Mucho ánimo con el estudio!
+

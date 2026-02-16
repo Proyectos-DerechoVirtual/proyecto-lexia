@@ -1,0 +1,449 @@
+Pregunta: ¿Qué se asegura usando formatos o servicios que mantienen la durabilidad de las firmas y sellos electrónicos, de acuerdo con la normativa vigente?
+1)Todas son correctas.
+2)Los requisitos legales de los documentos públicos.
+3)La veracidad de la información.
+4)Su verificabilidad.
+Respuesta: 4
+Correcta: ¡Correcto! Al utilizar formatos o servicios que mantienen la durabilidad de las firmas y sellos electrónicos, se garantiza su capacidad de validación.
+Errada: Incorrecto. La respuesta correcta es su verificabilidad (opción 4). (Respuesta Correcta 4)
+###
+Pregunta: ¿Cuál de las siguientes no es una responsabilidad de los Registros Consulares?
+1)Registrar eventos y acciones relacionados con españoles que ocurren en su jurisdicción consular.
+2)Inscribir documentos extranjeros, tanto judiciales como no judiciales, y certificaciones de Registros Civiles extranjeros que sirven como base para la inscripción.
+3)Preparar el expediente de matrimonio y proporcionar los certificados de habilidad requeridos para casarse en el extranjero.
+4)Practicar la inscripción de fallecimiento de las personas de nacionalidad extranjera al servicio de las Fuerzas Armadas y de las Fuerzas y Cuerpos de Seguridad, siempre que dicho fallecimiento hubiera ocurrido durante una misión u operación fuera de España y que el sistema registral del Estado donde se produjo el hecho no practicare la pertinente inscripción.
+Respuesta: 4
+Correcta: ¡Bien hecho! Los Registros Consulares no tienen la responsabilidad de registrar el fallecimiento de personas extranjeras en esas circunstancias específicas.
+Errada: Lo siento, esa no es la respuesta correcta. Los Registros Consulares no están encargados de registrar el fallecimiento de personas extranjeras en las condiciones mencionadas. (Respuesta Correcta 4)
+###
+Pregunta: Según la cuarta disposición transitoria de la Ley 20/2011, de 21 de julio, del Registro Civil, ¿quién tiene la responsabilidad de informar sobre la implementación del nuevo modelo de Registro Civil?
+1)El Gobierno, mediante el Ministerio de Justicia, al Senado.
+2)El Gobierno, mediante el Ministerio de Justicia, al Congreso de los Diputados.
+3)El Gobierno, mediante el Ministerio de Justicia, a las Cortes Generales.
+4)El Gobierno, mediante el Ministerio de Justicia, a la DGRN.
+Respuesta: 3
+Correcta: ¡Correcto! Según la mencionada disposición, es el Gobierno, a través del Ministerio de Justicia, el que informará periódicamente a las Cortes Generales sobre el proceso de implementación.
+Errada: Incorrecto. La disposición transitoria cuarta establece que es el Gobierno, a través del Ministerio de Justicia, quien debe informar a las Cortes Generales sobre el avance del nuevo modelo. (Respuesta Correcta 3)
+###
+Pregunta: ¿Qué tarea es realizada por los Registros Consulares?
+1)Expedir certificaciones de los asientos registrales.
+2)Recibir, ya sea electrónicamente o en persona, solicitudes y formularios.
+3)Registrar la muerte de personas extranjeras que sirven en las Fuerzas Armadas.
+4)Ninguna es correcta.
+Respuesta: 1
+Correcta: ¡Bien hecho! Los Registros Consulares tienen la función de expedir certificaciones basadas en los registros.
+Errada: Lo siento, esa no es la respuesta correcta. La principal función de los Registros Consulares en este contexto es emitir certificaciones basadas en los registros. (Respuesta Correcta 1)
+###
+Pregunta: Según la Ley del Registro Civil, ¿quién puede ocupar las plazas de Encargados del Registro Civil?
+1)Los Tramitadores Procesales, con autorización del LAJ.
+2)Los Letrados de la Administración de Justicia, según lo determinado reglamentariamente.
+3)Los Gestores Procesales.
+4)Los Jueces de Primera Instancia.
+Respuesta: 2
+Correcta: ¡Exacto! La Ley establece que los Letrados de la Administración de Justicia pueden ser encargados del Registro Civil según lo determinado en la normativa.
+Errada: No es correcto. Las plazas de Encargados del Registro Civil se proveen entre los Letrados de la Administración de Justicia según lo que se determine reglamentariamente. (Respuesta Correcta 2)
+###
+Pregunta: ¿Cuántos Encargados del Registro Civil se asignarán a cada Oficina General del Registro Civil y bajo qué dependencia trabajarán?
+1)Un encargado, trabajando bajo la supervisión funcional de la Dirección General de Seguridad Jurídica y Fe Pública.
+2)Dos encargados, trabajando bajo la supervisión funcional de la Dirección General de Seguridad Jurídica y Fe Pública.
+3)Tres encargados, trabajando bajo la supervisión funcional de la Dirección General de Seguridad Jurídica y Fe Pública.
+4)Dos encargados, trabajando bajo la supervisión interna de la Dirección General de Seguridad Jurídica y Fe Pública.
+Respuesta: 1
+Correcta: ¡Correcto! Cada Oficina General del Registro Civil estará a cargo de un encargado, que desempeñará sus funciones bajo la dependencia funcional de la Dirección General de Seguridad Jurídica y Fe Pública.
+Errada: Lo siento, esa no es la respuesta correcta. Cada Oficina General tiene un encargado, que trabaja bajo la dependencia funcional de la Dirección General de Seguridad Jurídica y Fe Pública. (Respuesta Correcta 1)
+###
+Pregunta: De acuerdo con el artículo 15 de la Ley del Registro Civil y el principio de publicidad, ¿cuál de las siguientes afirmaciones es correcta?
+1)Las autoridades y empleados privados pueden acceder a la información del registro para llevar a cabo sus responsabilidades, bajo la supervisión del encargado del registro.
+2)Los datos que están especialmente protegidos no se encuentran sujetos al régimen de publicidad general.
+3)Las autoridades y empleados públicos pueden acceder a la información del registro para llevar a cabo sus responsabilidades, bajo la supervisión del encargado del registro.
+4)Los datos que están especialmente protegidos se encuentran sujetos al régimen de publicidad general.
+Respuesta: 2
+Correcta: ¡Bien hecho! La Ley del Registro Civil protege datos especialmente sensibles y no los somete al régimen de publicidad general.
+Errada: Esa no es la opción correcta. Según la Ley del Registro Civil, los datos especialmente protegidos están excluidos del régimen de publicidad general. (Respuesta Correcta 2)
+###
+Pregunta: Basado en el principio de presunción de inoponibilidad del artículo 19 de la Ley de Registro Civil, ¿cuál afirmación es verdadera?
+1)Ninguna es correcta.
+2)Los hechos y acciones que deben ser inscritos se oponen a terceros desde que ocurren, incluso si no han sido registrados aún.
+3)Cuando la ley lo estipula, los hechos y actos que deben ser inscritos se oponen a terceros una vez que son registrados.
+4)Cuando la ley lo estipula, los hechos y actos que no deben ser inscritos se oponen a terceros una vez que son registrados.
+Respuesta: 3
+Correcta: ¡Correcto! Según la Ley del Registro Civil, en ciertos casos, los hechos y actos que se inscriben se oponen a terceros solo después de su registro.
+Errada: Lamentablemente esa no es la respuesta correcta. Según la Ley, en casos específicos, los hechos y actos se oponen a terceros solo después de ser inscritos. (Respuesta Correcta 3)
+###
+Pregunta: La frase "Las personas físicas y jurídicas y los organismos e instituciones públicas que estén obligados a promover las inscripciones facilitarán a los Encargados del Registro Civil los datos e información necesarios para la práctica de aquéllas" nos referencia al principio de:
+1)Participación pública.
+2)Eficacia.
+3)Oficialidad.
+4)Colaboración ciudadana.
+Respuesta: 3
+Correcta: ¡Muy bien! La afirmación refleja el principio de oficialidad según el cual ciertos entes están obligados a proporcionar información para las inscripciones en el Registro Civil.
+Errada: Esa no es la opción adecuada. La afirmación está alineada con el principio de oficialidad donde las entidades obligadas deben suministrar datos para las inscripciones. (Respuesta Correcta 3)
+###
+Pregunta: ¿Cuál es una de las funciones de la Oficina Central del Registro Civil?
+1)Practicar las inscripciones que se deriven de resoluciones dictadas por la Dirección General de Seguridad Jurídica y fe Pública, referidas a hechos o actos susceptibles de inscripción en el Registro Civil.
+2)Registrar siempre documentos judiciales y extrajudiciales extranjeros auténticos y certificados de registros extranjeros.
+3)Efectuar inscripciones basadas en resoluciones emitidas por los Juzgados sobre hechos o acciones registrables.
+4)Efectuar inscripciones basadas en resoluciones emitidas por los Letrados de la Administración de Justicia sobre hechos o acciones registrables.
+Respuesta: 1
+Correcta: ¡Correcto! La Oficina Central del Registro Civil tiene la función de realizar inscripciones basadas en decisiones de la Dirección General de Seguridad Jurídica y fe Pública.
+Errada: La opción correcta es que la Oficina Central del Registro Civil es responsable de efectuar inscripciones basadas en decisiones de la Dirección General de Seguridad Jurídica y fe Pública. (Respuesta Correcta 1)
+###
+Pregunta: Según las disposiciones transitorias tercera, cuarta y quinta de la Ley 20/2011, de 21 de julio, del Registro Civil, elige la afirmación que no es correcta:
+1)La divulgación de datos en libros no digitalizados seguirá las directrices de la Ley del Registro Civil del 8 de junio de 1957.
+2)Una vez que esta Ley entre en vigor, no se emitirán más Libros de Familia.
+3)Los Libros de Familia emitidos antes de la implementación de la Ley de Registro Civil de 2011 tendrán los efectos detallados en los artículos 8 y 75 de dicha ley.
+4)El Ministerio de Justicia informará regularmente a las Cortes Generales sobre la implementación del nuevo sistema de Registro Civil.
+Respuesta: 3
+Correcta: ¡Bien hecho! Efectivamente, la opción 3 es incorrecta respecto a las disposiciones transitorias de la Ley del Registro Civil.
+Errada: La opción correcta es la 3. Los Libros de Familia emitidos antes de la Ley de Registro Civil de 2011 no tendrán los efectos indicados. (Respuesta Correcta 3)
+###
+Pregunta: ¿Bajo qué entidad opera el Registro Civil?
+1)Está bajo el Ministerio de la Presidencia.
+2)Está bajo el Ministerio de Justicia.
+3)Está bajo la Dirección General de Seguridad Jurídica y Fe Pública.
+4)Está bajo el Ministerio del Interior en coordinación con el de Asuntos Exteriores.
+Respuesta: 2
+Correcta: ¡Exacto! El Registro Civil está bajo la jurisdicción del Ministerio de Justicia.
+Errada: La respuesta correcta es el Ministerio de Justicia. Es el ente bajo el cual opera el Registro Civil. (Respuesta Correcta 2)
+###
+Pregunta: Cuando se crea un registro individual con el primer asiento registrado, se le asigna:
+1)Un código numérico personal único e inmutable generado por el Registro Civil.
+2)Un código de letras personal único e inmutable generado por el Registro Civil.
+3)Un número personal formado por una secuencia alfanumérica creada por el Registro Civil, que es única y permanente.
+4)Un código personal constituido por la secuencia alfanumérica generada por el Registro Civil, que será única e invariable en el tiempo.
+Respuesta: 4
+Correcta: ¡Muy bien! Cada registro individual se identifica con un código alfanumérico único e inmutable generado por el Registro Civil.
+Errada: La respuesta correcta es que a cada registro individual se le asigna un código alfanumérico único e inmutable creado por el Registro Civil. (Respuesta Correcta 4)
+###
+Pregunta: ¿Cómo se realizan los registros en el Registro Civil de la Familia Real?
+1)De manera sucesiva.
+2)En un plazo máximo de tres días.
+3)En un plazo máximo de dos días.
+4)En un plazo máximo de cinco días.
+Respuesta: 1
+Correcta: ¡Correcto! Los registros del Registro Civil de la Familia Real se hacen de manera consecutiva.
+Errada: La respuesta correcta es que los registros en el Registro Civil de la Familia Real se realizan de manera consecutiva. (Respuesta Correcta 1)
+###
+Pregunta: En cuanto al Registro Civil, ¿cuál de las siguientes es una responsabilidad de la Dirección General de Seguridad Jurídica y Fe Pública?
+1)Emitir instrucciones, decisiones y circulares en su área de competencia, las cuales no son vinculantes.
+2)Ordenar la planificación estratégica, y coordinar las actuaciones en esta materia con otras Administraciones e instituciones públicas o privadas.
+3)Todas las opciones son correctas.
+4)Coordinar la planificación estratégica y las acciones con otras entidades internacionales.
+Respuesta: 2
+Correcta: ¡Bien hecho! La Dirección General de Seguridad Jurídica y Fe Pública coordina la planificación estratégica y las acciones con otras entidades en materia de Registro Civil.
+Errada: La respuesta correcta es que la Dirección General de Seguridad Jurídica y Fe Pública coordina la planificación estratégica y las acciones con otras entidades en cuanto al Registro Civil. (Respuesta Correcta 2)
+###
+Pregunta: ¿Cuál de las siguientes opciones es un principio de funcionamiento del Registro Civil?
+1)Principio de contradicción.
+2)Principio de oficialidad.
+3)Principio de oralidad.
+4)Principio de celeridad.
+Respuesta: 2
+Correcta: ¡Exacto! El principio de oficialidad es uno de los que rigen el funcionamiento del Registro Civil.
+Errada: La opción correcta es el principio de oficialidad. (Respuesta Correcta 2)
+###
+Pregunta: Según la Disposición Adicional Segunda de la Ley de Registro Civil, ¿cómo se considera el ejercicio de la función de encargado del Registro Civil?
+1)Los miembros del Cuerpo de Gestión Procesal y Administrativa que no estarán en situación de servicio activo y podrán ejercer funciones en la oficina judicial.
+2)Los miembros del Cuerpo de Tramitación Procesal y Administrativa estarán en situación de servicio activo y podrán ejercer funciones en la oficina judicial.
+3)Los miembros del Cuerpo de Gestión Procesal y Administrativa estarán en situación de servicio activo y podrán ejercer funciones en la oficina judicial.
+4)Los miembros del Cuerpo de Letrados de la Administración de Justicia estarán en situación de servicio activo y podrán ejercer funciones en la oficina judicial.
+Respuesta: 4
+Correcta: ¡Correcto! Los miembros del Cuerpo de Letrados de la Administración de Justicia pueden ejercer funciones en la oficina judicial mientras están en situación de servicio activo como encargados del Registro Civil.
+Errada: La respuesta correcta es que los miembros del Cuerpo de Letrados de la Administración de Justicia, mientras ejercen como encargados del Registro Civil, están en situación de servicio activo y pueden ejercer funciones en la oficina judicial. (Respuesta Correcta 4)
+###
+Pregunta: ¿Quién designa a los encargados de la Oficina Central del Registro Civil?
+1)Son designados por la Dirección General de Seguridad Jurídica y Fe Pública.
+2)Son designados por el Ministerio del Interior.
+3)Son designados por el Ministerio de Justicia.
+4)Son designados por el Registro Civil Central.
+Respuesta: 3
+Correcta: ¡Exacto! Los encargados de la Oficina Central del Registro Civil son designados directamente por el Ministerio de Justicia.
+Errada: La respuesta correcta es que los encargados de la Oficina Central del Registro Civil son designados por el Ministerio de Justicia. (Respuesta Correcta 3)
+###
+Pregunta: Según el artículo 4 de la Ley del Registro Civil de 2011, ¿cuáles son hechos y actos que pueden inscribirse?
+1)Las declaraciones de ausencia y fallecimiento.
+2)El beneficio de la mayor edad.
+3)El régimen económico matrimonial, ya sea legal o pactado.
+4)Todas son correctas.
+Respuesta: 4
+Correcta: ¡Bien hecho! Todos estos eventos y acciones son inscribibles según la Ley del Registro Civil de 2011.
+Errada: La respuesta correcta es que todos los eventos y acciones mencionados (declaraciones de ausencia y fallecimiento, beneficio de la mayor edad y régimen económico matrimonial) son inscribibles según la Ley del Registro Civil de 2011. (Respuesta Correcta 4)
+###
+Pregunta: ¿Cómo se comunican las Oficinas del Registro Civil entre sí?
+1)A través de medios físicos.
+2)A través de medios personales.
+3)A través de valijas judiciales.
+4)A través de medios electrónicos.
+Respuesta: 4
+Correcta: ¡Correcto! Las Oficinas del Registro Civil se comunican principalmente a través de medios electrónicos.
+Errada: La respuesta correcta es que las Oficinas del Registro Civil se comunican entre sí utilizando medios electrónicos. (Respuesta Correcta 4)
+###
+Pregunta: Según la Disposición Adicional Segunda de la LRC, ¿cuál afirmación es verdadera sobre los Encargados del Registro Civil?
+1)Los miembros del Cuerpo de Gestión Procesal y Administrativa estarán en situación de excedencia y no podrán ejercer funciones en la oficina judicial.
+2)Los miembros del Cuerpo de Gestión Procesal y Administrativa estarán en situación de servicio activo y no podrán ejercer funciones en la oficina judicial.
+3)La organización y resolución de los concursos para cubrir las plazas de Encargados del Registro Civil será responsabilidad del Ministerio de Justicia.
+4)La convocatoria y resolución de los concursos para proveer las plazas corresponderá al Ministerio de Justicia.
+Respuesta: 4
+Correcta: ¡Correcto! Los miembros del Cuerpo de Letrados de la Administración de Justicia pueden ejercer funciones en la oficina judicial mientras están en situación de servicio activo como encargados del Registro Civil.
+Errada: La respuesta correcta es que los miembros del Cuerpo de Letrados de la Administración de Justicia, mientras ejercen como encargados del Registro Civil, están en situación de servicio activo y pueden ejercer funciones en la oficina judicial. (Respuesta Correcta 4)
+###
+Pregunta: Identifique la afirmación incorrecta sobre las características del Registro Civil:
+1)El Registro Civil cumple con las medidas de seguridad de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales.
+2)Funciona de manera electrónica.
+3)Los datos serán objeto de tratamiento automatizado y se integrarán en una base de datos única cuya estructura, organización y funcionamiento es competencia de la Dirección de Seguridad Jurídica y Fe pública.
+4)Es un registro único para toda España.
+Respuesta: 3
+Correcta: ¡Exacto! La Dirección de Seguridad Jurídica y Fe Pública no es responsable de la base de datos única del Registro Civil.
+Errada: Lo correcto es que la Dirección de Seguridad Jurídica y Fe Pública no gestiona la organización y funcionamiento de la base de datos única del Registro Civil. (Respuesta Correcta 3)
+###
+Pregunta: Según el artículo 2 de la Ley 20/2011 del Registro Civil, ¿cuál es la naturaleza jurídica del Registro Civil?
+1)Es un registro público bajo la Dirección General de los Registros y del Notariado gestiona todos los temas relacionados.
+2)Es un registro público bajo el Ministerio del Interior, y la Dirección General de los Registros y del Notariado gestiona todos los temas relacionados.
+3)Es un registro público bajo el Ministerio de Justicia, y la Dirección General de los Registros y del Notariado gestiona todos los temas relacionados.
+4)Es un regístro público independiente.
+Respuesta: 3
+Correcta: ¡Muy bien! El Registro Civil es un registro público dependiente del Ministerio de Justicia, gestionado por la Dirección General de los Registros y del Notariado.
+Errada: La respuesta adecuada es que el Registro Civil es gestionado por la Dirección General de los Registros y del Notariado y depende del Ministerio de Justicia. (Respuesta Correcta 3)
+###
+Pregunta: Basándose en el artículo 7 de la Ley de Registro Civil, ¿quién puede tener un certificado electrónico cualificado con firma electrónica avanzada?
+1)Solo los Jefes del Registro Civil, quienes firmarán los asientos con firma electrónica avanzada.
+2)El personal del Registro Civil que se establezca por regulación puede tener un certificado electrónico cualificado con firma avanzada.
+3)Ninguna es correcta.
+4)El personal del Registro Civil que se establezca por regulación puede tener un certificado electrónico cualificado con firma simple.
+Respuesta: 2
+Correcta: ¡Correcto! Según el artículo, el personal del Registro Civil que se defina reglamentariamente puede tener dicho certificado.
+Errada: El artículo 7 establece que será el personal del Registro Civil, determinado reglamentariamente, quien puede tener un certificado electrónico cualificado con firma avanzada. (Respuesta Correcta 2)
+###
+Pregunta: De acuerdo con el artículo 12 de la Ley del Registro Civil de 2011, ¿cuál de las siguientes opciones describe correctamente los deberes de las personas frente al Registro Civil?
+1)Solicitar las correciones oportunas conforme al principio de oficialidad.
+2)Registrar eventos y acciones inscribibles.
+3)Informar sobre hechos y actos que deben inscribirse según lo estipulado en esta Ley.
+4)Ninguna es correcta.
+Respuesta: 3
+Correcta: ¡Bien hecho! Las personas tienen varios deberes ante el Registro Civil, y todos los mencionados son correctos.
+Errada: De acuerdo con el artículo mencionado, las personas tienen el deber de informar sobre eventos y acciones que deben ser registrados, así como otras responsabilidades listadas. (Respuesta Correcta 3)
+###
+Pregunta: Con la entrada en vigor de la Ley Orgánica 1/2025, de 2 de enero, ¿qué estructura sustituye a los Juzgados de Paz en los municipios donde no existe un Tribunal de Instancia?
+1)Las Oficinas de Justicia en los municipios.
+2)Los Juzgados de Proximidad.
+3)Las Secciones Delegadas de los Tribunales de Instancia.
+4)Se mantienen los Juzgados de Paz con funciones reducidas.
+Respuesta: 1
+Correcta: ¡Correcto! La Ley Orgánica 1/2025 transforma los Juzgados de Paz en Oficinas de Justicia en los municipios, modernizando la presencia de la Administración de Justicia en todo el territorio.
+Errada: Incorrecto. La Ley Orgánica 1/2025, en su disposición transitoria sexta, establece la transformación de los Juzgados de Paz en Oficinas de Justicia en los municipios. (Respuesta Correcta 1)
+###
+Pregunta: ¿Qué entidad tiene la responsabilidad de establecer y desarrollar programas de calidad para el servicio público del Registro Civil?
+1)El Gobierno.
+2)El Ministerio de Justicia.
+3)El Registro Civil Central.
+4)La Dirección General de Seguridad Jurídica y Fe Pública.
+Respuesta: 4
+Correcta: ¡Bien hecho! Es la Dirección General de Seguridad Jurídica y Fe Pública la que tiene esta responsabilidad.
+Errada: La Dirección General de Seguridad Jurídica y Fe Pública es la entidad responsable de implementar programas de calidad para el servicio público del Registro Civil, no las otras opciones listadas. (Respuesta Correcta 4)
+###
+Pregunta: Respecto a la Dirección General de los Registros y el Notariado, ¿cuál es la afirmación correcta?
+1)Conocida ahora como Dirección General de Seguridad Jurídica y Fe Pública, es el órgano directivo y asesor del Registro Civil de España.
+2)Ambas son correctas.
+3)Conocida anterioremente como Dirección General de Seguridad Jurídica y Fe Pública, es el órgano directivo y asesor del Registro Civil de España.
+4)Ninguna es correcta.
+Respuesta: 1
+Correcta: ¡Correcto! La Dirección General de los Registros y el Notariado, ahora conocida como Dirección General de Seguridad Jurídica y Fe Pública, es el órgano directivo y asesor del Registro Civil de España.
+Errada: La Dirección General de los Registros y el Notariado es conocida actualmente como Dirección General de Seguridad Jurídica y Fe Pública, siendo el órgano directivo y consultivo del Registro Civil de España. (Respuesta Correcta 1)
+###
+Pregunta: Según el Registro Civil, ¿cuál es el organismo competente en temas de cooperación internacional?
+1)La Dirección General de los Registros y del Notariado.
+2)El Ministerior de Asuntos Exteriores.
+3)Las Oficinas Consulares.
+4)La Oficina Central.
+Respuesta: 4
+Correcta: ¡Bien hecho! La Oficina Central es el organismo competente en materia de cooperación internacional relacionada con el Registro Civil.
+Errada: La correcta es la Oficina Central, siendo el órgano competente en cuestiones de cooperación internacional vinculadas al Registro Civil. (Respuesta Correcta 4)
+###
+Pregunta: Según la Ley del Registro Civil, las posiciones de Encargados del Registro Civil serán ocupadas por:
+1)Los Letrados de la Administración de Justicia según lo estipulado reglamentariamente.
+2)Los Tramtiadores Procesales según lo estipulado reglamentariamente.
+3)Los Gestores Procesales según lo estipulado reglamentariamente.
+4)Los Auxiliares Judiciales según lo estipulado reglamentariamente.
+Respuesta: 1
+Correcta: ¡Correcto! Los Letrados de la Administración de Justicia son quienes pueden ocupar las posiciones de Encargados del Registro Civil según lo determinado en el reglamento.
+Errada: Las posiciones de Encargados del Registro Civil son provistas por Los Letrados de la Administración de Justicia, según lo determinado reglamentariamente. (Respuesta Correcta 1)
+###
+Pregunta: De acuerdo con el artículo 2 de la Ley 20/2011, los Encargados del Registro Civil deben acatar las órdenes, instrucciones, resoluciones y circulares del:
+1)El Consejo General del Poder Judicial y la Dirección General de los Registros y del Notariado.
+2)Ministerio del Interior y la Dirección General de los Registros y del Notariado.
+3)Ministerio de Justicia y la Dirección General de los Registros y del Notariado.
+4)La Dirección General de los Registros y del Notariado en exclusiva.
+Respuesta: 3
+Correcta: ¡Exacto! Los Encargados del Registro Civil deben seguir las órdenes e instrucciones del Ministerio de Justicia y de la Dirección General de los Registros y del Notariado.
+Errada: La respuesta correcta es que los Encargados del Registro Civil deben obedecer las instrucciones y órdenes del Ministerio de Justicia y de la Dirección General de los Registros y del Notariado. (Respuesta Correcta 3)
+###
+Pregunta: De acuerdo con la presunción de exactitud del artículo 16 de la Ley del Registro Civil, identifique la opción incorrecta:
+1)Si se cuestionan en juicio los actos y hechos registrados en el Registro Civil, se debe solicitar la modificación de la entrada relevante.
+2)Los responsables del Registro Civil deben asegurarse de que los datos registrados concuerden con la realidad fuera del registro.
+3)Se da por hecho que los hechos registrados existen y que los actos son válidos y precisos, a menos que la entrada relevante sea modificada o eliminada como estipula la ley.
+4)Solo cuando no haya inscripción o no se pueda certificar una entrada, se aceptarán otras pruebas.
+Respuesta: 4
+Correcta: ¡Correcto! Solo en circunstancias donde no hay inscripción o no se puede certificar una entrada, se consideran otras pruebas.
+Errada: La opción correcta es que se admiten otras pruebas solo cuando no hay inscripción o no se puede certificar una entrada en particular. (Respuesta Correcta 4)
+###
+Pregunta: Basándose en los principios de funcionamiento del Registro Civil, elija la opción correcta:
+1)En situaciones no previstas por la ley, los hechos y actos registrables según las estipulaciones de esta Ley serán oponibles a terceros una vez que se anulen en el Registro Civil
+2)En situaciones previstas por la ley, los hechos y actos registrables según las estipulaciones de esta Ley serán oponibles a terceros una vez que se registren en el Registro Civil.
+3)En situaciones no previstas por la ley, los hechos y actos registrables según las estipulaciones de esta Ley serán oponibles a terceros una vez que se registren en el Registro Civil
+4)En situaciones previstas por la ley, los hechos y actos registrables según las estipulaciones de esta Ley no serán oponibles a terceros una vez que se registren en el Registro Civil
+Respuesta: 2
+Correcta: ¡Bien hecho! Los hechos y actos que se inscriben en el Registro Civil son oponibles a terceros una vez que están registrados.
+Errada: La opción correcta establece que los hechos y actos que se inscriben en el Registro Civil son oponibles a terceros una vez que están registrados. (Respuesta Correcta 2)
+###
+Pregunta: ¿A qué entidad está subordinado el Registro Civil?
+1)Al Ministerio de Justicia.
+2)Al Gobierno.
+3)Al Ministerio de Asuntos Exteriores.
+4)Al Consejo General del Poder Judicial.
+Respuesta: 1
+Correcta: ¡Exacto! El Registro Civil depende del Ministerio de Justicia.
+Errada: La correcta es el Ministerio de Justicia. Es el órgano encargado de supervisar el Registro Civil. (Respuesta Correcta 1)
+###
+Pregunta: Se establecerá una Oficina General del Registro Civil:
+1)Ninguna es correcta.
+2)En las sedes de los Tribunales Superiores de Justicia.
+3)En cada partido judicial.
+4)En todas las localidades que sean la sede principal de un distrito judicial.
+Respuesta: 4
+Correcta: ¡Correcto! Habrá una Oficina General del Registro Civil en todas las localidades que sean la sede principal de un distrito judicial.
+Errada: La respuesta adecuada es que habrá una Oficina General del Registro Civil en todas las localidades que sean la sede principal de un distrito judicial. (Respuesta Correcta 4)
+###
+Pregunta: Según el artículo 11 de la Ley del Registro Civil de 21 de julio de 2011, un derecho de las personas en relación con el Registro Civil es:
+1)Ambas son correctas.
+2)Promover cambios o modificaciones en las entradas del registro cuando la ley o el reglamento lo permitan.
+3)Fomentar el registro de entradas e inscripciones.
+4)Ninguna es correcta.
+Respuesta: 2
+Correcta: ¡Bien hecho! Las personas tienen el derecho de promover cambios o modificaciones en las entradas del registro cuando la ley o el reglamento lo permiten.
+Errada: La respuesta correcta es que las personas tienen el derecho de promover cambios o modificaciones en las entradas del registro cuando la ley o el reglamento lo permitan. (Respuesta Correcta 2)
+###
+Pregunta: Respecto a la inscripción en el Registro Civil de hechos y actos que ocurren fuera de España, elige la opción correcta:
+1)Se inscribirán cuando el Derecho español requiera dichas inscripciones.
+2)Se inscribirán cuando la Oficina Central requiera dichas inscripciones.
+3)Se inscribirán cuando el Derecho extranjero requiera dichas inscripciones.
+4)Se inscribirán cuando el Derecho Internacional Privado requiera dichas inscripciones.
+Respuesta: 1
+Correcta: ¡Correcto! Solo se inscribirán hechos y actos que ocurran fuera de España cuando el Derecho español lo requiera.
+Errada: La correcta es que solo se inscribirán hechos y actos que ocurren fuera de España cuando el Derecho español lo exige. (Respuesta Correcta 1)
+###
+Pregunta: Según el principio de publicidad que rige el Registro Civil, selecciona la afirmación correcta:
+1)El Registro Civil es de dominio reservado, excepto en los casos previstos para datos especialmente protegidos.
+2)El Registro Civil es de dominio público, excepto en los casos previstos para datos especialmente protegidos.
+3)El Registro Civil es de dominio público, otorgando a todos los ciudadanos libre acceso a toda la información en su libro personal.
+4)El Registro Civil es de dominio reservado, incluso en los casos previstos para datos especialmente protegidos.
+Respuesta: 2
+Correcta: ¡Bien hecho! El Registro Civil es público, pero existen excepciones para datos especialmente protegidos.
+Errada: La respuesta correcta es que el Registro Civil es de dominio público, pero con excepciones para datos que están especialmente protegidos. (Respuesta Correcta 2)
+###
+Pregunta: Según el artículo 5 de la Ley del Registro Civil sobre el Registro individual, elige la opción correcta:
+1)Puede ser creado con la inscripción de nacimiento o con el primer asiento que se realice.
+2)Se crea con la inscripción de nacimiento o con el primer asiento que se practique.
+3)Se inicia estrictamente con la inscripción de nacimiento.
+4)Todas son correctas.
+Respuesta: 2
+Correcta: ¡Correcto! El Registro individual se crea con la inscripción de nacimiento o con el primer asiento que se realice.
+Errada: La respuesta adecuada es que el Registro individual se crea con la inscripción de nacimiento o con el primer asiento que se realice. (Respuesta Correcta 2)
+###
+Pregunta: ¿Cuál es el organismo responsable de dirigir los Registros Civiles?
+1)La Dirección General de Seguridad Jurídica y Fe Pública.
+2)El Tribunal Supremo.
+3)El Ministerio del Interior.
+4)El Ministerio de la Presidencia.
+Respuesta: 1
+Correcta: ¡Exacto! La Dirección General de Seguridad Jurídica y Fe Pública es el órgano de dirección de los Registros Civiles.
+Errada: La respuesta correcta es la Dirección General de Seguridad Jurídica y Fe Pública, que es el órgano encargado de dirigir los Registros Civiles. (Respuesta Correcta 1)
+###
+Pregunta: ¿Cuál es una función de las Oficinas Generales del Registro Civil?
+1)Recibir y documentar declaraciones de conocimiento y de voluntad en materias de su competencia y expedir certificaciones.
+2)Recibir electrónicamente o presencialmente solicitudes, formularios y otros documentos que justifiquen un asiento en el Registro Civil.
+3)Tratar y resolver los expedientes de Registro Civil que le asigna la normativa legal.
+4)Todas las opciones son correctas.
+Respuesta: 4
+Correcta: ¡Correcto! Las Oficinas Generales del Registro Civil tienen todas las funciones mencionadas.
+Errada: La respuesta correcta es que las Oficinas Generales del Registro Civil tienen todas las funciones enumeradas. (Respuesta Correcta 4)
+###
+Pregunta: El Registro Civil se estructura en:
+1)Oficina central, autonómica y consular.
+2)Oficina central, general y consular.
+3)Oficina central, judicial y consular.
+4)Oficina principal, territorial y consular.
+Respuesta: 2
+Correcta: ¡Bien hecho! El Registro Civil se organiza en Oficina central, general y consular.
+Errada: La estructura correcta del Registro Civil incluye la Oficina central, general y consular. (Respuesta Correcta 2)
+###
+Pregunta: Según la Ley 20/2011 del Registro Civil, ¿cuáles son los principios de funcionamiento de este registro?
+1)Legalidad, oficialidad, privacidad, exactitud, presunción de integridad, inoponibilidad, eficacia probatoria y constitutiva de la inscripción.
+2)Legalidad, oficialidad, publicidad, exactitud, presunción de integridad, inoponibilidad, eficacia probatoria y constitutiva de la inscripción.
+3)Legalidad, oficialidad, publicidad, inexactitud, presunción de integridad, oponibilidad, eficacia probatoria y constitutiva de la inscripción.
+4)Legalidad, oficialidad, publicidad, exactitud, presunción de integridad, oponibilidad, eficacia probatoria y constitutiva de la inscripción.
+Respuesta: 2
+Correcta: ¡Correcto! Estos son los principios que rigen el funcionamiento del Registro Civil de acuerdo con la Ley 20/2011.
+Errada: La respuesta correcta es que los principios de funcionamiento del Registro Civil, según la Ley 20/2011, son legalidad, oficialidad, publicidad, exactitud, presunción de integridad, inoponibilidad, eficacia probatoria y constitutiva de la inscripción. (Respuesta Correcta 2)
+###
+Pregunta: Según el artículo 10 de la Ley del Registro Civil, ¿cómo se realiza la solicitud y práctica de la inscripción?
+1)Se efectuarán en cualquiera de las Oficinas Generales del Registro Civil con independencia del lugar en el que se produzcan los hechos o actos inscribibles.
+2)Se efectuarán en cualquiera de las Oficinas Consulares del Registro Civil con independencia del lugar en el que se produzcan los hechos o actos inscribibles.
+3)Se efectuarán en cualquiera de las Oficinas Centrales del Registro Civil con independencia del lugar en el que se produzcan los hechos o actos inscribibles.
+4)Se efectuarán en cualquiera de las Oficinas del Registro Civil, dependiendo del lugar en el que se produzcan los hechos o actos inscribibles.
+Respuesta: 1
+Correcta: ¡Bien hecho! El artículo 10 indica que la solicitud y práctica de la inscripción pueden hacerse en cualquier Oficina General del Registro Civil, sin considerar el lugar donde ocurrieron los hechos o actos.
+Errada: El artículo 10 de la Ley del Registro Civil establece que la solicitud y práctica de la inscripción pueden realizarse en cualquier Oficina General del Registro Civil, independientemente del lugar donde se hayan producido los hechos o actos. (Respuesta Correcta 1)
+###
+Pregunta: ¿Cuál función no es realizada por las Oficinas Generales del Registro Civil?
+1)Practicar las inscripciones derivadas de resoluciones de la Dirección General de Seguridad Jurídica y Fe Pública relacionadas con hechos o actos registrables en el Registro Civil.
+2)Expedir certificados de las inscripciones registrales.
+3)Recibir solicitudes o formularios electrónicos o presenciales y otros documentos que justifiquen una inscripción en el Registro Civil.
+4)Tramitar y decidir expedientes del Registro Civil asignados por la legislación.
+Respuesta: 1
+Correcta: ¡Exacto! Las Oficinas Generales del Registro Civil no están encargadas de practicar inscripciones derivadas de resoluciones de la Dirección General de Seguridad Jurídica y Fe Pública.
+Errada: La función que no corresponde a las Oficinas Generales del Registro Civil es la práctica de inscripciones derivadas de resoluciones de la Dirección General de Seguridad Jurídica y Fe Pública. (Respuesta Correcta 1)
+###
+Pregunta: De acuerdo con el artículo 20.1 de la Ley 20/2011, del 21 de julio, ¿cómo se organiza el Registro Civil?
+1)Oficinas Consulares, Oficinas Autonómicas y Nacionales.
+2)Oficinas Consulares, Oficinas Generales y Oficina Central.
+3)Oficinas Consulares, Oficinas Territoriales y Oficina Central.
+4)Oficinas Consulares, Oficinas Generales y Oficinas Centrales.
+Respuesta: 2
+Correcta: ¡Correcto! El Registro Civil se organiza en Oficinas Consulares, Oficinas Generales y la Oficina Central.
+Errada: La organización correcta del Registro Civil, según la ley mencionada, comprende las Oficinas Consulares, Oficinas Generales y la Oficina Central. (Respuesta Correcta 2)
+###
+Pregunta: Con base en el principio de legalidad que rige el Registro Civil:
+1)Los Encargados del Registro Civil comprobarán de oficio la realidad y legalidad de los hechos y actos cuya inscripción se pretende.
+2)Los Encargados del Registro Civil comprobarán de oficio la exactitud y legalidad de los hechos y actos cuya inscripción se busca.
+3)Los Encargados del Registro Civil comprobarán a instancia de parte la realidad y legalidad de los hechos y actos cuya inscripción se pretende.
+4)Los Encargados del Registro Civil comprobarán a solicitud del interesado la exactitud y legalidad de los hechos y actos cuya inscripción se busca.
+Respuesta: 1
+Correcta: ¡Bien hecho! El principio de legalidad indica que los Encargados del Registro Civil deben verificar de manera autónoma la realidad y legalidad de los hechos y actos antes de su inscripción.
+Errada: El principio de legalidad señala que los Encargados del Registro Civil deben comprobar de oficio, es decir, por iniciativa propia, la realidad y legalidad de los hechos y actos que se quieren inscribir en el registro. (Respuesta Correcta 1)
+###
+Pregunta: Según la Disposición Adicional Segunda de la Ley del Registro Civil, el ejercicio de la función de encargado del Registro Civil por miembros del Cuerpo de Letrados de la Administración de Justicia implica que:
+1)Se considera como situación de traslado en dicho Cuerpo y es compatible con funciones en oficina judicial.
+2)Por los miembros del Cuerpo de letrados de la Administración de Justicia se considerará como situación de servicio activo en dicho Cuerpo y podrá ser compatible con funciones en oficina judicial.
+3)Se considera como situación de excedencia en dicho Cuerpo y es compatible con funciones en oficina judicial.
+4)Se considera como situación de excedencia en dicho Cuerpo y es incompatible con funciones en oficina judicial.
+Respuesta: 2
+Correcta: ¡Correcto! La ley estipula que el ejercicio de la función de encargado del Registro Civil por miembros del Cuerpo de Letrados de la Administración de Justicia es considerado como situación de servicio activo y es compatible con funciones en oficina judicial.
+Errada: Según la Disposición Adicional Segunda de la Ley del Registro Civil, cuando los miembros del Cuerpo de Letrados de la Administración de Justicia ejerzan como encargados del Registro Civil, esta función se considera como situación de servicio activo y es compatible con funciones en oficina judicial. (Respuesta Correcta 2)
+###
+Pregunta: Según la legislación, ¿quién es inscrito en el Registro Civil de la Familia Real?
+1)Al Rey de España, su Augusta Consorte, sus ascendientes de primer grado, sus descendientes de segundo grado y al Príncipe heredero de la Corona.
+2)Al Rey de España, su Augusta Consorte, sus ascendientes de primer grado, sus descendientes y al Príncipe heredero de la Corona.
+3)Al Rey de España, su Augusta Consorte, sus ascendientes de segundo grado, sus descendientes y al Príncipe heredero de la Corona.
+4)Al Rey de España, su Augusta Consorte, sus ascendientes de primer grado, sus descendientes de primer grado y al Príncipe heredero de la Corona.
+Respuesta: 2
+Correcta: ¡Muy bien! El Registro Civil de la Familia Real incluye al Rey de España, su Augusta Consorte, sus ascendientes de primer grado, sus descendientes y al Príncipe heredero de la Corona.
+Errada: La inscripción en el Registro Civil de la Familia Real se realiza para el Rey de España, su Augusta Consorte, sus ascendientes de primer grado, sus descendientes y al Príncipe heredero de la Corona, tal como lo establece la ley. (Respuesta Correcta 2)
+###
+Pregunta: Según el artículo 21 de la Ley 20/2011, del 21 de julio, del Registro Civil, ¿cuál es la oficina competente para realizar las inscripciones derivadas de resoluciones emitidas por la Dirección General de los Registros y del Notariado relacionadas con hechos o actos que deben inscribirse en el Registro Civil?
+1)Únicamente la Oficina General del Registro Civil o la Oficina Consular correspondiente a la residencia de la persona sobre la que se vaya a practicar la inscripción.
+2)Cualquier Oficina del Registro Civil es competente.
+3)La Oficina General del Registro Civil del domicilio de la persona sobre la que se vaya a practicar la inscripción.
+4)Solo la Oficina Central del Registro Civil.
+Respuesta: 4
+Correcta: ¡Correcto! De acuerdo con el artículo 21 de la Ley 20/2011, del 21 de julio, del Registro Civil, la Oficina Central del Registro Civil es la única competente para realizar las inscripciones de hechos o actos que provengan de resoluciones de la Dirección General de los Registros y del Notariado.
+Errada: La opción seleccionada no es la correcta. La ley establece que la competencia recae exclusivamente en la Oficina Central del Registro Civil para las inscripciones derivadas de resoluciones de la Dirección General de los Registros y del Notariado. (Respuesta Correcta 4)

@@ -1,0 +1,1862 @@
+## Pregunta 1
+**Con respecto a la liquidación del régimen económico matrimonial de sociedad de gananciales, según el artículo 810 de la LEC, una vez admitida la solicitud de liquidación e inventariado los bienes, ¿quién y en qué plazo se designa la fecha y hora para que los cónyuges se presenten con el objetivo de llegar a un acuerdo?**
+
+**Opciones:**
+- 1)El Letrado de la Administración de Justicia asignará, en un plazo máximo de quince días, la fecha y hora en la que los cónyuges deben presentarse para intentar llegar a un acuerdo.
+- 2)El Letrado de la Administración de Justicia asignará, en un plazo máximo de cinco días, la fecha y hora en la que los cónyuges deben presentarse para intentar llegar a un acuerdo.
+- 3)El Letrado de la Administración de Justicia asignará, en un plazo máximo de diez días, la fecha y hora en la que los cónyuges deben presentarse para intentar llegar a un acuerdo.
+- 4)El Letrado de la Administración de Justicia asignará, en un plazo máximo de doce días, la fecha y hora en la que los cónyuges deben presentarse para intentar llegar a un acuerdo.
+
+**Respuesta correcta:** 3
+
+**Explicación (correcta):**  
+¡Correcto! Según el artículo 810 de la LEC, el Letrado de la Administración de Justicia es quien tiene que señalar, en un máximo de diez días, la fecha y hora en que los cónyuges deben comparecer para intentar alcanzar un acuerdo.
+
+**Explicación (errada):**  
+La respuesta seleccionada no es acertada. De acuerdo con el artículo 810 de la LEC, es el Letrado de la Administración de Justicia quien, dentro de un plazo máximo de diez días, debe señalar el día y la hora en que los cónyuges tienen que comparecer para buscar un acuerdo. (Respuesta correcta 3)
+
+---
+
+## Pregunta 2
+**Luego de solicitar la división judicial de una herencia, con el inventario de bienes ya realizado, ¿a quién no es necesario convocar para la Junta una vez que se haya hecho la intervención del caudal hereditario?**
+
+**Opciones:**
+- 1)A los legatarios.
+- 2)A los acreedores que se hayan personado en el procedimiento.
+- 3)A los deudores que no se hayan personado en el procedimiento.
+- 4)A los acreedores que no se hayan personado en el procedimiento.
+
+**Respuesta correcta:** 4
+
+**Explicación (correcta):**  
+¡Bien hecho! No es necesario convocar a los acreedores que no han participado en el procedimiento para la Junta tras solicitar la división judicial de la herencia.
+
+**Explicación (errada):**  
+La respuesta elegida es incorrecta. No es obligatorio convocar a los acreedores que no se han personado en el procedimiento a la Junta tras la solicitud de división judicial de herencia. (Respuesta correcta 4)
+
+---
+
+## Pregunta 3
+**En el proceso de división de herencia, en situaciones donde se presente oposición a las operaciones divisorias y no se llegue a un consenso durante la comparecencia, ¿cuál de las siguientes afirmaciones es correcta?**
+
+**Opciones:**
+- 1)El tribunal escuchará a las partes, aceptará las pruebas que estas propongan siempre que sean relevantes y útiles, y el procedimiento seguirá conforme a lo establecido para el juicio verbal.
+- 2)El tribunal escuchará a las partes, aceptará las pruebas que estas propongan siempre que sean relevantes y útiles, y el procedimiento seguirá conforme a lo establecido para el juicio ordinario.
+- 3)El tribunal escuchará a las partes, aceptará las pruebas que estas propongan siempre que sean relevantes y útiles, y el procedimiento seguirá conforme a lo establecido para el juicio monitorio.
+- 4)El tribunal escuchará a las partes, aceptará las pruebas que estas propongan siempre que sean relevantes y útiles, y el procedimiento seguirá conforme a lo establecido para el concurso de acreedores.
+
+**Respuesta correcta:** 1
+
+**Explicación (correcta):**  
+¡Correcto! En caso de oposición a las operaciones divisorias sin acuerdo, el tribunal escuchará a las partes, admitirá pruebas pertinentes y útiles, y el procedimiento se sustanciará según lo previsto para el juicio verbal.
+
+**Explicación (errada):**  
+La opción seleccionada no es correcta. Si hay oposición a las operaciones divisorias y no hay acuerdo, el tribunal escuchará a las partes, admitirá pruebas relevantes y útiles, y el procedimiento seguirá como lo indica el juicio verbal. (Respuesta correcta 1)
+
+---
+
+## Pregunta 4
+**Cuando el administrador deba presentar una cuenta justificada acerca de la administración del caudal hereditario, ¿cuál es el plazo máximo que el tribunal puede establecer para esta acción?**
+
+**Opciones:**
+- 1)Un año.
+- 2)Dos años.
+- 3)Tres años.
+- 4)Cuatro años.
+
+**Respuesta correcta:** 1
+
+**Explicación (correcta):**  
+¡Acertado! El administrador debe rendir cuentas sobre la administración del caudal hereditario en los plazos que señale el tribunal, pero estos no pueden superar un año.
+
+**Explicación (errada):**  
+La respuesta seleccionada no es correcta. El plazo máximo que el tribunal puede señalar para que el administrador rinda cuentas sobre la administración del caudal hereditario es de un año. (Respuesta correcta 1)
+
+---
+
+## Pregunta 5
+**En el proceso de división de herencia, ¿cómo se llevará a cabo la citación a los interesados que no se hayan personado previamente, siempre y cuando se conozca su lugar de residencia?**
+
+**Opciones:**
+- 1)Por copia validada por un notario público competente.
+- 2)Por copia sencilla, ya sea en papel o formato digital, adjuntada como anexo y firmada mediante firma electrónica reconocida.
+- 3)De manera personal.
+- 4)En formato digital.
+
+**Respuesta correcta:** 3
+
+**Explicación (correcta):**  
+¡Bien hecho! Cuando se conoce la residencia de los interesados no personados, la citación se realiza de manera personal.
+
+**Explicación (errada):**  
+La respuesta seleccionada no es correcta. Cuando los interesados no están personados y se conoce su residencia, la citación se hace personalmente. (Respuesta correcta 3)
+
+---
+
+## Pregunta 6
+**Tras solicitar la división judicial de una herencia y concluir tanto la intervención del caudal hereditario como la creación del inventario, ¿quién tiene la responsabilidad de convocar al cónyuge sobreviviente a la Junta?**
+
+**Opciones:**
+- 1)El Tramitador Procesal.
+- 2)El contador partidor.
+- 3)El Letrado de la Administración de Justicia.
+- 4)No es necesario.
+
+**Respuesta correcta:** 3
+
+**Explicación (correcta):**  
+¡Correcto! El Letrado de la Administración de Justicia es quien convoca al cónyuge sobreviviente a la Junta en el proceso de división judicial de herencia.
+
+**Explicación (errada):**  
+La opción elegida no es correcta. En el proceso de división judicial de herencia, el Letrado de la Administración de Justicia es el encargado de convocar al cónyuge sobreviviente a la Junta. (Respuesta correcta 3)
+
+---
+
+## Pregunta 7
+**Conforme a la Ley de Enjuiciamiento Civil, ¿cuál es el límite de tiempo máximo permitido para someter las operaciones divisorias de una herencia desde su comienzo?**
+
+**Opciones:**
+- 1)Dos meses.
+- 2)Tres meses.
+- 3)Cuatro meses.
+- 4)Seis meses.
+
+**Respuesta correcta:** 1
+
+**Explicación (correcta):**  
+¡Correcto! La ley establece que las operaciones divisorias de una herencia deben presentarse dentro de un plazo máximo de dos meses desde su inicio.
+
+**Explicación (errada):**  
+La respuesta seleccionada es incorrecta. La Ley de Enjuiciamiento Civil especifica que el plazo máximo para presentar las operaciones divisorias de una herencia es de dos meses desde su inicio. (Respuesta correcta 1)
+
+---
+
+## Pregunta 8
+**En el proceso de división de herencia, ¿cómo se procede a la citación de aquellos interesados que ya se han personado en las actuaciones cuando se convoca a Junta?**
+
+**Opciones:**
+- 1)Mediante el Abogado.
+- 2)Mediante el Procurador.
+- 3)Por el Gestor procesal designado.
+- 4)A través del Juez.
+
+**Respuesta correcta:** 2
+
+**Explicación (correcta):**  
+¡Bien hecho! En el procedimiento para la división de herencia, los interesados que ya están personados son citados a la Junta mediante el Procurador.
+
+**Explicación (errada):**  
+La opción elegida no es correcta. Los interesados ya personados en el procedimiento para la división de herencia son citados a la Junta a través del Procurador. (Respuesta correcta 2)
+
+---
+
+## Pregunta 9
+**¿Quién es el encargado de presidir la Junta que designa al contador y a los peritos de una herencia, la cual se celebrará en el día y hora previamente determinados con los participantes que asistan?**
+
+**Opciones:**
+- 1)El Ministerio Fiscal.
+- 2)El juez asignado al caso.
+- 3)El Letrado de la Administración de Justicia.
+- 4)Ninguna es correcta.
+
+**Respuesta correcta:** 3
+
+**Explicación (correcta):**  
+¡Exacto! La Junta para la designación del contador y los peritos en la herencia es presidida por el Letrado de la Administración de Justicia.
+
+**Explicación (errada):**  
+La respuesta seleccionada no es correcta. La Junta es presidida por el Letrado de la Administración de Justicia. (Respuesta correcta 3)
+
+---
+
+## Pregunta 10
+**Con base en el artículo 793 de la Ley de Enjuiciamiento Civil (LEC), el Letrado de la Administración de Justicia fijará una fecha y hora para elaborar el inventario del patrimonio hereditario y procederá a citar a los interesados. ¿Quiénes deben ser citados para participar en la creación de este inventario?**
+
+**Opciones:**
+- 1)Acreedores que hayan solicitado la intervención en el patrimonio hereditario.
+- 2)Acreedores que ya estén participando en el procedimiento de división de la herencia.
+- 3)Parientes con posibles derechos a la herencia, siempre que sean conocidos y en ausencia de un testamento o declaración de herederos abintestato.
+- 4)Todas las opciones anteriores son correctas.
+
+**Respuesta correcta:** 4
+
+**Explicación (correcta):**  
+¡Correcto! Todos los mencionados, incluyendo parientes con posible derecho a la herencia, acreedores que solicitaron intervención y aquellos que ya están personados en el procedimiento, deben ser citados para la formación del inventario.
+
+**Explicación (errada):**  
+La opción seleccionada no es correcta. Todos los individuos mencionados, tanto parientes, acreedores solicitantes de intervención como los ya personados, deben ser citados para la creación del inventario hereditario. (Respuesta correcta 4)
+
+---
+
+## Pregunta 11
+**¿Cuál de las siguientes entidades es responsable de distribuir los activos asignados a cada heredero?**
+
+**Opciones:**
+- 1)El contador-partidor.
+- 2)El albacea.
+- 3)El Letrado de la Administración de Justicia.
+- 4)Dos son correctas.
+
+**Respuesta correcta:** 3
+
+**Explicación (correcta):**  
+¡Bien hecho! El Letrado de la Administración de Justicia es el responsable de entregar los bienes asignados a cada heredero.
+
+**Explicación (errada):**  
+Has seleccionado una opción incorrecta. La entrega de bienes adjudicados a los herederos está a cargo del Letrado de la Administración de Justicia. (Respuesta correcta 3)
+
+---
+
+## Pregunta 12
+**En el procedimiento civil de división de herencia, si hay oposición formal y a tiempo a las operaciones divisorias realizadas por el contador partidor, ¿qué acción sigue?**
+
+**Opciones:**
+- 1)El Tramitador Procesal citará a una comparecencia tanto al contador partidor como a las partes involucradas.
+- 2)El Letrado de la Administración de Justicia citará a una comparecencia tanto al contador partidor como a las partes involucradas.
+- 3)El Albacea citará a una comparecencia tanto al contador partidor como a las partes involucradas.
+- 4)El Juez citará a una comparecencia tanto al contador partidor como a las partes involucradas.
+
+**Respuesta correcta:** 2
+
+**Explicación (correcta):**  
+¡Correcto! En caso de oposición a las operaciones divisorias, el Letrado de la Administración de Justicia organizará una comparecencia con el contador partidor y las partes involucradas.
+
+**Explicación (errada):**  
+La opción elegida no es acertada. En situaciones de oposición a las operaciones divisorias, el Letrado de la Administración de Justicia procede a convocar a una comparecencia al contador y a las partes. (Respuesta correcta 2)
+
+---
+
+## Pregunta 13
+**¿Cuál es el método adecuado para el nombramiento de un contador que ejecute las operaciones divisorias del patrimonio hereditario y de un perito o peritos responsables de valorar los bienes?**
+
+**Opciones:**
+- 1)Los interesados deben llegar a un consenso.
+- 2)Mediante una mayoría simple de los interesados.
+- 3)Los interesados deben llegar a un juicio.
+- 4)Mediante una mayoría absoluta de los interesados.
+
+**Respuesta correcta:** 1
+
+**Explicación (correcta):**  
+¡Correcto! El nombramiento de un contador y de peritos debe realizarse mediante el consenso entre todos los interesados.
+
+**Explicación (errada):**  
+La opción seleccionada no es correcta. El proceso de nombramiento de un contador y peritos para las operaciones divisorias y la valoración de bienes hereditarios debe ser consensuado por todos los interesados, no por mayoría. (Respuesta correcta 1)
+
+---
+
+## Pregunta 14
+**Cuando no hay evidencia de un testamento ni de parientes que puedan heredar legalmente, ¿cómo se ordena la ocupación de libros, documentos y correspondencia del fallecido?**
+
+**Opciones:**
+- 1)El Letrado de la Administración de Justicia instruirá mediante diligencia la ocupación de los objetos mencionados.
+- 2)El Tribunal emitirá una providencia instruyendo la ocupación de los libros, documentos y correspondencia del difunto.
+- 3)El Letrado de la Administración de Justicia instruirá mediante decreto la ocupación de los objetos mencionados.
+- 4)El Tribunal emitirá un auto instruyendo la ocupación de los libros, documentos y correspondencia del difunto.
+
+**Respuesta correcta:** 4
+
+**Explicación (correcta):**  
+¡Bien hecho! Cuando no hay testamento ni herederos legales evidentes, el Tribunal emite un auto para ordenar la ocupación de los libros, documentos y correspondencia del difunto.
+
+**Explicación (errada):**  
+Has seleccionado una opción incorrecta. En ausencia de un testamento o herederos legítimos claros, es el Tribunal, mediante un auto, quien ordena la ocupación de libros, papeles y correspondencia del fallecido. (Respuesta correcta 4)
+
+---
+
+## Pregunta 15
+**En caso de desacuerdo sobre la inclusión o valor de algún elemento en el inventario, el Letrado de la Administración de Justicia (LAJ):**
+
+**Opciones:**
+- 1)Solo anotará en el acta que no hay consenso, convocando a los interesados a una audiencia que seguirá las normas del proceso ordinario.
+- 2)Documentará en el acta las reivindicaciones de cada parte respecto a los bienes en cuestión y sus bases legales, luego convocará a los interesados a una audiencia que seguirá las normas del proceso verbal.
+- 3)Solo anotará en el acta que no hay consenso, convocando a los interesados a una audiencia que seguirá las normas del proceso verbal.
+- 4)Documentará en el acta las reivindicaciones de cada parte respecto a los bienes en cuestión y sus bases legales, luego convocará a los interesados a una audiencia que seguirá las normas del proceso ordinario.
+
+**Respuesta correcta:** 2
+
+**Explicación (correcta):**  
+¡Excelente! Has seleccionado la opción correcta. El LAJ registrará las demandas de cada parte sobre los bienes disputados y sus fundamentos legales en el acta, y citará a los interesados a una vista siguiendo las reglas del juicio verbal.
+
+**Explicación (errada):**  
+La opción elegida no es correcta. En situaciones de controversia sobre el inventario, el LAJ debe registrar en el acta las demandas de cada parte y sus fundamentos legales, y proceder con una vista siguiendo las reglas del juicio verbal. (Respuesta correcta 2)
+
+---
+
+## Pregunta 16
+**¿Cuál de los siguientes elementos no es un componente obligatorio del documento de operaciones divisorias de una herencia?**
+
+**Opciones:**
+- 1)Una lista de los bienes.
+- 2)La notificación de los interesados que ya aun no se han personado en las actuaciones.
+- 3)La valoración de los bienes incluidos en el patrimonio a dividir.
+- 4)La notificación de los interesados que ya están personados en las actuaciones.
+
+**Respuesta correcta:** 4
+
+**Explicación (correcta):**  
+¡Bien hecho! No es necesario incluir la notificación a los interesados que ya están personados en las actuaciones en el documento de operaciones divisorias.
+
+**Explicación (errada):**  
+La respuesta seleccionada es incorrecta. El documento de operaciones divisorias de la herencia no debería incluir la notificación de los interesados que ya están personados en las actuaciones. (Respuesta correcta 4)
+
+---
+
+## Pregunta 17
+**Una vez que el contador y los peritos han sido seleccionados y han aceptado sus roles en el proceso de división de herencia, ¿a quién entregará el Letrado de la Administración de Justicia los expedientes?**
+
+**Opciones:**
+- 1)A todos los participantes en el procedimiento.
+- 2)A las partes en el proceso.
+- 3)Solo al albacea.
+- 4)Solo al contador.
+
+**Respuesta correcta:** 4
+
+**Explicación (correcta):**  
+¡Correcto! El Letrado de la Administración de Justicia entregará los expedientes únicamente al contador una vez que se haya aceptado su cargo en el proceso de división de herencia.
+
+**Explicación (errada):**  
+La respuesta seleccionada no es correcta. Según el procedimiento, los expedientes se entregan únicamente al contador tras la aceptación de su nombramiento en el proceso de división de herencia. (Respuesta correcta 4)
+
+---
+
+## Pregunta 18
+**Una vez solicitada la división judicial de una herencia y realizadas la intervención del caudal hereditario y la formación del inventario, si es necesario, el Letrado de la Administración de Justicia programará una junta con los herederos, los legatarios de parte alícuota y el cónyuge sobreviviente. ¿Cuántos días después debe señalarse la fecha de esta reunión?**
+
+**Opciones:**
+- 1)Dentro de los siguientes 10 días.
+- 2)Dentro de los siguientes 15 días.
+- 3)Dentro de los siguientes 20 días.
+- 4)Dentro de los siguientes 30 días.
+
+**Respuesta correcta:** 1
+
+**Explicación (correcta):**  
+¡Bien hecho! El Letrado de la Administración de Justicia debe programar la junta dentro de los 10 días siguientes después de realizar las acciones necesarias para la división judicial de la herencia.
+
+**Explicación (errada):**  
+La opción seleccionada es incorrecta. De acuerdo con el procedimiento establecido, la junta debe programarse para celebrarse dentro de los 10 días siguientes una vez que se hayan realizado las acciones previas necesarias. (Respuesta correcta 1)
+
+---
+
+## Pregunta 19
+**Según el artículo 782 de la LEC, ¿qué documentos deben acompañar necesariamente a la solicitud de división judicial de la herencia?**
+
+**Opciones:**
+- 1)Únicamente el certificado de defunción de la persona de cuya sucesión se trate.
+- 2)El certificado de defunción, el testamento y una relación de los bienes del causante.
+- 3)El certificado de defunción de la persona de cuya sucesión se trate y el documento que acredite la condición de heredero o legatario del solicitante.
+- 4)Únicamente el documento que acredite la condición de heredero o legatario del solicitante.
+
+**Respuesta correcta:** 3
+
+**Explicación (correcta):**  
+¡Respuesta correcta! El artículo 782.1 de la LEC exige que se presenten ambos documentos: el certificado de defunción y el que acredita la condición de heredero o legatario.
+
+**Explicación (errada):**  
+La respuesta no es correcta. El artículo 782.1 de la LEC es claro al establecer que a la solicitud de división judicial de la herencia se debe acompañar tanto el certificado de defunción del causante como el documento que acredite la condición de heredero o legatario del solicitante. (Respuesta correcta 3)
+
+---
+
+## Pregunta 20
+**¿En qué momento los coherederos pueden decidir concluir el procedimiento para la división judicial de la herencia mediante un acuerdo mutuo?**
+
+**Opciones:**
+- 1)Solo en apelación.
+- 2)En cualquier momento durante el juicio.
+- 3)Antes del juicio.
+- 4)Es imposible.
+
+**Respuesta correcta:** 2
+
+**Explicación (correcta):**  
+¡Correcto! Los coherederos pueden decidir concluir el procedimiento para la división judicial de la herencia mediante un acuerdo en cualquier momento durante el proceso.
+
+**Explicación (errada):**  
+La respuesta seleccionada es incorrecta. Los coherederos tienen la opción de finalizar el procedimiento para la división judicial de la herencia en cualquier fase del juicio mediante un acuerdo mutuo. (Respuesta correcta 2)
+
+---
+
+## Pregunta 21
+**¿Cuál es el plazo máximo para presentar las operaciones divisorias desde su inicio?**
+
+**Opciones:**
+- 1)Dos meses desde el comienzo de las operaciones divisorias.
+- 2)Seis meses antes del comienzo de las operaciones divisorias.
+- 3)Dos meses antes del comienzo de las operaciones divisorias.
+- 4)Seis meses desde el comienzo de las operaciones divisorias.
+
+**Respuesta correcta:** 1
+
+**Explicación (correcta):**  
+¡Bien hecho! Las operaciones divisorias deben ser presentadas en un plazo máximo de dos meses desde su inicio.
+
+**Explicación (errada):**  
+Lo siento, la respuesta seleccionada no es correcta. El plazo máximo para presentar las operaciones divisorias es de dos meses desde que se inician. (Respuesta correcta 1)
+
+---
+
+## Pregunta 22
+**En el caso de oposición formalizada a tiempo a las operaciones divisorias en el procedimiento de división de herencia, ¿qué acción tomará el Letrado de la Administración de Justicia?**
+
+**Opciones:**
+- 1)Citará tanto al deudor como a las partes para una comparecencia ante el Tribunal.
+- 2)Citará tanto al albacea como a las partes para una comparecencia ante el Tribunal.
+- 3)Citará tanto al contador como a las partes para una comparecencia ante el Tribunal.
+- 4)Citará tanto al acreedor como a las partes para una comparecencia ante el Tribunal.
+
+**Respuesta correcta:** 3
+
+**Explicación (correcta):**  
+¡Correcto! Ante una oposición formalizada en tiempo, el Letrado de la Administración de Justicia citará tanto al contador como a las partes para una comparecencia ante el Tribunal.
+
+**Explicación (errada):**  
+La opción elegida es incorrecta. En caso de oposición a las operaciones divisorias formalizada a tiempo, el Letrado de la Administración de Justicia convocará tanto al contador como a las partes para comparecer ante el Tribunal. (Respuesta correcta 3)
+
+---
+
+## Pregunta 23
+**Conforme al artículo 787.4 de la LEC, una vez se haya presentado una oposición válida a las operaciones divisorias, ¿en qué plazo debe el Letrado de la Administración de Justicia citar al contador y a las partes para una comparecencia ante el Tribunal?**
+
+**Opciones:**
+- 1)En los próximos diez días.
+- 2)En los próximos quince días.
+- 3)En los próximos veinte días.
+- 4)En los próximos cinco días.
+
+**Respuesta correcta:** 1
+
+**Explicación (correcta):**  
+¡Exacto! El Letrado de la Administración de Justicia debe convocar al contador y a las partes para una comparecencia en los diez días siguientes a una oposición válida a las operaciones divisorias.
+
+**Explicación (errada):**  
+La respuesta seleccionada no es correcta. El plazo para convocar a una comparecencia tras una oposición válida a las operaciones divisorias es de diez días, según el artículo 787.4 de la LEC. (Respuesta correcta 1)
+
+---
+
+## Pregunta 24
+**¿Qué parte tiene derecho a solicitar la división judicial de una herencia?**
+
+**Opciones:**
+- 1)Cualquier coheredero.
+- 2)Cualquiera, mientras tenga interés legítimo.
+- 3)Cualquier coheredero o legatario de parte alícuota, siempre que un comisario o contador-partidor deba realizar la división.
+- 4)Cualquier coheredero o legatario de parte alícuota, siempre que un comisario o contador-partidor no deba realizar la división.
+
+**Respuesta correcta:** 4
+
+**Explicación (correcta):**  
+¡Correcto! Cualquier coheredero o legatario de parte alícuota puede reclamar la división judicial de la herencia, siempre que un comisario o contador-partidor no esté encargado de realizar la división.
+
+**Explicación (errada):**  
+Lo siento, eso no es correcto. La división judicial de la herencia puede ser solicitada por cualquier coheredero o legatario de parte alícuota, siempre y cuando no esté a cargo de un comisario o contador-partidor realizar dicha división. (Respuesta correcta 4)
+
+---
+
+## Pregunta 25
+**En el procedimiento de división de herencia, señale la afirmación correcta con respecto a cómo el Letrado de la Administración de Justicia puede asignar un plazo al contador para presentar las operaciones divisorias:**
+
+**Opciones:**
+- 1)A petición de una parte, mediante decreto, el Letrado de la Administración de Justicia puede establecer un plazo para el contador para que presente las operaciones divisorias.
+- 2)De oficio, mediante diligencia, el Letrado de la Administración de Justicia puede establecer un plazo para el contador para que presente las operaciones divisorias.
+- 3)De oficio, mediante decreto, el Letrado de la Administración de Justicia puede establecer un plazo para el contador para que presente las operaciones divisorias.
+- 4)A petición de una parte, mediante diligencia, el Letrado de la Administración de Justicia puede establecer un plazo para el contador para que presente las operaciones divisorias.
+
+**Respuesta correcta:** 4
+
+**Explicación (correcta):**  
+¡Bien hecho! Cuando una de las partes lo solicite, el Letrado de la Administración de Justicia puede, mediante diligencia, establecer un plazo para que el contador presente las operaciones divisorias.
+
+**Explicación (errada):**  
+La opción elegida no es correcta. El Letrado de la Administración de Justicia, mediante diligencia y a solicitud de una parte, puede asignar un plazo para que el contador presente las operaciones divisorias. (Respuesta correcta 4)
+
+---
+
+## Pregunta 26
+**En el proceso civil para dividir una herencia, ¿bajo qué circunstancias el Letrado de la Administración de Justicia puede dar por terminado el juicio?**
+
+**Opciones:**
+- 1)Cuando la mayoría simple de los interesados lo acuerde.
+- 2)Cuando todos los interesados lo soliciten conjuntamente.
+- 3)Cuando la mayoría absoluta de los interesados lo acuerde.
+- 4)Ninguna es correcta.
+
+**Respuesta correcta:** 2
+
+**Explicación (correcta):**  
+¡Correcto! El juicio puede ser sobreseído por el Letrado de la Administración de Justicia cuando todos los interesados lo soliciten de forma unánime.
+
+**Explicación (errada):**  
+La respuesta seleccionada no es correcta. El sobreseimiento del juicio por parte del Letrado de la Administración de Justicia solo ocurre cuando todos los interesados lo solicitan conjuntamente. (Respuesta correcta 2)
+
+---
+
+## Pregunta 27
+**En el proceso de división de herencia, si no se formula oposición tras dar traslado a las partes de las operaciones divisorias, ¿cuál es la acción correcta que sigue?**
+
+**Opciones:**
+- 1)El Juez pronunciará un auto validando las operaciones divisorias y ordenando su protocolización.
+- 2)El Letrado de la Administración de Justicia emitirá un decreto validando las operaciones divisorias y ordenando que se protocolicen
+- 3)El Juez pronunciará una sentencia validando las operaciones divisorias y ordenando su protocolización.
+- 4)El Letrado de la Administración de Justicia emitirá una diligencia validando las operaciones divisorias y ordenando que se protocolicen
+
+**Respuesta correcta:** 2
+
+**Explicación (correcta):**  
+¡Correcto! Si no hay oposición tras el traslado de las operaciones divisorias, el Letrado de la Administración de Justicia dictará un decreto aprobando dichas operaciones y ordenando que se protocolicen.
+
+**Explicación (errada):**  
+La respuesta seleccionada no es correcta. En ausencia de oposición, el Letrado de la Administración de Justicia dictará un decreto aprobando las operaciones divisorias y requerirá que se protocolicen. (Respuesta correcta 2)
+
+---
+
+## Pregunta 28
+**En relación con la aprobación de las operaciones divisorias en el procedimiento de división de herencia, identifique la afirmación correcta si se ha presentado una oposición a las operaciones divisorias de manera oportuna:**
+
+**Opciones:**
+- 1)Se realizará una comparecencia, programada dentro de los cinco días siguientes a la formalización de la oposición a las operaciones divisorias
+- 2)Se realizará una comparecencia, programada dentro de los diez días siguientes a la formalización de la oposición a las operaciones divisorias
+- 3)Se realizará una comparecencia, programada dentro de los quince días siguientes a la formalización de la oposición a las operaciones divisorias
+- 4)Se realizará una comparecencia, programada dentro de los veinte días siguientes a la formalización de la oposición a las operaciones divisorias
+
+**Respuesta correcta:** 2
+
+**Explicación (correcta):**  
+¡Bien hecho! En caso de oposición oportuna a las operaciones divisorias, se programará una comparecencia a celebrarse dentro de los diez días siguientes.
+
+**Explicación (errada):**  
+La opción seleccionada no es correcta. Si se ha presentado oposición en tiempo hábil a las operaciones divisorias, se convocará a una comparecencia dentro de los diez días siguientes. (Respuesta correcta 2)
+
+---
+
+## Pregunta 29
+**En caso de conflicto respecto a la inclusión o exclusión de propiedades en el inventario:**
+
+**Opciones:**
+- 1)El Tramitador Procesal registrará en el acta las demandas de cada parte respecto a los bienes cuestionados y su fundamentación legal, y convocará a los involucrados a una vista, siguiendo el procedimiento establecido para el juicio verbal.
+- 2)El Letrado de la Administración de Justicia registrará en el acta las demandas de cada parte respecto a los bienes cuestionados y su fundamentación legal, y convocará a los involucrados a una vista, siguiendo el procedimiento establecido para el juicio ordinario.
+- 3)El Gestor Procesal registrará en el acta las demandas de cada parte respecto a los bienes cuestionados y su fundamentación legal, y convocará a los involucrados a una vista, siguiendo el procedimiento establecido para el juicio verbal.
+- 4)El Letrado de la Administración de Justicia registrará en el acta las demandas de cada parte respecto a los bienes cuestionados y su fundamentación legal, y convocará a los involucrados a una vista, siguiendo el procedimiento establecido para el juicio verbal.
+
+**Respuesta correcta:** 4
+
+**Explicación (correcta):**  
+¡Bien hecho! En casos de controversia sobre la inclusión o exclusión de bienes en el inventario, el Letrado de la Administración de Justicia documentará en el acta las demandas de cada parte y citará a una vista, siguiendo el proceso del juicio verbal.
+
+**Explicación (errada):**  
+La respuesta elegida no es correcta. En caso de controversia sobre la inclusión o exclusión de bienes, el Letrado de la Administración de Justicia anotará las demandas de las partes en el acta y convocará a una vista conforme a lo previsto para el juicio verbal. (Respuesta correcta 4)
+
+---
+
+## Pregunta 30
+**¿Bajo qué circunstancias se procede con la intervención del caudal hereditario y la formación de inventario en el proceso de división judicial de herencia?**
+
+**Opciones:**
+- 1)El Juez lo ordenará si se ha solicitado y es improcedente.
+- 2)El Juez lo ordenará cuando lo vea conveniente, según las circunstancias del caso.
+- 3)El Juez lo ordenará si se ha solicitado y es procedente.
+- 4)El contardor-partidor lo ordenará cuando lo vea conveniente, según las circunstancias del caso.
+
+**Respuesta correcta:** 3
+
+**Explicación (correcta):**  
+¡Correcto! El Juez ordenará la intervención del caudal hereditario y la formación de inventario cuando se haya solicitado y sea procedente.
+
+**Explicación (errada):**  
+La opción seleccionada no es correcta. El Juez procederá con la intervención del caudal hereditario y la formación de inventario solo si se ha solicitado y resulta procedente. (Respuesta correcta 3)
+
+---
+
+## Pregunta 31
+**¿Es posible para los acreedores solicitar la división de la herencia?**
+
+**Opciones:**
+- 1)Solo cuando la deuda exceda del 60% de la masa hereditaria.
+- 2)Sí.
+- 3)Solo cuando la deuda exceda del 40% de la masa hereditaria.
+- 4)No.
+
+**Respuesta correcta:** 4
+
+**Explicación (correcta):**  
+¡Correcto! Los acreedores no pueden instar la división de la herencia.
+
+**Explicación (errada):**  
+La respuesta seleccionada es incorrecta. Los acreedores no tienen la capacidad de solicitar la división de la herencia. (Respuesta correcta 4)
+
+---
+
+## Pregunta 32
+**En la situación de oposición durante la aprobación de las operaciones divisorias de una herencia:**
+
+**Opciones:**
+- 1)En caso de falta de acuerdo, el tribunal escuchará a las partes y permitirá la presentación de pruebas, siguiendo el procedimiento del juicio ordinario.
+- 2)El fallo emitido no será considerado resolución firme, permitiendo a las partes involucradas reivindicar sus derechos en el juicio ordinario correspondiente
+- 3)En caso de acuerdo, el tribunal escuchará a las partes y permitirá la presentación de pruebas, siguiendo el procedimiento del juicio ordinario.
+- 4)El fallo emitido será considerado resolución firme, permitiendo a las partes involucradas reivindicar sus derechos en el juicio ordinario correspondiente
+
+**Respuesta correcta:** 2
+
+**Explicación (correcta):**  
+¡Correcto! La sentencia emitida no será final y vinculante, permitiendo a los interesados reivindicar sus derechos en un juicio ordinario posterior.
+
+**Explicación (errada):**  
+La opción seleccionada no es correcta. En realidad, la sentencia emitida no tiene carácter de resolución firme, lo que permite a los interesados reivindicar sus derechos en el juicio ordinario correspondiente. (Respuesta correcta 2)
+
+---
+
+## Pregunta 33
+**¿Cuántos días tienen las partes para oponerse a las operaciones divisorias propuestas de una herencia?**
+
+**Opciones:**
+- 1)5 días.
+- 2)7 días.
+- 3)10 días.
+- 4)3 días.
+
+**Respuesta correcta:** 3
+
+**Explicación (correcta):**  
+¡Bien hecho! Las partes tienen un plazo de diez días para oponerse a las operaciones divisorias de una herencia.
+
+**Explicación (errada):**  
+Respuesta equivocada. Las partes cuentan con diez días para presentar oposición a las operaciones divisorias propuestas de una herencia. (Respuesta correcta 3)
+
+---
+
+## Pregunta 34
+**Según la Ley de Enjuiciamiento Civil, ¿bajo qué circunstancia no se ordenará el cese de la intervención en la herencia?**
+
+**Opciones:**
+- 1)Cuando no se realice el pago o se proporcione una fianza para los créditos a los acreedores reconocidos en el testamento que se hayan opuesto a la división de la herencia
+- 2)Cuando todos los herederos lo soliciten de manera unánime.
+- 3)Cuando se realice el pago o se proporcione una fianza para los créditos a los acreedores reconocidos en el testamento que se hayan opuesto a la división de la herencia
+- 4)Cuando un heredero lo solicite.
+
+**Respuesta correcta:** 1
+
+**Explicación (correcta):**  
+¡Correcto! La intervención de la herencia no cesará si no se paga o afianzan los créditos a los acreedores reconocidos en el testamento que se han opuesto a la partición.
+
+**Explicación (errada):**  
+La opción seleccionada no es correcta. La cesación de la intervención de la herencia no se acordará si no se satisfacen o garantizan los créditos de los acreedores reconocidos en el testamento que se opusieron a la partición. (Respuesta correcta 1)
+
+---
+
+## Pregunta 35
+**De acuerdo con el artículo 803 de la Ley de Enjuiciamiento Civil, ¿cuáles son las circunstancias bajo las cuales el administrador del caudal hereditario está autorizado para enajenar bienes?**
+
+**Opciones:**
+- 1)Cuando la enajenación de bienes sea necesaria para el pago de deudas o para satisfacer otros requerimientos administrativos de la herencia.
+- 2)Cuando se presenten condiciones consideradas ventajosas para la enajenación de frutos.
+- 3)En el caso de bienes que sean difíciles y costosos de conservar.
+- 4)Todas son correctas.
+
+**Respuesta correcta:** 4
+
+**Explicación (correcta):**  
+¡Correcto! El administrador del caudal hereditario puede enajenar bienes bajo cualquiera de las circunstancias enumeradas.
+
+**Explicación (errada):**  
+Respuesta incorrecta. El administrador está autorizado para enajenar bienes en todas las situaciones mencionadas en las opciones. (Respuesta correcta 4)
+
+---
+
+## Pregunta 36
+**En el proceso de división de la herencia, si el Letrado de la Administración de Justicia establece un plazo para que el contador presente las operaciones divisorias y este no cumple, ¿cuál sería la consecuencia para el contador?**
+
+**Opciones:**
+- 1)El contador puede ser multado con hasta mil euros.
+- 2)El albacea será responsable de los daños y perjuicios ocasionados.
+- 3)El Juez será responsable de los daños y perjuicios ocasionados.
+- 4)El contador será responsable de los daños y perjuicios ocasionados.
+
+**Respuesta correcta:** 4
+
+**Explicación (correcta):**  
+¡Bien hecho! El contador será considerado responsable de cualquier daño o perjuicio resultante de no presentar las operaciones divisorias en el plazo establecido.
+
+**Explicación (errada):**  
+Respuesta incorrecta. El contador se hace responsable de los daños y perjuicios que se originen por no presentar las operaciones divisorias dentro del plazo señalado. (Respuesta correcta 4)
+
+---
+
+## Pregunta 37
+**En el contexto del proceso de división de herencia, seleccione la afirmación correcta respecto a la designación del contador y los peritos:**
+
+**Opciones:**
+- 1)En caso de que no haya consenso durante la Junta para el nombramiento del contador, se seleccionará uno mediante sorteo entre los abogados en ejercicio con conocimientos especializados en la materia y con oficina profesional en el lugar donde se lleva a cabo el juicio.
+- 2)El contador designado por sorteo estará sujeto a lo dispuesto para la provisión de fondos de los peritos.
+- 3)Todas son correctas.
+- 4)Lo establecido para la recusación de los peritos será aplicable al contador designado por sorteo.
+
+**Respuesta correcta:** 3
+
+**Explicación (correcta):**  
+¡Excelente! Todas las afirmaciones sobre la designación del contador y los peritos en el proceso de división de herencia son correctas.
+
+**Explicación (errada):**  
+Respuesta equivocada. Todas las afirmaciones proporcionadas en las opciones son correctas en relación con la designación del contador y los peritos en el procedimiento de división de herencia. (Respuesta correcta 3)
+
+---
+
+## Pregunta 38
+**En un procedimiento civil para dividir una herencia, una vez realizadas las operaciones divisorias, ¿cuánto tiempo tendrán las partes para presentar su oposición después de que el Letrado de la Administración de Justicia les haya notificado dichas operaciones?**
+
+**Opciones:**
+- 1)5 días.
+- 2)3 días.
+- 3)7 días.
+- 4)10 días.
+
+**Respuesta correcta:** 4
+
+**Explicación (correcta):**  
+¡Correcto! Las partes tienen un plazo de diez días para presentar su oposición una vez que se les haya notificado sobre las operaciones divisorias realizadas.
+
+**Explicación (errada):**  
+Respuesta errónea. El periodo correcto para formular oposición tras recibir notificación de las operaciones divisorias es de diez días. (Respuesta correcta 4)
+
+---
+
+## Pregunta 39
+**En el marco del proceso de división de herencia, ¿qué acción se puede tomar en respuesta a las operaciones divisorias ejecutadas por el contador?**
+
+**Opciones:**
+- 1)Formular oposición en un lapso de cinco días.
+- 2)Formular oposición en un lapso de diez días.
+- 3)Formular oposición en un lapso de quince días.
+- 4)Formular oposición en un lapso de veinte días.
+
+**Respuesta correcta:** 2
+
+**Explicación (correcta):**  
+¡Bien hecho! Tienes derecho a formular oposición a las operaciones divisorias realizadas por el contador dentro de un plazo de diez días.
+
+**Explicación (errada):**  
+Has seleccionado la opción incorrecta. La respuesta correcta es formular oposición dentro de un período de diez días frente a las operaciones divisorias hechas por el contador. (Respuesta correcta 2)
+
+---
+
+## Pregunta 40
+**¿Quién está en posición de solicitar judicialmente la división de una herencia?**
+
+**Opciones:**
+- 1)Solo los herederos.
+- 2)Solo los acreedores.
+- 3)Cualquier coheredero o legatario de parte alícuota, siempre y cuando un comisario o contador-partidor designado por el testador, por consenso entre los coherederos, o por el Letrado de la Administración de Justicia o Notario, no deba realizar la división.
+- 4)Solo los legatarios.
+
+**Respuesta correcta:** 3
+
+**Explicación (correcta):**  
+¡Correcto! Cualquier coheredero o legatario de parte alícuota puede reclamar judicialmente la división de la herencia, con las condiciones especificadas.
+
+**Explicación (errada):**  
+La respuesta seleccionada es incorrecta. Cualquier coheredero o legatario de parte alícuota tiene la facultad de reclamar judicialmente la división de la herencia bajo ciertas condiciones. (Respuesta correcta 3)
+
+---
+
+## Pregunta 41
+**Selecciona la afirmación correcta respecto a la compensación que recibe el administrador:**
+
+**Opciones:**
+- 1)Se le concederá el 0.7% sobre el producto líquido de la venta de valores públicos.
+- 2)Se le concederá el 0.5% sobre el producto líquido de la venta de valores públicos.
+- 3)Se le concederá el 1% sobre el producto líquido de la venta de valores públicos.
+- 4)Se le concederá el 3% sobre el producto líquido de la venta de valores públicos.
+
+**Respuesta correcta:** 2
+
+**Explicación (correcta):**  
+¡Excelente! El administrador obtiene el 0.5% sobre el producto líquido de la venta de valores públicos.
+
+**Explicación (errada):**  
+Has seleccionado una opción incorrecta. La respuesta correcta es que el administrador recibe el 0.5% sobre el producto líquido procedente de la venta de valores públicos. (Respuesta correcta 2)
+
+---
+
+## Pregunta 42
+**En el procedimiento para la división de la herencia, ¿quién presidirá la Junta destinada para la selección de contador y peritos?**
+
+**Opciones:**
+- 1)Los herederos.
+- 2)El Tramitador Procesal.
+- 3)El Juez.
+- 4)El Letrado de la Administración de Justicia
+
+**Respuesta correcta:** 4
+
+**Explicación (correcta):**  
+¡Correcto! El Letrado de la Administración de Justicia es quien preside la Junta para la designación de contador y peritos en el procedimiento de división de herencia.
+
+**Explicación (errada):**  
+La opción seleccionada es incorrecta. El Letrado de la Administración de Justicia preside la Junta para designar contador y peritos en el proceso de división de herencia. (Respuesta correcta 4)
+
+---
+
+## Pregunta 43
+**Durante el procedimiento civil de división de herencia, el Letrado de la Administración de Justicia presenta las operaciones divisorias a las partes, instándolas a oponerse si lo desean. Durante este periodo:**
+
+**Opciones:**
+- 1)Todas son correctas.
+- 2)Tienen la posibilidad de examinar los registros en la oficina judicial.
+- 3)Pueden revisar las operaciones divisorias en la oficina judicial.
+- 4)Las partes pueden solicitar (y pagar por) copias de los registros y operaciones divisorias.
+
+**Respuesta correcta:** 1
+
+**Explicación (correcta):**  
+¡Bien hecho! Las partes pueden solicitar copias (a su costo), revisar las operaciones divisorias y examinar los registros en la oficina judicial durante este periodo
+
+**Explicación (errada):**  
+La respuesta seleccionada no es correcta. Durante este periodo, las partes pueden solicitar copias (a su costo), revisar las operaciones divisorias y examinar los registros en la oficina judicial. (Respuesta correcta 1)
+
+---
+
+## Pregunta 44
+**Dentro del proceso judicial para la división de la herencia y de acuerdo al artículo 787 de la LEC, en el caso de oposición formal a las operaciones divisorias:**
+
+**Opciones:**
+- 1)El Juez convocará tanto al contador como a las partes para una audiencia y, si no se llega a un consenso, el Tribunal procederá con el juicio verbal después de escuchar a las partes y realizar las pruebas pertinentes.
+- 2)El Letrado de la Administración de Justicia organizará una audiencia sin la participación del contador y, si no hay acuerdo, el proceso continuará bajo los trámites del juicio verbal.
+- 3)El Letrado de la Administración de Justicia convocará tanto al contador como a las partes para una audiencia y, si no se llega a un consenso, el Tribunal procederá con el juicio verbal después de escuchar a las partes y realizar las pruebas pertinentes.
+- 4)El Juez organizará una audiencia sin la participación del contador y, si no hay acuerdo, el proceso continuará bajo los trámites del juicio verbal.
+
+**Respuesta correcta:** 3
+
+**Explicación (correcta):**  
+¡Correcto! En caso de oposición formal, el Letrado de la Administración de Justicia convoca tanto al contador como a las partes para una audiencia y, si no hay consenso, el Tribunal procederá con los trámites del juicio verbal.
+
+**Explicación (errada):**  
+La respuesta elegida es incorrecta. Si hay oposición formal, el Letrado de la Administración de Justicia convocará tanto al contador como a las partes para una audiencia, y sin consenso, el Tribunal procederá con el juicio verbal. (Respuesta correcta 3)
+
+---
+
+## Pregunta 45
+**Conforme a la Ley de Enjuiciamiento Civil, durante el procedimiento de distribución de una herencia, ¿en qué situación se debe notificar al Abogado del Estado o a los Servicios Jurídicos de las Comunidades Autónomas para la creación de un inventario?**
+
+**Opciones:**
+- 1)Cuando no hay constancia de testamento, cónyuge, o parientes que pudieran tener derechos legítimos sobre la herencia.
+- 2)En casos donde no exista un testamento registrado.
+- 3)Cuando hay constancia de testamento, cónyuge, o parientes que pudieran tener derechos legítimos sobre la herencia.
+- 4)En casos donde exista un testamento registrado.
+
+**Respuesta correcta:** 1
+
+**Explicación (correcta):**  
+¡Correcto! La notificación es necesaria cuando no hay evidencia de testamento, cónyuge o familiares con derechos legítimos a la herencia.
+
+**Explicación (errada):**  
+La opción seleccionada es incorrecta. Se requiere notificación cuando no hay constancia de testamento, cónyuge, o parientes con derechos legítimos a la herencia. (Respuesta correcta 1)
+
+---
+
+## Pregunta 46
+**Según el artículo 792 de la LEC, ¿quién de los siguientes NO está legitimado para solicitar la intervención judicial de la herencia?**
+
+**Opciones:**
+- 1)Los acreedores reconocidos en el testamento o por los coherederos.
+- 2)El cónyuge, habiendo acreditado la iniciación del procedimiento para la declaración de herederos abintestato.
+- 3)Un deudor del causante.
+- 4)Cualquier legatario de parte alícuota al solicitar la división judicial de la herencia.
+
+**Respuesta correcta:** 3
+
+**Explicación (correcta):**  
+¡Correcto! Un deudor del causante no tiene legitimación para solicitar la intervención judicial de la herencia, según lo establecido en el artículo 792 de la LEC.
+
+**Explicación (errada):**  
+La respuesta es incorrecta. El artículo 792 de la LEC enumera a las personas legitimadas para solicitar la intervención del caudal hereditario, y entre ellas no se encuentra el deudor del causante. (Respuesta correcta 3)
+
+---
+
+## Pregunta 47
+**Cuando los acreedores estén reconocidos en el testamento, por los coherederos, o tengan derechos documentados en un título ejecutivo, ¿en qué momento pueden oponerse a la partición de la herencia hasta que se les pague o se les garantice el monto de sus créditos?**
+
+**Opciones:**
+- 1)En cualquier instante posterior a la distribución de los bienes asignados a cada heredero.
+- 2)Al menos 10 días antes de la distribución de los bienes asignados a cada heredero.
+- 3)En cualquier instante previo a la distribución de los bienes asignados a cada heredero.
+- 4)Al menos 10 días después de la distribución de los bienes asignados a cada heredero.
+
+**Respuesta correcta:** 3
+
+**Explicación (correcta):**  
+¡Exacto! Los acreedores pueden oponerse a la partición en cualquier momento antes de la distribución de los bienes asignados a cada heredero.
+
+**Explicación (errada):**  
+La respuesta seleccionada no es correcta. Los acreedores pueden oponerse en cualquier momento antes de que se realice la distribución de los bienes asignados. (Respuesta correcta 3)
+
+---
+
+## Pregunta 48
+**Después de que el contador presente las operaciones divisorias en un procedimiento de división judicial de herencia, ¿cuál es el paso procedimental que sigue?**
+
+**Opciones:**
+- 1)El Letrado de la Administración de Justicia (LAJ) proporcionará las operaciones divisorias a las partes, dando un plazo de cinco días para formular oposiciones.
+- 2)El Letrado de la Administración de Justicia (LAJ) proporcionará las operaciones divisorias a las partes, dando un plazo de diez días para formular oposiciones.
+- 3)El Letrado de la Administración de Justicia (LAJ) proporcionará las operaciones divisorias a las partes, dando un plazo de tres días para formular oposiciones.
+- 4)El Letrado de la Administración de Justicia (LAJ) proporcionará las operaciones divisorias a las partes, dando un plazo de quince días para formular oposiciones.
+
+**Respuesta correcta:** 2
+
+**Explicación (correcta):**  
+¡Correcto! Tras la presentación de las operaciones divisorias por parte del contador, el LAJ proporciona estas a las partes y les otorga un plazo de diez días para oponerse.
+
+**Explicación (errada):**  
+Tu respuesta no es correcta. Después de la presentación de las operaciones divisorias, el LAJ da traslado a las partes y establece un período de diez días para que puedan formular oposiciones. (Respuesta correcta 2)
+
+---
+
+## Pregunta 49
+**En el marco del proceso de división de herencia, según la Ley de Enjuiciamiento Civil en el trámite de división de herencia, cuando el contador acepta su papel, ¿quién tiene el derecho de exigirle que lleve a cabo sus responsabilidades?**
+
+**Opciones:**
+- 1)Cada uno de los herederos tiene el derecho de obligar al contador a cumplir con su encargo.
+- 2)El Letrado de la Administración de Justicia tiene el derecho de obligar al contador a cumplir con su encargo.
+- 3)Cada uno de los interesados tiene el derecho de obligar al contador a cumplir con su encargo.
+- 4)El Juez tiene el derecho de obligar al contador a cumplir con su encargo.
+
+**Respuesta correcta:** 3
+
+**Explicación (correcta):**  
+¡Bien hecho! Cada uno de los interesados tiene el derecho de obligar al contador a cumplir con su encargo tras su aceptación.
+
+**Explicación (errada):**  
+La respuesta seleccionada no es correcta. La ley concede a cada uno de los interesados el derecho de exigirle al contador que cumpla con su responsabilidad después de aceptar su encargo. (Respuesta correcta 3)
+
+---
+
+## Pregunta 50
+**Seleccione la opción correcta:**
+
+**Opciones:**
+- 1)Se permite designar más de un perito para valorar cada tipo de bien que necesite ser evaluado.
+- 2)El número de peritos designados no está determinado por la cantidad de bienes que necesitan una valoración justa.
+- 3)No se permite designar más de un perito para valorar cada tipo de bien que necesite ser evaluado.
+- 4)El número de peritos designados no está determinado por la cantidad de dinero que necesita una valoración justa.
+
+**Respuesta correcta:** 3
+
+**Explicación (correcta):**  
+¡Correcto! La ley establece que no se puede designar más de un perito para cada tipo de bien que necesita ser valorado.
+
+**Explicación (errada):**  
+La respuesta seleccionada no es correcta. Según la ley, no se puede designar más de un perito para valorar cada tipo de bien que necesite ser evaluado. (Respuesta correcta 3)
+
+---
+
+## Pregunta 51
+**En relación con el artículo 802 de la Ley de Enjuiciamiento Civil (LEC), cuando es necesario atender gastos extraordinarios para la conservación de los bienes hereditarios:**
+
+**Opciones:**
+- 1)El tribunal, a través de una providencia, puede asignar al administrador el monto necesario, retirándolo del depósito si los ingresos regulares no son suficientes para cubrir los gastos.
+- 2)El tribunal, a través de una sentencia, puede asignar al administrador el monto necesario, retirándolo del depósito si los ingresos regulares no son suficientes para cubrir los gastos.
+- 3)El tribunal, a través de un auto, puede asignar al administrador el monto necesario, retirándolo del depósito si los ingresos regulares no son suficientes para cubrir los gastos.
+- 4)El LAJ, a través de una diligencia, puede asignar al administrador el monto necesario, retirándolo del depósito si los ingresos regulares no son suficientes para cubrir los gastos.
+
+**Respuesta correcta:** 1
+
+**Explicación (correcta):**  
+¡Bien hecho! Según el art. 802 de la LEC, el tribunal, mediante providencia, podrá asignar al administrador la suma necesaria, retirándola del depósito si los ingresos ordinarios no son suficientes.
+
+**Explicación (errada):**  
+Lo siento, la respuesta seleccionada no es correcta. Según el art. 802 de la LEC, mediante providencia, el tribunal puede asignar al administrador la suma necesaria, mandando sacarla del depósito si no pudiere cubrirse con los ingresos ordinarios.
+
+---
+
+## Pregunta 52
+**¿Quién tiene la facultad de nombrar al comisario o contador-partidor encargado de dividir la herencia?**
+
+**Opciones:**
+- 1)El Letrado de la Administración de Justicia o el Notario.
+- 2)El testador.
+- 3)Los coherederos, mediante consenso.
+- 4)Todas son correctas.
+
+**Respuesta correcta:** 4
+
+**Explicación (correcta):**  
+¡Exacto! El comisario o contador-partidor puede ser designado por el testador, los coherederos (si llegan a un acuerdo), o por el Letrado de la Administración de Justicia o el Notario.
+
+**Explicación (errada):**  
+La respuesta elegida no es correcta. La designación del comisario o contador-partidor puede ser realizada por el testador, los coherederos mediante acuerdo, o el Letrado de la Administración de Justicia o el Notario. (Respuesta correcta 4)
+
+---
+
+## Pregunta 53
+**Respecto a la sentencia emitida en caso de oposición a las operaciones particionales, ¿cuál de los siguientes enunciados sobre sus efectos es verdadero?**
+
+**Opciones:**
+- 1)Aunque la sentencia no tiene eficacia de cosa juzgada, los interesados pueden reclamar los derechos que consideren tener sobre los bienes adjudicados a través del juicio cambiario pertinente.
+- 2)La sentencia no posee eficacia de cosa juzgada, permitiendo a los interesados reclamar los derechos que creen tener sobre los bienes adjudicados mediante el juicio ordinario pertinente.
+- 3)La sentencia no tiene eficacia de cosa juzgada, y los interesados pueden reclamar los derechos que creen tener sobre los bienes adjudicados en el juicio verbal pertinente.
+- 4)La sentencia tiene eficacia de cosa juzgada.
+
+**Respuesta correcta:** 2
+
+**Explicación (correcta):**  
+¡Correcto! La sentencia emitida en caso de oposición a las operaciones particionales no tiene eficacia de cosa juzgada, y los interesados pueden reclamar los derechos que consideren tener sobre los bienes adjudicados a través del juicio ordinario pertinente.
+
+**Explicación (errada):**  
+La respuesta seleccionada no es correcta. La sentencia emitida en caso de oposición a las operaciones particionales no tiene eficacia de cosa juzgada, permitiendo a los interesados reclamar los derechos que creen tener sobre los bienes adjudicados mediante el juicio ordinario pertinente. (Respuesta correcta 2)
+
+---
+
+## Pregunta 54
+**Aunque los acreedores no tienen permitido instar la división de la herencia, ¿contra qué o quiénes pueden ejercer acciones?**
+
+**Opciones:**
+- 1)Contra la herencia.
+- 2)Contra los coherederos.
+- 3)Contra la comunidad hereditaria.
+- 4)Todas son correctas.
+
+**Respuesta correcta:** 4
+
+**Explicación (correcta):**  
+¡Correcto! Aunque los acreedores no pueden instar la división de la herencia, pueden ejercer acciones contra los coherederos, la herencia o la comunidad hereditaria.
+
+**Explicación (errada):**  
+La respuesta seleccionada no es correcta. Los acreedores, aunque no puedan instar la división de la herencia, tienen la posibilidad de ejercer acciones contra los coherederos, la herencia, o la comunidad hereditaria. (Respuesta correcta 4)
+
+---
+
+## Pregunta 55
+**Durante el proceso de división de herencia, para asistir a la Junta convocada, ¿qué necesitan aportar los acreedores que no se han personado previamente?**
+
+**Opciones:**
+- 1)Una certificación validada por el Letrado de la Administración de Justicia.
+- 2)Documentos que justifiquen sus créditos.
+- 3)Una certificación validada por el Juez.
+- 4)Ninguna es correcta.
+
+**Respuesta correcta:** 2
+
+**Explicación (correcta):**  
+¡Bien hecho! Para asistir a la Junta, los acreedores no personados deben presentar documentos que justifiquen sus créditos.
+
+**Explicación (errada):**  
+Lo siento, tu respuesta no es correcta. Los acreedores que no se han personado necesitan presentar documentos que justifiquen sus créditos para poder asistir a la Junta. (Respuesta correcta 2)
+
+---
+
+## Pregunta 56
+**Conforme al artículo 800 de la LEC, ¿quién podrá dispensar al administrador del caudal hereditario de la obligación de prestar caución, atendiendo a la entidad del caudal y a su escasa importancia?**
+
+**Opciones:**
+- 1)El contador-partidor, con el consentimiento de los herederos.
+- 2)El Letrado de la Administración de Justicia, mediante decreto motivado.
+- 3)El albacea designado en el testamento.
+- 4)El tribunal.
+
+**Respuesta correcta:** 4
+
+**Explicación (correcta):**  
+¡Correcto! El artículo 800.2 de la LEC establece que el tribunal es quien tiene la facultad de dispensar al administrador de la obligación de prestar caución.
+
+**Explicación (errada):**  
+La respuesta no es correcta. Según el artículo 800.2 de la LEC, es el tribunal quien podrá dispensar al cónyuge viudo o al heredero de la obligación de prestar caución. (Respuesta correcta 4)
+
+---
+
+## Pregunta 57
+**En las actuaciones que se efectúen, ¿quién actuará en representación de los beneficiarios de la herencia que sean menores sin representación legal válida y aquellos cuyo lugar de residencia sea desconocido?**
+
+**Opciones:**
+- 1)El albacea.
+- 2)El Ministerio Fiscal.
+- 3)El Secretario Judicial.
+- 4)Un abogado.
+
+**Respuesta correcta:** 2
+
+**Explicación (correcta):**  
+¡Correcto! El Ministerio Fiscal representará a los menores que no tengan representación legal válida y a los beneficiarios ausentes de los cuales no se conozca su ubicación en todas las actuaciones relacionadas con la herencia.
+
+**Explicación (errada):**  
+Respuesta equivocada. El Ministerio Fiscal es el ente encargado de representar a los beneficiarios menores sin representación legal y a los ausentes desconocidos en las actuaciones relacionadas con la herencia. (Respuesta correcta 2)
+
+---
+
+## Pregunta 58
+**¿Tienen permiso los acreedores de uno de los coherederos para participar en la división de la herencia?**
+
+**Opciones:**
+- 1)Solo pueden intervenir si la deuda supera los seis mil euros.
+- 2)Sí, tienen permitido intervenir, asumiendo los costos, para prevenir que la división se realice en detrimento o fraude de sus derechos.
+- 3)No pueden intervenir si la deuda supera los seis mil euros.
+- 4)No tienen permitido intervenir, asumiendo los costos, para prevenir que la división se realice en detrimento o fraude de sus derechos.
+
+**Respuesta correcta:** 2
+
+**Explicación (correcta):**  
+¡Bien hecho! Los acreedores de un coheredero pueden intervenir en la partición de la herencia, a su costo, para evitar que la distribución se realice en fraude de sus derechos.
+
+**Explicación (errada):**  
+Lo siento, eso no es correcto. Los acreedores de un coheredero pueden intervenir, pero deben asumir los costos, y esto es para evitar posibles fraudes o perjuicios a sus derechos durante la partición de la herencia. (Respuesta correcta 2)
+
+---
+
+## Pregunta 59
+**En el proceso civil de división de herencia, cuando el Letrado de la Administración de Justicia comparte las operaciones divisorias con las partes y las emplaza para presentar oposición, ¿cómo debe ser formulada dicha oposición?**
+
+**Opciones:**
+- 1)Debe presentarse oralmente, señalando los aspectos específicos de las operaciones divisorias a los que se refiere y los fundamentos de la oposición.
+- 2)Debe presentarse por valija judicial, señalando los aspectos específicos de las operaciones divisorias a los que se refiere y los fundamentos de la oposición.
+- 3)Debe presentarse por escrito, señalando los aspectos específicos de las operaciones divisorias a los que se refiere y los fundamentos de la oposición.
+- 4)Puede ser oral o escrita, siempre y cuando esté adecuadamente fundamentada.
+
+**Respuesta correcta:** 3
+
+**Explicación (correcta):**  
+¡Correcto! La oposición debe ser formulada por escrito, indicando los aspectos de las operaciones divisorias que se objetan y los fundamentos de dicha oposición.
+
+**Explicación (errada):**  
+La respuesta no es correcta. La oposición debe presentarse por escrito, señalando específicamente los puntos de las operaciones divisorias que se están objetando y fundamentando adecuadamente la oposición. (Respuesta correcta 3)
+
+---
+
+## Pregunta 60
+**Según el artículo 786 de la Ley de Enjuiciamiento Civil, ¿cuál es el plazo máximo para presentar las operaciones divisorias realizadas por el contador desde que se iniciaron en la división de la herencia?**
+
+**Opciones:**
+- 1)Dos meses.
+- 2)Cuatro meses.
+- 3)Seis meses.
+- 4)Tres meses.
+
+**Respuesta correcta:** 1
+
+**Explicación (correcta):**  
+¡Correcto! Las operaciones divisorias deben presentarse dentro de un máximo de dos meses desde que se iniciaron, conforme al artículo 786 de la Ley de Enjuiciamiento Civil.
+
+**Explicación (errada):**  
+Esa no es la respuesta correcta. El artículo 786 de la Ley de Enjuiciamiento Civil establece que las operaciones divisorias deben presentarse en un plazo máximo de dos meses desde su inicio. (Respuesta correcta 1)
+
+---
+
+## Pregunta 61
+**Conforme al artículo 783 de la LEC respecto a la convocatoria de la junta para la asignación de contador y expertos, elija la afirmación verdadera:**
+
+**Opciones:**
+- 1)No se procederá a notificar a los participantes que no estén previamente involucrados en las actuaciones.
+- 2)Para aquellos participantes no involucrados previamente en las actuaciones, la notificación se realizará mediante edictos si se conoce su domicilio.
+- 3)Los participantes ya implicados en el proceso serán notificados a través de su abogado.
+- 4)La notificación a los participantes ya presentes en las actuaciones se efectuará a través de su procurador.
+
+**Respuesta correcta:** 4
+
+**Explicación (correcta):**  
+¡Bien hecho! Los interesados ya involucrados en las actuaciones serán citados a través de sus procuradores, conforme al artículo 783 de la LEC.
+
+**Explicación (errada):**  
+La respuesta seleccionada no es correcta. Según el artículo 783 de la LEC, los interesados que ya estén involucrados en las actuaciones serán citados mediante su procurador. (Respuesta correcta 4)
+
+---
+
+## Pregunta 62
+**Según el artículo 786 de la Ley de Enjuiciamiento Civil, en el proceso de división de herencia, hay información que el contador no está obligado a incluir en el documento de operaciones divisorias. ¿Cuál es esta información?**
+
+**Opciones:**
+- 1)La valoración de los activos enumerados.
+- 2)El cálculo de la masa hereditaria.
+- 3)Las legítimas asignadas a los herederos forzosos y la identificación de los acreedores de los coherederos que no estén involucrados en el procedimiento.
+- 4)La asignación de cada heredero y legatario.
+
+**Respuesta correcta:** 3
+
+**Explicación (correcta):**  
+¡Exacto! El contador no está obligado a incluir las legítimas de los herederos forzosos ni la identificación de los acreedores de coherederos no presentes en el proceso, según el artículo 786 de la LEC.
+
+**Explicación (errada):**  
+Lo siento, pero tu respuesta es incorrecta. El artículo 786 de la LEC indica que el contador no necesita incluir información sobre las legítimas de los herederos forzosos ni identificar a los acreedores de los coherederos no involucrados en el procedimiento. (Respuesta correcta 3)
+
+---
+
+## Pregunta 63
+**¿Qué normativa se deberá usar para ejecutar las operaciones divisorias de un patrimonio hereditario?**
+
+**Opciones:**
+- 1)La ley que rige la domicilio del heredero.
+- 2)La ley que rige la sucesión del heredero.
+- 3)La ley que rige el domicilio del causante.
+- 4)La ley que rige la sucesión del causante.
+
+**Respuesta correcta:** 4
+
+**Explicación (correcta):**  
+¡Correcto! Para realizar las operaciones divisorias de una herencia, se debe aplicar la ley que rige la sucesión del causante.
+
+**Explicación (errada):**  
+Tu respuesta no es correcta. Para las operaciones divisorias de una herencia, es necesario aplicar la ley que rige la sucesión del causante. (Respuesta correcta 4)
+
+---
+
+## Pregunta 64
+**En caso de que no se llegue a un consenso durante la Junta para designar al contador y los peritos encargados de la herencia respecto a la selección del contador:**
+
+**Opciones:**
+- 1)El contador será seleccionado mediante auto.
+- 2)El contador será seleccionado mediante sorteo.
+- 3)El contador será seleccionado mediante designación.
+- 4)El contador será seleccionado mediante el albacea.
+
+**Respuesta correcta:** 2
+
+**Explicación (correcta):**  
+¡Correcto! En ausencia de un acuerdo unánime durante la Junta para la designación del contador, este será seleccionado al azar mediante sorteo.
+
+**Explicación (errada):**  
+La opción seleccionada es incorrecta. Si no se alcanza un acuerdo en la Junta para la designación del contador, la selección se hace por sorteo. (Respuesta correcta 2)
+
+---
+
+## Pregunta 65
+**Conforme al Artículo 811 de la Ley de Enjuiciamiento Civil, ¿cuándo se puede solicitar la liquidación del régimen de participación?**
+
+**Opciones:**
+- 1)Una vez que la resolución que declare la disolución del régimen económico matrimonial sea susceptible de recurso.
+- 2)En caso de que se lleve a cabo el juicio de separación, nulidad o divorcio.
+- 3)Una vez que la resolución que declare la disolución del régimen económico matrimonial sea firme.
+- 4)En caso de que no se lleve a cabo el juicio de separación, nulidad o divorcio.
+
+**Respuesta correcta:** 3
+
+**Explicación (correcta):**  
+¡Correcto! La solicitud de liquidación del régimen de participación se puede realizar una vez que la resolución que disuelve el régimen económico matrimonial es firme.
+
+**Explicación (errada):**  
+La respuesta seleccionada no es correcta. La liquidación del régimen de participación puede solicitarse una vez que sea firme la resolución que declare disuelto el régimen económico matrimonial. (Respuesta correcta 3)
+
+---
+
+## Pregunta 66
+**En caso de falta de consenso entre los cónyuges respecto a la liquidación del régimen de participación:**
+
+**Opciones:**
+- 1)El Letrado de la Administración de Justicia convocará una vista y seguirá los trámites establecidos para el juicio ordinario.
+- 2)El Letrado de la Administración de Justicia convocará una vista y seguirá los trámites establecidos para el juicio verbal.
+- 3)El Letrado de la Administración de Justicia convocará una vista y seguirá los trámites establecidos para el juicio monitorio.
+- 4)El Letrado de la Administración de Justicia convocará una vista y seguirá los trámites establecidos para la segregación.
+
+**Respuesta correcta:** 2
+
+**Explicación (correcta):**  
+¡Bien hecho! En ausencia de acuerdo entre los cónyuges para la liquidación del régimen de participación, el Letrado de la Administración de Justicia citará a una vista y continuará con los trámites del juicio verbal.
+
+**Explicación (errada):**  
+La opción que elegiste no es correcta. Si no hay acuerdo entre los cónyuges para la liquidación del régimen de participación, el Letrado de la Administración de Justicia los citará a una vista y seguirá la tramitación conforme a lo establecido para el juicio verbal. (Respuesta correcta 2)
+
+---
+
+## Pregunta 67
+**Según la Ley de Enjuiciamiento Civil, ¿en qué momento el Tribunal tomará decisiones respecto a la administración y disposición de los bienes listados en el inventario durante el proceso de liquidación del régimen económico matrimonial?**
+
+**Opciones:**
+- 1)En el día de la presentación o el día siguiente.
+- 2)En el día de la presentación o a los dos días siguientes.
+- 3)En el día de la presentación o a los tres días siguientes.
+- 4)En el día de la presentación o a los cinco días siguientes.
+
+**Respuesta correcta:** 1
+
+**Explicación (correcta):**  
+¡Correcto! El Tribunal tomará decisiones sobre la administración y disposición de los bienes en el inventario en el día de la presentación o el siguiente.
+
+**Explicación (errada):**  
+La respuesta seleccionada es incorrecta. El Tribunal decidirá sobre la administración y disposición de los bienes en el inventario ya sea en el mismo día de la presentación o el siguiente. (Respuesta correcta 1)
+
+---
+
+## Pregunta 68
+**Una vez que se acepte la solicitud de liquidación, ¿en qué plazo máximo el Letrado de la Administración de Justicia citará a los cónyuges para intentar llegar a un acuerdo o, en su defecto, nombrar contador y, si es necesario, peritos para llevar a cabo las operaciones divisorias?**
+
+**Opciones:**
+- 1)En un mínimo de 5 días.
+- 2)En un máximo de 10 días.
+- 3)En un máximo de 5 días.
+- 4)En un mínimo de 10 días.
+
+**Respuesta correcta:** 2
+
+**Explicación (correcta):**  
+¡Bien hecho! El Letrado de la Administración de Justicia citará a los cónyuges en un plazo máximo de 10 días.
+
+**Explicación (errada):**  
+La respuesta elegida no es correcta. El Letrado de la Administración de Justicia deberá citar a los cónyuges en un plazo máximo de 10 días para intentar llegar a un acuerdo y, si no lo logran, proceder a nombrar un contador y posiblemente peritos para las operaciones divisorias. (Respuesta correcta 2)
+
+---
+
+## Pregunta 69
+**Si un cónyuge no asiste, sin tener un motivo justificado, en la fecha designada para tomar decisiones sobre la liquidación del régimen de participación, ¿qué consecuencia se deriva?**
+
+**Opciones:**
+- 1)El Letrado de la Administración de Justicia fijará otro período de tres días para que el cónyuge ausente asista.
+- 2)El Letrado de la Administración de Justicia fijará otro período de cinco días para que el cónyuge ausente asista.
+- 3)Se asumirá que el cónyuge ausente está de acuerdo con la propuesta de liquidación presentada por el cónyuge presente.
+- 4)El Letrado de la Administración de Justicia fijará otro período de diez días para que el cónyuge ausente asista.
+
+**Respuesta correcta:** 3
+
+**Explicación (correcta):**  
+¡Exacto! Si un cónyuge no comparece sin causa justificada, se considerará que está de acuerdo con la propuesta de liquidación del cónyuge presente.
+
+**Explicación (errada):**  
+La respuesta seleccionada no es correcta. Si un cónyuge falta sin justificación, se entenderá que concuerda con la propuesta de liquidación del otro cónyuge. (Respuesta correcta 3)
+
+---
+
+## Pregunta 70
+**Cuando se presenta una solicitud de inventario para el régimen económico matrimonial, el Letrado de la Administración de Justicia (LAJ) asignará una fecha y hora para que:**
+
+**Opciones:**
+- 1)En un máximo de cinco días, se proceda con la elaboración del inventario, citando solo a los cónyuges.
+- 2)En un máximo de diez días, se proceda con la elaboración del inventario, citando solo a los cónyuges.
+- 3)En un máximo de quince días, se proceda con la elaboración del inventario, citando solo a los cónyuges.
+- 4)En un máximo de tres días, se proceda con la elaboración del inventario, citando solo a los cónyuges.
+
+**Respuesta correcta:** 2
+
+**Explicación (correcta):**  
+¡Correcto! El LAJ asignará una fecha y hora en un plazo máximo de diez días para la elaboración del inventario, citando exclusivamente a los cónyuges.
+
+**Explicación (errada):**  
+La opción seleccionada no es correcta. Según el procedimiento, el LAJ asignará una fecha y hora en un máximo de diez días para la elaboración del inventario y solo citará a los cónyuges para este proceso. (Respuesta correcta 2)
+
+---
+
+## Pregunta 71
+**En el procedimiento de liquidación del régimen económico matrimonial, ¿cuál es el tribunal competente para conocer el caso?**
+
+**Opciones:**
+- 1)La Audiencia Provincial actualmente involucrada, que haya estado involucrada, o que hubiera sido competente para los procesos de nulidad, separación o divorcio.
+- 2)El Juzgado de Primera Instancia o Juzgado de Violencia sobre la Mujer que esté conociendo, haya conocido, o hubiera sido competente para los procesos de nulidad, separación o divorcio.
+- 3)El Juzgado de Paz.
+- 4)El Juzgado de Violencia sobre la Mujer exclusivamente.
+
+**Respuesta correcta:** 2
+
+**Explicación (correcta):**  
+¡Bien hecho! El Juzgado de Primera Instancia o el Juzgado de Violencia sobre la Mujer con conocimiento previo o actual del proceso pertinente tiene la competencia.
+
+**Explicación (errada):**  
+Lo siento, esa no es la respuesta correcta. La competencia la tiene el Juzgado de Primera Instancia o el Juzgado de Violencia sobre la Mujer que esté o haya estado involucrado en los procesos relevantes. (Respuesta correcta 2)
+
+---
+
+## Pregunta 72
+**¿Qué juzgado tiene la competencia para el procedimiento de liquidación del régimen económico matrimonial?**
+
+**Opciones:**
+- 1)El Juzgado de Violencia sobre la Mujer que esté, haya estado, o hubiera tenido competencia para los procesos de nulidad, separación o divorcio.
+- 2)El Juzgado de Primera Instancia que esté, haya estado, o hubiera tenido competencia para conocer los procesos de nulidad, separación o divorcio.
+- 3)Todas son correctas.
+- 4)El Juzgado de Violencia sobre la Mujer que esté o haya estado involucrado en actuaciones relacionadas con la disolución del régimen económico matrimonial por causas previstas en la legislación civil.
+
+**Respuesta correcta:** 3
+
+**Explicación (correcta):**  
+¡Correcto! Todos los juzgados mencionados en las opciones tienen competencia para el procedimiento de liquidación del régimen económico matrimonial, dependiendo de las circunstancias del caso.
+
+**Explicación (errada):**  
+La respuesta seleccionada es incorrecta. De hecho, todos los juzgados mencionados pueden tener competencia en el procedimiento de liquidación del régimen económico matrimonial bajo diferentes circunstancias. (Respuesta correcta 3)
+
+---
+
+## Pregunta 73
+**Después de recibir la solicitud de inventario, ¿en cuánto tiempo el Letrado de la Administración de Justicia asignará fecha y hora para proceder con la creación del inventario, notificando a los cónyuges?**
+
+**Opciones:**
+- 1)En un plazo no mayor a cinco días.
+- 2)En un plazo no mayor a diez días.
+- 3)En un plazo mayor a cinco días.
+- 4)En un plazo mayor a diez días.
+
+**Respuesta correcta:** 2
+
+**Explicación (correcta):**  
+¡Exacto! El Letrado de la Administración de Justicia establecerá fecha y hora para el inventario, notificando a los cónyuges dentro de un plazo máximo de diez días.
+
+**Explicación (errada):**  
+La respuesta no es correcta. El plazo correcto es un máximo de diez días, no el tiempo seleccionado. (Respuesta correcta 2)
+
+---
+
+## Pregunta 74
+**Conforme al Artículo 810.1 de la Ley 1/2000, de 7 de enero, de Enjuiciamiento Civil, luego de decidir la disolución del régimen económico matrimonial, ¿cuándo puede uno de los cónyuges solicitar la liquidación?**
+
+**Opciones:**
+- 1)Antes de finalizar el inventario y con la disolución del régimen económico matrimonial ya firme.
+- 2)Después de finalizar el inventario y con la disolución del régimen económico matrimonial.
+- 3)Después de finalizar el inventario y con la disolución del régimen económico matrimonial ya firme.
+- 4)Ninguna es correcta.
+
+**Respuesta correcta:** 3
+
+**Explicación (correcta):**  
+¡Correcto! La liquidación del régimen económico matrimonial puede ser solicitada por cualquier cónyuge una vez concluido el inventario y con la disolución del régimen ya confirmada.
+
+**Explicación (errada):**  
+La opción elegida es incorrecta. La solicitud de liquidación se puede hacer después de concluir el inventario y una vez que la disolución del régimen económico matrimonial sea firme. (Respuesta correcta 3)
+
+---
+
+## Pregunta 75
+**Dentro del procedimiento de liquidación del régimen económico matrimonial, ¿quién tiene la facultad de pedir la creación de un inventario?**
+
+**Opciones:**
+- 1)Solo los cónyuges conjuntamente.
+- 2)Cualquier cónyuge individualmente.
+- 3)Cualquiera de los cónyuges o sus herederos.
+- 4)Dos son correctas.
+
+**Respuesta correcta:** 3
+
+**Explicación (correcta):**  
+¡Correcto! Cualquier cónyuge o sus herederos pueden solicitar la formación de inventario en el procedimiento de liquidación del régimen económico matrimonial.
+
+**Explicación (errada):**  
+Has seleccionado una opción incorrecta. La solicitud para la formación de inventario puede ser realizada por cualquier cónyuge o sus herederos. (Respuesta correcta 3)
+
+---
+
+## Pregunta 76
+**En el proceso de solicitud de liquidación del régimen económico matrimonial, ¿qué debe incluirse obligatoriamente en la solicitud?**
+
+**Opciones:**
+- 1)Las deudas privadas de cada cónyuge.
+- 2)Una liquidación que contemple el pago de indemnizaciones y los reintegros que correspondan a cada cónyuge.
+- 3)Las deudas comunes de cada cónyuge.
+- 4)Una propuesta de liquidación que contemple el pago de indemnizaciones y los reintegros que correspondan a cada cónyuge.
+
+**Respuesta correcta:** 4
+
+**Explicación (correcta):**  
+¡Bien hecho! La solicitud debe ir acompañada de una propuesta de liquidación que considere las indemnizaciones y reintegros que cada cónyuge tenga derecho a recibir.
+
+**Explicación (errada):**  
+La opción seleccionada no es correcta. La solicitud de liquidación debe incluir una propuesta que considere indemnizaciones y reintegros correspondientes a cada cónyuge. (Respuesta correcta 4)
+
+---
+
+## Pregunta 77
+**Para presentar la solicitud de liquidación del régimen económico matrimonial, ¿qué condiciones deben cumplirse?**
+
+**Opciones:**
+- 1)Se requiere la conclusión del inventario.
+- 2)Se requiere la firmeza de la decisión judicial que declare terminado el régimen económico matrimonial.
+- 3)Se requiere tanto la conclusión del inventario como, si es necesario, la firmeza de la decisión judicial que declare terminado el régimen económico matrimonial.
+- 4)Es indispensable que la decisión judicial que disuelve el régimen económico matrimonial sea firme.
+
+**Respuesta correcta:** 3
+
+**Explicación (correcta):**  
+¡Exacto! Para solicitar la liquidación del régimen económico matrimonial, es necesario concluir el inventario y, en su caso, contar con una resolución firme que declare disuelto dicho régimen.
+
+**Explicación (errada):**  
+Lo siento, tu respuesta es incorrecta. La solicitud de liquidación del régimen económico matrimonial requiere la conclusión del inventario y, si aplica, la resolución firme que disuelve el régimen económico matrimonial. (Respuesta correcta 3)
+
+---
+
+## Pregunta 78
+**En relación con la solicitud de inventario durante el procedimiento de liquidación del régimen económico matrimonial según la Ley de Enjuiciamiento Civil:**
+
+**Opciones:**
+- 1)En la vista del juicio, las partes deben proporcionar los documentos que justifiquen los distintos ítems propuestos en la lista.
+- 2)La solicitud debe ir acompañada de una propuesta en la cual se listarán, de manera separada, los distintos ítems que deberían estar presentes en el inventario.
+- 3)En la Audiencia Previa, las partes deben proporcionar los documentos que justifiquen los distintos ítems propuestos en la lista.
+- 4)Cualquier cónyuge puede solicitarlo.
+
+**Respuesta correcta:** 2
+
+**Explicación (correcta):**  
+¡Correcto! La solicitud de inventario debe acompañarse de una propuesta en la que se enumeren de forma separada los diferentes ítems que deben incluirse en el inventario.
+
+**Explicación (errada):**  
+La respuesta seleccionada no es correcta. Es necesario que la solicitud de inventario venga acompañada de una propuesta donde se detallen de forma separada los ítems a incluir en el inventario. (Respuesta correcta 2)
+
+---
+
+## Pregunta 79
+**Si uno de los cónyuges no se presenta en la fecha y hora designadas por el Letrado de la Administración de Justicia para la creación del inventario, sin una razón justificada, ¿cuál será la consecuencia?**
+
+**Opciones:**
+- 1)Se asumirá que está de acuerdo con la propuesta de inventario presentada por el cónyuge que haya asistido.
+- 2)Se suspenderá el acto.
+- 3)Se asumirá que está de acuerdo con la propuesta de inventario.
+- 4)Se solicitará una justificación de su ausencia.
+
+**Respuesta correcta:** 1
+
+**Explicación (correcta):**  
+¡Bien hecho! Si un cónyuge no asiste sin causa justificada, se entenderá que acepta la propuesta de inventario del cónyuge presente.
+
+**Explicación (errada):**  
+Tu respuesta no es correcta. En caso de ausencia no justificada de uno de los cónyuges, se considerará que está de acuerdo con la propuesta de inventario del cónyuge que asistió. (Respuesta correcta 1)
+
+---
+
+## Pregunta 80
+**¿Qué debe incluirse en la solicitud para la liquidación del régimen económico-matrimonial?**
+
+**Opciones:**
+- 1)Una propuesta de liquidación que contemple el pago de indemnizaciones y reintegros correspondientes a cada cónyuge y la distribución del remanente según la proporción adecuada, considerando las preferencias establecidas por las normativas civiles aplicables en la formación de los lotes.
+- 2)Una propuesta donde se detallen, de manera separada, los distintos elementos que deben formar parte del inventario, conforme a la legislación civil.
+- 3)Una propuesta de liquidación que contemple el pago de indemnizaciones.
+- 4)La distribución del remanente según la proporción adecuada.
+
+**Respuesta correcta:** 1
+
+**Explicación (correcta):**  
+¡Correcto! La solicitud debe incluir una propuesta de liquidación que contemple indemnizaciones, reintegros y distribución del remanente, considerando las preferencias normativas para la creación de lotes.
+
+**Explicación (errada):**  
+La respuesta seleccionada no es acertada. La solicitud debe acompañarse de una propuesta de liquidación detallada, que incluya indemnizaciones, reintegros y la distribución adecuada del remanente, siguiendo las preferencias normativas en la formación de lotes. (Respuesta correcta 1)
+
+---
+
+## Pregunta 81
+**Si no hay consenso entre los cónyuges respecto a la liquidación del régimen económico matrimonial de gananciales, ¿cuál de las siguientes afirmaciones es correcta?**
+
+**Opciones:**
+- 1)El Letrado de la Administración de Justicia programará una vista.
+- 2)Se designará un contador.
+- 3)Se efectuará el inventario.
+- 4)Se designará un albacea.
+
+**Respuesta correcta:** 2
+
+**Explicación (correcta):**  
+¡Exacto! Si los cónyuges no llegan a un acuerdo, se procederá a nombrar un contador para avanzar en la liquidación.
+
+**Explicación (errada):**  
+La respuesta elegida no es correcta. En ausencia de acuerdo entre los cónyuges, se procede al nombramiento de un contador. (Respuesta correcta 2)
+
+---
+
+## Pregunta 82
+**Identifique la declaración falsa relacionada con la liquidación del régimen económico matrimonial de participación:**
+
+**Opciones:**
+- 1)La solicitud debe incluir una propuesta de liquidación con una evaluación de los patrimonios inicial y final de cada cónyuge, indicando, si corresponde, el monto que debe pagar el cónyuge con un mayor incremento patrimonial.
+- 2)La liquidación del régimen de participación no puede solicitarse hasta que la resolución que declare disuelto el régimen económico matrimonial sea firme.
+- 3)Si los cónyuges no acuerdan, se nombrará un contador y, si es necesario, un perito, siguiendo lo establecido en el artículo 785 y siguientes de la LEC.
+- 4)Si uno de los cónyuges no comparece en la fecha establecida sin causa justificada, se considerará que acepta la propuesta de liquidación del cónyuge presente.
+
+**Respuesta correcta:** 3
+
+**Explicación (correcta):**  
+¡Correcto! La afirmación de que se nombrará un contador es incorrecta. Según el artículo 811.2 de la LEC, en caso de desacuerdo, el LAJ convocará a los cónyuges a una vista y la tramitación continuará por las normas del juicio verbal.
+
+**Explicación (errada):**  
+La respuesta seleccionada no es correcta. La afirmación falsa es la C, ya que el artículo 811.2 de la LEC establece que, en caso de desacuerdo en el régimen de participación, el procedimiento a seguir es el del juicio verbal, no el nombramiento de un contador como en la división de herencia. (Respuesta correcta 3)
+
+---
+
+## Pregunta 83
+**Conforme al artículo 810 de la Ley de Enjuiciamiento Civil (LEC), ¿en qué condiciones puede solicitarse la liquidación del régimen económico matrimonial?**
+
+**Opciones:**
+- 1)Cualquier cónyuge puede solicitarlo tras concluir el inventario y una vez que la resolución que disuelve el régimen económico matrimonial.
+- 2)Cualquier cónyuge puede solicitarlo aunque el inventario no esté concluido.
+- 3)Cualquier cónyuge puede solicitarlo tras concluir el inventario y una vez que la resolución que disuelve el régimen económico matrimonial sea firme.
+- 4)Cualquier cónyuge puede solicitarlo si el inventario esté concluido.
+
+**Respuesta correcta:** 3
+
+**Explicación (correcta):**  
+¡Bien hecho! La liquidación del régimen económico matrimonial puede solicitarse por cualquier cónyuge una vez que el inventario esté finalizado y la resolución de disolución sea firme.
+
+**Explicación (errada):**  
+La respuesta seleccionada no es correcta. En realidad, la liquidación del régimen económico matrimonial se puede solicitar por cualquier cónyuge, siempre que el inventario esté concluido y la resolución de disolución sea firme. (Respuesta correcta 3)
+
+---
+
+## Pregunta 84
+**Según el artículo 810 de la LEC, para solicitar la liquidación del régimen económico matrimonial, se requiere:**
+
+**Opciones:**
+- 1)Ninguna es correcta.
+- 2)La solicitud de cualquier cónyuge después de finalizar el inventario y con una resolución firme que disuelva el régimen económico matrimonial.
+- 3)La solicitud conjunta de ambos cónyuges, una vez aceptada la demanda de separación, divorcio o nulidad.
+- 4)La solicitud de cualquier cónyuge antes de finalizar el inventario y con una resolución firme que disuelva el régimen económico matrimonial.
+
+**Respuesta correcta:** 2
+
+**Explicación (correcta):**  
+¡Correcto! Cualquier cónyuge puede solicitar la liquidación del régimen económico matrimonial una vez que se haya completado el inventario y la resolución de disolución sea firme.
+
+**Explicación (errada):**  
+La opción seleccionada no es correcta. La liquidación del régimen económico matrimonial se puede solicitar por cualquier cónyuge, pero solo después de que se haya finalizado el inventario y la resolución de disolución sea firme. (Respuesta correcta 2)
+
+---
+
+## Pregunta 85
+**Conforme al artículo 807 de la LEC, ¿cuál de los siguientes órganos jurisdiccionales será competente para conocer del procedimiento de liquidación del régimen económico matrimonial?**
+
+**Opciones:**
+- 1)El Juzgado de Primera Instancia o el Juzgado de Violencia sobre la Mujer que haya conocido del proceso de nulidad, separación o divorcio.
+- 2)El Juzgado de lo Mercantil del domicilio de los cónyuges.
+- 3)El Juzgado de Paz del último domicilio conyugal.
+- 4)La Audiencia Provincial en primera instancia.
+
+**Respuesta correcta:** 1
+
+**Explicación (correcta):**  
+¡Correcto! El artículo 807 de la LEC atribuye la competencia al Juzgado de Primera Instancia o, en su caso, al de Violencia sobre la Mujer que haya tramitado el procedimiento principal de nulidad, separación o divorcio.
+
+**Explicación (errada):**  
+La respuesta no es correcta. La competencia recae en el Juzgado de Primera Instancia o en el de Violencia sobre la Mujer que haya conocido del proceso previo de familia, según el artículo 807 de la LEC. (Respuesta correcta 1)
+
+---
+
+## Pregunta 86
+**En cuanto a la liquidación del régimen económico matrimonial de participación, la sentencia que aborde todas las cuestiones planteadas establecerá:**
+
+**Opciones:**
+- 1)El monto que debe abonar el cónyuge cuyo patrimonio haya tenido un incremento menor.
+- 2)Las dos son correctas.
+- 3)El método de pago que deberá aplicarse.
+- 4)Ninguna es correcta.
+
+**Respuesta correcta:** 3
+
+**Explicación (correcta):**  
+¡Correcto! La sentencia que resuelva todas las cuestiones relacionadas determinará cómo debe efectuarse el pago.
+
+**Explicación (errada):**  
+La opción elegida no es acertada. La sentencia que aborda todas las cuestiones relativas a la liquidación del régimen de participación económico matrimonial determina la forma en que se debe realizar el pago. (Respuesta correcta 3)
+
+---
+
+## Pregunta 87
+**Conforme al artículo 807 de la Ley de Enjuiciamiento Civil, ¿cuál tribunal tiene jurisdicción para los procedimientos de liquidación del régimen económico matrimonial?**
+
+**Opciones:**
+- 1)El Juzgado de Primera Instancia que esté manejando los casos de nulidad, separación o divorcio.
+- 2)Exclusivamente el tribunal del último domicilio conyugal.
+- 3)El tribunal que esté manejando los casos de nulidad, separación o divorcio.
+- 4)Exclusivamente el tribunal del primer domicilio conyugal.
+
+**Respuesta correcta:** 1
+
+**Explicación (correcta):**  
+¡Bien hecho! El tribunal competente para conocer los procedimientos de liquidación del régimen económico matrimonial es aquel que está manejando los casos de nulidad, separación o divorcio, según lo establecido en el artículo 807 de la LEC.
+
+**Explicación (errada):**  
+La opción elegida no es correcta. El Artículo 807 de la LEC establece que el tribunal competente para estos procedimientos es el que está gestionando los casos de nulidad, separación o divorcio. (Respuesta correcta 1)
+
+---
+
+## Pregunta 88
+**Según el Artículo 811 de la Ley de Enjuiciamiento Civil, una vez recibida la solicitud de liquidación del régimen económico matrimonial de participación, el LAJ fijará fecha y hora para que las partes comparezcan con el fin de llegar a un acuerdo. ¿Cuándo se programará esta comparecencia?**
+
+**Opciones:**
+- 1)En un plazo máximo de 5 días desde la solicitud.
+- 2)En un plazo mínimo de 10 días desde la solicitud.
+- 3)En un plazo máximo de 5 días desde la solicitud.
+- 4)En un plazo máximo de 10 días desde la solicitud.
+
+**Respuesta correcta:** 4
+
+**Explicación (correcta):**  
+¡Correcto! La comparecencia para buscar un acuerdo se programará en un plazo máximo de 10 días desde la recepción de la solicitud de liquidación, según lo indica el Artículo 811 de la LEC.
+
+**Explicación (errada):**  
+La respuesta seleccionada no es acertada. De acuerdo con el Artículo 811 de la LEC, la comparecencia se debe programar en un plazo máximo de 10 días desde la recepción de la solicitud de liquidación del régimen económico matrimonial de participación. (Respuesta correcta 4)
+
+---
+
+## Pregunta 89
+**En el proceso de liquidación del régimen económico matrimonial, ¿quiénes están legitimados para solicitar la formación de inventario según el artículo 808 de la LEC?**
+
+**Opciones:**
+- 1)Solo los cónyuges si actúan de mutuo acuerdo.
+- 2)Únicamente el cónyuge que no haya instado el proceso de nulidad, separación o divorcio.
+- 3)Cualquiera de los cónyuges o sus herederos.
+- 4)El Ministerio Fiscal de oficio.
+
+**Respuesta correcta:** 3
+
+**Explicación (correcta):**  
+¡Correcto! El artículo 808.1 de la LEC establece que la formación de inventario puede ser solicitada por cualquiera de los cónyuges o por sus herederos.
+
+**Explicación (errada):**  
+La respuesta no es correcta. Según el artículo 808.1 de la LEC, la legitimación para solicitar la formación de inventario corresponde a cualquiera de los cónyuges o, en su caso, a sus herederos. (Respuesta correcta 3)
+
+---
+
+## Pregunta 90
+**Según el artículo 809 de la Ley de Enjuiciamiento Civil, si uno de los cónyuges no se presenta sin una justificación válida en la fecha designada para la creación del inventario durante el procedimiento de liquidación del régimen económico matrimonial, ¿qué sucede?**
+
+**Opciones:**
+- 1)Se le convocará nuevamente para que presente sus argumentos por escrito en un plazo de diez días.
+- 2)Se aceptará como válida la propuesta de inventario presentada por el cónyuge presente.
+- 3)Se le convocará nuevamente para que presente sus argumentos por escrito en un plazo de cinco días.
+- 4)Se le convocará nuevamente para que presente sus argumentos por escrito en un plazo de tres días.
+
+**Respuesta correcta:** 2
+
+**Explicación (correcta):**  
+¡Bien hecho! Según el Artículo 809 de la LEC, si un cónyuge no comparece sin una causa justificada, se considerará que está de acuerdo con la propuesta de inventario realizada por el cónyuge que sí ha asistido.
+
+**Explicación (errada):**  
+La respuesta seleccionada es incorrecta. De acuerdo con el Artículo 809 de la LEC, si un cónyuge falta sin justificación, se asume que está conforme con la propuesta de inventario del cónyuge presente. (Respuesta correcta 2)
+
+---
+
+## Pregunta 91
+**En ausencia de un acuerdo mutuo entre los cónyuges para la liquidación de su régimen económico matrimonial de gananciales, ¿cómo se procede con la designación de un contador y, si es necesario, expertos?**
+
+**Opciones:**
+- 1)A través de una diligencia.
+- 2)A través de un decreto.
+- 3)A través de una providencia.
+- 4)A través de un requerimiento.
+
+**Respuesta correcta:** 1
+
+**Explicación (correcta):**  
+¡Correcto! En caso de desacuerdo entre los cónyuges sobre la liquidación del régimen económico matrimonial, se procede a designar un contador y, si es necesario, expertos, a través de una diligencia.
+
+**Explicación (errada):**  
+La respuesta seleccionada no es correcta. En caso de desacuerdo entre los cónyuges, se procede a designar un contador (y expertos si es necesario) a través de una diligencia. (Respuesta correcta 1)
+
+---
+
+## Pregunta 92
+**Si un cónyuge no se presenta en la fecha determinada por el Letrado de la Administración de Justicia para la creación del inventario durante el proceso de liquidación del régimen económico matrimonial, ¿cuál es el procedimiento que sigue?**
+
+**Opciones:**
+- 1)El cónyuge ausente se considerará en acuerdo con la propuesta de inventario realizada por el cónyuge presente, siempre que no haya una razón justificada para la ausencia.
+- 2)Se asumirá que el cónyuge ausente está en desacuerdo con la propuesta de inventario del cónyuge presente, independientemente de que haya o no una razón válida para la ausencia.
+- 3)El cónyuge presente se considerará en acuerdo con la propuesta de inventario realizada por el cónyuge ausente, siempre que no haya una razón justificada para la ausencia.
+- 4)Se asumirá que el cónyuge presente está en desacuerdo con la propuesta de inventario del cónyuge ausente, independientemente de que haya o no una razón válida para la ausencia.
+
+**Respuesta correcta:** 1
+
+**Explicación (correcta):**  
+¡Bien hecho! Si un cónyuge falta a la cita programada sin una razón válida, se considera que está de acuerdo con la propuesta de inventario presentada por el cónyuge que asistió.
+
+**Explicación (errada):**  
+La respuesta seleccionada no es correcta. En el caso de una ausencia no justificada de uno de los cónyuges, se considera que este está de acuerdo con la propuesta de inventario hecha por el cónyuge presente. (Respuesta correcta 1)
+
+---
+
+## Pregunta 93
+**Elija la afirmación correcta sobre la solicitud de inventario en la liquidación del régimen económico matrimonial:**
+
+**Opciones:**
+- 1)Todas son correctas.
+- 2)Una vez aceptada la solicitud de anulación, separación o divorcio, o iniciado el procedimiento donde se solicita la disolución del régimen económico matrimonial, cualquier cónyuge puede pedir la creación de un inventario.
+- 3)La solicitud de creación de inventario debe ir acompañada de una propuesta que detalle, de manera separada, las diferentes partidas que deben ser incluidas en el inventario según la legislación civil.
+- 4)Junto con la solicitud, también se deben adjuntar documentos que respalden las distintas partidas mencionadas en la propuesta.
+
+**Respuesta correcta:** 1
+
+**Explicación (correcta):**  
+¡Correcto! Todas las afirmaciones proporcionadas son ciertas en relación con la solicitud de inventario durante la liquidación del régimen económico matrimonial.
+
+**Explicación (errada):**  
+La respuesta seleccionada no es correcta. En realidad, todas las afirmaciones proporcionadas son correctas en cuanto a la solicitud de inventario en el proceso de liquidación del régimen económico matrimonial. (Respuesta correcta 1)
+
+---
+
+## Pregunta 94
+**Si surge un conflicto sobre la inclusión o exclusión de algún ítem en el inventario durante el proceso de liquidación del régimen económico matrimonial bajo la Ley de Enjuiciamiento Civil, y el Letrado de la Administración de Justicia convoca a los involucrados a una audiencia, ¿cuál será el procedimiento de tramitación a seguir?**
+
+**Opciones:**
+- 1)Juicio verbal.
+- 2)Juicio ordinario.
+- 3)Juicio de división de herencia.
+- 4)Ley de Jurisdicción Voluntaria.
+
+**Respuesta correcta:** 1
+
+**Explicación (correcta):**  
+¡Acertado! En caso de disputa sobre qué elementos incluir o excluir del inventario, el procedimiento seguirá conforme a lo estipulado en el juicio verbal.
+
+**Explicación (errada):**  
+La opción elegida no es correcta. Cuando hay controversia sobre la inclusión o exclusión de elementos en el inventario, el proceso se continuará según lo establecido para el juicio verbal. (Respuesta correcta 1)
+
+---
+
+## Pregunta 95
+**En la liquidación del régimen de gananciales, si tras la comparecencia no hay acuerdo, el LAJ nombrará un contador y, en su caso, peritos. ¿Qué normas rigen este nombramiento según el artículo 810.3 de la LEC?**
+
+**Opciones:**
+- 1)Las establecidas para el juicio verbal.
+- 2)Las establecidas para la división de la herencia.
+- 3)Las establecidas para el juicio ordinario.
+- 4)Las establecidas en la Ley de Jurisdicción Voluntaria para el nombramiento de peritos.
+
+**Respuesta correcta:** 2
+
+**Explicación (correcta):**  
+¡Correcto! El artículo 810.3 de la LEC se remite expresamente a lo dispuesto para la designación de contador y peritos en el juicio de división de la herencia (artículos 784 y siguientes).
+
+**Explicación (errada):**  
+La respuesta es incorrecta. Para el nombramiento del contador y peritos en la liquidación de gananciales cuando no hay acuerdo, el artículo 810.3 de la LEC indica que se aplicarán las reglas previstas para la división de la herencia. (Respuesta correcta 2)
+
+---
+
+## Pregunta 96
+**¿Cuál es el requisito para pedir la liquidación del régimen económico matrimonial?**
+
+**Opciones:**
+- 1)Obtener la firmeza de la resolución que disuelve el régimen económico matrimonial.
+- 2)Terminar el inventario.
+- 3)No es necesario cumplir ningún requisito previo para solicitar la liquidación.
+- 4)Ninguna es correcta.
+
+**Respuesta correcta:** 4
+
+**Explicación (correcta):**  
+¡Correcto! Debes concluir el inventario y tener firme la resolución que disuelve el régimen económico matrimonial.
+
+**Explicación (errada):**  
+La opción seleccionada no es correcta. Es necesario tanto concluir el inventario como tener firme la resolución que disuelve el régimen económico matrimonial para solicitar la liquidación. (Respuesta correcta 4)
+
+---
+
+## Pregunta 97
+**Tras la comparecencia para formar inventario, si surgen controversias, el LAJ cita a los interesados a una vista. Según el artículo 809.2 de la LEC, ¿qué forma adoptará la resolución del tribunal sobre la administración y disposición de los bienes incluidos en el inventario?**
+
+**Opciones:**
+- 1)Sentencia.
+- 2)Decreto.
+- 3)Providencia.
+- 4)Auto.
+
+**Respuesta correcta:** 4
+
+**Explicación (correcta):**  
+¡Correcto! El artículo 809.2 de la LEC especifica que el tribunal resolverá mediante auto lo que proceda sobre la administración y disposición de los bienes.
+
+**Explicación (errada):**  
+La respuesta no es correcta. La resolución que decide sobre la administración y disposición de los bienes en el inventario debe adoptar la forma de auto, tal como indica el artículo 809.2 de la LEC. (Respuesta correcta 4)
+
+---
+
+## Pregunta 98
+**Si un cónyuge no se presenta en la fecha programada para decidir sobre la liquidación del régimen de participación sin una razón válida, ¿qué sucede?**
+
+**Opciones:**
+- 1)Se establecerá un nuevo plazo de cinco días para su comparecencia.
+- 2)La propuesta de liquidación del cónyuge con menor incremento patrimonial será aceptada.
+- 3)Se establecerá un nuevo plazo de tres días para su comparecencia.
+- 4)Ninguna es correcta.
+
+**Respuesta correcta:** 4
+
+**Explicación (correcta):**  
+¡Correcto! Se considerará que el cónyuge ausente está de acuerdo con la propuesta de liquidación del cónyuge presente.
+
+**Explicación (errada):**  
+La respuesta es incorrecta. En ausencia injustificada de uno de los cónyuges, se entenderá que está de acuerdo con la propuesta de liquidación del cónyuge que haya comparecido. (Respuesta correcta 4)
+
+---
+

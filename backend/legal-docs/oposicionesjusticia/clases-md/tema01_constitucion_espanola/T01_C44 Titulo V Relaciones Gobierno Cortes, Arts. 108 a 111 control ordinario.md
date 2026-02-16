@@ -1,0 +1,92 @@
+# Constitución Española
+
+## T01 C44 Titulo V Relaciones Gobierno Cortes, Arts. 108 a 111 control ordinario
+
+**Tema:** Constitución Española  
+**Clase:** T01_C44 Titulo V Relaciones Gobierno Cortes, Arts. 108 a 111 control ordinario  
+**Archivo:** T01_C44 Titulo V Relaciones Gobierno Cortes, Arts. 108 a 111 control ordinario.txt  
+**Tipo:** Material de Clase  
+**Categoría:** Oposiciones de Justicia  
+
+---
+
+Hola opositores, ¿qué tal vais? Nos toca abrir con esta clase el título quinto de la Constitución Española, que se dedica a las relaciones entre el Gobierno y las Cortes Generales. Spoiler, la Constitución no se refiere aquí al conjunto de relaciones generales que pueden tener el Gobierno y las Cortes, que ya de por sí son bastantes, sino más bien a las relaciones de control que sobre todo se ejercen desde las Cortes hacia el Gobierno. Para ello, este título contiene 11 artículos, del 108 al 116.
+
+
+Estos se suelen dividir tradicionalmente en dos tipos de control diferenciados. Por un lado, tenemos el control ordinario, que es el que pueden ejercer las Cámaras en su actividad parlamentaria ordinaria y que se expresa en las preguntas, las interpelaciones o las mociones. Por otro lado, tenemos el control sanción, que es el que se ejercita a través de la moción de censura.
+
+
+Además de estos controles, que representan al grueso de los artículos de este título, tenemos otros dos elementos de relación entre el Gobierno y las Cortes que exceden de la clasificación que hemos hecho. Estos son la cuestión de confianza y los estados excepcionales. La cuestión de confianza la veremos junto con la moción de censura, y los estados excepcionales los veremos aparte para cerrar este título.
+
+
+En la clase de hoy, por tanto, nos dedicaremos al primer tipo de control, el control ordinario o fiscalizador, al que se dedican los artículos 108 a 112. Vamos a empezar por ver el artículo 108 de nuestra Carta Magna. Este abre el título V y lo hace de la única manera en la que puede hacerse, estableciendo el principio de la responsabilidad solidaria del Gobierno ante el Congreso de los Diputados.
+
+
+La dicción de este artículo nos da algunas de las primeras pistas que rigen el sistema de control parlamentario al que se somete el Gobierno. Vamos a verlas. La primera es que el Gobierno responde solidariamente de la gestión política realizada.
+
+
+Esta responsabilidad conjunta de los miembros del Gobierno es congruente con el hecho de que tenemos un Gobierno colegiado, como vimos en el título IV, lo que supone que todos tienen una responsabilidad compartida por las actuaciones que realizan. Eso sí, esto no quiere decir que los diferentes miembros individualmente no tengan responsabilidad. Es más, es bastante habitual que se pidan las comparecencias de los ministros, porque conforme al artículo 98 de la Constitución, los miembros del Gobierno también tienen una responsabilidad directa e individual sobre la gestión política que realiza su departamento.
+
+
+Lo que quiere decir la Constitución con responsabilidad solidaria es que las Cortes no pueden hacer caer a un ministro por sí solo, esto es, no lo pueden deponer, como mucho reprobar, sino que deben hacer caer al Gobierno en su conjunto, por ejemplo, a través de una moción de censura. La segunda clave del control parlamentario que regula el artículo 108 es esencial. Recuérdala bien, sólo puede exigir responsabilidad al Gobierno el Congreso de los Diputados.
+
+
+En otras palabras, la única Cámara que puede ejercer el control-sanción, esto es, el de la moción de censura, es el Congreso. Es una expresión más del bicameralismo imperfecto que dibuja nuestra Constitución, porque el Congreso tiene mayores funciones que el Senado. A partir de aquí vamos a centrarnos en los mecanismos de control ordinario que tiene la Constitución.
+
+
+Estos los encontramos en los artículos 109 a 111 y pueden ser utilizados tanto por los Diputados en el Congreso como por los Senadores en el Senado. Recuerda que estos mecanismos son parte de la actividad ordinaria de las Cámaras parlamentarias. Vamos a verlos.
+
+
+El primer mecanismo lo encontramos en el artículo 109, que nos dice que las Cámaras y sus comisiones pueden recabar a través de sus presidentes la información y ayuda que precisen del Gobierno y de sus departamentos y de cualquier autoridad del Estado y de las comunidades autónomas. Regula, por tanto, la petición de información a las autoridades gubernamentales, sean del Gobierno de la Nación o de los gobiernos autonómicos. Ten en cuenta las siguientes precisiones.
+
+
+La primera, la solicitud de información es un derecho individual del parlamentario que puede solicitar datos, informes y documentos. Este se desarrolla en el artículo 7 del reglamento del Congreso y el artículo 20 del reglamento del Senado. Para ejercer este derecho, el parlamentario, previo conocimiento de su grupo parlamentario, debe dirigir un escrito a la Mesa de su Cámara.
+
+
+A partir de aquí, la Mesa puede admitir o no esta solicitud, por ejemplo, porque no cumple las cuestiones formales exigidas. Si la admite, la Mesa dará traslado de la solicitud a la Administración requerida, que tendrá un plazo de 30 días para facilitar la documentación o negarse por motivos jurídicos. La segunda, esta solicitud de información también la pueden hacer las comisiones parlamentarias.
+
+
+Esto se regula en los artículos 44 del reglamento del Congreso y 67 del reglamento del Senado. Y la tercera, existen normas particulares para las materias clasificadas, como los secretos oficiales, los gastos reservados o la actividad del CNI. Vamos a por el siguiente mecanismo de control.
+
+
+Este lo encontramos en el artículo 110 de la Constitución y se refiere a la posibilidad que tienen las Cámaras y las comisiones de reclamar la presencia de los miembros del Gobierno. Es, por tanto, el derecho a solicitar la comparecencia de las autoridades ante las Cámaras parlamentarias. Ten muy en cuenta que se puede llamar a cualquier miembro del Gobierno, pero también a otras autoridades y funcionarios.
+
+
+Y mucho ojo, el Gobierno está obligado a comparecer ante las Cámaras y sus comisiones. En el caso más grave, que es el de las comisiones de investigación del artículo 76 de la Constitución, no comparecer puede llevar aparejadas consecuencias penales. Aparte de esto, el artículo 110, en su apartado segundo, también reconoce que los miembros del Gobierno tienen acceso a las sesiones de las Cámaras y sus comisiones, de tal forma que pueden hacerse oír en ellas y solicitar que informen ante las mismas los funcionarios de sus departamentos.
+
+
+Vamos, por último, a por el artículo 111 de la Constitución. Aquí se regulan tres herramientas para controlar al Gobierno en el día a día de las Cámaras. Son las interpelaciones, las preguntas y las mociones.
+
+
+Empezaremos por las interpelaciones. Estas son un instrumento que sirve para que los parlamentarios se informen sobre las cuestiones que son responsabilidad del Gobierno. Están pensadas para cuestiones muy amplias de política general.
+
+
+Por esta razón, suelen llevar aparejadas debates parlamentarios en los que pueden participar los miembros de las Cámaras. Te pongo un ejemplo de interpelación de febrero de 2024. El día 1 se presentó una interpelación por la que se exigía al Ministro de Agricultura, Pesca y Alimentación dar información sobre las medidas que el Gobierno iba a impulsar para salvaguardar los intereses del campo español y proteger al sector primario frente a la competencia desleal extranjera.
+
+
+¿Ves que trata sobre un asunto político muy amplio y general? Vamos a centrarnos en las preguntas. Son bastante similares a las interpelaciones, pero se diferencian en que éstas sirven para pedir información sobre cuestiones muy concretas sobre asuntos políticos. Sus protagonistas suelen ser el parlamentario que pregunta y el ministro que debe responder.
+
+
+Recuerda, por último, que las preguntas pueden ser orales o escritas y exigir respuestas orales o escritas. Para que tengas un ejemplo de las preguntas. En febrero de 2024, el Grupo Popular elevó una pregunta por la que le pedía al Gobierno que explicase las actuaciones realizadas en materia de ayudas a ONGs en el marco del Plan de Actuaciones de la Seguridad Vial 2022-2023.
+
+
+Si te fijas, es una pregunta sobre un tema concretísimo de las actuaciones gubernamentales. Tanto las preguntas como las interpelaciones se regulan en el Reglamento del Congreso y el del Senado. Particularmente, en el caso del Reglamento del Congreso, éste le dedica sus artículos 180 a 184 a las interpelaciones, los artículos 185 a 190 a las preguntas y los artículos 191 a 192 a las disposiciones comunes a ambas.
+
+
+En el caso del Reglamento del Senado, éste le dedica a las interpelaciones los artículos 170 a 173 y a las preguntas los artículos 160 a 169. Ten muy en cuenta que, por imperativo constitucional del artículo 111, en todo caso debe existir un tiempo mínimo semanal para resolver estas cuestiones. El tercer mecanismo que contempla el artículo 111 son las mociones.
+
+
+Estas son unos acuerdos no normativos que pueden adoptar cualquiera de las dos Cámaras. Con estos acuerdos, la Cámara expresa una aspiración de que el Gobierno actúe de una determinada forma. Estas suelen ser presentadas después de un debate sobre una interpelación.
+
+
+Imagínatelas como un método que tiene cada Cámara para dejar por escrito su opinión respecto de cómo debería actuar el Gobierno en un asunto. Eso sí, como ya hemos dicho, no tienen carácter normativo, ni por tanto, efectos jurídicos vinculantes para el Gobierno. Por último, y aunque no es contenido constitucional, ten en cuenta que el Reglamento del Congreso regula un último mecanismo, las proposiciones no de ley.
+
+
+Estas sirven para que los grupos parlamentarios formulen propuestas de resolución a la Cámara. Es muy importante no confundirlas con las proposiciones de ley, que se refieren a las leyes que provienen de la iniciativa parlamentaria. El régimen jurídico de este último mecanismo lo encontrarás en los artículos 193-195 del Reglamento del Congreso.
+
+
+Con esto acabamos la clase de hoy. Lo más importante es que te quedes con que el Congreso de los Diputados y el Senado pueden ejercer un control ordinario sobre la actuación del Gobierno. Este se fundamenta en el principio de responsabilidad solidaria del Gobierno del artículo 108 de la Constitución y se lleva a la práctica a través de las herramientas previstas en los artículos 109-111.
+
+
+Estas son la petición de información a las autoridades públicas, la exigencia de comparecencia, las interpelaciones, las preguntas y las mociones. Nos vemos en la siguiente clase, en la que abordaremos el segundo tipo de control que puede ejercer, en este caso, el Congreso de los Diputados, el control-sanción. ¡Ánimo con el estudio!
+

@@ -1,0 +1,68 @@
+# Procesos Especiales
+
+## T28a30 C14 Division judicial de patrimonios III
+
+**Tema:** Procesos Especiales  
+**Clase:** T28a30_C14_Division judicial de patrimonios III  
+**Archivo:** T28a30_C14_Division judicial de patrimonios III.txt  
+**Tipo:** Material de Clase  
+**Categoría:** Oposiciones de Justicia  
+
+---
+
+¡Muy buenas opositores! Hoy seguimos con este proceso especial de la División Judicial de Patrimonio, que tantos quebraderos de cabeza nos trae a veces, de cuidad que ya van quedándome. Vamos a seguir por donde nos interesa, el artículo 786 de la Ley de Enjuiciamiento Civil. Este nos habla de cómo se practican las operaciones divisorias y vamos a intentar simplificarlo.
+
+
+En primer lugar, te pregunto, ¿quién hace esas operaciones? Ya debes saber que es el contador al que le toca la tediosa tarea de hacerlo. Para ello, debes seguir lo dispuesto en la ley aplicable a la sucesión del causante en cuestión, eso sí, respetando la legítima. Voy a refrescarte el concepto de legítima, como se explica en el Código Civil.
+
+
+Es la proporción de bienes de la herencia que se encuentra reservada por la ley a determinados herederos llamados por esto herederos forzosos. Pero no solo esto, sino que este precepto hace hincapié en una cuestión muy curiosa, como es un estándar de cómo debe hacer su función el contador. Atento a lo que dice el legislador, procurará en todo caso evitar la indivisión así como la excesiva división de las fincas.
+
+
+Tenemos por tanto el tope máximo y el tope mínimo de cómo hacerlo si somos contadores. Ni la herencia sin dividir, porque sería un problema, y si la componen fincas no dividiéndolas tanto que pierdan el sentido de su naturaleza. Vale, oído todo, pues seguimos.
+
+
+Nos queda ahora una cuestión que siempre es importante en derecho, el tío. ¿Qué plazo tiene el contador para las operaciones divisor? Pues según el artículo 786.2 de la ley de enjuiciamiento civil, dos meses como máximo. Apúntatelo bien, no son dos meses, son dos meses máximo desde que se inicial.
+
+
+Es decir, si Alba inició las operaciones el 1 de octubre, para el 1 de diciembre como máximo deberá tenerlas lista. Eso sí, Alba debe recordar que sus operaciones divisorias han de constar por escrito y firmadas por ella misma, expresando primero la relación de los bienes que formen el caudal partible. Ejemplo, el apartamento en Marbella.
+
+
+Segundo, el avalúo de los comprendidos en esa relación. Vamos, ¿qué valor tiene el apartamento? Y tercero, la liquidación del caudal, su división y adjudicación a cada uno de los partícipes. Ya sabes, ¿a quién va el apartamento y cómo se va a dividir? Por lo que sigamos con el artículo 787 de la ley de enjuiciamiento civil.
+
+
+Estas operaciones que hizo Alba ya hay que aprobarlas. Para ello, las partes van a tener derecho a oponerse en diez días y a examinar los autos y las operaciones y poder obtener copias de las mismas. Eso sí, quédate con que la oposición habrá de formularse por escrito expresando los puntos de las operaciones divisorias a que se refiere y las razones en que se funda dicha oposición.
+
+
+No puede haber una oposición infundada, siempre debe motivarse. ¿Qué ocurre si las partes no se oponen en esos diez días y quedaron contentos con lo que hizo Alba? Pues el detallado de la Administración de Justicia aprobará su trabajo por decreto mandando protocolarizar las operaciones. Esto de protocolarizar suena muy raro, pero no es más que poner en una escritura o en un documento el protocolo antinotario.
+
+
+¿Y si las partes no quedaron contentas con el trabajo de Alba y se opusieron? Pues estaban en su derecho y claro está. En este caso, el detallado de la Administración de Justicia convoca al contador, en nuestro caso Alba, y a las partes a una comparecencia ante el tribunal que se celebrará en los diez días siguientes. En esta comparecencia, si finalmente quedan conformes, se ejecuta lo acordado y el contador hará en las operaciones divisorias que ya había realizado las reformas convenidas.
+
+
+Ahora puede darse que, por el contrario, no queden conformes. El tribunal va a tener que escuchar a las partes y admitir las pruebas que hayan sido propuestas para aprobar su postura. Evidentemente, como siempre, no admitirá pruebas inútiles, por lo que todo este proceso continuará según, si adivinaste, el juicio verbal.
+
+
+Se suele recurrir a él. De este juicio saldrá una sentencia que, ojo, no tendrá efecto de cosa juzgada. Es importante el telo repito de nuevo, no tendrá efecto de cosa juzgada.
+
+
+Esto no quiere decir otra cosa que los interesados podrán hacer valer sus derechos en el juicio ordinario que corresponda. Una vez terminada la división, el letrado de la Administración de Justicia entrega a los interesados los bienes adjudicados y, obviamente, los títulos de propiedad, como bien dice el artículo 788. No obstante, recuerda que los acreedores a los que no se les hubiese pagado podían quejarse, pues en este caso tienen otro poder, hacer que a los interesados no se les entregue bien alguno hasta que no sean completamente pagadas sus deudas o garantizadas sus satisfacciones.
+
+
+Y ahora, después de tanta discusión y de tanta falta de acuerdo, terminamos con un artículo muy pacífico, el artículo 789 de la ley de juiciamiento civil. En este caso, se establece que en cualquier estado del juicio los interesados pueden llegar a un acuerdo y alejarse de todo esto. ¿Qué conseguirían así? Pues terminar de una forma pacífica y evitando todas las inconveniencias y gatos de un pleito.
+
+
+De darse esta situación, el letrado de la Administración de Justicia no tendría otra salida que sobres el juicio, porque ya no tiene sentido su continuación, y dar a cada heredero lo que le corresponda en virtud del acuerdo que hubieran llegado. Piénsalo, es el mejor final. Cada uno se queda con lo que quiso quedarse.
+
+
+Entonces, esta es la idea que tiene el legislador de abrir la puerta a una solución del conflicto pacífica entre las partes, que puedan llegar a un acuerdo que satisfaga a todo. Pues hasta aquí, la clase de hoy. Hemos visto qué hacer con esas operaciones divisorias, la posibilidad de que los interesados se opongan y la posibilidad de que queden encantados.
+
+
+Hemos visto el importante papel del letrado de la Administración de Justicia, que en un momento dado puede hasta sobreser el proceso, en el eventual caso de que haya un final feliz, ya sabes. Y la terminación por sentencia, que recuerda, no tiene efecto de cosa juzgada. Lo repito de nuevo, no tiene efecto de cosa juzgada.
+
+
+Con esto terminamos la división judicial. Lo siguiente ya sería la intervención del caudal. Ánimo, opositores.
+
+
+Hasta la próxima. Os veo en la siguiente clase.
+

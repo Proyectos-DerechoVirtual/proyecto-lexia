@@ -1,0 +1,128 @@
+# Proceso Civil
+
+## T17a19 C06 Cuestiones de jurisdiccion
+
+**Tema:** Proceso Civil  
+**Clase:** T17a19_C06_Cuestiones de jurisdiccion  
+**Archivo:** T17a19_C06_Cuestiones de jurisdiccion.txt  
+**Tipo:** Material de Clase  
+**Categoría:** Oposiciones de Justicia  
+
+---
+
+Muy buenas, en este vídeo vamos a ver en qué consisten las cuestiones de jurisdicción y competencia. Es necesario que las veamos por separado para entender bien cada una de ellas. Primero vamos a ver las cuestiones de jurisdicción, luego pasaremos a las de competencia en las que veremos conflictos que pueden surgir.
+
+
+También analizaremos el tratamiento procesal de la competencia tanto objetiva, territorial como funcional, la falta de competencia, los recursos en materia de jurisdicción y competencia y por último las cuestiones de competencia. Antes de nada, ¿sabes lo que es la jurisdicción y qué es la competencia? Empecemos por ahí. La jurisdicción es la atribución genérica mientras que la competencia es la específica.
+
+
+La jurisdicción es la facultad de aplicar justicia, es decir, la potestad estatal de juzgar y hacer ejecutarlo juzgado. La competencia es el límite de la aplicabilidad de dicha potestad en razón de las personas, territorio, grado y materia, dando lugar a la competencia objetiva, territorial, funcional y la figura de los aforados. Cuestiones de jurisdicción surgen entre los órganos jurisdiccionales y la administración del Estado, así como entre los órganos de la jurisdicción ordinaria y los de la militar.
+
+
+¿Por qué ocurre esto? Básicamente por imprecisiones en las normas delimitadoras de competencia y funciones. Veamos en primer lugar los conflictos de jurisdicción entre los juzgados o tribunales y la administración. Serán resueltos por un órgano colegiado constituido por el presidente del Tribunal Supremo que lo presidirá y por cinco vocales, de los que dos serán magistrados de sala de los contencios administrativos del Tribunal Supremo, designados por el Pleno del Consejo General del Poder Judicial, y los otros tres serán consejeros permanentes del Estado, actuando como secretarios, el de gobierno del Tribunal Supremo.
+
+
+El presidente tendrá siempre voto de calidad en caso de empate. En segundo lugar los conflictos de jurisdicción entre los juzgados o tribunales de cualquier orden jurisdiccional de la jurisdicción ordinaria y los juzgados militares. Serán resueltos por la sala de conflictos de jurisdicción compuesta por el presidente del Tribunal Supremo que lo presidirá, dos magistrados de la sala del Tribunal Supremo del orden jurisdiccional en conflicto y dos magistrados de la sala de lo militar, todos ellos designados por el Pleno del Consejo General del Poder Judicial.
+
+
+Actuará como secretario de esta sala el de gobierno del Tribunal Supremo. El presidente tendrá siempre voto de calidad en caso de empate. Dos precisiones importantes.
+
+
+Anualmente se renovarán los componentes de los órganos colegiados decisorios previstos en los dos artículos anteriores. El planteamiento, tramitación y decisión de los conflictos de jurisdicción se ajustará a lo dispuesto en la ley orgánica del Poder Judicial. Veamos los conflictos de competencia.
+
+
+Pueden producirse entre juzgados o tribunales de distinto orden jurisdiccional integrados en el Poder Judicial. Se resolverán por una sala especial del Tribunal Supremo presidida por el presidente y compuesta por dos magistrados, uno por cada orden jurisdiccional en conflicto, que serán designados anualmente por la sala de gobierno. Los conflictos de competencia pueden ser tanto positivos como negativos, según considere el juzgado o tribunal que es o no de su competencia.
+
+
+Podrán ser promovidos de oficio o a instantes de parte o del Ministerio Fiscal mientras el proceso no haya concluido por sentencia firme, salvo que el conflicto se refiera a la ejecución del fallo. El orden jurisdiccional penal es siempre preferente. Esto se traduce en que ningún juez o tribunal podrá plantear conflicto de competencia a los órganos de dicho orden jurisdiccional.
+
+
+Se decidirá por medio de auto si procede a declinar el conocimiento del asunto o requerir al órgano jurisdiccional que esté conociendo para que deje de hacerlo. Desde que se dicte el auto declinando la competencia o acordando el requerimiento y desde que se tenga conocimiento de este por el juez o tribunal requerido, se suspenderá el procedimiento en el asunto a que se refiere aquel. Importante, no obstante, la suspensión no alcanzará a las actuaciones preventivas o preparatorias ni a los cantelares, cualesquiera que sean los órdenes jurisdiccionales en eventual conflicto, que tengan carácter urgente o necesario o que de no adoptarse pudieran producir un quebranto irreparable o de difícil reparación.
+
+
+Las resoluciones recaídas en la tramitación de los conflictos de competencia no serán sustentibles de recurso alguno ordinario o extraordinario. Contra la resolución firme en que el órgano del orden jurisdiccional declare su falta de jurisdicción en un proceso cuyos sujetos y pretensiones fuesen los mismos, podrá interponerse en el plazo de 10 días recurso por defecto de jurisdicción. El recurso se interpondrá ante el órgano que dictó la resolución, quien, tras oír a las partes personadas y las hubiere, remitirá las actuaciones a la sala de conflictos.
+
+
+La sala dictará auto dentro de los 10 días siguientes. Veamos ahora el tratamiento procesal de la competencia. En este tema vamos a ver tanto objetiva, territorial como funcional.
+
+
+La falta de competencia objetiva puede ser por razón de la materia o por razón de la cuantía y ambas pueden ser apreciadas de oficio o instancia de parte en virtud de la declinatoria. Falta de competencia objetiva por razón de la materia. Apreciación de oficio.
+
+
+Señala la ley de enjuiciamiento civil que el tribunal debe apreciar de oficio su falta de competencia objetiva y tan pronto como lo admita, antes de resolver, oirá a las partes y al Ministerio Fiscal por un plazo común de 10 días, declarando por auto la falta de competencia e indicando a la clase de tribunal que corresponda al conocimiento del asunto. Contra este auto cabe recurso de apelación. También cabe la apreciación de oficio en segunda instancia o trámite de recurso extraordinario.
+
+
+Cualquier tribunal que conozca del asunto en razón de algún recurso puede decretar la anulidad de lo actuado por falta de competencia objetiva, dejando a salvo el derecho de las partes a ejercer sus acciones ante la clase de tribunal que corresponda. En este caso, el tribunal antes de resolver oirá a las partes y al Ministerio Fiscal por un plazo común de 10 días y dictará auto declarando la falta de competencia y el tribunal al que corresponde el conocimiento del asunto. Apreciación e instancia de parte Declinatoria.
+
+
+Si el tribunal no apreciará de oficio la ausencia de competencia objetiva, el demandado y quien pueda tener un interés legítimo puede plantear la declinatoria. La declinatoria podrá ser interpuesta en el plazo de 10 días desde la notificación de la demanda por entender que el juez debió abstenerse de oficio al ser de aplicación una norma imperativa de competencia o por entender que la competencia territorial corresponde a otro tribunal, indicando el tribunal al que por considerarse territorialmente competente deberán remitirse las actuaciones. Si se propone declinatoria, el plazo para contestar a la demanda y por tanto todo el procedimiento quedará en suspenso hasta que se resuelva.
+
+
+No obstante, si se podrán llevar a cabo medidas de aseguramiento de prueba o medidas cautelares. Los restantes litigantes tendrán cinco días desde la notificación de la declinatoria para impugnar, alegando y aportando lo que consideren conveniente para sostener la jurisdicción o la competencia del tribunal, que decidirá la cuestión dentro del quinto día siguiente. Por falta de competencia.
+
+
+Presentados o no escritos de impugnación de la declinatoria por el actor, el tribunal la decidirá dentro del quinto día siguiente. El tribunal dictará auto cuando entienda que carece de competencia objetiva, resolución contra la que cabe recurso de apelación y sólo recurso de reposición, contra el auto que rechace la falta de competencia objetiva, sin perjuicio de alegar la falta de ese presupuesto procesal en la apelación contra la sentencia definitiva. No es una sentencia firme.
+
+
+También dicta auto el tribunal cuando se ha interpuesto declinatoria relativa a la competencia territorial y ésta no viene determinada por reglas imperativas considerando competente al órgano señalado por el promotor de la declinatoria. En la misma resolución se inhibirá en favor del órgano al que corresponde la competencia y acordará remitir los autos con emplazamiento de las partes para que compadezcan en el plazo de 10 días. Contra los autos que resuelven la declinatoria de competencia territorial estimándola o desestimándola no se dará recurso alguno.
+
+
+Por falta de jurisdicción. Si el tribunal considera que carece de jurisdicción por corresponder el asunto de que se trate a los tribunales de otro estado, lo declarará así mediante auto absteniéndose de conocer y sobresayendo el proceso. Contra este auto cabe recurso de apelación.
+
+
+En cambio si rechaza la falta de competencia internacional sólo cabe recurso de reposición sin perjuicio de alegar la falta de ese presupuesto procesal en la apelación contra la sentencia definitiva. Si el tribunal considera que carece de jurisdicción por corresponder el asunto a tribunales de otro orden jurisdiccional, en el auto en el que se abstenga deberá indicar a las partes ante qué órgano han de interponer su derecho y contra este auto cabe recurso de apelación. En cambio contra el auto o el que se rechace la falta de jurisdicción cabe recurso de reposición sin perjuicio de alegar la falta de ese presupuesto procesal en la apelación contra la sentencia definitiva.
+
+
+Falta de competencia objetiva por razón de la cuantía. Es un control sobre la clase de juicio por razón de la cuantía dándose así las reglas para la concreción de la cuantía. Apreciación de oficio.
+
+
+Si a la vista de las alegaciones de la demanda el letrado de la administración de justicia advirtiere que el juicio elegido por el actor no corresponde al valor señalado o a la materia en la que se refiere a la demanda, acordará por dirigencia de ordenación que se dé al asunto la tramitación que corresponda. Contra esta dirigencia cabe recurso directo de revisión ante el tribunal que no producirá efectos suspensivos. El tribunal no estará vinculado por el tipo de juicio solicitado en la demanda.
+
+
+Si en contra de lo señalado por el actor el letrado de la administración de justicia considera que la demanda es de cuantía inestimable o no determinable ni a un informe relativa y que por tanto no procede seguir los cauces del juicio verbal deberá mediante dirigencia dar de oficio al asunto la tramitación del juicio ordinario siempre que conste la designación del procurador y la firma de abogado. Se podrán corregir de oficio los errores aritméticos del actor en la determinación de la cuantía. Apreciación e instancia de parte.
+
+
+El demandado podrá impugnar la cuantía de la demanda cuando entienda que de haberse determinado de forma correcta el procedimiento a seguir sería otro o resultaría procedente el recurso de casación. Así en el juicio ordinario se impugnará la adecuación del procedimiento por razón de la cuantía en la contestación a la demanda y la cuestión será resuelta la audiencia previa al juicio. En el juicio verbal el demandado impugnará la cuantía o la clase de juicio por razón de la cuantía en la contestación a la demanda y el tribunal resolverá la cuestión en la vista antes de entrar en el fondo del asunto y previo trámite de audiencia del acto.
+
+
+Tratamiento procesal de la competencia funcional. Recuerda que la competencia funcional se basa en la fase en la que se vaya el proceso. Señala cuál es el órgano que tiene que conocer del mismo.
+
+
+La apreciación de oficio. De la competencia para conocer de los recursos y su tratamiento procesal. No serán admitidos a trámite los recursos dirigidos a un tribunal que carezca de competencia funcional para conocer de los mismos.
+
+
+No obstante se ha admitido un recurso al tribunal al que el interesado se haya dirigido entiende que no tiene competencia funcional para conocer del asunto dictará auto absteniéndose de conocer previa audiencia de las partes personadas en un plazo común de 10 días dictando auto. Notificado este auto los litigantes dispondrán un plazo de cinco días para la correcta interposición del recurso que se añadirá al plazo legalmente previsto para dichos trámites. Si sobrepasará el tiempo resultante sin recurrir en forma la resolución quedará firme.
+
+
+Tratamiento procesal de la competencia territorial. Recuerda que la competencia territorial es la que determina entre los órganos de la misma clase con competencia objetiva para conocer del asunto cuál es el adecuado según su ubicación geográfica. La competencia territorial conjuntamente con la competencia objetiva y funcional permiten fijar al tribunal competente contando con que existe un buen número de tribunales del mismo tipo por el que se exige una mayor concreción hasta llegar con exactitud y firmeza a precisar el juzgado llamado a resolver en primera instancia del asunto.
+
+
+Tratamiento procesal de la falta de competencia territorial. La apreciación de oficio de la competencia territorial. Cuando la competencia territorial viene fijada por reglas imperativas, el letrado de la Administración de Justicia examinará la competencia territorial inmediatamente después de presentarse la demanda y privia audiencia del Ministerio Fiscal y de las partes personadas, si entiende que el tribunal carece de competencia territorial para conocer del asunto, dará cuenta al juez para que resuelva lo que proceda mediante auto, remitiendo en su caso las actuaciones al tribunal que considera territorialmente competente.
+
+
+Si fuesen de aplicación fueros selectivos, se estará a lo que manifiesta el demandante tras el requerimiento que se le dirigirán a tales efectos. A instancia de parte. Fuera de los casos en los que la competencia territorial venga fijada por la ley en virtud de reglas imperativas, la falta de competencia territorial solamente podrá ser apreciada cuando el demandado o quienes puedan ser parte legítima en el juicio propusieran en tiempo y forma la declinatoria.
+
+
+Conflicto negativo de competencia territorial. Si la decisión de inhibición de un tribunal por falta de competencia territorial se hubiera adoptado en virtud de declinatoria o con audiencia de todas las partes, el tribunal al que se remitieran las actuaciones estará lo decidido. No podrá declarar de oficio su falta de competencia territorial.
+
+
+Si la decisión de inhibición por falta de competencia territorial no se hubiera adoptado con la audiencia de todas las partes, el tribunal a quien se remitieran las actuaciones podrá declarar de oficio su falta de competencia territorial cuando ésta deba determinarse en virtud de reglas imperativas. La resolución que declare la falta de competencia mandará remitir los antecedentes al Tribunal Inmediato Superior Común que decidirá por medio de auto o sin ulterior recurso el tribunal al que le corresponde conocer del asunto ordenando en su caso la remisión de los autos y el emplazamiento de las partes dentro de los diez días siguientes ante dicho tribunal. Recursos en materia de jurisdicción y competencia.
+
+
+Recursos en materia de competencia internacional, jurisdicción, sumisión, arbitraje o mediación y competencia objetiva. Contra el auto absteniéndose de conocer por falta de competencia internacional por pertenecer el asunto al tribunal de otro orden jurisdiccional por haberse sometido el asunto, arbitraje o mediación o por falta de competencia objetiva cabe recurso de apelación. Contra el auto por el que se rechace la falta de competencia internacional de jurisdicción o de competencia objetiva sólo cabe recurso de reposición sin perjuicio de alegar la falta de estos presupuestos procesales en la apelación contra la sentencia definitiva.
+
+
+Eso también será de aplicación cuando el auto rechace la sumisión del asunto arbitraje o mediación. Recursos en materia de competencia territorial. Contra los autos que resuelvan sobre la competencia territorial no se dará recurso alguno.
+
+
+En los recursos de apelación y extraordinario por infracción procesal sólo se admitirán alegaciones de falta de competencia territorial cuando en el caso de que se trate fueran de aplicación normas imperativas. Por último veamos la cuestión de competencia prevista en los artículos 51 y 52 de la ley orgánica del Poder Judicial. Si bien al principio del tema veíamos las cuestiones de jurisdicción veamos ahora en qué consisten las cuestiones de competencia.
+
+
+Las cuestiones de competencia entre juzgados y tribunales de un mismo orden jurisdiccional se resolverán por el órgano inmediato superior común con las normas establecidas en las leyes procesales. En la resolución en la que se declare la falta de competencia se expresará el órgano que se considere competente. No podrán suscitarse cuestiones de competencia entre jueces y tribunales subordinados entre sí.
+
+
+El juez o tribunal superior fijará en todo caso y sin ulterior recurso su propia competencia o vida en las partes y el ministerio fiscal por plazo común de 10 días. Acordado lo procedente recabarán las actuaciones el juez o tribunal inferior y le remitirán las que se haya hallado reconociendo. Hasta aquí el vídeo relativo al tratamiento de las cuestiones de jurisdicción y competencia.
+
+
+Es una materia bastante compleja como has podido observar pero debes controlar para saber distinguir su falta y en su caso el planteamiento de una cuestión. Nos vemos en el siguiente vídeo.
+

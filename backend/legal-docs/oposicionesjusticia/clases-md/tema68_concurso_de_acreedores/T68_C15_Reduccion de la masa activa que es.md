@@ -1,0 +1,59 @@
+# Concurso de Acreedores
+
+## Reduccion de la masa activa que es
+
+**Tema:** Concurso de Acreedores  
+**Clase:** T68_C15  
+**Archivo:** T68_C15_Reduccion de la masa activa que es.txt  
+**Tipo:** Material de Clase  
+**Categoría:** Oposiciones de Justicia  
+
+---
+
+¡Hola de nuevo, concursalistas! ¿Estáis tranquilos ahora que estáis comprendiendo mejor todo sobre el derecho concursal, a que sí? Pues venga, va, vamos con un vídeo algo más corto y súper sencillo. Hoy vamos a hablar de la reducción de la masa activa, o, dicho de otra manera, sobre el derecho de separación que tienen algunas personas para que sus bienes no se añadan a la masa activa y al inventario de un concurso de acreedores. Así que comenzamos.
+
+
+La reducción de la masa activa se regula en los artículos 239, 240 y 241 de la ley concursal. Pero, ¿qué es eso de derecho de separación? Imaginemos que Andrés, un chico al que no le ha ido bien el negocio y se ha tenido que declarar en concurso, que entre todos sus bienes posee una guitarra muy buena valorada en 10.000 euros que le dejó su amiga Cristina, que es parte de la banda de música que acompaña a la Rosalía en sus giras. La guitarra está en posesión de Andrés, pero él no tiene ningún derecho de uso, ninguna garantía constituida sobre la guitarra ni tiene derecho de retención sobre ese bien.
+
+
+Es decir, su amiga se la ha dejado para que practique y poco más. Y con la declaración en concurso de Andrés, la guitarra ha pasado por error a formar parte de la masa activa. Bien, pues para que se devuelva la guitarra a Cristina, ésta tendrá que solicitar dicha devolución a la administración concursal de Andrés.
+
+
+El artículo 239 de la ley concursal es el que nos dice que tienen que ser los dueños de los bienes erróneamente integrados en el concurso quienes soliciten su salida del inventario de la masa activa. Para poderlo solicitar, por tanto, se tienen que cumplir tres requisitos fundamentales. El solicitante Cristina tiene que identificar cuál es el bien, en este caso la guitarra, que quiere que se separe de la masa activa.
+
+
+Este bien tiene que estar en posesión del concursado, es decir, de Andrés. El solicitante Cristina tiene que probar qué es propietaria del bien. Bueno, Cristina primero de todo solicita a la administración concursal que, amistosamente, le devuelva su guitarra.
+
+
+¿Pero qué sucede si la administración concursal no la cree? ¿Qué pasa si deniega esa separación? Bueno, pues en ese caso, sólo después de haber intentado arreglarlo extrajudicialmente con la administración concursal, Cristina acudirá a los juzgados y a través del famoso incidente concursal solicitará al juez que le reconozca el derecho de separación y no se incluya la guitarra en la masa activa del concurso de Andrés. Aquí es importante saber que la ley no establece ningún otro condicionante o limitación al ejercicio de la acción, tampoco de orden temporal, lo que se traduce en que la acción de separación puede plantearse incluso después de la presentación de los textos definitivos, como el del inventario o la lista definitiva de acreedores. El hecho de que el sujeto legitimado, Cristina, haya dejado pasar el plazo de impugnación del inventario, que es de un mes, no produce en este caso ningún efecto.
+
+
+Ahora bien, una vez que hay sentencia firme que reconoce el derecho de propiedad de Cristina sobre la guitarra, si ella no lo comunica en el plazo de un mes desde que se notifica la sentencia a la administración concursal, aquí sí que van a haber consecuencias negativas. Se producirán los efectos de la falta de comunicación oportuna, que en principio consiste primero en la subordinación del crédito, quiere decir que dentro del orden de cobre de los acreedores Cristina ahora tendrá menos preferencia, irá detrás de otras personas que si hubieran comunicado dentro del plazo de la administración concursal sus créditos. O, segundo, el crédito se puede considerar como concursal no concurrente, o sea, será la última de la fila y lo más seguro es que no cobre nunca.
+
+
+Vamos a rizar aún más el rizo. ¿Qué pasa si Andrés ya no tiene la posesión de la guitarra? Es decir, ¿qué pasa si Andrés ha vendido la guitarra? Imagínate que Andrés, antes de declarar el concurso, como estaba muy mal económicamente, vendió la guitarra que le había dejado su amiga Cristina. ¿Qué hacemos en este caso? ¿Cómo recuperamos la guitarra? Si esto ocurriera, Cristina, aparte de darse cuenta de que Andrés es un muy mal amigo, podría pedir que se le ceda el derecho a recibir la contraprestación que iba a recibir Andrés si todavía el adquiriente no la ha realizado.
+
+
+Vamos a explicar esto. Si un tercer comprador, Carlos, le reservó la guitarra por vinter a Andrés y llegaron al acuerdo de que Carlos pagaría a plazo la guitarra hasta conseguir la propiedad, esto quiere decir que la guitarra aún no ha sido pagada a Andrés. En este caso, lo que podrá solicitar Cristina es el derecho a recibir la contraprestación.
+
+
+En otras palabras, podrá solicitar que lo que le iba a pagar Carlos a Andrés se lo dé a ella. Vale, ¿y si Carlos ya ha pagado a Andrés porque es rico y tenía los 10.000 euros líquidos en su bucha? ¿Qué puede hacer Cristina aquí? Pues en este caso, nuestra amiga tendría que solicitar a la administración concursal de Andrés que se le reconozca el crédito y se añada la masa pasiva como acreedora. Este crédito será reconocido como crédito ordinario y no te preocupes si no sabes lo que es un crédito ordinario, ya que te lo explicamos detenidamente en los próximos vídeos.
+
+
+Ahora vamos a hablar de un caso muy concreto e improbable, pero como lo menciona la ley, vamos a echarle un ojo solo por si acaso. En el artículo 241 de la ley concursal se prevé el derecho de separación de bienes afectos en garantía de un crédito. Y vamos a hacer una pequeña recapitulación histórica.
+
+
+La ley concursal de 2003 permitía que todos los derechos con garantía se ejecutaran, es decir, las hipotecas, las prendas, etcétera. Y esto provocaba que el concursado se quedara con la unidad de 0 euros en la cuenta, por lo que con la reforma de 2020 se prohibió que las garantías sobre bienes se pudieran ejecutar, pero exceptuó de esta imposibilidad las garantías constituidas sobre buques y aeronaves, porque todo el mundo tiene un submarino o un avión Airbus 360 en su casa, y como es algo muy típico pues había que incluirlo. Pues bien, los acreedores que tengan garantías constituidas sobre un buque o una aeronave tendrán el privilegio absoluto de separación, pero tendrán que ejercitar la acción dentro del año siguiente a la declaración del concurso de acreedores.
+
+
+Si se dan cuenta un año y un día después, el avión o el barco ya serán parte de la masa activa del concurso. Por último, la ley dice que si una vez se realizan las garantías, es decir, una vez se resuelven las hipotecas o las prendas que haya constituidas sobre esos bienes y sobra dinero, ese dinero irá directo al concurso de acreedores a formar parte de la masa activa. Y esto es todo sobre la reducción de la masa activa y el derecho de separación.
+
+
+Vamos a hacer un pequeño resumen. A la hora de determinar la masa activa cabe la posibilidad de que ciertas personas cuenten con un derecho de separación porque realmente el concursado ni posee ni es titular de algunos bienes que se han incluido por error en su masa activa. Pues bien, el derecho de separación lo tiene el titular verdadero del bien y es precisamente ese titular el que tendrá que solicitar la separación a la administración concursal y que, en caso de no concederle ese derecho, tendrá que acudir al juzgado e iniciar un incidente concursal.
+
+
+En caso de que el deudor ya no tenga la posesión del bien, porque lo ha vendido, se podrán hacer dos cosas dependiendo de la situación, o bien pedir que el tercero comprador del bien pague al titular del bien si aún no lo hubiera procedido a pagar, recordada del caso de Andrés Cristina y Carlos, o que el valor del bien sea reconocido como crédito del concurso y la persona que tenía derecho a ejercitar la separación se convierta en acreedor del concurso. Por último, hemos visto el tema de los buques y de las aeronaves, que son los únicos bienes sobre los que se pueden constituir garantías reales que pueden separarse del concurso y realizarse en el plazo de un año desde la declaración del concurso. Si de su venta o realización sobra dinero, irá directito a la masa del concurso.
+
+
+Y ya estaría, chicos, súper sencillo y muy breve, ¿a que sí? Pues nada de quejarse. ¡Nos vemos pronto, chicos!
+

@@ -1,0 +1,80 @@
+# Concurso de Acreedores
+
+## Creditos contra la masa
+
+**Tema:** Concurso de Acreedores  
+**Clase:** T68_C16  
+**Archivo:** T68_C16_Creditos contra la masa.txt  
+**Tipo:** Material de Clase  
+**Categoría:** Oposiciones de Justicia  
+
+---
+
+Muy buenas a todos, hoy vamos a ver los créditos que forman parte de la masa pasiva del concurso. La declaración del concurso motiva que el conjunto de créditos de los que responde el patrimonio del deudor se desdoble en dos grupos, que reciben un tratamiento distinto, los créditos contra la masa, que ya hemos estudiado y nos sabemos perfectamente, y los créditos concursales. Estos a su vez, como vamos a ver ahora, se dividen en subgrupos, créditos privilegiados, y aquí el privilegio puede ser especial o general, créditos ordinarios y créditos subordinados.
+
+
+Teniendo en mente este esquema básico, vamos a estudiar hoy cómo consiguen los créditos una u otra clasificación. Pues bien, esta clasificación se encuentra en los artículos 269 y siguientes de la ley concursal, y como acabamos de ver, los créditos generados antes del concurso, que son en sí los créditos concursales, pueden ser ordinarios, privilegiados o subordinados. El problema es que la ley concursal no explica cuáles son los créditos ordinarios ni sus requisitos, sino que se limita a decir que serán ordinarios todos los que no sean privilegiados o subordinados.
+
+
+Entonces, ¿cómo sabemos qué créditos entran en cada grupo? Pues vamos a verlo. En primer lugar, los créditos privilegiados se dividen en créditos con privilegio especial y en créditos con privilegio general. ¿Pero en qué se diferencian? ¿Cuándo se considera que un crédito tiene privilegio especial o general? Créditos con privilegio especial.
+
+
+Pues los créditos con privilegio especial son aquellos en los que el acreedor tiene preferencia en el cobro respecto de un bien concreto. ¿Y qué quiere decir esto? Los créditos con privilegio especial aparecen numerados en el artículo 270 de la ley concursal, y los más habituales son los créditos garantizados con hipoteca, anticresis o prenda, donde los acreedores tendrán derecho preferente sobre los bienes grabados. Lo mismo ocurre en el caso de los créditos derivados de contratos de arrendamiento o compraventa con precio plazado, donde los acreedores tendrán preferencia frente a los bienes arrendados o comprados.
+
+
+Sin embargo, para que sean considerados créditos de privilegio especial, es requisito indispensable que dichas garantías hayan quedado constituidas antes de la declaración de concurso. Es decir, si por ejemplo tu primo Manuel se declara en concurso y tiene una hipoteca constituida sobre un chalet en las Islas Azores, el banco en el que pidió la hipoteca tiene un crédito contra el concurso de Manuel con privilegio especial. Pero este tipo de ejemplos no siempre tienen que ver con bancos.
+
+
+Por ejemplo, si Manuel decidió comprar un coche que tenían en venta a Ignacio y fijaron un pago a plazo de tres años en los que cada mes pagaba 100 euros y acordaron que el impago de tres cuotas daba derecho a Ignacio a resolver el contrato y resulta que ahora Manuel está en concurso, pues Ignacio también tendrá un crédito con privilegio especial sobre las cuotas impagadas antes de la declaración del concurso y sobre las que resten por pagar después. Aquí es importante saber que hay un límite económico de este privilegio especial y ello porque en el tráfico es habitual y lo era mucho más en épocas pasadas la existencia, por ejemplo, de una pluralidad de hipotecas sobre un mismo bien que se encontraba, por tanto, garantizando créditos que excedían en mucho su valor. Lo vais a ver claro con un ejemplo.
+
+
+Hoy por hoy es posible tener cinco hipotecas de 100 euros sobre un bien que vale 120 euros, llegando así al absurdo de tener un pasivo privilegiado a efectos concursales de 500 euros garantizando un bien que vale 120 euros. Lo que se intenta con este límite es respetar la pars conditio creditorum, por ello el artículo 272 de la ley concursal dice que el privilegio especial estará limitado al valor razonable del bien o derecho sobre el que se hubiera constituido la garantía, que suele ser el valor de mercado. Ahora pasamos a los créditos con privilegio general.
+
+
+En fin, en segundo lugar encontramos estos créditos que son aquellos cuyos acreedores tienen preferencia de cobro respecto de todo el patrimonio restante, pero por debajo de quienes tienen un crédito con privilegio especial. Es decir, mientras que los créditos con privilegio especial recaen sobre un único bien, una casa, un coche, etcétera, los créditos con privilegio general recaen sobre el valor de todo el patrimonio restante del concursado. Es lo que ocurre, por ejemplo, con el salario de los trabajadores pendientes de pago.
+
+
+En caso de llegar a concurso, si una empresa de Rosa, Flores Pérez SL debe dinero a sus empleados, estos tendrán derecho de cobro preferente frente al resto de acreedores sobre el patrimonio total de Rosa, pero no sobre los bienes o derechos concretos que cuenten con un privilegio especial. Se regula en el artículo 280 de la ley concursal y dentro de este grupo encontramos los créditos por salarios que no tengan reconocido privilegio especial, las indemnizaciones por extinción de contratos, el dinero que deba al concursado por recargo sobre sanciones impuestas, por el incumplimiento de obligaciones en materia de salud laboral, etcétera. El dinero que deba el concursado a Hacienda, a la Seguridad Social y al resto de entes públicos en concepto de retenciones de intereses y de recargos o de sanciones multas, pero sólo hasta el 50% de su valor.
+
+
+El dinero que se deba a trabajadores autónomos o el dinero en concepto de propiedad intelectual. Por ejemplo, si tu novio ha sacado un poemario y se lo ha vendido en exclusiva a la librería del pueblo y luego esa librería se declara en concurso, tu novio tendrá un crédito con privilegio general sobre el patrimonio de la librería. El límite que pone la ley a este tipo de créditos es que tiene que haberse generado dentro de los seis meses anteriores a la declaración del concurso.
+
+
+Los créditos por responsabilidad civil extracontractual. Sabemos que el tema de los créditos contra la masa ya hablamos del dinero derivado de un accidente, pero la diferencia es que son créditos contra la masa los daños que provocan la muerte o repercusiones personales, y lo que se protege aquí con un crédito con privilegio general son daños materiales, como por ejemplo las indemnizaciones que se derivan de un accidente de coche cuando Raúl, persona en concurso, estaba aparcando el coche y se cargó la puerta de tu casa. La reparación de la puerta de tu casa sería un crédito con privilegio general.
+
+
+Están dentro de estos créditos los que se deriven de cometer un delito contra la hacienda pública, como podría ser no pagar el IRPF. Los créditos en concepto de fresh money. ¿Y qué narices es eso de dinero fresco? Pues que el 50% del dinero que se haya destinado a la financiación interna o a la nueva financiación en el marco de un plan de reestructuración homologado, cuando los créditos afectados por ese plan representen al menos el 51% del pasivo total, tendrán privilegio de cobro.
+
+
+Esta clasificación se completa con el reconocimiento como crédito contra la masa al 50% restante que contempla la ley concursal en el artículo 242.1.17. Esto es así porque estos planes manifiestan un compromiso del acreedor por minimizar las dificultades del deudor, dándole dinero casi gratuitamente, lo que lleva a que el deudor reduzca mucho su insolvencia y permitiéndole seguir adelante con su actividad. Pero a cambio, ya que en esta vida nada es gratis, se reconoce una preferencia de cobro por estos importes, que son el 50% como crédito contra la masa y el 50% restante como crédito con privilegio general. Como excepción, el acreedor no tendrá un crédito con privilegio general o contra la masa en concepto de fresh money cuando tenga la condición de persona especialmente relacionada con el concursal, salvo que los créditos afectados por el plan representen más del 60% del pasivo total.
+
+
+Por último, tenéis que saber que si sois vosotros los que pedís que se declare el concurso de una empresa o de una persona a la que le va mal el negocio, también tendréis parte de vuestro crédito, el 50% de lo que se os deba, con privilegio general. Esto es como un premio que le otorga la ley al chivazo. Ahora vamos a estudiar los créditos ordinarios.
+
+
+Es una categoría residual. La ley solo dice de ellos que son los que no se identifican como privilegiados ni como subordinados. Todo claro, ¿verdad? Por poner un ejemplo, un crédito ordinario sería una factura impagada a un proveedor.
+
+
+Imaginad que Rosa, para su floristería, compraba lirios todas las semanas a su proveedor de confianza, pero las siete últimas facturas no las ha pagado, pues su proveedor tendrá un crédito concursal ordinario. Realmente estos créditos son los que más vamos a ver dentro de un concurso, pero a la vez son los menos identificados por nuestras leyes. Y por último encontramos los créditos subordinados.
+
+
+Son, como veíamos al principio, los créditos que se comuniquen tardíamente. También los serán el 50% restante del dinero que deba el concursado a Hacienda, a la Seguridad Social y al resto de entes públicos en concepto de retenciones, de intereses y recargos o de sanciones o multas. Acordaos de que el otro 50% restante tiene privilegio general de cobro.
+
+
+Son subordinados también los créditos por sanciones administrativas o multas, como por ejemplo una multa que Rosa tiene que pagar por haber aparcado mal el coche o por haber excedido la velocidad máxima permitida. Dentro de este grupo destacan los créditos que son titularidad de personas especialmente relacionadas con el concursado. En este grupo se incluirían, por ejemplo, el marido de Rosa, los hermanos, los hijos y los padres de ambos, así como las personas jurídicas que controlara Rosa o en las que ella fuera administradora, de hecho de derecho.
+
+
+Obviamente no entran aquí los alimentos, porque como vimos algunos vídeos atrás, los créditos en materia de alimentos son considerados créditos contra la masa y van a cobrarse los primeros. Y en el caso de que el concurso no recayera sobre Rosa, sino sobre su empresa Flores Pérez SL, aparte de su familia, se incluiría como personas especialmente relacionadas a los socios, los administradores, los liquidadores y los directores generales. Y esto es todo por hoy chicos.
+
+
+Al final no era tan complicado, ¿verdad? Vamos a hacer un rápido resumen para quedarnos con las ideas principales de esta clase. Primero, los créditos concursales se clasifican en privilegiados especiales o generales dependiendo de si recaen sobre bienes concretos o sobre la totalidad de la masa activa del concurso, en ordinarios y en subordinados. En segundo lugar, el administrador concursal será el encargado de elaborar el informe en el que se establezca la masa activa y pasiva del deudor, de modo que es quien confecciona la lista de los acreedores.
+
+
+Tercero, esta lista habrá créditos que deberá incluir de forma forzosa, como los reconocidos judicialmente o en documento público. Por otra parte, aunque el administrador concursal debe establecer la cuantía de cada una de las deudas, habrá créditos con los que no será posible llevar a cabo esta determinación porque o no hay datos al respecto o no coinciden con los datos otorgados por el acreedor y el deudor. En este punto destacan los créditos contingentes.
+
+
+Estos créditos son de tal importancia que la ley ha reservado un procedimiento de reconocimiento especial. Se incluirán en la masa pasiva, aunque hasta que no se resuelva nada al respecto, no se incluirán en cantidad concreta. Como ya hemos dicho, una vez resueltas en su caso las posibles impugnaciones, el informe del administrador concursal concluirá, concluyendo con él la fase común del concurso de acreedores.
+
+
+Pero tendrás que esperar a la siguiente clase para ver qué ocurre después. Así que un saludo y hasta el siguiente vídeo concursalista.
+

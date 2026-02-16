@@ -1,0 +1,71 @@
+# Procesos Especiales
+
+## T28a30 C16 Division judicial de patrimonios V
+
+**Tema:** Procesos Especiales  
+**Clase:** T28a30_C16_Division judicial de patrimonios V  
+**Archivo:** T28a30_C16_Division judicial de patrimonios V.txt  
+**Tipo:** Material de Clase  
+**Categoría:** Oposiciones de Justicia  
+
+---
+
+¡Muy buenas, opositores! ¡Qué ganas tenía de veros! Espero que hayáis estado muy bien. ¿Sabemos lo que toca hoy? Venga, ¿quién me lo puede decir? Exacto, puedes seguir con este tema de la intervención del caudal espeditario, ya que va a ser muy importante para tu exposición. Entenderlo o no es clave para poder avanzar, ya que se nos puede resistir con facilidad.
+
+
+Es un tema complicado, por eso voy a intentar explicarlo poco a poco para que puedas entenderlo. No te preocupes, yo te ayudo, estoy contigo, confía en mí. Vamos allá.
+
+
+Primero, como siempre, ubícate que seguro que te ayuda. Estamos en el artículo 792 y siguientes de la Ley de Enriquecimiento Civil. La intervención judicial de la herencia, como ya sabes, puede darse mientras a la vez se está tramitando la declaración de herederos o la división judicial de la herencia.
+
+
+Entonces, esas actuaciones que decíamos que manda el Tribunal de Valor en Libros del Fallecido e Inventarial sus bienes, pueden solicitarse y acordarse a instancia de parte. ¿Quién lo pide? Pues imagínate que Sara fallece, pobrecita mía, y vive triste su marido Juan y sus hijos Pepe, que es el chico, y Fernando, que es el mayor. También está Lucía, que es legataria de parte de la red.
+
+
+Pues bien, cualquiera de ellos podría promover estos actos, pero siempre con matiz. Así, el artículo 792 de la Ley de Enriquecimiento Civil establece distintos requisitos. Vamos allá.
+
+
+Si lo va a promover Juan, su marido o cualquiera de los parientes, siempre que acrediten haber promovido la declaración de herederos ante notario o se formule la solicitud de intervención judicial del caudal hereditario, al tiempo de promover la declaración notarial de heredero. Si lo va a promover Lucía, como legataria, podrá hacerlo, con la excepción de que la intervención hubiera sido expresamente prohibida por disposición testamentaria. Es más, no solo esto, sino que si Sara falleciera sin ningún heredero, la propia Administración Pública, a la que le interesa haber promovido un proceso de declaración de heredero a 20 estatos en favor del Estado, puede promoverlo.
+
+
+Ahora, vamos a empezar el rito. Imagínate que Sara tenía deudas con Carlos, su acreedor reconocido en testamento. Pues entonces, Carlos podrá también pedir la intervención del caudal hereditario, por motivos evidentes.
+
+
+Imaginemos que se ha acordado de alguna de estas maneras la intervención. Pues bien, estamos en el artículo 793 de la Ley de Enriquecimiento Civil y el Tribunal, piénsalo, el Tribunal ordena por medio de AUNTO si fuera necesario la adopción de medidas indispensables para la seguridad de los bienes. Una vez visto esto, pasamos a la formación de inventario de bienes de la ley.
+
+
+El letrado de la Administración de Justicia debe señalar día y hora para la formación de inventario, citando a los interesados a éste. Deberán ser citados para la formación de inventario las siguientes personas. Primero, el cónyuge sobreviviente, ya sabes, en nuestro ejemplo, el triste Juan.
+
+
+Segundo, los parientes que pudieran tener derecho a la herencia y fueran conocidos, cuando no conté la existencia de testamento, ni se haya hecho la declaración de herederos a la Intestad. En nuestro ejemplo, los hijos, Pepe y Fernanda. Tercero, los herederos o legatarios de parte aricuta, en nuestro ejemplo, Lucía.
+
+
+Y cuarto, los acreedores a cuya instancia se hubiera decretado la intervención del caudal hereditario, y en su caso, los que estuvieran personados en el procedimiento de división de la herencia, en nuestro ejemplo, el acreedor Carlos. Hasta aquí fácil, ¿verdad? Yo creo que estamos todos ubicados. Pues espera, que no hemos terminado.
+
+
+Y es como siempre, se nos olvida una figura vital, muy importante en este proceso, el Ministerio Fiscal. Que sería Quint, el Ministerio Fiscal. Efectivamente, debe ser citado, siempre.
+
+
+Que pudiera haber parientes desconocidos con derecho a la sucesión legítima, o que alguno de los parientes conocidos con derecho a la herencia, o de los herederos o legatarios de parte aricuta, no pudieran ser citados, personalmente, recuérdalo, por no ser conocida su residencia, o cuando cualquiera de los interesados sea menor o no tenga representación legal. Fíjate que esto ya lo hemos visto. Y si creías que ya no se citaba a nadie más, te equivocas, porque este precepto se añade al abogado del Estado, o en los casos previstos legalmente, a los servicios jurídicos de la comunidad autónoma.
+
+
+Bueno, ¿y esta intervención, cuándo se va a dar? Cuando no conste la existencia de testamento ni de conyugé, o parientes que puedan tener derecho a la sucesión legítima. Ahora, pongámonos que ya estamos todos citados, y bien citados, pues entonces, el letrado de la Administración de Justicia, como bien dice el artículo 794 de la ley procederá a formar inventario. En el caso de que haya reglas especiales para su formación, se atenderán a las mismas.
+
+
+Y ahora, pongamos que la caudalabasada tenía muchos bienes, y no terminamos de hacer en el día y hora fijado el inventario. ¿Qué hacemos? Pues no pasa nada, se continúa en los días siguientes. Hasta aquí, todo muy sencillo, ¿verdad? Pero piensa que, como siempre, no todo el mundo ha de estar de acuerdo, porque en este tipo de cuestiones familiares de patrimonio suele haber muchas complicaciones y discordancia.
+
+
+Por ello, en el apartado cuarto se nos dice que, si se sustanciar controversias sobre la inclusión o exclusión de bienes en el inventario, el letrado de la Administración de Justicia hará constar en las pretensiones de cada una de las partes sobre los referidos bienes y su fundamentación jurídica, y citará a los interesados a una vista, continuando la tramitación con arreglado previsto para el juicio verbal. Esto también te debe de sonar, porque ya ha salido antes. Por lo tanto, ya nos metemos otra vez en juicio.
+
+
+Este juicio, como ya sabes, ha de resolverse por una resolución que conoces, la sentencia. La sentencia que se pronuncie sobre la inclusión o exclusión de bienes en el inventario dejará a salvo los derechos de tercero. Venga, respira, bebe un poco de agua, que te hago un resumen de hasta donde hemos visto en la clase de hoy.
+
+
+Quienes pueden solicitar las medidas según el artículo 792 de la Ley de Enjuiciamiento Civil? Quienes han de ser citados a la formación de inventario? No olvides, el Ministerio Fiscal y el Abogado del Estado, en los casos mencionados, son supuestos muy concretos y muy específicos, pero muy preguntables. No los olvides. Y en caso de disconformidad, en juicio verbal, que ya ha salido en casos anteriores, y su correspondiente sentencia.
+
+
+Venga, que no es para tanto. Con un poquito de estudio de la ley y estos audios, seguro que lo consigues. Nos vemos en la próxima clase.
+
+
+Mucho ánimo, opositores.
+

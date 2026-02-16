@@ -1,0 +1,122 @@
+# Constitución Española
+
+## Titulo I Derechos y Deberes fundamentales I
+
+**Tema:** Constitución Española  
+**Clase:** T01_C6  
+**Archivo:** T01_C6_Titulo I Derechos y Deberes fundamentales I.txt  
+**Tipo:** Material de Clase  
+**Categoría:** Oposiciones de Justicia  
+
+---
+
+Bienvenidos todos y todas. Hoy vamos a abrir las clases relativas al título I de la Constitución Española. En este, se regulan los derechos y deberes fundamentales de las personas, para lo cual se divide en cinco capítulos.
+
+
+En la clase de hoy vamos a centrarnos en hacer una breve referencia al capítulo I, que contiene una serie de disposiciones generales relativas a los españoles y extranjeros que debes conocer. Y, posteriormente, abriremos la sección primera del capítulo II, que contempla los derechos y libertades fundamentales de las personas. Vamos a ponernos a ello.
+
+
+No obstante, antes de empezar, debes tener en cuenta que el título I abre con un artículo, el 10, que se escapa de la estructura en capítulos que tiene el título. Debes conocer el contenido de este artículo, porque contiene cuestiones relativas a los derechos fundamentales importantísimas. Verás, el artículo 10 afirma que los derechos fundamentales, junto con la dignidad de las personas, el libre desarrollo de la personalidad, el respeto a la ley y a los derechos de los demás, son los principios que fundamentan el orden político y la paz social.
+
+
+De aquí deriva que la Constitución otorgue a los derechos fundamentales la máxima protección jurídica que existe en nuestro derecho, porque son esenciales para el orden, la paz y el desarrollo de las personas. Además de esto, el apartado II de este artículo añade otra cuestión que debes tener siempre en consideración. Es la cláusula interpretativa de los derechos fundamentales, en virtud de la cual estos siempre serán interpretados conforme a los tratados internacionales suscritos por España en este ámbito.
+
+
+Seguro que muchos los conoces, pero quédate con los más importantes. La Declaración Universal de Derechos Humanos, el Convenio Europeo de Derechos Humanos y la Carta Europea de Derechos Fundamentales. Dicho esto, vamos a abrir el capítulo primero.
+
+
+Como afirmábamos antes, aquí encontramos una serie de disposiciones generales que afectan a los españoles y a los extranjeros, y que se resumen en apenas cuatro artículos, del 11 al 14. En el primero de estos, el 11, se regulan los aspectos relativos a la nacionalidad española. Por ejemplo, se dice que nadie puede ser privado de su nacionalidad, que las personas pueden tener doble nacionalidad, por ejemplo, española y colombiana, en virtud de los tratados que suscriba España, y que la ley regulará cómo se adquiere, conserva y pierde.
+
+
+El artículo 12, por su parte, habla de cuándo son las personas mayores de edad en España, que será a los 18 años. El artículo 13, para continuar, nos habla de los derechos de los extranjeros. Debes saber que cualquier persona, sea de la nacionalidad que sea, tendrá en España todos los derechos fundamentales que se recogen en el capítulo segundo.
+
+
+Esto es así porque los derechos fundamentales son de las personas. En otras palabras, que da igual qué nacionalidad tengas, si española, china o portuguesa, da igual si estás en España en una situación regular o no, da igual todo. Como ser humano que eres, tienes derechos fundamentales que deben ser protegidos.
+
+
+Pero cuidado, tenemos que hacer los matices. El primero es que es posible que a los extranjeros les limiten algunos derechos fundamentales. Esto puede ocurrir, por ejemplo, cuando una persona que es extraditada es obligada a vivir previamente en un CIE porque se le limita su libertad de circulación.
+
+
+También ocurre en el caso del derecho fundamental del artículo 23, porque los extranjeros de terceros países, o sea, los que no pertenecen a la Unión Europea, sólo tendrán derecho de voto en España cuando su país de origen también se lo reconozca a los españoles en su territorio, en base al principio de reciprocidad. Además, debes saber que el acceso a la función pública también puede estar reservado para nacionales españoles, por su especial conexión con el ejercicio del poder público de España. El segundo matiz es que los extranjeros gozan de ciertos derechos que los españoles no tenemos en España.
+
+
+Esto es así porque están relacionados precisamente con su condición de extranjero, piensa en el derecho de asilo, la protección internacional subsidiaria o la agrupación familiar. Nos toca abrir ahora el capítulo segundo. Como decíamos, este regula los derechos y libertades de las personas, para lo cual se divide en dos secciones.
+
+
+Ojo, antes de abrirlas, debes saber que hay un artículo esencial que se escapa de esta estructura, que es el 14. Este se ubica justo antes de la sección y reconoce el principio a la igualdad ante la ley, sin que se pueda discriminar a nadie por ningún motivo, da igual cual sea la nacionalidad, la raza, el sexo, la religión, la opinión o cualquier otra circunstancia personal. Debes tener en cuenta que, por doctrina del Tribunal Constitucional, la igualdad ante la ley y la no discriminación, pese a no estar recogido como derecho fundamental en la estructura de la Constitución, sí gozará de la misma protección que los derechos fundamentales, porque es recurrible en amparo.
+
+
+Visto esto, vamos a abrir la sección primera del capítulo segundo. En esta, que va de los artículos 15 a 29 de la Constitución, se contemplan los derechos fundamentales de las personas. Estos derechos, como afirmaría Cruz Villalón, son derechos inherentes a la personalidad humana y, por tanto, reciben de nuestra Carta Magna la mayor protección posible.
+
+
+Hoy vamos a centrarnos en algunos de estos derechos fundamentales, que continuaremos en las clases siguientes, pero primero hay una serie de precisiones que debes tener en cuenta. La primera precisión es que, como bien sabrás, los derechos fundamentales no sólo se regulan en la Constitución, sino que, conforme al artículo 81 de la Carta Magna, se desarrollarán en sus leyes orgánicas particulares. Cuando quieras profundizar en un derecho, siempre ten a mano su ley orgánica de desarrollo.
+
+
+La segunda es que los derechos fundamentales reciben el mayor grado de protección que nuestra Constitución concibe y que encontrará recogido en los artículos 53 y 81 de la Constitución. Y, ojo, por jurisprudencia del Tribunal Constitucional, el artículo 14, que ya hemos mencionado, y la objeción de conciencia del artículo 30.2 también serán recurribles en amparo, pese a no ubicarse en la sección primera. En tercer y último lugar, debes saber que los derechos fundamentales no son absolutos.
+
+
+Esto se debe a que todos ellos pueden encontrar límites. El primero y más importante es, precisamente, el respeto a otros derechos fundamentales. Lo habrás escuchado mil veces, mi libertad termina donde empieza la de los demás.
+
+
+Imagínate, por ejemplo, que un periódico publica toda la información que encuentra de ti en las redes sociales. En este caso, la libertad de expresión primaría sobre tu derecho fundamental a la intimidad. Si te fijas, la cuestión no es evidente, podría haber muchos matices.
+
+
+Por eso, los derechos fundamentales siempre deben ponderarse. El segundo límite es el orden público. Imagínate a quien ha sido condenado a prisión, que pierde su derecho fundamental a la libre circulación o incluso al voto.
+
+
+Vistas estas precisiones, vamos a abordar en los próximos minutos los derechos fundamentales que están recogidos en los artículos 15 a 17 de la Constitución. Vamos a empezar por el artículo 15. Aquí se regula el primer derecho fundamental y, si quieres, el más básico y elemental de todos ellos, es el derecho fundamental a la vida.
+
+
+Pero, ¿qué queremos decir cuando decimos que las personas tienen derecho a la vida y a la integridad física y moral? Pues verás, quiere decir que todos tenemos derecho a que no nos hagan daño, sea porque nos sesionen o, en el peor de los casos, porque nos quiten la vida. Por eso, la Ley Orgánica 10.995 por la que se aprueba el Código Penal recoge delitos como los de lesiones, homicidio o asesinato, pero también delitos contra la integridad moral, que encontrarás en su título séptimo. Este derecho también implica, por ejemplo, que nadie puede ser sometido a torturas, a tratos inhumanos o degradantes.
+
+
+Imagínate a un terrorista que está siendo interrogado. Esta persona tendría derecho a que no le peguen una paliza, a que no le sometan a técnicas interrogatorios crueles o degradantes. El colofón de este derecho fundamental, como probablemente ya te imaginas, es que en España no se puede condenar a ninguna persona a la pena de muerte, da igual el delito que haya cometido.
+
+
+Eso sí, recuerda que la Constitución precisa que en tiempos de guerra se podría establecer otra cosa. Vamos a por el segundo derecho fundamental. Este se regula en el artículo 16 de la Constitución y es la libertad ideológica y religiosa.
+
+
+Apúntate su norma de desarrollo. Es la Ley Orgánica 7.980 de libertad religiosa. Imagínate a una persona, Juan.
+
+
+Él, al igual que todos los demás, tiene derecho a profesar la religión que quiera y a tener la ideología que desee. Vamos, que nadie podrá obligar a Juan a cambiarse de ideología o de religión. Ni le podrán echar de ningún lado discriminándole por estas razones.
+
+
+Ni tampoco podrán obligar a Juan a declarar cuál es su ideología, religión o creencias. Imagínate que le solicitan estos datos para entrar a la universidad o para obtener un empleo. Esto sería vulnerar su derecho Para continuar, en este artículo también se dice que nuestro Estado será aconfesional.
+
+
+Vamos, que en respeto de todas las confesiones religiosas, ninguna tendrá carácter estatal pero se cooperará con todas las instituciones para que tengan arraigo en España. Por eso tenemos en España tanto iglesias como mezquitas y sinagogas y se permiten partidos políticos de cualquier ideología. Recuerda, por último, que este derecho tiene un límite expreso.
+
+
+Siempre habrá de respetarse el orden público protegido por la ley. Vamos, que nada de usar la libertad ideológica o religiosa para armar líos, hacer apología del terrorismo o del odio hacia otras personas. El tercer derecho fundamental, regulado en el artículo 17, es el derecho a la libertad personal y a la seguridad.
+
+
+Este derecho es bastante particular porque tiene dos dimensiones. La primera es la de la libertad, esto es, una dimensión negativa que supone que los poderes públicos no pueden inmiscuirse en las decisiones que los individuos toman libremente. Por eso se suele decir que para las personas todo lo que no está prohibido está permitido.
+
+
+La segunda dimensión es la de la seguridad, que es positiva y quiere decir que los poderes públicos deben proteger a las personas de cualquier daño sobre sus derechos, garantizando incluso su libertad. Este derecho fundamental se desarrolla, sobre todo, en la Ley Orgánica 4-2015 de Protección de la Seguridad Ciudadana, bastante polémica y que seguro que conoces por su nombre de pila, la Ley Mordaza. Más allá de esta descripción general, este derecho tiene ciertas manifestaciones que verás contenidas en el artículo 17.
+
+
+Vamos a exponerlas con un ejemplo práctico. Estás un día lleno a comprar al supermercado y te encuentras a un individuo que está robando a mano armada a una señora. Tú te metes en medio y evitas el desastre.
+
+
+Quieres llamar a la policía para que se lo lleven, pero te preocupa que se escape. ¿Podrías atarle de pies y manos y meterla en tu coche? Pues que sepas que no. Este individuo tiene derecho a la libertad.
+
+
+Como mucho, podrías retenerle allí mismo hasta que llegue la policía. Lo otro sería casi casi un secuestro. Ponte que le retienes y llegue a la policía.
+
+
+Como ésta es encargada de garantizar la seguridad ciudadana, es la única que tiene la potestad para privar de libertad a una persona junto con los jueces. Pero ojo, siempre respetando las garantías del derecho fundamental a la libertad. La primera es que, según le pillen, le van a tener que informar inmediatamente de sus derechos y las razones de su detención de una forma comprensible.
+
+
+Ojo, que en respeto a este derecho fundamental no podrán obligar a declarar al ladrón y éste tendrá derecho a que le asista un abogado en las dirigencias policiales y judiciales que se practique. Imaginemos que el ladrón, que se llama Fernando, ha pasado la noche en prisión y a la mañana siguiente, cuando ve a su abogado, le pregunta cuándo va a salir. Su abogado le dirá que su derecho a la libertad personal también supone que sólo pueda estar en detención preventiva el tiempo estrictamente necesario para realizar las averiguaciones tendentes al esclarecimiento de los hechos y que, como mucho, le tendrán que soltar o poner a disposición judicial en un plazo de 72 horas.
+
+
+Imagínate que a Fernando no le han leído sus derechos o que le han tenido en prisión preventiva cinco días. La policía habría detenido a Fernando de forma ilegal, de tal forma que podría iniciar, para proteger su derecho a la libertad personal, el procedimiento de habeas corpus para que el juez depusiera inmediatamente en libertad. Con esto, ponemos punto y final a la primera tanda de derechos fundamentales que contempla la Constitución.
+
+
+Hemos visto el derecho a la vida, a la libertad religiosa e ideológica y a la libertad personal y a la seguridad. Recuerda que los derechos fundamentales son de todas las personas, que reciben la mayor protección de nuestra Constitución, pero que también tienen límites, como los derechos de otros o el orden público. En la clase que viene continuaremos viendo los derechos fundamentales que nos quedan.
+
+
+Allí nos vemos.
+

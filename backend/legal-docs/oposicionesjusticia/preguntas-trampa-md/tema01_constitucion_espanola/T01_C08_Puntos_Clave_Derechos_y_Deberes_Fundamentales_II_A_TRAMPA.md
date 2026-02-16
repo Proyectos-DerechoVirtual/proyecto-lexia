@@ -1,0 +1,171 @@
+# Puntos Clave: Derechos y Deberes Fundamentales (II) (Arts. 25 a 35 CE)
+
+**📚 Tema:** Constitución Española  
+**🎓 Clase:**  Titulo I  Derechos y deberes fundamentales III  
+**🎯 Tipo:** Pregunta trampa / Punto clave  
+**📋 Archivo:** T01_C08_Titulo I_ Derechos y deberes fundamentales III_TRAMPA.txt
+
+---
+
+Puntos Clave: Derechos y Deberes Fundamentales (II) (Arts. 25 a 35 CE)
+
+1. Artículo 25 CE – Irretroactividad penal y derechos de los condenados
+RECUERDA
+- Nadie puede ser sancionado por hechos que no fueran delito, falta o infracción cuando ocurrieron.
+- La norma debe ser clara y cierta; no se aplican disposiciones penales por analogía contra el reo.
+- Principio de legalidad también en Derecho administrativo sancionador.
+
+TEN CUIDADO
+- Los condenados mantienen derechos fundamentales salvo suspensión expresa.
+- No pueden ser privados del trabajo remunerado, seguridad social o desarrollo cultural.
+
+MNEMOTÉCNICA
+RDP: Retrospectiva no, Derechos siguen, Privación parcial
+📌 "RDP: lo pasado no condena, lo esencial no se pierde".
+
+---------------------------------------------------
+
+2. Artículo 26 CE – Prohibición de tribunales de honor
+RECUERDA
+- Se prohíben tribunales de honor en administración civil por ser contrarios al Estado democrático.
+- Refuerza monopolio jurisdiccional estatal e igualdad procesal.
+
+TEN CUIDADO
+- No es un derecho fundamental, se protege por razones históricas/jurídicas.
+
+MNEMOTÉCNICA
+NOH: No, Onore, Honor ficticio
+📌 "NOH: ni honor ni tribunal, solo dignidad legal".
+
+---------------------------------------------------
+
+3. Artículo 27 CE – Derecho a la educación
+RECUERDA
+- Derecho fundamental a educación básica, obligatoria y gratuita.
+- Incluye libertad de enseñanza, creación de centros y participación educativa.
+- Obliga a garantizar acceso a niveles superiores según mérito y capacidad.
+- Finalidad: desarrollo personal y respeto a DDHH en convivencia democrática.
+
+TEN CUIDADO
+- Solo parte es derecho fundamental. El resto son principios de organización.
+
+MNEMOTÉCNICA
+EBA: Educación, Básica, Asegurada
+📌 "EBA: lo básico es obligatorio y gratuito".
+
+---------------------------------------------------
+
+4. Artículo 28 CE – Sindicación y huelga
+RECUERDA
+- Derecho a sindicarse libremente y a la huelga colectiva.
+- Reconoce derecho a fundar sindicatos, afiliarse o salir sin represalia, negociar convenios.
+- Solo pueden suspenderse o disolverse por resolución judicial motivada.
+
+TEN CUIDADO
+- La huelga no se regula por LO, sino por Real Decreto-ley preconstitucional.
+
+MNEMOTÉCNICA
+SHO: Sindicado sí, Huelga sin LO
+📌 "SHO: sí al sindicato, huelga sin orgánica".
+
+---------------------------------------------------
+
+5. Artículo 29 CE – Derecho de petición
+RECUERDA
+- Derecho fundamental a dirigir peticiones por escrito a los poderes públicos.
+- Puede ser individual o colectiva, basta escrito identificado, hechos y solicitud concreta.
+- No requiere abogado ni tasas. Regulada por Ley 4/2001.
+
+TEN CUIDADO
+- Solo procede si no hay otro procedimiento legal específico.
+
+MNEMOTÉCNICA
+PEGO: Petición, Escrita, General, Otro medio no
+📌 "PEGO: pides si no hay otra vía".
+
+---------------------------------------------------
+
+6. Artículo 30 CE – Defensa de España y objeción de conciencia
+RECUERDA
+- Derecho y deber de defender a España.
+- Objeción de conciencia amparada por art. 16 CE.
+- La "mili" se suprimió en 2001, pero el derecho sigue vigente.
+
+TEN CUIDADO
+- Aunque no haya mili, el derecho se puede ejercer jurídicamente.
+
+MNEMOTÉCNICA
+DOCE: Defensa, Objeto, Con amparo, Es real
+📌 "DOCE: defender es deber, objetar es derecho".
+
+---------------------------------------------------
+
+7. Artículo 31 CE – Deber tributario y límites constitucionales
+RECUERDA
+- Todos deben contribuir al gasto público con impuestos según igualdad, progresividad y no confiscatoriedad.
+- Principios limitan poder fiscal del legislador.
+
+TEN CUIDADO
+- El término "Todos" implica cargas a quienes estén en territorio español.
+
+MNEMOTÉCNICA
+IPN: Igualdad, Progresividad, No confiscatorio
+📌 "IPN: paga justo, no abusivo".
+
+---------------------------------------------------
+
+8. Artículo 33 CE – Derecho a la propiedad y herencia
+RECUERDA
+- Reconoce derecho a propiedad y herencia, garantizando posesión, disfrute y transmisión de bienes.
+- Derecho protegido por ordenamiento jurídico, parte básica del sistema económico y jurídico.
+
+TEN CUIDADO
+- No es absoluto: puede limitarse por utilidad pública/interés social, con indemnización (justiprecio).
+
+MNEMOTÉCNICA
+PHI: Propiedad, Herencia, Indemnización
+📌 "PHI: si te expropian, te pagan".
+
+---------------------------------------------------
+
+9. Artículo 35 CE – Derecho y deber al trabajo
+RECUERDA
+- Reconoce derecho y deber al trabajo, libre elección de profesión u oficio.
+- Obliga a legislador a aprobar Estatuto de los Trabajadores.
+- Regula derechos y deberes esenciales: contratación, jornada, descansos, representación, garantías sindicales, causas de extinción.
+
+TEN CUIDADO
+- No impone obligación de trabajar, es un principio programático que fundamenta derecho laboral.
+
+MNEMOTÉCNICA
+LTD: Libertad, Trabajo, Deber orientativo
+📌 "LTD: trabajar es derecho, no imposición".
+
+---
+
+## 📊 **Información del chunk:**
+
+- **Chunk 1** de 1
+- ❌ Sin recordatorios
+- ❌ Sin advertencias  
+- ❌ Sin mnemotécnica
+
+## 🔍 **Metadata:**
+
+```json
+{
+  "topicName": "tema01_constitucion_espanola",
+  "topicTitle": "Constitución Española",
+  "topicNumber": 1,
+  "classTitle": " Titulo I  Derechos y deberes fundamentales III",
+  "classNumber": "T01_C08",
+  "questionTitle": "Puntos Clave: Derechos y Deberes Fundamentales (II) (Arts. 25 a 35 CE)",
+  "questionNumber": null,
+  "chunkType": "question",
+  "chunkIndex": 0,
+  "hasReminder": false,
+  "hasWarning": false,
+  "hasMnemonic": false,
+  "embeddingModel": "text-embedding-3-large"
+}
+```

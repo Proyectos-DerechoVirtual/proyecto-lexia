@@ -1,0 +1,422 @@
+Pregunta: En cuanto a los expedientes de jurisdicción voluntaria concernientes a los derechos reales, seleccione la afirmación incorrecta:
+1)En los expedientes de deslinde de propiedades, no es obligatoria la participación de un Procurador , pero sí la de un Abogado.
+2)En los expedientes de deslinde de propiedades, es obligatoria la participación de un Abogado o Procurador.
+3)En los expedientes de deslinde de propiedades, no es obligatoria la participación de un Abogado, pero sí la de un Procurador.
+4)En los expedientes de deslinde de propiedades, no es preceptiva la participación de un Abogado o Procurador en ningún momento.
+Respuesta: 4
+Correcta: ¡Exacto! En los expedientes de deslinde de propiedades no es obligatorio contar con la participación constante de un Abogado o Procurador.
+Errada: La respuesta seleccionada no es correcta. La afirmación correcta es que en los expedientes de deslinde de propiedades, no siempre es mandatoria la presencia de un Abogado o Procurador. (Respuesta Correcta 4)
+###
+Pregunta: ¿En qué expediente la competencia no corresponde a la Sección de lo Mercantil del Tribunal de Instancia del domicilio social de la entidad?
+1)En el expediente de nombramiento de perito en los contratos de seguro.
+2)En el procedimiento de aumento de capital social.
+3)En el procedimiento judicial de disolución.
+4)En el procedimiento de impugnación de acuerdos sociales.
+Respuesta: 1
+Correcta: ¡Correcto! En el procedimiento para el nombramiento de peritos en contratos de seguros, la competencia no corresponde a la Sección de lo Mercantil, sino a la Sección Civil del Tribunal de Instancia.
+Errada: La opción elegida no es correcta. La competencia en el procedimiento para el nombramiento de peritos en contratos de seguros no se asigna a la Sección de lo Mercantil del Tribunal de Instancia. (Respuesta Correcta 1)
+###
+Pregunta: Seleccione la afirmación incorrecta respecto al procedimiento de jurisdicción voluntaria de consignación judicial:
+1)Quien inicie la consignación judicial debe demostrar que ha realizado la oferta de pago, cuando sea necesario.
+2)En caso de que el acreedor acepte, los gastos derivados de la consignación correrán a su cargo.
+3)La participación de Abogado y Procurador es obligatoria.
+4)La Sección Civil del Tribunal de Instancia del lugar donde deba cumplirse la obligación será competente.
+Respuesta: 3
+Correcta: ¡Bien hecho! No es obligatorio contar con la intervención de Abogado y Procurador en el procedimiento de consignación judicial.
+Errada: La opción seleccionada no es acertada. La afirmación incorrecta es que la intervención de Abogado y Procurador es obligatoria en el procedimiento de consignación judicial. (Respuesta Correcta 3)
+###
+Pregunta: Respecto a los expedientes de jurisdicción voluntaria para la protección del patrimonio de las personas con discapacidad, ¿qué órgano ostenta la competencia territorial?
+1)La Sección Civil del Tribunal de Instancia del lugar de residencia de la persona con discapacidad.
+2)La Sección de Familia, Infancia y Capacidad del Tribunal de Instancia del domicilio del Ministerio Fiscal.
+3)La Sección Civil del Tribunal de Instancia del lugar donde radiquen la mayor parte de los bienes.
+4)La Sección de Familia, Infancia y Capacidad del Tribunal de Instancia del domicilio del solicitante.
+Respuesta: 4
+Correcta: ¡Exacto! La competencia corresponde a la Sección de familia, infancia y capacidad del Tribunal de Instancia del domicilio o, en su defecto, de la residencia de la persona con discapacidad.
+Errada: Tu respuesta no es correcta. La competencia territorial para conocer de estos expedientes la ostenta la Sección de familia, infancia y capacidad del Tribunal de Instancia del domicilio o, en su defecto, de la residencia de la persona con discapacidad. (Respuesta Correcta 4)
+###
+Pregunta: Cuando los cónyuges soliciten intervención o autorización judicial para actuar, ya sea individual o conjuntamente, los procedimientos establecidos en las normas comunes de la Ley de Jurisdicción Voluntaria se aplicarán en los siguientes casos:
+1)Realizar un acto de administración relacionado con bienes comunes que requiera el consentimiento de ambos cónyuges, o realizar un acto de disposición a título oneroso sobre los mismos, en casos en que el otro cónyuge esté imposibilitado para dar consentimiento o se niegue sin justificación.
+2)Establecer el domicilio conyugal o decidir sobre la vivienda habitual y objetos de uso ordinario, en caso de desacuerdo entre los cónyuges.
+3)Realizar actos de disposición sobre bienes inmuebles, establecimientos comerciales, objetos valiosos o valores mobiliarios (a excepción del derecho de suscripción preferente), cuando un cónyuge tenga el control legal o judicial sobre los bienes comunes.
+4)Todas las afirmaciones son correctas.
+Respuesta: 4
+Correcta: ¡Correcto! Todos los escenarios mencionados son aplicables bajo las normas comunes de la Ley de Jurisdicción Voluntaria cuando los cónyuges solicitan intervención o autorización judicial.
+Errada: La opción seleccionada no es correcta. Todos los escenarios mencionados están bajo el alcance de las normas comunes de la Ley de Jurisdicción Voluntaria cuando los cónyuges solicitan intervención o autorización judicial. (Respuesta Correcta 4)
+###
+Pregunta: En el expediente de jurisdicción voluntaria relativo a declaraciones judiciales sobre hechos pasados, ¿qué sucederá, en el plazo de cinco días, tras la celebración de la comparecencia?
+1)El LAJ dictará decreto por el que se acceda o se deniegue la emisión de la declaración judicial interesada.
+2)El Juez dictará providencia por la que se acceda o se deniegue la emisión de la declaración judicial interesada.
+3)El Juez dictará auto por el que se acceda o se deniegue la emisión de la declaración judicial interesada.
+4)El Juez dictará sentencia por la que se acceda o se deniegue la emisión de la declaración judicial interesada.
+Respuesta: 3
+Correcta: ¡Correcto! Tras la comparecencia, el juez emitirá un auto en un plazo de cinco días concediendo o denegando la solicitud de declaración judicial acerca de eventos pasados.
+Errada: La opción seleccionada es incorrecta. Después de la comparecencia, el procedimiento adecuado es que el juez emita un auto, no una sentencia, providencia, o decreto del LAJ, concediendo o denegando la declaración judicial solicitada. (Respuesta Correcta 3)
+###
+Pregunta: Señale la respuesta incorrecta sobre la solicitud de iniciación del expediente de subastas voluntarias:
+1)En la solicitud debe constar el estado del bien o derecho.
+2)En la solicitud debe constar la identificación del bien o derecho.
+3)En la solicitud debe constar el titular del bien o derecho.
+4)La solicitud debe ir acompañada de una serie de documentos, entre ellos, el que acredite el poder de disposición sobre el objeto o derecho de la subasta.
+Respuesta: 3
+Correcta: ¡Bien hecho! La solicitud inicial para un expediente de subastas voluntarias no necesita necesariamente indicar el titular del bien o derecho.
+Errada: La respuesta seleccionada no es correcta. No es necesario que la solicitud inicial de un expediente de subastas voluntarias señale el titular del bien o derecho. (Respuesta Correcta 3)
+###
+Pregunta: En el expediente de subastas voluntarias, ¿cuándo aprobará el Letrado de la Administración de Justicia el remate en favor del único o mejor postor?
+1)Cuando cubra el tipo mínimo que hubiera fijado el titular del Juzgado.
+2)Cuando cubra el tipo mínimo que hubiera fijado el solicitante.
+3)Cuando cubra, al menos, el importe de la deuda.
+4)Cuando cubra, al menos, el importe de la deuda principal, las costas y los intereses.
+Respuesta: 2
+Correcta: ¡Exacto! El remate se aprobará a favor del único o mejor postor cuando su oferta alcance el tipo mínimo que haya fijado el solicitante.
+Errada: La respuesta elegida no es correcta. El Letrado de la Administración de Justicia aprobará el remate cuando la oferta alcance el tipo mínimo establecido por el solicitante, no necesariamente cubriendo la deuda total o el monto establecido por el titular del Juzgado. (Respuesta Correcta 2)
+###
+Pregunta: ¿Qué se acompañará a la solicitud de expediente de jurisdicción voluntaria de autorización judicial al usufructuario para reclamar créditos vencidos que formen parte del usufructo?
+1)Los documentos que acrediten el derecho del usufructuario.
+2)Los medios de prueba que acrediten el derecho del usufructuario.
+3)La existencia del crédito vencido que se pretenda reclamar.
+4)Todas las anteriores respuestas son correctas.
+Respuesta: 4
+Correcta: ¡Correcto! La solicitud debe ir acompañada de todos los documentos necesarios que validen el derecho del usufructuario y evidencien la existencia del crédito vencido que se desea reclamar.
+Errada: La opción seleccionada es incorrecta. La solicitud debe incluir documentos que validen el derecho del usufructuario, así como evidencia del crédito vencido que se intenta reclamar. (Respuesta Correcta 4)
+###
+Pregunta: Nombrado perito en el expediente de nombramiento de perito en los contratos de seguro, ¿en qué plazo debe aquél emitir el dictamen?
+1)En el plazo de 40 días.
+2)En el plazo de 25 días.
+3)En el plazo de 30 días.
+4)En el plazo de 20 días.
+Respuesta: 3
+Correcta: ¡Bien hecho! El perito tiene 30 días para presentar su informe una vez que ha sido designado en el expediente de nombramiento de perito en los contratos de seguro.
+Errada: La respuesta seleccionada no es correcta. El perito cuenta con un plazo de 30 días para presentar su dictamen tras ser nombrado en el expediente relacionado con los contratos de seguro. (Respuesta Correcta 3)
+###
+Pregunta: En la práctica de las actuaciones de la concesión judicial de la emancipación y del beneficio de la mayoría de edad:
+1)No será preceptiva la intervención de Abogado ni Procurador, salvo que se formule oposición, en cuyo caso sí será preceptiva la asistencia de letrado a partir de ese momento.
+2)Será necesaria la intervención de Abogado y Procurador.
+3)Será necesaria la intervención de Abogado, salvo que se formule oposición, en cuyo caso será necesaria también la asistencia del Procurador a partir de ese momento.
+4)Será necesaria la intervención de Procurador, salvo que se formule oposición, en cuyo caso será necesaria también la asistencia de letrado a partir de ese momento.
+Respuesta: 1
+Correcta: ¡Correcto! No es obligatorio contar con Abogado ni Procurador, salvo en casos de oposición, donde la asistencia de letrado se vuelve necesaria.
+Errada: La opción elegida es incorrecta. La intervención de Abogado y Procurador no es preceptiva, a menos que se presente oposición, momento desde el cual será necesaria la asistencia de un letrado. (Respuesta Correcta 1)
+###
+Pregunta: En el expediente de jurisdicción voluntaria de dispensa del impedimento matrimonial, señale la respuesta incorrecta:
+1)Para la dispensa del impedimento de muerte dolosa del cónyuge anterior deberá citarse, además, al Ministerio Fiscal.
+2)Es preceptiva la intervención de abogado y procurador.
+3)Se iniciará mediante solicitud dirigida al Juzgado que expresará los motivos de índole particular, familiar o social.
+4)Si se tratara del impedimento de parentesco, en la solicitud se expresará, con claridad el árbol genealógico de los contrayentes.
+Respuesta: 2
+Correcta: ¡Correcto! No es obligatoria la intervención de abogado y procurador en el expediente de jurisdicción voluntaria para dispensa del impedimento matrimonial.
+Errada: La respuesta seleccionada no es correcta. No es obligatorio contar con abogado y procurador en este procedimiento de jurisdicción voluntaria. (Respuesta Correcta 2)
+###
+Pregunta: En el expediente de convocatoria de la asamblea general de obligacionistas, ¿en qué plazo convocará el Letrado de la Administración de Justicia la asamblea?
+1)En el plazo de 30 días desde que hubiera sido formulada la solicitud.
+2)En el plazo de 1 mes desde que hubiera sido formulada la solicitud.
+3)En el plazo de 2 meses desde que hubiera sido formulada la solicitud.
+4)En el plazo de 20 días desde que hubiera sido formulada la solicitud.
+Respuesta: 2
+Correcta: ¡Correcto! El Letrado de la Administración de Justicia tiene un plazo de 1 mes para convocar la asamblea general de obligacionistas desde que recibe la solicitud.
+Errada: La opción elegida no es correcta. El plazo para convocar la asamblea general de obligacionistas por parte del Letrado de la Administración de Justicia es de 1 mes desde que se recibe la solicitud. (Respuesta Correcta 2)
+###
+Pregunta: Según la Ley de de Jurisdicción Voluntaria, contra lo convenido en acto de conciliación civil podrá:
+1)Interponerse recurso de reposición en el plazo de cinco días
+2)Interponerse recurso de revisión en el plazo de cinco días
+3)Interponerse recurso de apelación en el plazo de veinte días
+4)Ejercitarse la acción de nulidad por las causas que invalidan los contratos
+Respuesta: 4
+Correcta: ¡Correcto! Puedes ejercer una acción de nulidad basada en las causas que invalidan los contratos según lo establecido en la Ley de Jurisdicción Voluntaria.
+Errada: La opción seleccionada no es correcta. La acción que puede tomarse es la de nulidad, basada en las causas que invalidan los contratos. (Respuesta Correcta 4)
+###
+Pregunta: El Juez de familia, infancia y capacidad del domicilio del menor será competente para conocer de la solicitud de emancipación que inste el mayor de 16 años sujeto a patria potestad, por encontrarse en alguno de los supuestos previstos en el Código Civil; en concreto:
+1)Cuando concurra cualquier causa que entorpeciera gravemente el ejercicio de la patria potestad.
+2)Todas las respuestas son correctas.
+3)Cuando los progenitores vivieren separados.
+4)Cuando quien ejerciere la patria potestad contrajere nupcias o conviviere maritalmente con persona distinta del otro progenitor.
+Respuesta: 2
+Correcta: ¡Correcto! El Juez de familia, infancia y capacidad del domicilio del menor será competente en todos los casos mencionados según la Ley de Jurisdicción Voluntaria y el Código Civil.
+Errada: La respuesta seleccionada no es correcta. El Juez de familia, infancia y capacidad del domicilio del menor es competente en todos los casos mencionados. (Respuesta Correcta 2)
+###
+Pregunta: En la tramitación del procedimiento de adopción se requiere legalmente:
+1)Intervención preceptiva de Abogado y Procurador y no interviene el Ministerio Fiscal.
+2)Requiere la intervención preceptiva de Abogado y Procurador y del Ministerio Fiscal.
+3)No requiere la intervención preceptiva de Abogado y Procurador, interviene siempre el Ministerio Fiscal y su tramitación tiene carácter preferente.
+4)No requiere intervención preceptiva de Abogado y Procurador, ni del Ministerio Fiscal y su tramitación tiene carácter preferente.
+Respuesta: 3
+Correcta: ¡Bien hecho! En el procedimiento de adopción, no es obligatorio tener a un Abogado o Procurador, pero el Ministerio Fiscal siempre participa y el procedimiento es prioritario.
+Errada: La respuesta seleccionada no es acertada. La intervención de Abogado y Procurador no es obligatoria, pero el Ministerio Fiscal siempre participa y el procedimiento tiene carácter preferente. (Respuesta Correcta 3)
+###
+Pregunta: ¿Cuándo podría producirse la caducidad del expediente?
+1)Se tendrá por abandonado el expediente si no se produce actividad promovida por los interesados en el plazo de seis meses desde la última notificación practicada.
+2)Se tendrá por abandonado el expediente si, pese al impulso de oficio de las actuaciones, no se produce actividad promovida por los interesados en el plazo de seis meses desde la última notificación practicada.
+3)En este expediente no puedo producirse la caducidad, puesto que debe ser impulsado de oficio.
+4)Se tendrá por abandonado el expediente si, pese al impulso de oficio, no se produce actividad promovida por los interesados en el plazo de tres meses desde la última notificación practicada.
+Respuesta: 2
+Correcta: ¡Correcto! El expediente se considera abandonado si no hay actividad promovida por los interesados en seis meses, incluso después de un impulso oficial de las actuaciones.
+Errada: La opción seleccionada no es correcta. El expediente se considera abandonado si no hay actividad promovida por los interesados en seis meses desde la última notificación, a pesar del impulso oficial. (Respuesta Correcta 2)
+###
+Pregunta: Según la Ley de Jurisdicción Voluntaria, ¿qué efectos produce la presentación con ulterior admisión de la solicitud de conciliación?
+1)Interrumpirá la prescripción adquisitiva pero no la extintiva, en los términos y con los efectos establecidos en la ley, desde el momento de su presentación.
+2)Suspenderá la prescripción, tanto adquisitiva como extintiva, en los términos y con los efectos establecidos en la ley, desde el momento de su presentación.
+3)Interrumpirá la prescripción, tanto adquisitiva como extintiva, en los términos y con los efectos establecidos en la ley, desde el momento de su presentación.
+4)Suspenderá la prescripción adquisitiva pero no la extintiva, en los términos y con los efectos establecidos en la ley, desde el momento de su presentación.
+Respuesta: 3
+Correcta: ¡Correcto! La presentación y posterior admisión de la solicitud de conciliación interrumpen tanto la prescripción adquisitiva como la extintiva, siguiendo los términos y efectos que la ley establece desde el momento de la presentación.
+Errada: La opción elegida es incorrecta. La interrupción de la prescripción, ya sea adquisitiva o extintiva, ocurre con la presentación y admisión de la solicitud de conciliación, conforme a lo establecido por la ley. (Respuesta Correcta 3)
+###
+Pregunta: Indique la respuesta correcta respecto a la tramitación de la oposición en el expediente de jurisdicción voluntaria relativo a declaraciones judiciales sobre hechos pasados:
+1)Si el Juez no estimare justificada la oposición, mandará por sentencia la continuación del expediente hasta su resolución.
+2)Si estimare justificada la oposición, el Juez acordará por sentencia el sobreseimiento del expediente.
+3)Si estimare justificada la oposición, el Juez acordará por auto el sobreseimiento del expediente, con reserva a las partes de su derecho a ejercitar la acción correspondiente.
+4)Si el Juez no estimare justificada la oposición, mandará por providencia la continuación del expediente hasta su resolución.
+Respuesta: 3
+Correcta: ¡Bien hecho! Si el Juez encuentra justificada la oposición, emitirá un auto de sobreseimiento del expediente, dejando a las partes con la reserva de ejercer la acción que corresponda.
+Errada: La opción seleccionada no es correcta. Cuando la oposición es justificada, el Juez emitirá un auto de sobreseimiento del expediente, reservando a las partes el derecho de tomar acciones correspondientes. (Respuesta Correcta 3)
+###
+Pregunta: En el expediente de Jurisdicción Voluntaria para la convocatoria de la asamblea de obligacionistas, ¿ qué recurso cabe contra el decreto que acuerde la convocatoria de la asamblea general ?
+1)Recurso de apelación.
+2)Recurso de reposición.
+3)No cabrá recurso alguno.
+4)Recurso de revisión.
+Respuesta: 3
+Correcta: ¡Acertado! No se permite presentar ningún recurso en contra del decreto que convoca a la asamblea general de obligacionistas en el procedimiento de Jurisdicción Voluntaria.
+Errada: La opción elegida no es correcta. En realidad, no se permite presentar ningún recurso contra el decreto que convoca a la asamblea general en este contexto. (Respuesta Correcta 3)
+###
+Pregunta: Será preceptiva la intervención de Abogado y Procurador para iniciar un expediente de Jurisdicción Voluntaria sobre:
+1)Intervención judicial en los casos de desacuerdo en el ejercicio de la patria potestad.
+2)Disolución judicial de sociedades.
+3)Declaración de ausencia y fallecimiento.
+4)Protección del Patrimonio de personas con discapacidad.
+Respuesta: 2
+Correcta: ¡Correcto! La intervención de Abogado y Procurador es necesaria para iniciar un procedimiento de Jurisdicción Voluntaria en casos de disolución judicial de sociedades.
+Errada: La respuesta seleccionada no es correcta. La intervención de Abogado y Procurador es obligatoria en casos de disolución judicial de sociedades durante un procedimiento de Jurisdicción Voluntaria. (Respuesta Correcta 2)
+###
+Pregunta: Si al acto de conciliación no compareciere el solicitante ni alegare justa causa para no concurrir:
+1)Se considerará que renuncia a la acción y se archivará el expediente. Además el requerido podrá reclamar al solicitante la indemnización de los daños y perjuicios que su comparecencia le haya originado, si el solicitante no acreditare que su incomparecencia se debió a justa causa.
+2)Se pondrá fin al acto, teniéndose la conciliación por intentada a todos los efectos legales.
+3)Se le tendrá por desistido y se archivará el expediente. Además el requerido podrá reclamar al solicitante la indemnización de los daños y perjuicios que su comparecencia le haya originado, si el solicitante no acreditare que su incomparecencia se debió a justa causa.
+4)Se archivará el expediente y el requerido podrá reclamar al solicitante la indemnización de los daños y perjuicios que su comparecencia le haya originado, si el solicitante no acreditare que su incomparecencia se debió a justa causa.
+Respuesta: 3
+Correcta: ¡Bien hecho! Si el solicitante no asiste y no presenta una justa causa para su ausencia, se interpretará como un retiro de su parte y el caso será archivado.
+Errada: La opción seleccionada es incorrecta. El procedimiento correcto es interpretar la ausencia del solicitante como un retiro de su parte y proceder a cerrar el caso, permitiendo a la parte requerida solicitar compensación por daños si no se presenta una justa causa para la inasistencia del solicitante. (Respuesta Correcta 3)
+###
+Pregunta: ¿Qué órgano judicial será competente para conocer los expedientes de jurisdicción voluntaria de autorización judicial al usufructuario para reclamar créditos vencidos que formen parte del usufructo?
+1)La Sección Civil del Tribunal de Instancia del lugar donde estuviera situada la cosa objeto de usufructo.
+2)La Sección Civil del Tribunal de Instancia del último domicilio de la persona a la que se dirige la reclamación.
+3)La Sección Civil del Tribunal de Instancia del último domicilio de la persona a la que se dirige la reclamación o del solicitante, a elección de este.
+4)La Sección Civil del Tribunal de Instancia del último domicilio o, en su defecto, de la última residencia del solicitante.
+Respuesta: 4
+Correcta: ¡Correcto! La Sección Civil del Tribunal de Instancia del último domicilio del solicitante, o en su defecto, del lugar de su última residencia, tiene competencia en estos casos.
+Errada: La opción elegida no es correcta. La jurisdicción correcta es la Sección Civil del Tribunal de Instancia del último domicilio del solicitante o, si no se tiene esa información, del lugar de su última residencia. (Respuesta Correcta 4)
+###
+Pregunta: Para la actuación en los expedientes de albaceazgo:
+1)No será preceptiva la intervención de Abogado ni Procurador cuando la cuantía del haber hereditario sea inferior a 5.000 euros.
+2)No será preceptiva la intervención de Abogado ni Procurador cuando la cuantía del haber hereditario sea inferior a 6.000 euros.
+3)No será preceptiva la intervención de Abogado ni Procurador cuando la cuantía del haber hereditario sea inferior a 2.000 euros.
+4)No será preceptiva la intervención de Abogado ni Procurador cuando la cuantía del haber hereditario sea inferior a 3.000 euros.
+Respuesta: 2
+Correcta: ¡Exacto! La participación de Abogado y Procurador no es obligatoria si el valor del patrimonio hereditario es inferior a 6.000 euros.
+Errada: La respuesta seleccionada no es correcta. La participación de Abogado y Procurador no es obligatoria si el valor del patrimonio hereditario es inferior a 6.000 euros. (Respuesta Correcta 2)
+###
+Pregunta: En la tramitación del expediente de jurisdicción voluntaria relativo a declaraciones judiciales sobre hechos pasados, ¿quién podrá oponerse a la emisión de la declaración judicial interesada?
+1)Los interesados o afectados por los hechos objeto del expediente.
+2)El Ministerio Fiscal.
+3)El registrador de la propiedad.
+4)Todas las anteriores respuestas son correctas.
+Respuesta: 1
+Correcta: ¡Bien hecho! Las personas interesadas o afectadas por los hechos del expediente pueden oponerse a la emisión de la declaración judicial solicitada.
+Errada: La respuesta seleccionada es incorrecta. Solo las personas interesadas o afectadas por los hechos del expediente pueden oponerse a la emisión de la declaración judicial solicitada. (Respuesta Correcta 1)
+###
+Pregunta: ¿Quién resolverá el expediente de nombramiento de liquidador de una entidad?
+1)El Letrado de la Administración de Justicia por medio de decreto, que dictará en el plazo de cinco días a contar desde la terminación de la comparecencia.
+2)El Letrado de la Administración de Justicia por medio de decreto, que dictará en el plazo de tres días a contar desde la terminación de la comparecencia.
+3)El Juez por medio de providencia, que dictará en el plazo de tres días a contar desde la terminación de la comparecencia.
+4)El Juez por medio de auto, que dictará en el plazo de cinco días a contar desde la terminación de la comparecencia.
+Respuesta: 1
+Correcta: ¡Correcto! El Letrado de la Administración de Justicia es quien resuelve el expediente de nombramiento del liquidador mediante un decreto emitido en cinco días tras la comparecencia.
+Errada: La respuesta seleccionada no es correcta. El encargado de resolver el expediente de nombramiento del liquidador es el Letrado de la Administración de Justicia, quien emitirá un decreto en un plazo de cinco días después de la comparecencia. (Respuesta Correcta 1)
+###
+Pregunta: ¿Quién será competente para el conocimiento del expediente de nombramiento de perito en los contratos de seguro?
+1)La sección de lo mercantil del lugar del domicilio del asegurador.
+2)La sección de lo Mercantil del domicilio social de la aseguradora.
+3)La sección de lo Mercantil del lugar del domicilio del asegurado.
+4)Ninguna es correcta.
+Respuesta: 3
+Correcta: ¡Correcto! La sección de lo Mercantil del lugar de residencia del asegurado es el competente para el expediente de nombramiento de perito en contratos de seguro.
+Errada: La respuesta seleccionada no es correcta. La sección de lo Mercantil competente para el trámite de nombramiento de perito en contratos de seguro es el situado en el lugar de residencia del asegurado. (Respuesta Correcta 3)
+###
+Pregunta: ¿Cuándo se aplicará el expediente de convocatoria de la asamblea de obligacionistas previsto en la Ley de Jurisdicción Voluntaria?
+1)En todos los casos en que las leyes permitan solicitar la convocatoria de una asamblea ordinaria de obligacionistas.
+2)En todos los casos en que las leyes permitan solicitar la convocatoria de una asamblea universal de obligacionistas.
+3)En todos los casos en que las leyes permitan solicitar la convocatoria de una asamblea general de obligacionistas.
+4)En todos los casos en que las leyes permitan solicitar la convocatoria de una asamblea extraordinaria de obligacionistas.
+Respuesta: 3
+Correcta: ¡Exacto! El procedimiento de convocatoria para una asamblea de obligacionistas se aplica siempre que las leyes permitan solicitar la convocatoria de una asamblea general de obligacionistas.
+Errada: La opción elegida no es correcta. El procedimiento de convocatoria para una asamblea de obligacionistas se usa en situaciones donde las leyes permiten solicitar una asamblea general de obligacionistas. (Respuesta Correcta 3)
+###
+Pregunta: De conformidad con el artículo 93 de la Ley 15/2015, de 2 de julio, de la Jurisdicción Voluntaria, en todo caso precisarán autorización judicial para la validez de la aceptación y repudiación de la herencia:
+1)Los tutores, los curadores representativos y, en su caso, los defensores judiciales, para aceptar con beneficio de inventario cualquier herencia o legado o para repudiar los mismos.
+2)Los progenitores, para repudiar la herencia o legados en nombre de sus hijos de 18 años que no prestaren su consentimiento.
+3)Los progenitores, para repudiar la herencia o legados en nombre de sus hijos mayores de edad que no prestaren su consentimiento.
+4)Los acreedores del heredero que hubiere repudiado la herencia a la que hubiere sido llamado en perjuicio de aquellos, para aceptar la herencia en su nombre.
+Respuesta: 4
+Correcta: ¡Correcto! Los acreedores de un heredero que ha repudiado una herencia a la que fue llamado, perjudicando a estos, necesitan autorización judicial para aceptar la herencia en su nombre.
+Errada: La opción seleccionada no es correcta. La autorización judicial es necesaria para los acreedores de un heredero que ha repudiado una herencia perjudicando a estos, para que puedan aceptar la herencia en su nombre. (Respuesta Correcta 4)
+###
+Pregunta: ¿En qué supuestos se aplicará el expediente de jurisdicción voluntaria sobre intervención judicial en casos de desacuerdo en el ejercicio de la patria potestad?
+1)En los casos en que esté legalmente prevista la intervención judicial cuando hubiere desacuerdo entre los progenitores de un menor emancipado.
+2)En los casos en que esté legalmente prevista la autorización judicial cuando el titular de la patria potestad fuere un menor de edad no emancipado.
+3)Cuando el Juez pueda intervenir en los casos de desacuerdo en el ejercicio de la patria potestad ejercitada conjuntamente por los progenitores.
+4)Cuando el Juez deba intervenir en los casos de desacuerdo en el ejercicio de la patria potestad ejercitada conjuntamente por los progenitores.
+Respuesta: 4
+Correcta: ¡Correcto! El procedimiento de jurisdicción voluntaria para intervención judicial se aplica cuando legalmente se requiere la intervención del Juez debido a desacuerdos en el ejercicio conjunto de la patria potestad por los progenitores.
+Errada: La opción seleccionada no es correcta. El procedimiento se aplica cuando es legalmente necesario que el Juez intervenga debido a desacuerdos en el ejercicio conjunto de la patria potestad por los progenitores. (Respuesta Correcta 4)
+###
+Pregunta: ¿Qué expediente de jurisdicción voluntaria de albaceazgo resolverá el Letrado de la Administración de Justicia?
+1)La renuncia del albacea a su cargo o de prórroga del plazo del albaceazgo.
+2)La obtención de autorización para que el albacea pueda efectuar actos de disposición sobre bienes de la herencia
+3)La remoción del cargo de albacea.
+4)La rendición de cuentas del albacea.
+Respuesta: 1
+Correcta: ¡Exacto! El Letrado de la Administración de Justicia resolverá el aspecto del expediente relacionado con la renuncia del albacea a su cargo o la prórroga del plazo para el albaceazgo.
+Errada: La respuesta seleccionada no es correcta. El Letrado de la Administración de Justicia se encarga de resolver la renuncia del albacea a su cargo o la prórroga del plazo para el albaceazgo. (Respuesta Correcta 1)
+###
+Pregunta: La competencia para conocer de la acción de anulación de un laudo arbitral corresponde:
+1)A la Audiencia Provincial del lugar donde se hubiera dictado.
+2)A la sección de lo Mercantil del lugar donde se hubiera dictado.
+3)A la sección de lo civil del lugar donde se hubiera dictado.
+4)A la Sala de lo Civil y Penal del Tribunal Superior de Justicia de la Comunidad Autónoma donde se hubiera dictado.
+Respuesta: 4
+Correcta: ¡Bien hecho! La competencia para conocer de la acción de anulación de un laudo arbitral corresponde a la Sala de lo Civil y Penal del Tribunal Superior de Justicia de la Comunidad Autónoma donde se dictó el laudo.
+Errada: La opción seleccionada es incorrecta. La Sala de lo Civil y Penal del Tribunal Superior de Justicia de la Comunidad Autónoma donde se dictó el laudo es la competente para conocer de la acción de anulación de un laudo arbitral. (Respuesta Correcta 4)
+###
+Pregunta: En los expedientes sobre adopción, regulados en la Ley 15/2015, de 2 de julio, de la Jurisdicción Voluntaria, será competente:
+1)La sección del tribunal de Instancia correspondiente a la sede de la Entidad Pública que tenga encomendada la protección del adoptando y, en su defecto, el del domicilio del adoptante.
+2)La sección del tribunal de Instancia competente del domicilio del adoptando, y en su defecto, el del domicilio del adoptante.
+3)La sección del tribunal de Instancia correspondiente a la sede de la Entidad Pública que tenga encomendada la protección del adoptando y, en su defecto, el del domicilio del adoptando.
+4)La sección del tribunal de instancia competente del domicilio del adoptante, y en su defecto, el del domicilio del adoptando.
+Respuesta: 1
+Correcta: ¡Acertaste! El órgano judicial competente en expedientes de adopción es el que está ubicado en la sede de la Entidad Pública responsable de la protección del niño o niña a adoptar, y en ausencia de este, el del domicilio del adoptante.
+Errada: La respuesta seleccionada no es correcta. El órgano judicial competente es el situado en la sede de la Entidad Pública con responsabilidad sobre la protección del niño o niña a adoptar, y si no existe, el ubicado en el domicilio del adoptante. (Respuesta Correcta 1)
+###
+Pregunta: ¿Cuál de las siguientes afirmaciones sobre los expedientes de adopción es verdadera?
+1)Será preceptiva la intervención de abogado y procurador.
+2)Contra el auto que resuelva el expediente cabe recurso de apelación, sin que produzca efectos suspensivos.
+3)Sólo el adoptando que fuese mayor de 14 años deberá ser citado por el Letrado de la Administración de Justicia para manifestar su consentimiento en presencia del Juez.
+4)Contra el auto que resuelva el expediente cabe recurso de apelación, que producirá efectos suspensivos.
+Respuesta: 4
+Correcta: ¡Correcto! La Ley Orgánica 1/2025 ha modificado la Ley de Jurisdicción Voluntaria, estableciendo que el recurso de apelación contra el auto que resuelve el expediente de adopción tendrá efectos suspensivos.
+Errada: La respuesta seleccionada no es correcta. Con la nueva redacción del art. 20.3 de la LJV, el recurso de apelación en expedientes de adopción sí tiene efectos suspensivos. (Respuesta Correcta 4)
+###
+Pregunta: Señale la respuesta incorrecta respecto a los expedientes de jurisdicción voluntaria relativos a declaraciones judiciales sobre hechos pasados:
+1)En la Oficina Judicial existirán, a disposición de los interesados, impresos normalizados para formular su solicitud.
+2)El Ministerio Fiscal será siempre parte en el expediente.
+3)Es preceptiva la defensa de Letrado y la representación por Procurador para la intervención en el expediente.
+4)Podrán promover el expediente quienes sean titulares de derechos o intereses legítimos en relación con los hechos respecto de los cuales se interesa la información.
+Respuesta: 3
+Correcta: ¡Bien hecho! Es incorrecto afirmar que la representación por un procurador y la defensa de un letrado son siempre preceptivas para intervenir en estos expedientes relacionados con declaraciones judiciales sobre hechos pasados.
+Errada: La respuesta seleccionada es incorrecta. La afirmación correcta es que no es siempre obligatoria la representación por procurador ni la defensa por letrado en estos expedientes. (Respuesta Correcta 3)
+###
+Pregunta: ¿Quién será competente para el conocimiento del expediente de la protección del patrimonio de las personas con discapacidad:
+1)El Juzgado de Instrucción del domicilio o, en su defecto, de la residencia de la persona con discapacidad.
+2)El Juzgado de Primera Instancia del domicilio del tutor de la persona con discapacidad.
+3)El Juzgado de Primera Instancia del domicilio o, en su defecto, de la residencia de la persona con discapacidad.
+4)El Juzgado de Instrucción del domicilio del tutor de la persona con discapacidad.
+Respuesta: 3
+Correcta: ¡Correcto! El Juzgado de Primera Instancia en el domicilio o, cuando no sea posible, en la residencia de la persona con discapacidad, es el competente para estos expedientes.
+Errada: La opción seleccionada no es correcta. La competencia para estos expedientes recae en el Juzgado de Primera Instancia ubicado en el domicilio o, en su defecto, en la residencia de la persona con discapacidad. (Respuesta Correcta 3)
+###
+Pregunta: En relaciación con la acumulación de expedientes de jurisdicción voluntaria, señale la respuesta correcta:
+1)Los expedientes de jurisdicción voluntaria serán acumulables en los procesos jurisdiccionales contenciosos.
+2)Si se tratara de la acumulación de expedientes pendientes ante el mismo órgano judicial, la acumulación se solicitará verbalmente o por escrito antes de la comparecencia señalada en primer lugar.
+3)Se regirá por lo previsto en la Ley de Jurisdicción Voluntaria.
+4)Si los expedientes estuvieran pendientes ante distintos órganos judiciales, los interesados deberán solicitar por escrito la acumulación ante el órgano que se estime competente en cualquier momento antes de la celebración de la comparecencia.
+Respuesta: 4
+Correcta: ¡Correcto! Cuando los expedientes están ante diferentes órganos judiciales, la acumulación debe solicitarse por escrito ante el órgano judicial que se considere competente antes de la comparecencia.
+Errada: La respuesta seleccionada no es correcta. Los interesados deben solicitar la acumulación por escrito ante el órgano judicial que consideren competente, antes de la comparecencia, cuando los expedientes estén pendientes ante diferentes órganos. (Respuesta Correcta 4)
+###
+Pregunta: ¿Qué órgano judicial será competente para conocer el expediente de jurisdicción voluntaria de intervención judicial en los casos de desacuerdo en el ejercicio de la patria potestad?
+1)El Juzgado de Familia, Infancia y Capacidad del domicilio de los progenitores.
+2)El Juzgado de Familia, Infancia y Capacidad del domicilio del hijo.
+3)El Juzgado de Primera Instancia del domicilio de los progenitores.
+4)El Juzgado de Primera Instancia del domicilio del hijo.
+Respuesta: 2
+Correcta: ¡Correcto! El Juzgado de Familia, Infancia y Capacidad del domicilio del hijo será competente para conocer este expediente de jurisdicción voluntaria.
+Errada: La respuesta seleccionada no es correcta. El órgano competente es el Juzgado de Familia, Infancia y Capacidad del domicilio del hijo. (Respuesta Correcta 2)
+###
+Pregunta: De los siguientes expedientes de jurisdicción voluntaria, ¿en cuál de ellos no se atribuye la resolución al Letrado de la Administración de Justicia?
+1)Declaración de ausencia.
+2)Declaración de fallecimiento.
+3)Aceptación y repudiación de la herencia.
+4)Exhibición de libros, documentos y soportes contables.
+Respuesta: 3
+Correcta: ¡Correcto! En los expedientes de aceptación y repudiación de la herencia, la resolución no se atribuye al Letrado de la Administración de Justicia.
+Errada: La respuesta seleccionada no es correcta. En los expedientes de aceptación y repudiación de la herencia, la resolución no corresponde al Letrado de la Administración de Justicia. (Respuesta Correcta 3)
+###
+Pregunta: De conformidad con lo establecido en la Ley 15/2015, de 2 de julio, de la Jurisdicción Voluntaria, el Letrado de la Administración de Justicia será el encargado de la decisión de determinados expedientes. Indique en cuál de los siguientes no se le atribuye tal decisión:
+1)Declaración de ausencia.
+2)Declaración de fallecimiento.
+3)Aceptación y repudiación de la herencia.
+4)Exhibición de libros, documentos y soportes contables.
+Respuesta: 3
+Correcta: ¡Correcto! En los expedientes de aceptación y repudiación de la herencia, la decisión no se atribuye al Letrado de la Administración de Justicia.
+Errada: La respuesta seleccionada no es correcta. En los expedientes de aceptación y repudiación de la herencia, la decisión no corresponde al Letrado de la Administración de Justicia. (Respuesta Correcta 3)
+###
+Pregunta: Señale la respuesta incorrecta respecto al expediente de jurisdicción voluntaria relativo a la fijación del plazo para el cumplimiento de las obligaciones:
+1)La resolución del expediente corresponderá al Juzgado de Primera Instancia del domicilio del deudor.
+2)La tramitación del expediente se ajustará a las normas comunes de la LJV.
+3)Para la actuación en el expediente no será preceptiva la intervención de Abogado ni de Procurador.
+4)El expediente se iniciará mediante solicitud del acreedor.
+Respuesta: 1
+Correcta: ¡Correcto! Es incorrecto afirmar que la resolución del expediente corresponderá al Juzgado de Primera Instancia del domicilio del deudor.
+Errada: La respuesta seleccionada no es correcta. La afirmación incorrecta es que la resolución corresponde exclusivamente al Juzgado de Primera Instancia del domicilio del deudor. (Respuesta Correcta 1)
+###
+Pregunta: ¿A quién podrá corresponder la competencia para la tramitación y resolución del expediente de jurisdicción voluntaria de fijación del plazo para el cumplimiento de las obligaciones, cuando la relación trabada fuera entre un consumidor o usuario y un empresario o profesional y este fuera el deudor de la prestación?
+1)Ninguna de las respuestas anteriores es correcta.
+2)Al Juez de Primera Instancia del domicilio profesional del deudor, a elección de este.
+3)Al Juez de Primera Instancia del domicilio del deudor, a elección de este.
+4)Al Juez de Primera Instancia del domicilio del acreedor, a elección de este.
+Respuesta: 4
+Correcta: ¡Excelente! Cuando el empresario es el deudor, la competencia para tramitar y resolver puede corresponder al Juez de Primera Instancia del domicilio del acreedor, según elección de este.
+Errada: Esa no es la respuesta correcta. En casos donde el deudor es un empresario, la competencia puede recaer en el Juez de Primera Instancia del domicilio del acreedor, según la elección de este. (Respuesta Correcta 4)
+###
+Pregunta: En los expedientes sobre adopción, regulados en la Ley 15/2015, de 2 de julio, de la Jurisdicción Voluntaria, será competente:
+1)La sección del tribunal de Instancia correspondiente a la sede de la Entidad Pública que tenga encomendada la protección del adoptando y, en su defecto, el del domicilio del adoptante.
+2)La sección del tribunal de Instancia competente del domicilio del adoptando, y en su defecto, el del domicilio del adoptante.
+3)La sección del tribunal de Instancia correspondiente a la sede de la Entidad Pública que tenga encomendada la protección del adoptando y, en su defecto, el del domicilio del adoptando.
+4)La sección del tribunal de instancia competente del domicilio del adoptante, y en su defecto, el del domicilio del adoptando.
+Respuesta: 1
+Correcta: ¡Acertaste! El órgano judicial competente en expedientes de adopción es el que está ubicado en la sede de la Entidad Pública responsable de la protección del niño o niña a adoptar, y en ausencia de este, el del domicilio del adoptante.
+Errada: La respuesta seleccionada no es correcta. El órgano judicial competente es el situado en la sede de la Entidad Pública con responsabilidad sobre la protección del niño o niña a adoptar, y si no existe, el ubicado en el domicilio del adoptante. (Respuesta Correcta 1)
+###
+Pregunta: Será competente para la ejecución el mismo órgano judicial que tramitó la conciliación cuando se trate de asuntos de la competencia de la correspondiente Sección del Tribunal de Instancia.
+1)Será competente para la ejecución el mismo órgano judicial que tramitó la conciliación cuando se trate de asuntos de la competencia de la correspondiente Sección del Juzgado de Primera Instancia.
+2)Será competente para la ejecución el mismo órgano judicial que tramitó la conciliación cuando se trate de asuntos de la competencia de la correspondiente Sección del Tribunal de Instancia.
+3)Será competente para la ejecución el mismo órgano judicial que tramitó la conciliación cuando se trate de asuntos de la competencia de la correspondiente Sección del Tribunal Supremo.
+4)Será competente para la ejecución el mismo órgano judicial que tramitó la conciliación cuando se trate de asuntos de la competencia de la correspondiente Sección de la Audiencia Provincial.
+Respuesta: 2
+Correcta: ¡Correcto! Será competente para la ejecución el mismo órgano judicial que tramitó la conciliación cuando se trate de asuntos de la competencia de la correspondiente Sección del Tribunal de Instancia.
+Errada: La respuesta seleccionada no es correcta. La competencia ejecutiva corresponde al mismo órgano que tramitó la conciliación cuando se trate de asuntos competencia de la correspondiente Sección del Tribunal de Instancia. (Respuesta Correcta 2)
+###
+Pregunta: ¿Qué tipo de recurso se puede presentar en contra del decreto que convoca a la asamblea general de obligacionistas?
+1)Recurso de apelación.
+2)Recurso de reposición.
+3)No se permite presentar ningún recurso.
+4)Recurso de revisión.
+Respuesta: 3
+Correcta: ¡Acertado! No se permite presentar ningún recurso en contra del decreto que convoca a la asamblea general de obligacionistas en el procedimiento de Jurisdicción Voluntaria.
+Errada: La opción elegida no es correcta. En realidad, no se permite presentar ningún recurso contra el decreto que convoca a la asamblea general en este contexto. (Respuesta Correcta 3)
+###
+Pregunta: ¿En qué caso no será preceptiva la intervención de abogado ni procurador en los expedientes de jurisdicción voluntaria de aceptación y repudiación de la herencia?
+1)Cuando la cuantía del haber hereditario sea inferior a 6.000 euros.
+2)Cuando la cuantía del haber hereditario sea inferior a 7.000 euros.
+3)Cuando la cuantía del haber hereditario sea inferior a 8.000 euros.
+4)Cuando la cuantía del haber hereditario sea inferior a 9.000 euros.
+Respuesta: 1
+Correcta: ¡Correcto! No es necesario contar con un abogado ni un procurador en procedimientos de jurisdicción voluntaria para la aceptación y repudiación de herencias si el valor total del patrimonio heredado no supera los 6.000 euros.
+Errada: La respuesta seleccionada no es correcta. La intervención de abogado y procurador no es obligatoria solo cuando el valor total de la herencia es inferior a 6.000 euros. (Respuesta Correcta 1)
+###
+Pregunta: ¿Quién puede promover el expediente de nombramiento de peritos en los contratos de seguro?
+1)Solo el asegurador.
+2)El asegurado.
+3)Cualquiera de las partes del contrato o ambas partes conjuntamente.
+4)Ambas partes conjuntamente.
+Respuesta: 3
+Correcta: ¡Acertaste! Cualquiera de las partes del contrato, o ambas de manera conjunta, pueden iniciar el expediente para el nombramiento de peritos en contratos de seguro.
+Errada: La respuesta seleccionada no es correcta. En realidad, el expediente para el nombramiento de peritos puede ser iniciado por cualquiera de las partes del contrato, o por ambas de manera conjunta. (Respuesta Correcta 3)

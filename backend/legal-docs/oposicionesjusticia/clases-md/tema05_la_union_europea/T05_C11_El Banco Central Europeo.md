@@ -1,0 +1,38 @@
+# La Unión Europea
+
+## El Banco Central Europeo
+
+**Tema:** La Unión Europea  
+**Clase:** T05_C11  
+**Archivo:** T05_C11_El Banco Central Europeo.txt  
+**Tipo:** Material de Clase  
+**Categoría:** Oposiciones de Justicia  
+
+---
+
+Te quiero hacer una pregunta sobre tu infancia. De pequeño, ¿nunca pensaste que si la gente no tenía dinero, todo se solucionaría imprimiendo más dinero? Yo creo que todos pasamos por esa fase. Si a día de hoy, ya siendo mayores de edad, se nos ocurre imprimir dinero por nosotros mismos ilegalmente, nos íbamos a encontrar de frente con una institución europea que se iba a enfadar muchísimo.
+
+
+¿Sabes de cuál te hablo? Pues del Banco Central Europeo, porque una de sus funciones concretas más importante es autorizar que se ponga más dinero en circulación. Así que nuestro plan de imprimir dinero y hacerle la competencia a la casa de la moneda, vamos a dejársela mejor a los de la casa de papel. El Banco Central Europeo es la última institución que veremos y tiene dos funciones principales.
+
+
+En primer lugar, mantener la estabilidad de precios dentro de todos los países de la Unión Europea. Por ejemplo, uno de sus principales trabajos ahora es intentar contener la inflación que estamos viviendo en toda la Unión Europea, es decir, el incremento de precios. Su segunda función principal es apoyar las políticas económicas generales dictadas por el resto de instituciones de la Unión.
+
+
+Quizás te lleves una sorpresa con lo que te voy a comentar, pero en realidad el BCE no solo trabaja con los bancos centrales de los países que usan el euro, sino también con los bancos centrales de los 27 países de la Unión Europea. Independientemente de la moneda que usen. Estados de la Unión, como por ejemplo Dinamarca, Hungría o Polonia, no usan el euro, tienen su moneda propia.
+
+
+Así que tenemos que diferenciar sí o sí estos dos conceptos. En primer lugar, el sistema europeo de bancos centrales está formado por los bancos centrales de todos los países miembros de la Unión, independientemente de su moneda. Y el eurosistema está formado solo por los bancos centrales de los estados miembros que usan el euro.
+
+
+Es importante que sepas que el BCE es jerárquicamente superior a estos bancos centrales, tanto si usan el euro como si no. Así que estos tienen que obedecer sus indicaciones y en caso de incumplir alguna obligación, el BCE puede llevarlos ante el Tribunal de Justicia de la Unión Europea por incumplimiento del derecho de la Unión. Por ejemplo, si el Banco Central de Italia incumple una decisión adoptada por el BCE y está obligado a cumplirla, pues tendrá un problema.
+
+
+Bueno, con lo que te estoy contando, casi parece que el Banco Central Europeo es intocable y tampoco es así. De hecho, puede presentarse recurso contra sus actos ante el Tribunal de Justicia de la Unión Europea, así que esta institución también responde legalmente en su actividad. Y aquí terminamos con el BCE.
+
+
+Ha sido breve, ¿verdad? Espero haber conseguido que comprendas qué son y cómo trabajan las siete instituciones de la Unión Europea. Muchas gracias por tu atención durante estas clases y nada más. Nos vemos en el siguiente vídeo.
+
+
+Subtítulos por la comunidad de Amara.org
+

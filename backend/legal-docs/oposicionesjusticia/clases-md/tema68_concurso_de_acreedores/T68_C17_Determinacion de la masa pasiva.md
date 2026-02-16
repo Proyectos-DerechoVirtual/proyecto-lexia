@@ -1,0 +1,140 @@
+# Concurso de Acreedores
+
+## Determinacion de la masa pasiva
+
+**Tema:** Concurso de Acreedores  
+**Clase:** T68_C17  
+**Archivo:** T68_C17_Determinacion de la masa pasiva.txt  
+**Tipo:** Material de Clase  
+**Categoría:** Oposiciones de Justicia  
+
+---
+
+Hola a todos los futuros concursalistas. ¿Cómo van esos ánimos? ¿Estáis preparados para empezar el siguiente tema? Ya habréis comprobado que el derecho concursal no es tan complicado como puede parecer. Después de aprender cómo se determina la masa activa en el concurso, toca seguir avanzando.
+
+
+Hoy estudiaremos la otra cara de la moneda de la situación patrimonial del concursado, la masa pasiva. ¿Y qué es eso de la masa pasiva? Muy sencillo. La masa pasiva del concursado es todo aquello que le supone una deuda, por lo que estará compuesta por todas las personas, físicas, jurídicas, públicas y privadas, que tengan un derecho de cobro frente a la empresa o a la persona que está en concurso.
+
+
+Y al igual que no todos los bienes y derechos que forman parte de la masa activa son iguales, los componentes de la masa pasiva también presentan diferencias. Ya hemos dicho en alguna ocasión que no todos los acreedores del concurso van a cobrar por igual, ni al mismo tiempo, ni por la misma cantidad. Hoy por fin vamos a saber por qué esto es así.
+
+
+Sabéis que cuando se declara el concurso de acreedores, el juez que adopta esa decisión designa a un administrador concursal al que dota de determinadas facultades y de varias obligaciones, entre las que destaca la recopilación de toda la información necesaria para hacer la lista de acreedores y el inventario de bienes y derechos del concursado. Esto último ya lo hemos estudiado en lecciones anteriores y lo volveremos a retomar en algunas lecciones siguientes. Pero, ¿quién puede formar parte de la lista de acreedores? Pues según el artículo 251 de la ley concursal, formarán parte de esa lista todas aquellas personas que tengan reconocido un crédito contra el deudor, siempre que no se trate de un crédito contra la masa.
+
+
+Y aquí viene lo complicado. Un crédito normal contra el deudor es, por ejemplo, una deuda con un proveedor, una factura impagada. Si la empresa de tu amigo Paco se dedica a la venta de muebles de jardín, jardines de confianza ISL, y para fabricarlos necesita tablones de madera, se los comprará a su proveedor de confianza.
+
+
+En el momento en el que se entreguen los tablones, se contraerá la deuda con el proveedor, que ya ha cumplido con su parte del contrato, y también nacerá la obligación por parte de Paco de pagar, que todavía no ha cumplido con su parte del contrato. Eso es una deuda normal, un crédito de los que reconoce el artículo 251 de la ley concursal que ya hemos mencionado. Pero, ¿por qué la ley dice que los créditos contra la masa no forman parte de la lista de acreedores del concurso? ¿Acaso no son deudas? Pues bien, sí que son deudas, pero tienen un carácter muy especial y por eso el legislador les da una regulación propia, considerándolos créditos extraconcursales.
+
+
+Los créditos contra la masa son créditos provocados por el concurso, es decir, no son los que han provocado el concurso y, por tanto, no son previos al procedimiento concursal, sino que nacen de él, tras su apertura. Estas deudas son tan especiales que, si ya en el momento de la elaboración de la lista de acreedores la administración concursal se da cuenta de que hay créditos extraconcursales deberá hacer un listado separado, según el artículo 288 de la ley concursal, que tendrá carácter preconcursal. Imaginaos si el tratamiento entre acreedores normales y acreedores con un crédito contra la masa es diferente.
+
+
+Son como el agua y el aceite, nunca irán juntos. Quedaos con esta idea que luego os daremos un ejemplo súper claro. En cualquier caso, la administración concursal, antes de pagar los créditos concursales, debe deducir de la masa activa los bienes y derechos necesarios para pagar los créditos contra la masa.
+
+
+De esta afirmación podemos deducir que los créditos contra la masa tienen preferencia de cobro, es decir, con carácter general van a cobrar los primeros. Dentro del concurso de acreedores son los que más suerte tienen y los que se van a meter dinero en el bolsillo antes. Sin embargo, hay una excepción, como veremos más adelante, que es la prevista en el artículo 244 de la ley concursal relativa al pago de los créditos con privilegio especial.
+
+
+Pero no os alarméis, en los siguientes vídeos veremos qué significa esto, pero por ahora quedaos con la idea de que lo primero que se va a pagar una vez que finalice el concurso son los créditos contra la masa, salvo que haya créditos concursales con privilegio especial. Dicho esto, debemos saber que estos créditos extraconcursales se regulan en el artículo 242 de la ley concursal. Se trata de una materia complicada, por lo que os pedimos que prestéis mucha atención.
+
+
+Los créditos contra la masa se regulan, de nuevo, entre los artículos 242 y 250 de la ley concursal. Y los más importantes son los créditos por responsabilidad civil extracontractual y las indemnizaciones por accidente laboral o enfermedad profesional. Vamos a ver dos ejemplos.
+
+
+Imaginemos que Enrique, un fotógrafo que tiene su propio estudio de fotografía, ahora está en concurso de acreedores porque no le ha ido bien. Resulta que tres meses antes de declararse el concurso estaba yendo de Toledo a Guadalajara para hacer una sesión de fotos y en un cruce no frenó y atropelló a una persona. La familia de la persona atropellada demandó a Enrique por responsabilidad civil extracontractual y esa deuda será considerada crédito contra la masa y tendrá privilegio y preferencia de cobro.
+
+
+Un segundo ejemplo. Ahora imaginemos que Pablo, empleado de Enrique, está condicionando un escenario para hacer una sesión de fotos y le cae un foco de luz encima y le rompe un brazo. El crédito que se derive de la asistencia médica y de los cuidados que haya tenido que recibir Pablo hasta ponerse bien serán créditos contra la masa, así como si hubiera tenido que pagar psicólogos o medicinas no cubiertas por la seguridad social.
+
+
+Todo eso tendrá carácter preferente de cobro. 2. Los salarios de los trabajadores de la empresa en concurso antes de que se declarara el mismo. Sólo será obligatorio pagar los salarios del último mes y además con un límite.
+
+
+Lo que se pague no podrá superar el doble del salario mínimo interprofesional que actualmente es de 1.166,67 euros por lo que ningún trabajador podrá cobrar más de 2.333,33 euros. ¿Y qué pasa si los trabajadores siguen trabajando después de haberse declarado el concurso? Los salarios de vengados con posterioridad a la declaración del concurso también son créditos contra la masa. Vais a ver qué sencillo.
+
+
+Imaginad que Enrique tiene tres trabajadores y que se declaró en concurso hace tres meses. Como el negocio va mal desde hace bastante tiempo, Enrique lleva sin pagar a sus trabajadores más de siete meses. Pero con lo que acabamos de ver, sus trabajadores sólo tendrían como créditos contra la masa el salario del mes anterior a la declaración del concurso y el salario de estos tres meses que han seguido trabajando y ya estaba declarado el concurso.
+
+
+El resto de los salarios que se corresponden con los meses en que Enrique no pagaba pero no estaba declarado aún en el concurso no serán considerados créditos contra la masa sino créditos concursales normales sin preferencia de cobro. 3. Los gastos y las costas judiciales del procedimiento. O lo que es lo mismo, el precio que tiene el concurso.
+
+
+Lo que te va a costar tramitar el concurso de acreedores. ¿Qué se incluye aquí? Pues la asistencia y la representación de Enrique y de la administración concursal durante la tramitación del procedimiento concursal. Estos gastos comprenden principalmente la solicitud de declaración del concurso, la adopción de medidas cautelares, la publicación de resoluciones judiciales o la asistencia y la representación de Enrique y de la administración concursal en sede judicial.
+
+
+O sea, las costas y los honorarios de los abogados y de los procuradores básicamente. 4. Las costas y los gastos de otros procesos judiciales. Las costas y gastos judiciales en que incurre el concursado, la administración concursal o los acreedores legitimados en los juicios que se continúen o que se inicien en interés de la masa son igualmente considerados créditos contra la masa.
+
+
+Un ejemplo muy sencillo tiene que ver con el vídeo de hace un par de lecciones en el que los acreedores tenían legitimación subsidiaria en caso de que la administración concursal no llevara a cabo una acción de reintegración solicitada. En esos casos, los acreedores que querían reintegrar un bien a la masa activa del concurso, pero a los que la administración concursal no les hacía caso, podían iniciar ellos las actuaciones. Y si sus demandas eran estimadas, luego los gastos en los que hubieran incurrido serían considerados créditos contra la masa y también tendrían preferencia del cobro.
+
+
+5. El salario de la administración concursal. 6. Las cantidades en concepto de alimentos. Y os preguntaréis ¿a quién hay que darle de comer? Pues a nadie.
+
+
+Esta expresión se refiere a los gastos indispensables propios del concursado. Persona física no se reconoce en alimentos a las personas jurídicas para cubrir sus necesidades esenciales y las de las personas que tenga a su cargo. Vivienda, alimentación, suministros de luz, agua, transportes, etcétera.
+
+
+Enrique tendrá derecho a percibir una cantidad suficiente para pagar el colegio de sus hijos, comprar comida y pagar las facturas de la luz. Se trata de aplicar el sentido común, pues lógicamente resulta esencial la compra de alimentos en un supermercado, pero no un viaje de un fin de semana al extranjero o la cuota del club de fútbol. 7. Los créditos generados por el ejercicio de la actividad profesional del concursado tras la declaración del concurso.
+
+
+O sea, el empresario tiene derecho a recibir una parte de lo que obtiene por seguir haciendo su trabajo. Vamos a retomar el ejemplo de la empresa de Enrique dedicada a la fabricación de muebles de jardín. Si nuestro amigo ha seguido vendiendo muebles en Anitos de Jardín y Fuentes, tiene derecho a cobrar una parte de los ingresos que reciba Jardines de Confianza S.L. por la continuación de la actividad.
+
+
+Y es que a ver, nadie trabaja gratis. 8. Si el concursado ha decidido resolver determinados contratos y, en consecuencia, se tienen que restituir las cosas recibidas, la otra parte del contrato, afectada por la rescisión, tendrá derecho a que su crédito sea reconocido como crédito contra la masa. Vamos a ver un ejemplo.
+
+
+Un matrimonio joven se compró una casa en medio del monte en 2015 y querían acondicionar el jardín entero. Contrataron con Jardines de Confianza S.L. este acondicionamiento, que incluía la construcción de una terraza, de una barbacoa, de una casa para el perro y de varias estatuas de mármol. El matrimonio pagó por adelantado 30.000 euros por ese trabajo y luego, en 2020, la empresa Jardines de Confianza S.L. entró en concurso y la administración concursal decidió que lo mejor era terminar el contrato de la pareja porque había pocas posibilidades de poder cumplirlo.
+
+
+Pues bien, este matrimonio tiene derecho a que sus 30.000 euros sean considerados créditos contra la masa. Y os preguntaréis ¿por qué esto es así? Se trata de que la rescisión implica devolver al patrimonio de Jardines de Confianza S.L. un bien o un derecho, lo que le permitirá disponer de más bienes o activos. Pero esa restitución no le puede salir gratis.
+
+
+Si Jardines de Confianza S.L. pudiera decidir libremente resolver cualquier contrato para que sus bienes o activos se incrementen, es decir, para tener más masa activa, sin que ello tenga ninguna repercusión, entonces el concurso sería un chollo, pero un chollo injusto, porque todos los acreedores vivirían con el miedo de ver sus créditos resueltos sin consecuencias ni posibilidad de cobrar. Dicho de otro modo, a lo que Jardines de Confianza S.L. tiene derecho es a deshacer la operación que en su momento se produjo, de modo que habrá de devolver a la contraparte el importe de la prestación que pagó en su momento. Entonces Jardines de Confianza S.L. recobrará todas las estatuas de mármol que podrá vender, pero a la vez el matrimonio tendrá derecho a que sus 30.000 euros sean créditos contra la masa.
+
+
+9. Los créditos contra la masa que resulten de obligaciones que, después de la declaración del concurso, nacen de la ley o de responsabilidad extracontractual del concursado, como por ejemplo deudas tributarias. Hacienda no perdona el pago de impuestos, aunque estés en la ruina, recargos, intereses de demora, etc. 10.
+
+
+Como novedad, tenéis que saber que una parte de la financiación de los planes de reestructuración también corre a cargo de la masa, es decir, también es considerado crédito contra la masa con preferencia de pago. En la actualidad tiene la consideración de créditos contra la masa el 50% del importe de los créditos prestados en el contexto del plan de reestructuración, y en cumplimiento de este se considerarán créditos contra la masa 1. La financiación interina es la que hace cualquier acreedor por altruismo puro, bien para asegurar la continuidad total o parcial de la actividad, bien para preservar o mejorar el valor que tuvieran a la fecha de inicio esas negociaciones el conjunto de la empresa o una o varias de sus unidades productivas. 2. La nueva financiación, que es la concedida por cualquier acreedor que, estando prevista en el plan de reestructuración, resulte necesaria para el cumplimiento de ese plan.
+
+
+En fin, la ley prevé más ejemplos de este tipo de créditos, pero con los estudiados aquí ya es suficiente. Esto quiere decir que no estamos ante una lista cerrada, sino que en función de lo que vaya decidiendo la doctrina y la jurisprudencia, encontraremos más deudas que se consideren créditos contra la masa. Bueno, vale, hasta aquí parece que todo tiene más o menos sentido, pero ¿dentro del grupo de acreedores con créditos contra la masa hay diferencias o todos van a cobrar por igual y al mismo tiempo? Efectivamente, dentro de este grupo también hay preferencias de cobro que diferencian a unos de otros.
+
+
+El orden de pago se hace conforme a lo dispuesto en el artículo 245 de la ley concursal, según el cual la administración concursal cogerá una parte de la masa activa del concursado que represente el dinero necesario para satisfacer los créditos contra la masa y la destinará al cobro de estos acreedores especiales, pero después el mismo artículo fija el momento en el que cada crédito va a poder ser cobrado. Y es aquí donde surgen las diferencias. Regla especial.
+
+
+Los créditos por salarios se pagan de forma inmediata. Regla general. Todos los demás créditos, independientemente de su naturaleza, se pueden pagar a sus respectivos vencimientos y la excepción a la regla general es que la administración concursal puede alterar el orden de cobro si lo considera bueno para el desarrollo del concurso y siempre que haya bastante dinero para pagar a todos los acreedores que tengan un crédito contra la masa.
+
+
+De todas formas, puede suceder, y de hecho es lo más habitual, que la masa activa del concursado sea insuficiente. Entonces los acreedores que tengan créditos contra la masa van a tener dificultades para el cobro del dinero que les corresponde, aunque si estos tienen problemas para el cobro ya os podéis imaginar el resto de acreedores que tengan créditos concursales ordinarios. Ellos probablemente no vean ni un céntimo.
+
+
+Para estos casos la ley prevé que la administración concursal ponga en conocimiento del juez la delicada situación para que éste, a su vez, lo dé a conocer a las partes afectadas. Esto es así porque la insuficiencia de dinero para hacer frente a estos créditos es una de las causas previstas en nuestra legislación para concluir forzosamente el concurso tal y como nos dice el artículo 465 de la ley concursal. En fin, desde este momento deberemos remitirnos al artículo 250 de la ley concursal para saber cuáles son los créditos que no pueden dejarse sin pagar y cómo se va a distribuir el poco dinero que se tenga.
+
+
+El orden de preferencia que establece este artículo es el siguiente. 1. Créditos imprescindibles para hacer frente a la liquidación, porque sin ese dinero la concursada ni siquiera podría salir del concurso. Y chicos, tranquilos, no os agobiéis intentando descifrar cuáles son esos créditos porque en cada concurso pueden variar.
+
+
+Los fija el administrador concursal atendiendo a las características propias del concurso. 2. Créditos salariales. Los trabajadores siempre van a cobrar, por poco que sea.
+
+
+3. Alimentos, teniendo en cuenta que la cantidad de dinero destinada a cubrir este importe no podrá superar el salario mínimo interprofesional. 4. Costas y gastos judiciales. Y 5. El resto de los créditos contra la masa.
+
+
+Si aún así no hubiera suficiente dinero para pagar íntegramente cada crédito, el reparto se haría a prorata dentro de cada categoría de créditos. Y hasta aquí la tontería de los créditos contra la masa. Es farragoso, ¿eh? Bueno, pues vamos a hacer el resumen final.
+
+
+Lo que hemos aprendido hoy se resume fácilmente en que la ley concursal actual distingue dos grandes categorías de créditos. Los créditos concursales, que estudiaremos en la lección siguiente, y los créditos contra la masa o créditos extraconcursales. Aquí es súper importante que recordéis que, aunque los dos tipos de créditos son deudas, los créditos contra la masa no forman parte de la masa pasiva y, por tanto, los acreedores de este tipo de créditos tampoco formarán parte de la lista de acreedores que haga la administración concursal, porque tienen un carácter especial y preferente.
+
+
+También hemos aprendido que los créditos contra la masa se clasifican en el artículo 242 de la ley concursal y que no todos sus acreedores tendrán la misma preferencia de cobro ni cobrarán al mismo tiempo. La regla general es que los créditos contra la masa se cobren a sus respectivos vencimientos, cuando sean ya exigibles, salvo en el caso de los créditos salariales, que se cobran inmediatamente. La excepción a esa regla general es la que permite que la administración concursal reordene la preferencia de los créditos y el momento de cobro de éstos, si ello fuera bueno para el interés del concurso y, además, se tuviera dinero suficiente para pagarlos todos.
+
+
+Por último, hemos visto que en los casos en los que el concursado no tenga ni siquiera una masa activa suficiente para hacer frente a estos créditos especiales, el concurso deberá finalizar obligatoriamente y entrar en la fase de liquidación, lo que se estudiará más adelante en profundidad. El pago de los créditos, en este caso, deberá hacerse conforme al orden de preferencia previsto en el artículo 250 de la ley concursal y, si aún así no hubiera dinero suficiente para cubrirlos íntegramente, el reparto se hará a prorata dentro de cada categoría. En fin chicos, esperamos que os hayáis quedado con las ideas básicas.
+
+
+Ahora a descansar y a coger fuerzas. ¡Nos vemos en el próximo vídeo, concursalistas!
+

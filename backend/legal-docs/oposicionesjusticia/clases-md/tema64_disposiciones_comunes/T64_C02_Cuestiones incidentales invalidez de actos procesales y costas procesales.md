@@ -1,0 +1,89 @@
+# Disposiciones Comunes
+
+## Cuestiones incidentales invalidez de actos procesales y costas procesales
+
+**Tema:** Disposiciones Comunes  
+**Clase:** T64_C02  
+**Archivo:** T64_C02_Cuestiones incidentales invalidez de actos procesales y costas procesales.txt  
+**Tipo:** Material de Clase  
+**Categoría:** Oposiciones de Justicia  
+
+---
+
+Muy buenas a todos, muy buenas a todas. Bienvenido, bienvenida a una nueva clase de Derecho Virtual. Si te hablo de las cuestiones incidentales en el orden contencioso administrativo, ¿sabrías decirme a qué me refiero? ¿Cuál sería su tratamiento en el procedimiento? Imagina ahora que estás llevando a cabo un caso en el orden contencioso administrativo y te das cuenta de que uno de los actos de la otra parte no cumple con los requisitos legales.
+
+
+¿Qué harías en esta situación? ¿Y cómo crees que el Tribunal debería abordar este tipo de situaciones? Y ya por último, ¿en un procedimiento contencioso administrativo quién será responsable de pagar las costas procesales y en qué situaciones crees que se imponen? ¿Tienen las costas procesales un tratamiento diferente en este procedimiento por ser precisamente una de las partes de la administración? Interesante, ¿verdad? Pues te invito a que prestes atención a la clase de hoy porque en poco más de 12 minutos te voy a explicar de una forma clara y sencilla todas estas cuestiones que pueden suscitarse en un proceso contencioso administrativo y que seguro te resultarán de interés en tus oposiciones y en tu práctica futura. Así que, ¿estás preparado? ¿Estás preparada? ¡Pues vamos al lío! En primer lugar, recuerda que todas estas cuestiones se abordan en el título VI de la Ley de la Jurisdicción Contencioso Administrativo relativo a las disposiciones comunes a los títulos IV y V, concretamente en el capítulo III sobre los incidentes y invalidez de actos procesales, previsto en los artículos 137 y 138, y en el capítulo IV centrado en las costas procesales a que se refiere el artículo 139 de la Ley de la Jurisdicción Contencioso Administrativa. Pero vayamos por partes.
+
+
+¿A qué se refiere la ley cuando habla de cuestiones incidentales? Pues mira, las cuestiones incidentales son aquellas que, siendo diferentes de las que constituyen el objeto principal del proceso contencioso administrativo, están directamente relacionadas con él y requieren de una decisión específica diferente y especial o previa a esa cuestión principal. Pero seguro que el término cuestiones incidentales ya te suena al haber estudiado la parte de la Ley de Enguchamiento Civil, ¿verdad? Bueno, pues lo curioso en el orden contencioso administrativo es que la Ley de la Jurisdicción Contencioso Administrativa, a pesar de que a lo largo de su articulado contiene referencias a incidentes, no recoge, a diferencia de la Ley de Enguchamiento Civil, una regulación genérica para la tramitación de las mismas. En este sentido, en su artículo 137 se limita a señalar que todas las cuestiones incidentales que se sustiten en el proceso se sustanciarán en piezas separadas y sin suspender el curso de los autos.
+
+
+Como puedes ver, la Ley de la Jurisdicción Contencioso Administrativa ni define ni concreta las que haya de entenderse por tales, ni tampoco establece un procedimiento de carácter general que determine cómo sean de sustanciar las cuestiones incidentales, y ello a pesar de que, a lo largo de la propia ley, se recoge un importante número de cuestiones incidentales o incidentes. Dicho de otra forma, la Ley de la Jurisdicción Contencioso Administrativa no abarca ni regula todas las cuestiones incidentales que pueden surgir en el proceso contencioso administrativo, de manera que pueden presentarse incidentes que sin tener una regulación específica en la Ley de la Jurisdicción Contencioso Administrativa se encuentran regulados en otras normas. Así que, volviendo a lo dispuesto en la regulación de la Ley de la Jurisdicción Contencioso Administrativa, lo que tienes que saber acerca de estas cuestiones incidentales o incidentes es que cualquier asunto adicional o incidental que surja durante el proceso legal se tratará por separado en un procedimiento independiente y no detendrá ni tampoco interrumpirá el curso normal del caso principal.
+
+
+En otras palabras, si surgen cuestiones secundarias o incidentales durante un juicio o proceso legal, no se tratarán como parte integral del caso principal, sino que se abordarán por separado sin retrasar o detener el proceso principal. Esto permite que el caso principal continúe su curso sin interrupciones significativas debido precisamente a asuntos secundarios que puedan ir surgiendo. Íntimamente relacionado con las cuestiones incidentales es el tema de la invalidez de actos procesales.
+
+
+Respecto a esta cuestión, el artículo 138 de la Ley de la Jurisdicción Contencioso Administrativa viene a recoger dos posibilidades. La primera de ellas, cuando una de las partes en un caso comete un error o no cumple con ciertos requisitos legales en sus acciones, y es la otra parte la que alega ese error. En lugar de detener todo el proceso legal de inmediato debido a este error o defecto, se le da a la parte la oportunidad de corregirlo o presentar su argumento en un plazo de 10 días a partir de la notificación de la alegación.
+
+
+Esto permite que el proceso legal continúe sin ningún tipo de interrupciones excesivas. Y en segundo lugar, cuando es el juzgado o el tribunal el que de oficio aprecia la existencia de algún defecto subsanable. En este caso, el letrado de la Administración de Justicia dictará diligencia de ordenación poniendo de manifiesto ese defecto y otorgando un plazo de 10 días a la parte que haya incurrido en él mismo para que lo subsane con suspensión, en su caso, del fijado para dictar sentencia.
+
+
+Sin embargo, sólo si el defecto es de tal naturaleza que no se puede corregir o si el mismo no se corrige adecuadamente dentro del plazo establecido, entonces el asunto podría ser decidido en función de ese defecto. En otras palabras, si el problema no se soluciona a tiempo o es irreparable, el caso podría avanzar considerando ese defecto como parte de la decisión final. Lo cual, por otro lado, viene a coincidir con lo establecido en la Ley Orgánica del Poder Judicial, concretamente en su artículo 240, y supone, por lo tanto, declarar la nulidad de todas las actuaciones o de alguna en particular.
+
+
+Recuerda que el principio de conservación de actos conlleva que, siempre que sea posible y resulte compatible con la propia naturaleza y finalidad de los actos procesales, se procurará —y así se impone a los órganos jurisdiccionales, concretamente por el artículo 243, apartado 3 de la Ley Orgánica del Poder Judicial— su subsanación. Por lo tanto, los juzgados y triunales deberán resolver siempre sobre las pretensiones que se les formulen y sólo podrán desestimarlas por motivos formales cuando el defecto fuese insubsanable o no se subsanare en tiempo o por el procedimiento legalmente establecido. Pero veámoslo mejor con un ejemplo.
+
+
+Imagina que una empresa presenta una demanda contra una administración alegando que esta última ha tomado una decisión que les afecta negativamente en términos económicos. Durante el proceso, la empresa presenta una serie de documentos que en principio deberían ser fundamentales para su caso. Sin embargo, la parte contraria —recuerda la Administración— señala que algunos de esos documentos presentados por la empresa tienen errores formales, como fechas incorrectas o firmas ilegibles.
+
+
+La Administración, de acuerdo con lo dispuesto en la Ley de la Jurisdicción Contentiosa Administrativa, plantea entonces una cuestión incidental alegando que estos documentos no cumplen con los requisitos legales. El Tribunal, siguiendo con lo que establece la ley, da un plazo de 10 días a la empresa para subsanar estos defectos o para presentar argumentos en contra de la alegación de la Administración. Si la empresa corrige los errores o presenta argumentos sólidos dentro de plazo, el Tribunal considerará esos documentos como parte del caso.
+
+
+Sin embargo, si la empresa no corrige los errores a tiempo o si estos son insubsanables, el Tribunal podría decidir no considerar esos documentos al tomar su decisión final sobre el caso. Este ejemplo ilustra cómo en el orden contencioso administrativo los tribunales pueden abordar cuestiones incidentales relacionadas con defectos formales en los actos de las partes y cómo estos defectos pueden afectar el curso del proceso. Y ahora, otra cuestión que creo que te va a resultar interesante en el orden contencioso administrativo, las costas procesales.
+
+
+Como bien sabes, las costas en el contencioso administrativo son los gastos económicos asociados al litigio, es decir, las cargas económicas que cada una de las partes involucradas en un procedimiento judicial de este tipo debe sufragar. Estos gastos incluyen no sólo los relacionados con el litigio en sí, sino también los honorarios de los profesionales que participan en el proceso, como abogados, procuradores y peritos, principalmente. ¿Pero sabías que la regla general en la jurisdicción contenciosa administrativa era la no imposición de las costas procesales en la primera instancia? Pues sí, la ley de la jurisdicción contenciosa administrativa sólo preveía estas cuando el juez apreciara mala feo temeridad en la parte que sostuviera su acción o interpusiera los recursos.
+
+
+Como bien te puedes imaginar, esto fomentaba la presentación de demanda sin fundamento, lo que llevaba a una litigiosidad excesiva y a la congestión de los tribunales y, por otro lado, castigaba a los ciudadanos con la obligación de asumir los costos legales de un proceso, incluso cuando tenían la razón de su lado. Pues bien, esta situación cambió con la Ley 37.2.11 de 10 de octubre, de medidas de agilización procesal, que introdujo el criterio del vencimiento para la imposición de las costas. Efectivamente, el artículo 139 de la ley de la jurisdicción contenciosa administrativa recoge el principio del vencimiento al establecer que, en primera o única instancia, el órgano jurisdiccional, al dictar sentencia o al resolver por auto los recursos o incidentes que ante el mismo se promovieren, impondrá las costas a la parte que haya visto rechazadas todas sus pretensiones, salvo que aprece y así lo razone, que el caso presentaba serias dudas de hecho o de derecho.
+
+
+Por lo tanto, y en principio, las costas en el contencioso administrativo se imponen a la parte que no haya visto admitidas sus pretensiones. Pero, ojo, porque, tal y como se desprende del propio artículo 139, se pueden dar varias situaciones. Ser condenado a la totalidad de las costas, o ser condenado a una parte de las costas, ser condenado hasta un límite o cifra máxima, o incluso no ser condenado por las dudas de hecho o de derecho que pueda presentar el caso.
+
+
+Y aquí es donde, precisamente, viene lo interesante, porque, a pesar de este nuevo régimen de imposición de costas introducido por la reforma antes mencionada, lo cierto es que los juzgados y tribunales pueden hacer uso de la facultad que les concede el propio apartado tercero de ese artículo 139 de la Ley de la Jurisdicción Contenciosa Administrativa, según el cual la imposición de las costas podrá ser a la totalidad, a una parte de estas o hasta una cifra máxima. O, dicho de otra forma, los juzgados y tribunales tienen una facultad de moderación a la hora de fijar las cuantías de esas costas procesales. Pero no crees que tiene poco sentido que se le reconozcan las costas a una de las partes que ha visto estimadas sus pretensiones, si luego los tribunales pueden hacer uso de esa facultad moderadora especialmente cuando a quien se imponen las costas es a la Administración Pública? De hecho, esto puede llegar a provocar que cada titular de cada uno de los órganos de la Jurisdicción Contenciosa Administrativa puedan decidir hacer uso o no de esta posibilidad de limitación de costas y hacerlo en cada caso como considero oportuno, lo que sin duda puede conllevar una merma considerable del principio de seguridad jurídica.
+
+
+Te pongo un ejemplo para que lo veas más claro. Imagina que María presenta un recurso ante un juzgado central de lo contencioso administrativo. El juzgado, dando íntegramente la razón a María, condena a la Administración al pago de 65.000 euros, pero cuando llega el momento de imponer las costas, el tribunal, haciendo uso discrecional de su facultad moderadora, reduce significativamente la cantidad que la Administración debe pagar y la condena al pago de 300 euros en concepto de costas.
+
+
+En definitiva, una cuantía que no refleja ni de lejos los gastos reales en los que incurrió María para que la justicia le diera la razón. Y ello a pesar de que el importe de las costas en el contencioso administrativo deben guardar proporción con la cuantía del procedimiento y con el esfuerzo profesional que han de realizar en defensa de sus intereses, siendo en todo caso orientativas, las normas de los colegios de abogados. Y no es que lo diga yo, ¿eh? Esto es algo que ha venido considerando de forma reiterada el TSJ.
+
+
+De ahí que en la práctica, por desgracia, se den situaciones totalmente dispares que no nos permiten determinar a priori la cuantía a la que pueda ascender una posible condena en costas. En cualquier caso, y sin perjuicio de esa facultad moderadora de los Juegos o Triunales a la que acabamos de referirnos, no existe una disposición específica en la Ley de la Judición Contenciosa Administrativa que regule el procedimiento de tasación de costas, por lo que se va a aplicar de forma subsidiaria la normativa contenida en la Ley de Injuiciamiento Civil en lo que respecta a la tasación de costas. Te lo recuerdo muy brevemente.
+
+
+Se inicia con un escrito dirigido al Juzgado Triunal que conoció el caso, en el que se solicita que el letrado de la Administración de Justicia lleve a cabo la tasación de costas. Este escrito debe estar respaldado por facturas y documentos que detallen los conceptos que conforman las costas. Es el letrado de la Administración de Justicia el encargado de calcular y detallar el importe de las mismas.
+
+
+Una vez tasadas las costas, se notifica a las partes el detalle de las mismas, concediéndoles un plazo generalmente de 10 días para presentar alegaciones o impugnaciones si no están de acuerdo con esta tasación realizada. Si las partes no presentan alegaciones o manifiestan estar de acuerdo con la tasación, el letrado de la Administración de Justicia aprobará la tasación de costas. En cualquier caso, si alguna de las partes no esté de acuerdo con esa tasación aprobada, podrá interponer un recurso de revisión para impugnarla.
+
+
+Y, por último, otra cuestión que creo que también te va a resultar interesante. La Ley de la Jurisdicción Contediosa Administrativa en su artículo 139, apartado V, establece que para la exacción de las costas impuestas a particulares, la Administración acreedora utilizará el procedimiento de apremio en defecto de pago voluntario. Es decir, ante el impago por parte del administrado, la Administración pública puede cobrar dicho importe mediante el procedimiento de apremio.
+
+
+Y ahora, atento, atenta, porque ahí va mi pregunta. ¿Qué ocurre cuando es la Administración la que no abona de forma voluntaria las costas a la que ha sido condenada en el proceso contencioso administrativo? Recuerda que el artículo 139, apartado V, únicamente es válido para el cobro de las costas impuestas a particulares en el orden contencioso administrativo. Así que, para el cobro de las costas impuestas a una Administración, se deben seguir las normas contenidas en la Ley de Enjuiciamiento Civil por remisión expresa de este apartado VI del artículo 139.
+
+
+Por tanto, la ejecución de dichas costas, previo a su tasación, será en todo caso una ejecución judicial y nunca administrativa, como en el caso del cobro de las costas de los particulares. En estos casos, la Administración pública, ante el impago por parte del administrado, puede cobrar dicho importe mediante el procedimiento a premio regulado en el Reglamento General de Recaudación, siendo este de carácter administrativo. En resumen, de la dicción literal del artículo 139 de la Ley de la Jurisdicción Social, se desprende que, en materia de costas, el criterio general es del vencimiento, es decir, quien pierde paga, aunque es posible, la exclusión de la imposición de costas a quien vea totalmente rechazadas sus pretensiones, eso sí, previa apreciación realizada por el juzgador, en la que motive que el caso presenta serias dudas de hecho o de derecho que justifican no imponer esas costas al vencido, por no hablar de la facultad moderadora que se reconoce a los juzgados y tribunales a la hora de fijar los límites máximos de las cuantías de las costas.
+
+
+Así que no nos engañemos, lo cierto, y a pesar de la reforma, es que sigue existiendo una cierta pereza en los tribunales a la hora de condenar en costas a quien ve desestimadas íntegramente sus pretensiones y más si esa parte es la Administración pública. Bueno opositores, espero que con esta visión un poco más práctica os haya resultado más interesante el tema de la invalidez de los actos procesales y de las costas en el orden contencioso administrativo. Gracias por estar ahí como siempre y mucho ánimo con el estudio.
+
+
+Nos vemos en la siguiente clase.
+

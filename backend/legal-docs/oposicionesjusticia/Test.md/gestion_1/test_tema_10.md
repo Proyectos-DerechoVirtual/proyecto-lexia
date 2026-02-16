@@ -1,0 +1,1862 @@
+## Pregunta 1
+**Señale la respuesta correcta atendiendo al archivo electrónico de documentos:**
+
+**Opciones:**
+- 1)Los documentos electrónicos que contengan actos procesales que afecten a derechos o intereses de los particulares deberán conservarse en soportes de esta naturaleza.
+- 2)Los medios o soportes en que se almacenen documentos deberán contar con medidas de seguridad que garanticen la integridad, autenticidad, confidencialidad, calidad, protección y conservación de los documentos almacenados.
+- 3)Podrán almacenarse por medios electrónicos todos los documentos utilizados en las actuaciones judiciales.
+- 4)Todas son correctas.
+
+**Respuesta correcta:** 4
+
+**Explicación (correcta):**  
+¡Muy bien! Según el art. 29 de la Ley 18/2011, todas las opciones presentadas son correctas respecto al archivo electrónico de documentos.
+
+**Explicación (errada):**  
+Lamentablemente, tu respuesta no es correcta. Según el art. 29 de la Ley 18/2011, todas las opciones presentadas son correctas respecto al archivo electrónico de documentos. (Respuesta correcta 4)
+
+---
+
+## Pregunta 2
+**¿Qué Libro de la Ley Orgánica del Poder Judicial (LOPJ) está dedicado a la Oficina Judicial?**
+
+**Opciones:**
+- 1)El Libro III.
+- 2)El Libro IV.
+- 3)El Libro V.
+- 4)El Libro VI.
+
+**Respuesta correcta:** 3
+
+**Explicación (correcta):**  
+¡Muy bien! El Libro V de la LOPJ, tras la reforma de 2025, se titula "De la coordinación entre administraciones, la Oficina judicial y los letrados y letradas de la Administración de Justicia".
+
+**Explicación (errada):**  
+Lamentablemente, tu respuesta no es correcta. El Libro V de la LOPJ es el que regula la Oficina Judicial. (Respuesta correcta 3)
+
+---
+
+## Pregunta 3
+**La LOPJ establece que la actividad de la Oficina judicial se realizará a través de:**
+
+**Opciones:**
+- 1)Los servicios comunes.
+- 2)Las unidades procesales.
+- 3)Las secciones administrativas.
+- 4)Los órganos de apoyo directo.
+
+**Respuesta correcta:** 1
+
+**Explicación (correcta):**  
+¡Muy bien! Según el art. 436.1 de la LOPJ, tras la reforma de 2025, la actividad de la Oficina judicial se realiza a través de los servicios comunes.
+
+**Explicación (errada):**  
+Lamentablemente, tu respuesta no es correcta. El art. 436.1 de la LOPJ establece que el elemento estructural de la Oficina judicial son los servicios comunes. (Respuesta correcta 1)
+
+---
+
+## Pregunta 4
+**Según el art. 436 de la LOPJ, la Oficina Judicial se articula en servicios comunes, que comprenderán:**
+
+**Opciones:**
+- 1)Los servicios comunes procesales y los servicios comunes gubernativos.
+- 2)Los servicios comunes de tramitación y, en su caso, otros servicios comunes que se determinen.
+- 3)Los servicios de apoyo directo y los servicios de ejecución.
+- 4)Los servicios de ordenación del procedimiento y los servicios de auxilio judicial.
+
+**Respuesta correcta:** 2
+
+**Explicación (correcta):**  
+¡Muy bien! Según el art. 436.1 de la LOPJ, la Oficina judicial distingue dos tipos de servicios comunes: los de tramitación y otros que puedan determinarse.
+
+**Explicación (errada):**  
+Lamentablemente, tu respuesta no es correcta. El art. 436.1 de la LOPJ establece que la Oficina judicial se estructura en servicios comunes de tramitación y, en su caso, otros servicios comunes. (Respuesta correcta 2)
+
+---
+
+## Pregunta 5
+**¿Cuál es la función principal del Servicio Común de Tramitación, según el art. 437 de la LOPJ?**
+
+**Opciones:**
+- 1)Realizar exclusivamente los actos de comunicación.
+- 2)Archivar y registrar la documentación de todos los órganos judiciales del partido.
+- 3)Realizar todas las funciones requeridas para la ordenación del procedimiento.
+- 4)Dar apoyo a la Presidencia del Tribunal de Instancia en sus funciones gubernativas.
+
+**Respuesta correcta:** 3
+
+**Explicación (correcta):**  
+¡Muy bien! Según el art. 437.1 de la LOPJ, el servicio común de tramitación es la unidad de la Oficina judicial que realiza todas las funciones requeridas para la ordenación del procedimiento.
+
+**Explicación (errada):**  
+Lamentablemente, tu respuesta no es correcta. El art. 437.1 de la LOPJ define el servicio común de tramitación como la unidad que asume las funciones de ordenación del procedimiento. (Respuesta correcta 3)
+
+---
+
+## Pregunta 6
+**Según el art. 436 de la LOPJ, ¿cuál de los siguientes no es un ámbito de apoyo previsto para la Oficina Judicial?**
+
+**Opciones:**
+- 1)De comunidad autónoma.
+- 2)Intracomunitario.
+- 3)De partido judicial.
+- 4)Comarcal.
+
+**Respuesta correcta:** 2
+
+**Explicación (correcta):**  
+¡Muy bien! Según el art. 436.3 de la LOPJ, la Oficina Judicial puede prestar apoyo en el ámbito nacional, de CCAA, provincial, de partido judicial o comarcal. El ámbito intracomunitario (Unión Europea) no está previsto.
+
+**Explicación (errada):**  
+Lamentablemente, tu respuesta no es correcta. Según el art. 436.3 de la LOPJ, el ámbito Intracomunitario no está previsto como ámbito competencial de la Oficina Judicial. (Respuesta correcta 2)
+
+---
+
+## Pregunta 7
+**Según el art. 436.5 de la LOPJ, los servicios comunes podrán estructurarse en:**
+
+**Opciones:**
+- 1)Equipos, exclusivamente.
+- 2)Departamentos y negociados.
+- 3)Áreas y, si el servicio lo requiere, en equipos.
+- 4)Secciones y subsecciones.
+
+**Respuesta correcta:** 3
+
+**Explicación (correcta):**  
+¡Muy bien! Según el art. 436.5 de la LOPJ, para flexibilizar su funcionalidad, los servicios comunes podrán estructurarse en áreas y, dentro de estas, en equipos.
+
+**Explicación (errada):**  
+Lamentablemente, tu respuesta no es correcta. Según el art. 436.5 de la LOPJ, los servicios comunes pueden subdividirse en áreas y equipos. (Respuesta correcta 3)
+
+---
+
+## Pregunta 8
+**Según el art. 435 de la LOPJ, la Oficina Judicial es la organización de carácter instrumental que sirve de soporte y apoyo a la actividad:**
+
+**Opciones:**
+- 1)Exclusivamente jurisdiccional de Jueces y Tribunales.
+- 2)Jurisdiccional de Jueces y Tribunales.
+- 3)Jurisdiccional y gubernativa de Jueces, Tribunales y Fiscalías.
+- 4)De los Letrados de la Administración de Justicia.
+
+**Respuesta correcta:** 2
+
+**Explicación (correcta):**  
+¡Muy bien! Según el art. 435.1 de la LOPJ, la Oficina Judicial es la organización instrumental que sirve de soporte y apoyo a la actividad jurisdiccional de Jueces y Tribunales.
+
+**Explicación (errada):**  
+Lamentablemente, tu respuesta no es correcta. Según el art. 435.1 de la LOPJ, la Oficina Judicial es la organización instrumental que sirve de soporte y apoyo a la actividad jurisdiccional de Jueces y Tribunales. (Respuesta correcta 2)
+
+---
+
+## Pregunta 9
+**Según la LOPJ, la estructura básica de la Oficina Judicial será:**
+
+**Opciones:**
+- 1)Única en todo el territorio nacional como consecuencia del carácter único del Poder al que sirve.
+- 2)Heterogénea en todo el territorio nacional como consecuencia del carácter único del Poder al que sirve.
+- 3)Homogénea en todo el territorio nacional como consecuencia del carácter único del Poder al que sirve.
+- 4)Descentralizada en todo el territorio nacional como consecuencia del carácter único del Poder al que sirve.
+
+**Respuesta correcta:** 3
+
+**Explicación (correcta):**  
+¡Muy bien! Según el art. 435 de la LOPJ, la estructura básica de la Oficina Judicial será homogénea en todo el territorio nacional.
+
+**Explicación (errada):**  
+Lamentablemente, tu respuesta no es correcta. Según el art. 435 de la LOPJ, la estructura básica de la Oficina Judicial será homogénea en todo el territorio nacional. (Respuesta correcta 3)
+
+---
+
+## Pregunta 10
+**Según la LOPJ, la estructura básica de la Oficina Judicial, estará basada en principios de:**
+
+**Opciones:**
+- 1)Jerarquía.
+- 2)División de Funciones.
+- 3)Coordinación.
+- 4)Todas son correctas.
+
+**Respuesta correcta:** 4
+
+**Explicación (correcta):**  
+¡Muy bien! Según el art. 435 de la LOPJ, la estructura básica de la Oficina Judicial está basada en todos los principios mencionados.
+
+**Explicación (errada):**  
+Lamentablemente, tu respuesta no es correcta. Según el art. 435 de la LOPJ, la estructura básica de la Oficina Judicial está basada en todos los principios mencionados. (Respuesta correcta 4)
+
+---
+
+## Pregunta 11
+**Según la LOPJ, la Oficina Judicial funcionará con criterios de:**
+
+**Opciones:**
+- 1)Agilidad, Eficacia, Eficiencia, Racionalización del trabajo, Responsabilidad por la gestión, coordinación y pluralidad entre Administraciones.
+- 2)Agilidad, Eficacia, Eficiencia, Racionalización del trabajo, Descentralización por la gestión, coordinación y pluralidad entre Administraciones.
+- 3)Agilidad, Eficacia, Eficiencia, Racionalización del trabajo, Responsabilidad por la gestión, coordinación y cooperación entre Administraciones.
+- 4)Agilidad, Eficacia, Eficiencia, Racionalización del trabajo, Responsabilidad por la gestión, coordinación y Desconcentración entre Administraciones.
+
+**Respuesta correcta:** 3
+
+**Explicación (correcta):**  
+¡Muy bien! Según el art. 435 de la LOPJ, la Oficina Judicial funcionará con criterios de Agilidad, Eficacia, Eficiencia, Racionalización del trabajo, Responsabilidad por la gestión, coordinación y cooperación entre Administraciones.
+
+**Explicación (errada):**  
+Lamentablemente, tu respuesta no es correcta. Según el art. 435 de la LOPJ, la Oficina Judicial funcionará con criterios de Agilidad, Eficacia, Eficiencia, Racionalización del trabajo, Responsabilidad por la gestión, coordinación y cooperación entre Administraciones. (Respuesta correcta 3)
+
+---
+
+## Pregunta 12
+**Según la LOPJ, señale la respuesta incorrecta:**
+
+**Opciones:**
+- 1)Los puestos de trabajo de la Oficina Judicial solo podrán ser cubiertos por personal de los Cuerpos de Funcionarios al Servicio de la Administración de Justicia.
+- 2)El diseño de la Oficina Judicial será flexible.
+- 3)El ámbito competencial de la Oficina Judicial podrá ser Comarcal.
+- 4)La Oficina Judicial no podrá prestar servicios en un municipio que sea sede de un Tribunal de Instancia.
+
+**Respuesta correcta:** 4
+
+**Explicación (correcta):**  
+¡Muy bien! La afirmación D es incorrecta. El art. 435.5 de la LOPJ prevé expresamente que en los municipios sede de un Tribunal de Instancia, la Oficina Judicial podrá prestar los servicios administrativos que en otros municipios prestan las Oficinas de Justicia en el municipio.
+
+**Explicación (errada):**  
+Lamentablemente, tu respuesta no es correcta. La afirmación D es incorrecta. El art. 435.5 de la LOPJ indica que la Oficina Judicial sí puede prestar servicios en un municipio que sea sede de Tribunal de Instancia. (Respuesta correcta 4)
+
+---
+
+## Pregunta 13
+**Según la LOPJ, los servicios comunes que componen la Oficina Judicial podrán desempeñar sus funciones al servicio de:**
+
+**Opciones:**
+- 1)Órganos de una misma jurisdicción.
+- 2)Órganos de varias jurisdicciones.
+- 3)Órganos especializados.
+- 4)Todas son correctas.
+
+**Respuesta correcta:** 4
+
+**Explicación (correcta):**  
+¡Excelente! Según el art. 436.4 de la LOPJ, los servicios comunes que componen la Oficina Judicial podrán desempeñar sus funciones al servicio de todas las opciones mencionadas.
+
+**Explicación (errada):**  
+Lo siento, tu respuesta no es correcta. Según el art. 436.4 de la LOPJ, los servicios comunes pueden desempeñar sus funciones al servicio de todas las opciones mencionadas. (Respuesta correcta 4)
+
+---
+
+## Pregunta 14
+**Según la LOPJ, una de las siguientes afirmaciones es correcta:**
+
+**Opciones:**
+- 1)En ningún caso, el ámbito de la oficina judicial puede modificar el número y composición de los órganos judiciales que constituyen la planta ni la circunscripción territorial de los mismos establecida por ley.
+- 2)Existirá una Oficina de Justicia en el municipio para cada Tribunal de Instancia.
+- 3)Excepcionalmente, los Jueces y Magistrados, en causas cuyo conocimiento tengan atribuido, podrán requerir en todo momento al funcionario responsable cuanta información consideren necesaria.
+- 4)Existirá un servicio común de tramitación por cada Sección de los Tribunales de Instancia.
+
+**Respuesta correcta:** 1
+
+**Explicación (correcta):**  
+¡Muy bien! Según el art. 436.4 de la LOPJ, en ningún caso el ámbito de la oficina judicial puede modificar el número y composición de los órganos judiciales que constituyen la planta ni la circunscripción territorial de los mismos establecida por ley.
+
+**Explicación (errada):**  
+Lamentablemente, tu respuesta no es correcta. De acuerdo con el art. 436.4 de la LOPJ, en ningún caso el ámbito de la oficina judicial puede modificar el número y composición de los órganos judiciales que constituyen la planta ni la circunscripción territorial de los mismos establecida por ley. (Respuesta correcta 1)
+
+---
+
+## Pregunta 15
+**Dispone el artículo 437 de la LOPJ que se entiende por servicio común de tramitación aquella unidad de la Oficina judicial que:**
+
+**Opciones:**
+- 1)Sin estar integrada en un órgano judicial concreto, asume labores centralizadas de gestión y apoyo.
+- 2)Realiza todas las funciones requeridas para la ordenación del procedimiento.
+- 3)Asiste a Jueces y Magistrados exclusivamente en las funciones de ejecución.
+- 4)Dirige el Letrado de la Administración de Justicia Coordinador Provincial.
+
+**Respuesta correcta:** 2
+
+**Explicación (correcta):**  
+¡Exacto! Según el art. 437.1 de la LOPJ, el servicio común de tramitación es aquella unidad de la Oficina Judicial que realiza todas las funciones requeridas para la ordenación del procedimiento.
+
+**Explicación (errada):**  
+Lo siento, esa respuesta no es acertada. El art. 437.1 de la LOPJ señala que el servicio común de tramitación es la unidad que se encarga de las funciones de ordenación del procedimiento. (Respuesta correcta 2)
+
+---
+
+## Pregunta 16
+**Señale la respuesta correcta en relación con la dirección de los servicios comunes de la Oficina judicial:**
+
+**Opciones:**
+- 1)La dirección de cada servicio común corresponderá a un Letrado de la Administración de Justicia.
+- 2)Existirá un único Letrado de la Administración de Justicia director para todos los servicios comunes de un mismo Tribunal de Instancia.
+- 3)La dirección de los servicios comunes podrá corresponder a un funcionario del Cuerpo de Gestión Procesal y Administrativa, si así lo prevé la RPT.
+- 4)La dirección de los servicios comunes corresponde a la Presidencia del Tribunal de Instancia.
+
+**Respuesta correcta:** 1
+
+**Explicación (correcta):**  
+¡Bien hecho! Según el art. 436.6 de la LOPJ, la dirección de cada servicio común corresponderá a un Letrado de la Administración de Justicia.
+
+**Explicación (errada):**  
+Lamentablemente, tu respuesta no es correcta. De acuerdo con el art. 436.6 de la LOPJ, cada servicio común estará dirigido por un Letrado de la Administración de Justicia. (Respuesta correcta 1)
+
+---
+
+## Pregunta 17
+**El diseño y organización de los servicios comunes de tramitación es competencia de:**
+
+**Opciones:**
+- 1)El Consejo General del Poder Judicial, a propuesta de la Sala de Gobierno.
+- 2)El Ministerio de Justicia y las comunidades autónomas en sus respectivos territorios.
+- 3)Las Juntas de Jueces y Juezas de cada Tribunal de Instancia.
+- 4)El Secretario de Gobierno del Tribunal Superior de Justicia correspondiente.
+
+**Respuesta correcta:** 2
+
+**Explicación (correcta):**  
+¡Correcto! Las dotaciones y el diseño de los servicios comunes de tramitación serán competencia del Ministerio de Justicia y de las CCAA en sus respectivos ámbitos territoriales, según el art. 437.3 de la LOPJ.
+
+**Explicación (errada):**  
+Esa respuesta no es la correcta. Según el art. 437.3 de la LOPJ, el diseño, la organización y las dotaciones de los servicios comunes de tramitación corresponden al Ministerio de Justicia y a las CCAA con competencias asumidas. (Respuesta correcta 2)
+
+---
+
+## Pregunta 18
+**Conforme a lo dispuesto en la Ley reguladora del uso de tecnologías de la información y la comunicación en la Administración Pública, ¿cómo será el uso de los sistemas informáticos puestos al servicio de la Administración de Justicia?**
+
+**Opciones:**
+- 1)Potestativo para las fiscalías y obligatorio para la actividad de los órganos y oficinas judiciales.
+- 2)Obligatorio para las fiscalías y potestativo para los órganos y oficinas judiciales.
+- 3)Obligatorio para la actividad de los órganos y oficinas judiciales y de las fiscalías.
+- 4)Potestativo para la actividad de los órganos y oficinas judiciales y de las fiscalías.
+
+**Respuesta correcta:** 3
+
+**Explicación (correcta):**  
+¡Muy bien! Según el art. 8 de la Ley 18/2011, el uso de los sistemas informáticos será obligatorio para la actividad de los órganos y oficinas judiciales y de las fiscalías.
+
+**Explicación (errada):**  
+Lamentablemente, tu respuesta no es correcta. De acuerdo con el art. 8 de la Ley 18/2011, el uso de los sistemas informáticos será obligatorio para la actividad de los órganos y oficinas judiciales y de las fiscalías. (Respuesta correcta 3)
+
+---
+
+## Pregunta 19
+**¿A qué se refiere el art. 439 de la LOPJ al regular las "unidades administrativas"?**
+
+**Opciones:**
+- 1)A la estructura básica en que se organizan los servicios comunes.
+- 2)A las antiguas secretarías de los Juzgados de Paz.
+- 3)A las Unidades de Mediación y Arbitraje adscritas a los Tribunales de Instancia.
+- 4)A unidades que, sin estar integradas en la Oficina judicial, prestan servicios necesarios para el funcionamiento de la Administración de Justicia.
+
+**Respuesta correcta:** 4
+
+**Explicación (correcta):**  
+¡Exacto! Las unidades administrativas, según el art. 439 de la LOPJ, son aquellas que, sin formar parte de la Oficina judicial, prestan servicios auxiliares o de apoyo, como los de gestión de personal, medios informáticos o de solución de controversias.
+
+**Explicación (errada):**  
+Lo siento, esa respuesta no es acertada. Las unidades administrativas se definen en el art. 439 de la LOPJ como aquellas que, externas a la Oficina Judicial, dan soporte a la Administración de Justicia. (Respuesta correcta 4)
+
+---
+
+## Pregunta 20
+**El periodo de vigencia de los certificados cualificados:**
+
+**Opciones:**
+- 1)No será superior a dos años.
+- 2)No será superior a tres años.
+- 3)No será superior a cuatro años.
+- 4)No será superior a cinco años.
+
+**Respuesta correcta:** 4
+
+**Explicación (correcta):**  
+¡Muy bien! El periodo de vigencia de los certificados cualificados no será superior a cinco años según el art. 4.2 de la Ley 6/2020, de 11 de noviembre.
+
+**Explicación (errada):**  
+Lamentablemente, tu respuesta no es correcta. Según el art. 4.2 de la Ley 6/2020, de 11 de noviembre, el periodo de vigencia de los certificados cualificados no será superior a cinco años. (Respuesta correcta 4)
+
+---
+
+## Pregunta 21
+**Las competencias que corresponden al CGPJ como autoridad de protección de datos respecto del tratamiento con fines jurisdiccionales se ejercerán por:**
+
+**Opciones:**
+- 1)La Comisión Permanente.
+- 2)La Comisión Disciplinaria.
+- 3)La Comisión de Supervisión y Control de Protección de Datos.
+- 4)El Pleno del Consejo General del Poder Judicial.
+
+**Respuesta correcta:** 3
+
+**Explicación (correcta):**  
+¡Correcto! El art. 236 nonies, en su nueva redacción, establece que estas competencias las ejercerá la nueva Comisión de Supervisión y Control de Protección de Datos, regulada en el art. 610 ter de la LOPJ.
+
+**Explicación (errada):**  
+Tu respuesta no es acertada. Según los arts. 236 nonies y 610 ter de la LOPJ, estas competencias corresponden a la Comisión de Supervisión y Control de Protección de Datos. (Respuesta correcta 3)
+
+---
+
+## Pregunta 22
+**Según el art. 439 ter de la LOPJ, ¿dónde se constituirán las Oficinas de Justicia en los municipios?**
+
+**Opciones:**
+- 1)En cada municipio donde no tenga su sede un Tribunal de Instancia.
+- 2)Únicamente en municipios de más de 7.000 habitantes que no sean capital de partido judicial.
+- 3)En todos los municipios de la provincia, con independencia de si son sede de un Tribunal de Instancia.
+- 4)Solo en aquellos municipios que lo soliciten a la Comunidad Autónoma y asuman su coste.
+
+**Respuesta correcta:** 1
+
+**Explicación (correcta):**  
+¡Correcto! El art. 439 ter.2 de la LOPJ establece que existirá una Oficina de Justicia en cada municipio donde no tenga su sede un Tribunal de Instancia.
+
+**Explicación (errada):**  
+Lamentablemente, no es correcto. De acuerdo con el art. 439 ter.2 de la LOPJ, estas oficinas se crean en todos los municipios que no son sede de un Tribunal de Instancia. (Respuesta correcta 1)
+
+---
+
+## Pregunta 23
+**Uno de los servicios que se prestarán desde las Oficinas de Justicia en los municipios, según el art. 439 quater LOPJ, es:**
+
+**Opciones:**
+- 1)La instrucción de juicios por delitos leves.
+- 2)La celebración de matrimonios civiles.
+- 3)La asistencia al juez o jueza de paz del municipio en el ejercicio de sus funciones.
+- 4)El registro de la propiedad de las fincas del municipio.
+
+**Respuesta correcta:** 3
+
+**Explicación (correcta):**  
+¡Exacto! Según el art. 439 quater.1.a) de la LOPJ, uno de los servicios fundamentales de estas oficinas es asistir al juez de paz en sus funciones.
+
+**Explicación (errada):**  
+Lamentablemente, tu respuesta no es correcta. De acuerdo con el art. 439 quater.1.a) de la LOPJ, estas oficinas asistirán al juez de paz en el ejercicio de sus funciones. (Respuesta correcta 3)
+
+---
+
+## Pregunta 24
+**De conformidad con el art. 230 de la LOPJ, los sistemas informáticos que se utilicen en la Administración de Justicia deberán ser compatibles entre sí para facilitar su comunicación e integración, en los términos que determine:**
+
+**Opciones:**
+- 1)El Consejo General del Poder Judicial.
+- 2)El Ministerio de Justicia.
+- 3)El Comité Técnico Estatal de la Administración de Justicia Electrónica.
+- 4)Las Comunidades Autónomas con las competencias atribuidas.
+
+**Respuesta correcta:** 3
+
+**Explicación (correcta):**  
+¡Bien hecho! Según el art. 230.6 LOPJ, los sistemas informáticos que se utilicen en la Administración de Justicia deben ser compatibles entre sí según lo determine el Comité Técnico Estatal de la Administración de Justicia Electrónica.
+
+**Explicación (errada):**  
+Tu respuesta no es correcta. De acuerdo con el art. 230.6 LOPJ, la determinación sobre la compatibilidad de los sistemas informáticos en la Administración de Justicia la hace el Comité Técnico Estatal de la Administración de Justicia Electrónica. (Respuesta correcta 3)
+
+---
+
+## Pregunta 25
+**Además de los servicios comunes de tramitación, el art. 438 de la LOPJ prevé otros servicios comunes que podrán realizar funciones de:**
+
+**Opciones:**
+- 1)Labores de seguridad y vigilancia de los edificios judiciales.
+- 2)Gestión de los recursos humanos de toda la provincia.
+- 3)Representación institucional del Tribunal de Instancia.
+- 4)Registro y reparto, actos de comunicación y auxilio judicial.
+
+**Respuesta correcta:** 4
+
+**Explicación (correcta):**  
+¡Exacto! La LOPJ prevé que el Ministerio de Justicia y las Comunidades autónomas creen otros servicios comunes que pueden realizar funciones de registro, reparto, actos de comunicación y auxilio judicial (nacional e internacional).
+
+**Explicación (errada):**  
+Lamentablemente, no has acertado. El art. 438 prevé que el Ministerio de Justicia y las Comunidades autónomas creen otros servicios comunes que pueden realizar funciones de registro, reparto, actos de comunicación y auxilio judicial (nacional e internacional). (Respuesta correcta 4)
+
+---
+
+## Pregunta 26
+**Una de las siguientes afirmaciones es correcta respecto a los servicios comunes distintos del de tramitación:**
+
+**Opciones:**
+- 1)Prestarán su apoyo exclusivamente a los órganos judiciales de la capital de la provincia.
+- 2)El Ministerio de Justicia y las Comunidades Autónomas en sus respectivos territorios serán competentes para su diseño, creación y organización.
+- 3)No ostentan funciones de registro y reparto, que corresponden en exclusiva al servicio común de tramitación.
+- 4)No pueden estructurarse internamente en áreas o equipos.
+
+**Respuesta correcta:** 2
+
+**Explicación (correcta):**  
+¡Exacto! De acuerdo con el art. 438 de la LOPJ, tanto el Ministerio de Justicia como las Comunidades Autónomas en sus respectivos territorios son competentes en cuanto al diseño, creación y organización de estos servicios.
+
+**Explicación (errada):**  
+La respuesta proporcionada no es correcta. Según el art. 438 de la LOPJ, el Ministerio de Justicia y las Comunidades Autónomas tienen competencia en el diseño, creación y organización de estos servicios. (Respuesta correcta 2)
+
+---
+
+## Pregunta 27
+**Según la LOPJ, no se encuentra entre las funciones que pueden realizar los servicios comunes distintos del de tramitación:**
+
+**Opciones:**
+- 1)Los actos de comunicación.
+- 2)La ordenación de procesos de ejecución.
+- 3)La ordenación de expedientes de jurisdicción voluntaria.
+- 4)La resolución de cuestiones sometidas a arbitraje.
+
+**Respuesta correcta:** 4
+
+**Explicación (correcta):**  
+¡Correcto! Conforme al art. 438 de la LOPJ, el arbitraje es una función jurisdiccional y no una labor de apoyo procesal, por lo que no puede ser asumida por los servicios comunes.
+
+**Explicación (errada):**  
+La respuesta dada no es correcta. De acuerdo con el art. 438 de la LOPJ, resolver cuestiones de arbitraje es una función jurisdiccional que excede las competencias de los servicios comunes. (Respuesta correcta 4)
+
+---
+
+## Pregunta 28
+**Según la LOPJ, ¿quiénes pueden solicitar al Ministerio de Justicia y a las Comunidades Autónomas la creación de servicios comunes?**
+
+**Opciones:**
+- 1)Las Salas de Gobierno y las Juntas de Jueces y Juezas.
+- 2)Las Juntas de Jueces y Juezas y los Secretarios de Gobierno de los TSJ.
+- 3)Las Salas de Gobierno y los Secretarios de Gobierno de los TSJ.
+- 4)Las Salas de Gobierno, las Juntas de Jueces y Juezas y los Secretarios de Gobierno de los TSJ.
+
+**Respuesta correcta:** 4
+
+**Explicación (correcta):**  
+¡Acertado! Según el art. 438 de la LOPJ, tanto las Salas de Gobierno como las Juntas de Jueces y Juezas y los Secretarios de Gobierno de los TSJ pueden solicitar la creación de servicios comunes.
+
+**Explicación (errada):**  
+La respuesta seleccionada no es correcta. El art. 438 de la LOPJ establece que las Salas de Gobierno, las Juntas de Jueces y Juezas y los Secretarios de Gobierno de los TSJ tienen la capacidad de solicitar la creación de servicios comunes. (Respuesta correcta 4)
+
+---
+
+## Pregunta 29
+**¿Pueden los servicios comunes asumir otras funciones distintas a las relacionadas en el art. 438 de la LOPJ?**
+
+**Opciones:**
+- 1)Sí, si lo autoriza el Ministerio de Justicia.
+- 2)Sí, si lo autoriza la Sala de Gobierno del TSJ correspondiente.
+- 3)Sí, en cuyo caso será preciso el informe favorable del Consejo General del Poder Judicial.
+- 4)No, sus funciones son una lista cerrada.
+
+**Respuesta correcta:** 3
+
+**Explicación (correcta):**  
+¡Exacto! Conforme al art. 438, párrafo segundo, de la LOPJ, se pueden crear servicios comunes con otras funciones, pero será preciso el informe favorable del CGPJ.
+
+**Explicación (errada):**  
+La respuesta proporcionada no es correcta. El art. 438, párrafo segundo, de la LOPJ indica que para que los servicios comunes realicen funciones adicionales, es necesario un informe favorable del CGPJ. (Respuesta correcta 3)
+
+---
+
+## Pregunta 30
+**Según la LOPJ, los servicios comunes podrán estructurarse en:**
+
+**Opciones:**
+- 1)Equipos, y estos a su vez, si el servicio lo requiere, en áreas.
+- 2)Áreas, y estas a su vez, si el servicio lo requiere, en equipos.
+- 3)Unidades, y estas a su vez, si el servicio lo requiere, en Módulos.
+- 4)Módulos, y estos a su vez, si el servicio lo requiere, en Unidades.
+
+**Respuesta correcta:** 2
+
+**Explicación (correcta):**  
+¡Correcto! Conforme al art. 436.5 de la LOPJ, los servicios comunes, para flexibilizar su funcionalidad, podrán estructurarse en áreas y, dentro de estas, en equipos.
+
+**Explicación (errada):**  
+La respuesta dada no es correcta. Según el art. 436.5 de la LOPJ, los servicios comunes se estructuran en áreas y, cuando es necesario, en equipos. (Respuesta correcta 2)
+
+---
+
+## Pregunta 31
+**Según la LOPJ, al frente de cada servicio común de la Oficina Judicial habrá:**
+
+**Opciones:**
+- 1)Un Letrado de la Administración de Justicia.
+- 2)Un Funcionario del Cuerpo de Gestión Procesal y Administrativa.
+- 3)Un Fiscal.
+- 4)Un Magistrado-Juez.
+
+**Respuesta correcta:** 1
+
+**Explicación (correcta):**  
+¡Exacto! Según el art. 436.6 de la LOPJ, la dirección de cada servicio común corresponderá a un Letrado de la Administración de Justicia.
+
+**Explicación (errada):**  
+La respuesta proporcionada no es correcta. De acuerdo con el art. 436.6 de la LOPJ, un Letrado de la Administración de Justicia estará al frente de cada servicio común. (Respuesta correcta 1)
+
+---
+
+## Pregunta 32
+**¿Qué nuevo órgano, según el art. 434 ter de la LOPJ, se encargará de proponer mejoras y fijar estándares de calidad homogéneos en el servicio público de Justicia?**
+
+**Opciones:**
+- 1)El Consejo General del Poder Judicial.
+- 2)El Comité Técnico Estatal de la Administración Judicial Electrónica.
+- 3)La Comisión para la Calidad del servicio público de Justicia.
+- 4)El Consejo del Secretariado.
+
+**Respuesta correcta:** 3
+
+**Explicación (correcta):**  
+¡Correcto! La LO 1/2025 crea en el art. 434 ter la Comisión para la Calidad del servicio público de Justicia, con la función de valorar la eficiencia y proponer mejoras y estándares comunes.
+
+**Explicación (errada):**  
+La respuesta dada no es correcta. El art. 434 ter de la LOPJ, introducido por la LO 1/2025, crea la Comisión para la Calidad del servicio público de Justicia con estas funciones. (Respuesta correcta 3)
+
+---
+
+## Pregunta 33
+**Corresponde a la Presidencia del Tribunal de Instancia, entre otras funciones:**
+
+**Opciones:**
+- 1)Dirigir la actividad jurisdiccional de los jueces y magistrados.
+- 2)Promover la unificación de criterios y prácticas entre los distintos jueces y magistrados del Tribunal.
+- 3)Aprobar las normas de reparto de asuntos entre las diferentes Secciones.
+- 4)Sancionar disciplinariamente al personal de los servicios comunes.
+
+**Respuesta correcta:** 2
+
+**Explicación (correcta):**  
+¡Correcto! De acuerdo con el art. 168.2.e) de la LOPJ, una de las funciones de la Presidencia del Tribunal de Instancia es promover la unificación de criterios y prácticas.
+
+**Explicación (errada):**  
+La respuesta seleccionada no es correcta. El art. 168.2.e) de la LOPJ atribuye a la Presidencia del Tribunal de Instancia la función de promover la unificación de criterios y prácticas. (Respuesta correcta 2)
+
+---
+
+## Pregunta 34
+**Las actuaciones judiciales, según el art. 229.3 de la LOPJ:**
+
+**Opciones:**
+- 1)Podrán realizarse a través de videoconferencia u otro sistema similar, asegurando en todo caso la posibilidad de contradicción de las partes y la salvaguarda del derecho de defensa.
+- 2)No podrán realizarse por videoconferencia si una de las partes se opone, aunque no motive su negativa.
+- 3)Deberán realizarse presencialmente, salvo que el Letrado de la Administración de Justicia autorice el uso de videoconferencia.
+- 4)La identidad de los intervinientes por videoconferencia solo podrá acreditarse mediante comparecencia previa en la sede judicial.
+
+**Respuesta correcta:** 1
+
+**Explicación (correcta):**  
+¡Correcto! Según el art. 229.3 LOPJ, las actuaciones judiciales pueden llevarse a cabo mediante videoconferencia, garantizando siempre la posibilidad de contradicción entre las partes y la protección del derecho de defensa.
+
+**Explicación (errada):**  
+La respuesta proporcionada no es correcta. El art. 229.3 LOPJ estipula que las actuaciones judiciales pueden hacerse a través de videoconferencia, asegurando siempre la contradicción de las partes y el derecho de defensa. (Respuesta correcta 1)
+
+---
+
+## Pregunta 35
+**Se entiende por Unidad Administrativa:**
+
+**Opciones:**
+- 1)Aquella que, sin estar integrada en la Oficina Judicial, se constituye en el ámbito de la organización de la Administración de Justicia para la prestación de servicios necesarios o convenientes.
+- 2)Aquella que, estando integrada en la Oficina Judicial, se constituye en el ámbito de la organización de la Administración de Justicia.
+- 3)Cada uno de los equipos en que se estructura un servicio común procesal.
+- 4)Ninguna es correcta.
+
+**Respuesta correcta:** 1
+
+**Explicación (correcta):**  
+¡Correcto! Según el art. 439.1 LOPJ, una Unidad Administrativa es aquella que, sin formar parte de la Oficina Judicial, se constituye para prestar servicios necesarios o convenientes para el funcionamiento del servicio público de Justicia.
+
+**Explicación (errada):**  
+La respuesta dada no es correcta. De acuerdo con el art. 439.1 LOPJ, la Unidad Administrativa se define como aquella que, sin estar integrada en la Oficina Judicial, se crea en el ámbito de la organización de la Administración de Justicia. (Respuesta correcta 1)
+
+---
+
+## Pregunta 36
+**Señale la afirmación incorrecta:**
+
+**Opciones:**
+- 1)Las Unidades Administrativas no comprenderán la realización de funciones de carácter procesal que correspondan al personal de los Cuerpos de la Administración de Justicia.
+- 2)Se podrán crear Unidades Administrativas para la prestación de servicios de medios adecuados de solución de controversias.
+- 3)El Ministerio de Justicia podrá crear Unidades Administrativas, pero no las Comunidades Autónomas con competencias asumidas.
+- 4)Los puestos de trabajo de las Unidades Administrativas se determinarán en las relaciones de puestos de trabajo.
+
+**Respuesta correcta:** 3
+
+**Explicación (correcta):**  
+¡Correcto! De acuerdo con los apartados 2 y 5 del art. 439 LOPJ, la afirmación C es incorrecta, ya que tanto el Ministerio de Justicia como las CCAA con competencias asumidas pueden crear estas unidades.
+
+**Explicación (errada):**  
+La respuesta seleccionada no es correcta. Según los apartados 2 y 5 del art. 439 LOPJ, tanto el Ministerio de Justicia como las CCAA con competencias asumidas pueden crear y organizar las Unidades Administrativas. (Respuesta correcta 3)
+
+---
+
+## Pregunta 37
+**Respecto a las Unidades Administrativas, ¿a quién corresponde dotarlas de los créditos necesarios para su puesta en marcha y funcionamiento?**
+
+**Opciones:**
+- 1)Al CGPJ.
+- 2)Al Gobierno central.
+- 3)A cada Administración en su propio ámbito territorial.
+- 4)Al Ministerio de Justicia, en todo caso.
+
+**Respuesta correcta:** 3
+
+**Explicación (correcta):**  
+¡Correcto! Según el art. 439.5 LOPJ, corresponde a cada Administración en su propio ámbito territorial (Ministerio de Justicia o CCAA) dotarlas de los créditos necesarios.
+
+**Explicación (errada):**  
+La respuesta seleccionada no es correcta. De acuerdo con el art. 439.5 LOPJ, la responsabilidad recae sobre cada Administración en su propio ámbito territorial. (Respuesta correcta 3)
+
+---
+
+## Pregunta 38
+**¿A quién corresponderá la determinación de los puestos de trabajo a cubrir en las Unidades Administrativas?**
+
+**Opciones:**
+- 1)Al Ministerio de Justicia exclusivamente.
+- 2)A las Comunidades Autónomas con competencias asumidas exclusivamente.
+- 3)Al CGPJ, previo informe de las Administraciones.
+- 4)Al Ministerio de Justicia y a las Comunidades Autónomas con competencias asumidas, en sus respectivos ámbitos.
+
+**Respuesta correcta:** 4
+
+**Explicación (correcta):**  
+¡Correcto! Según el art. 439.4 LOPJ, la determinación de los puestos de trabajo corresponderá al Ministerio de Justicia y a las Comunidades Autónomas con competencias asumidas, en sus respectivos ámbitos.
+
+**Explicación (errada):**  
+La respuesta dada no es correcta. De acuerdo con el art. 439.4 LOPJ, la determinación de los puestos corresponde tanto al Ministerio de Justicia como a las Comunidades Autónomas con competencias asumidas. (Respuesta correcta 4)
+
+---
+
+## Pregunta 39
+**Según el art. 439.4 de la LOPJ, los puestos de trabajo de las Unidades Administrativas podrán ser cubiertos por personal de los Cuerpos de funcionarios al servicio de la Administración de Justicia y también por personal de:**
+
+**Opciones:**
+- 1)Empresas públicas exclusivamente.
+- 2)La Administración Local exclusivamente.
+- 3)Las Cortes Generales exclusivamente.
+- 4)La Administración del Estado y de las Comunidades Autónomas.
+
+**Respuesta correcta:** 4
+
+**Explicación (correcta):**  
+¡Correcto! Según el art. 439.4 LOPJ, los puestos de trabajo de las Unidades Administrativas pueden ser cubiertos tanto por personal de los Cuerpos de la Administración de Justicia como por personal de la Administración del Estado y de las CCAA.
+
+**Explicación (errada):**  
+La respuesta seleccionada no es correcta. El art. 439.4 LOPJ indica que los puestos pueden ser cubiertos por personal de la Administración de Justicia, de la Administración del Estado y de las CCAA. (Respuesta correcta 4)
+
+---
+
+## Pregunta 40
+**A los efectos del Real Decreto 1065/2015 de 27 de noviembre, los administradores concursales tendrán la consideración:**
+
+**Opciones:**
+- 1)De integrantes de las oficinas judiciales.
+- 2)De integrantes de los órganos judiciales.
+- 3)De profesionales que colaboran con la Administración de Justicia.
+- 4)De particulares.
+
+**Respuesta correcta:** 3
+
+**Explicación (correcta):**  
+¡Correcto! De acuerdo con el art. 2 del RD 1065/2015, los administradores concursales, a efectos de comunicaciones electrónicas, son considerados profesionales que colaboran con la Administración de Justicia.
+
+**Explicación (errada):**  
+La respuesta dada no es correcta. El art. 2 del RD 1065/2015 clasifica a los administradores concursales como profesionales que colaboran con la Administración de Justicia. (Respuesta correcta 3)
+
+---
+
+## Pregunta 41
+**A tenor del art. 230 de la LOPJ, en referencia a la Administración de Justicia y las nuevas tecnologías, señale la afirmación correcta:**
+
+**Opciones:**
+- 1)Las actuaciones orales y vistas grabadas y documentadas en soporte digital no podrán transcribirse.
+- 2)Los programas y aplicaciones informáticos que se utilicen en la Administración de Justicia no deberán ser previamente informados por el CGPJ.
+- 3)La definición y validación funcional de los programas y aplicaciones se efectuará por el Comité Técnico Estatal de la Administración de Justicia Electrónica.
+- 4)Los documentos emitidos por los medios electrónicos, cualquiera que sea su soporte, gozarán de la validez pero no de eficacia de un documento original aunque que quede garantizada su autenticidad e integridad y el cumplimiento de los requisitos exigidos por las leyes procesales.
+
+**Respuesta correcta:** 3
+
+**Explicación (correcta):**  
+¡Correcto! Según el art. 230 LOPJ, la definición y validación funcional de los programas y aplicaciones se efectuará por el Comité Técnico Estatal de la Administración de Justicia Electrónica.
+
+**Explicación (errada):**  
+La respuesta dada no es correcta. De acuerdo con el art. 230 LOPJ, es el Comité Técnico Estatal de la Administración de Justicia Electrónica el encargado de la definición y validación funcional de los programas y aplicaciones. (Respuesta correcta 3)
+
+---
+
+## Pregunta 42
+**Entre las obligaciones de los prestadores de servicios de confianza, según la Ley 6/2020, no se encuentra:**
+
+**Opciones:**
+- 1)Publicar información veraz y acorde con la normativa.
+- 2)Constituir un seguro de responsabilidad civil por un importe mínimo de 4.500.000 euros.
+- 3)Disponer de un servicio de consulta sobre el estado de validez o revocación de los certificados emitidos.
+- 4)No almacenar ni copiar los datos de creación de firma del titular del certificado.
+
+**Respuesta correcta:** 2
+
+**Explicación (correcta):**  
+¡Correcto! La Ley 6/2020 establece la obligación de contar con recursos financieros suficientes y/o un seguro de responsabilidad civil, pero no fija una cuantía mínima específica como la indicada.
+
+**Explicación (errada):**  
+La respuesta seleccionada no es correcta. El art. 9 de la Ley 6/2020 no menciona una obligación de constituir un seguro de responsabilidad civil por ese importe mínimo específico. (Respuesta correcta 2)
+
+---
+
+## Pregunta 43
+**Conforme a lo dispuesto en el Real Decreto 1065/2015, de 27 de noviembre, por el que se regula el sistema LexNet:**
+
+**Opciones:**
+- 1)Sólo la presentación de escritos principales, documentos y dictámenes, deberán ir acompañadas de un formulario normalizado.
+- 2)La presentación de toda clase de escritos, documentos, dictámenes, podrán ir acompañadas de un formulario normalizado.
+- 3)Solo la presentación a través de Procurador de toda clase de escritos, documentos, dictámenes, deberán ir acompañadas de un formulario normalizado.
+- 4)La presentación de toda clase de escritos, documentos, dictámenes, deberán ir acompañadas de un formulario normalizado.
+
+**Respuesta correcta:** 2
+
+**Explicación (correcta):**  
+¡Correcto! Según el art. 9 del RD 1065/2015, la presentación de toda clase de escritos, documentos, y dictámenes deberán ir acompañados de un formulario normalizado.
+
+**Explicación (errada):**  
+La respuesta dada no es correcta. El art. 9 del RD 1065/2015 estipula que la presentación de toda clase de escritos, documentos, y dictámenes debe ir acompañada de un formulario normalizado. (Respuesta correcta 2)
+
+---
+
+## Pregunta 44
+**En el nuevo modelo de Oficina Judicial, las funciones de registro y reparto son asumidas por:**
+
+**Opciones:**
+- 1)El servicio común de tramitación.
+- 2)El Letrado de la Administración de Justicia director del servicio común de tramitación.
+- 3)Un servicio común distinto del de tramitación, si se crea para ello.
+- 4)La Presidencia del Tribunal de Instancia.
+
+**Respuesta correcta:** 3
+
+**Explicación (correcta):**  
+¡Correcto! Según el art. 438 de la LOPJ, las funciones de registro y reparto pueden ser asumidas por servicios comunes distintos del de tramitación.
+
+**Explicación (errada):**  
+La respuesta seleccionada no es correcta. De acuerdo con el art. 438 de la LOPJ, las funciones de registro y reparto pueden encomendarse a servicios comunes específicos, distintos del de tramitación. (Respuesta correcta 3)
+
+---
+
+## Pregunta 45
+**Según el Real Decreto 1065/15, de 27 de noviembre, sobre comunicaciones electrónicas en la Administración de Justicia:**
+
+**Opciones:**
+- 1)Los ciudadanos, las personas jurídicas, las entidades sin personalidad jurídica y los notarios y registradores están obligados a comunicarse con la Administración de Justicia por canales electrónicos.
+- 2)Ni los ciudadanos, ni las personas jurídicas están obligadas a comunicarse con la Administración de Justicia por canales electrónicos.
+- 3)Los ciudadanos y las entidades sin personalidad jurídica podrán elegir en todo momento la manera de comunicarse con la Administración de Justicia.
+- 4)Los ciudadanos podrán elegir en todo momento la manera de comunicarse con la Administración de Justicia, en cambio las personas jurídicas están obligadas a comunicarse con la Administración de Justicia, en todo caso a través de canales electrónicos.
+
+**Respuesta correcta:** 4
+
+**Explicación (correcta):**  
+¡Correcto! De acuerdo con el art. 4 del RD 1065/2015, los ciudadanos pueden optar por cómo comunicarse con la Administración de Justicia, mientras que las personas jurídicas deben hacerlo obligatoriamente a través de canales electrónicos.
+
+**Explicación (errada):**  
+Lamentablemente, tu respuesta no es correcta. Según el art. 4 RD 1065/2015, los ciudadanos podrán elegir en todo momento la manera de comunicarse con la Administración de Justicia, en cambio las personas jurídicas están obligadas a comunicarse con la Administración de Justicia, en todo caso a través de canales electrónicos. (Respuesta correcta 4)
+
+---
+
+## Pregunta 46
+**A los efectos del Código de Conducta para usuarios de equipos y sistemas informáticos al servicio de la Administración de Justicia, se considerará usuario:**
+
+**Opciones:**
+- 1)A todos los profesionales que prestan sus servicios en los órganos judiciales.
+- 2)A todos los ciudadanos, siempre y cuando actúen en calidad de parte en un procedimiento.
+- 3)Solo a los funcionarios de la Administración de Justicia que presten sus servicios en la oficina judicial.
+- 4)Únicamente a los abogados y procuradores que actúen en procedimientos judiciales.
+
+**Respuesta correcta:** 1
+
+**Explicación (correcta):**  
+¡Muy bien! Según el art. 1 Instrucción 2/2003, se considerará usuario a todos los profesionales que prestan sus servicios en los órganos judiciales.
+
+**Explicación (errada):**  
+Lamentablemente, tu respuesta no es correcta. Según el art. 1 Instrucción 2/2003, se considerará usuario a todos los profesionales que prestan sus servicios en los órganos judiciales. (Respuesta correcta 1)
+
+---
+
+## Pregunta 47
+**De conformidad con lo establecido en la LOPJ en relación a la protección de datos de carácter personal en el ámbito de la Administración de Justicia, ¿quién podrá realizar el tratamiento de datos no personales, dentro de las políticas de apoyo a la Administración de Justicia y desarrollo de la gestión electrónica de los procedimientos?**
+
+**Opciones:**
+- 1)El CGPJ.
+- 2)El Ministerio de Justicia y las Comunidades Autónomas con competencias en la materia.
+- 3)Los Tribunales.
+- 4)Cualquier administración competente.
+
+**Respuesta correcta:** 2
+
+**Explicación (correcta):**  
+¡Muy bien! Según el art. 236 sexies LOPJ, el Ministerio de Justicia y las Comunidades Autónomas con competencias en la materia podrán realizar el tratamiento de datos no personales, dentro de las políticas de apoyo a la Administración de Justicia y desarrollo de la gestión electrónica de los procedimientos.
+
+**Explicación (errada):**  
+Lamentablemente, tu respuesta no es correcta. Según el art. 236 sexies LOPJ, el Ministerio de Justicia y las Comunidades Autónomas con competencias en la materia podrán realizar el tratamiento de datos no personales, dentro de las políticas de apoyo a la Administración de Justicia y desarrollo de la gestión electrónica de los procedimientos. (Respuesta correcta 2)
+
+---
+
+## Pregunta 48
+**Según la LOPJ, ¿ante quién deberán ejercitar los derechos de información, acceso o rectificación en relación con el tratamiento de datos personales con fines jurisdiccionales?**
+
+**Opciones:**
+- 1)Ante los órganos judiciales, fiscalías u Oficina judicial en los que se tramita el procedimiento.
+- 2)Ante el CGPJ.
+- 3)Ante la Oficina de Atención al Usuario.
+- 4)A través de la sede electrónica de la Administración de Justicia.
+
+**Respuesta correcta:** 1
+
+**Explicación (correcta):**  
+¡Muy bien! Según el art. 236 septies LOPJ, deberán ejercitar los derechos de información, acceso o rectificación en relación con el tratamiento de datos personales con fines jurisdiccionales ante los órganos judiciales, fiscalías u Oficina judicial en los que se tramita el procedimiento.
+
+**Explicación (errada):**  
+Lamentablemente, tu respuesta no es correcta. Según el art. 236 septies LOPJ, deberán ejercitar los derechos de información, acceso o rectificación en relación con el tratamiento de datos personales con fines jurisdiccionales ante los órganos judiciales, fiscalías u Oficina judicial en los que se tramita el procedimiento. (Respuesta correcta 1)
+
+---
+
+## Pregunta 49
+**De conformidad con lo dispuesto en la Ley 18/2011, de 5 de julio, el archivo electrónico de apoderamientos apud-acta electrónicos se dispondrá:**
+
+**Opciones:**
+- 1)En las Secretarías de Gobierno.
+- 2)En el Ministerio de Justicia.
+- 3)En las Unidades Administrativas.
+- 4)En las oficinas judiciales con funciones de registro.
+
+**Respuesta correcta:** 4
+
+**Explicación (correcta):**  
+¡Muy bien! Según el art. 32 bis Ley 18/2011, el archivo electrónico de apoderamientos apud-acta electrónicos se dispondrá en las oficinas judiciales con funciones de registro.
+
+**Explicación (errada):**  
+Lamentablemente, tu respuesta no es correcta. Según el art. 32 bis Ley 18/2011, el archivo electrónico de apoderamientos apud-acta electrónicos se dispondrá en las oficinas judiciales con funciones de registro. (Respuesta correcta 4)
+
+---
+
+## Pregunta 50
+**De conformidad con la LOPJ, señale la respuesta correcta:**
+
+**Opciones:**
+- 1)La publicidad de los edictos se realizará a través del Boletín Oficial del Estado, en la forma en que se disponga reglamentariamente.
+- 2)La publicidad de los edictos se realizará a través del Tablón Edictal Judicial Único, en la forma en que se disponga reglamentariamente.
+- 3)La publicidad de los edictos se realizará a través de medios telemáticos, informáticos o electrónicos, con carácter general y preferente a cualquier otro medio.
+- 4)La publicidad de los edictos se realizará a través de la publicación en el tablón de anuncios del Juzgado.
+
+**Respuesta correcta:** 2
+
+**Explicación (correcta):**  
+¡Muy bien! Según el art. 236 de la LOPJ, la publicidad de los edictos se realizará a través del Tablón Edictal Judicial Único, en la forma en que se disponga reglamentariamente.
+
+**Explicación (errada):**  
+Lamentablemente, tu respuesta no es correcta. De acuerdo con el art. 236 de la LOPJ, la publicidad de los edictos se realizará a través del Tablón Edictal Judicial Único, en la forma en que se disponga reglamentariamente. (Respuesta correcta 2)
+
+---
+
+## Pregunta 51
+**El incumplimiento de las instrucciones sobre la utilización de las claves de acceso a los sistemas informáticos, para los funcionarios de los Cuerpos Generales, se considera:**
+
+**Opciones:**
+- 1)Una falta leve.
+- 2)Una falta muy grave.
+- 3)Una falta grave.
+- 4)No está tipificado como falta.
+
+**Respuesta correcta:** 3
+
+**Explicación (correcta):**  
+¡Muy bien! La indebida utilización de las claves de acceso a los sistemas informáticos se considera una falta grave, según el art. 537.g) de la LOPJ.
+
+**Explicación (errada):**  
+Lamentablemente, tu respuesta no es correcta. Según el art. 537.g) de la LOPJ, la indebida utilización de las claves de acceso a los sistemas informáticos se considera una falta grave. (Respuesta correcta 3)
+
+---
+
+## Pregunta 52
+**En el nuevo modelo de Oficina Judicial, el registro informático de los escritos y documentos que se presenten es una función que puede ser asumida por:**
+
+**Opciones:**
+- 1)Un servicio común distinto del de tramitación.
+- 2)Exclusivamente por el servicio común de tramitación.
+- 3)El personal de la Oficina de Justicia en el municipio.
+- 4)El Letrado de la Administración de Justicia director del servicio común.
+
+**Respuesta correcta:** 1
+
+**Explicación (correcta):**  
+¡Muy bien! Según el art. 438 LOPJ, las funciones de registro pueden ser desempeñadas por un servicio común específico distinto del de tramitación.
+
+**Explicación (errada):**  
+Lamentablemente, tu respuesta no es correcta. Según el art. 438 LOPJ, el registro de escritos es una función que puede ser encomendada a un servicio común distinto del de tramitación. (Respuesta correcta 1)
+
+---
+
+## Pregunta 53
+**Señale la respuesta correcta, respecto a lo que se entiende por oficina del Registro Civil:**
+
+**Opciones:**
+- 1)Aquella unidad que se constituye en el ámbito de la organización de la Administración de Justicia para encargarse de la llevanza del referido servicio público según lo establecido por la Ley y el Reglamento del Registro Civil, vinculándose funcionalmente para el desarrollo de dicho cometido al Ministerio de Justicia a través de la Dirección General de Seguridad Jurídica y Fe Pública.
+- 2)Aquella unidad que, sin estar integrada en la oficina judicial, se constituye en el ámbito de la organización de la Administración de Justicia para encargarse de la llevanza del referido servicio público según lo establecido por la Ley y el Reglamento del RC, vinculándose funcionalmente para el desarrollo de dicho cometido al Ministerio de Justicia a través de la Dirección General de Seguridad Jurídica y Fe Pública.
+- 3)Aquella unidad que se constituye en el ámbito de la organización de la Administración de Justicia para encargarse de la llevanza del referido servicio público según lo establecido por la Ley y el Reglamento del Registro Civil, vinculándose funcionalmente para el desarrollo de dicho cometido a la Dirección General de Seguridad Jurídica y Fe Pública.
+- 4)Aquella unidad que, sin estar integrada en la oficina judicial, se constituye en el ámbito de la organización de la Administración de Justicia para encargarse de la llevanza del referido servicio público según lo establecido por la Ley y el Reglamento del RC, vinculándose funcionalmente para el desarrollo de dicho cometido a la Dirección General de Seguridad Jurídica y Fe Pública.
+
+**Respuesta correcta:** 2
+
+**Explicación (correcta):**  
+¡Muy bien! La oficina del Registro Civil se entiende como aquella unidad que, sin estar integrada en la oficina judicial, se constituye en el ámbito de la organización de la Administración de Justicia para encargarse de la llevanza del referido servicio público según lo establecido por la Ley y el Reglamento del RC, vinculándose funcionalmente para el desarrollo de dicho cometido al Ministerio de Justicia a través de la Dirección General de Seguridad Jurídica y Fe Pública.
+
+**Explicación (errada):**  
+Lamentablemente, tu respuesta no es correcta. Según el art. 439 bis LOPJ, la oficina del Registro Civil se entiende como aquella unidad que, sin estar integrada en la oficina judicial, se constituye en el ámbito de la organización de la Administración de Justicia para encargarse de la llevanza del referido servicio público según lo establecido por la Ley y el Reglamento del RC, vinculándose funcionalmente para el desarrollo de dicho cometido al Ministerio de Justicia a través de la Dirección General de Seguridad Jurídica y Fe Pública. (Respuesta correcta 2)
+
+---
+
+## Pregunta 54
+**Los programas informáticos instalados en los equipos informáticos son propiedad de:**
+
+**Opciones:**
+- 1)El Ministro de Justicia.
+- 2)La Administración de Justicia.
+- 3)La Comunidad Autónoma correspondiente.
+- 4)El Consejo General de Poder Judicial.
+
+**Respuesta correcta:** 2
+
+**Explicación (correcta):**  
+¡Muy bien! Los programas informáticos instalados en los equipos informáticos son propiedad de La Administración de Justicia.
+
+**Explicación (errada):**  
+Lamentablemente, tu respuesta no es correcta. Según el art. 6.3 de la Instrucción 2/2003, los programas informáticos instalados en los equipos informáticos son propiedad de La Administración de Justicia. (Respuesta correcta 2)
+
+---
+
+## Pregunta 55
+**La utilización, copia o reproducción de los programas informáticos instalados en los equipos informáticos de la Administración de Justicia, ¿Pueden ser utilizados para fines extraprofesionales?**
+
+**Opciones:**
+- 1)Sí, en todo caso.
+- 2)Sí, previo informe del Consejo General del Poder Judicial.
+- 3)Sí, previa autorización expresa.
+- 4)No, en ningún caso.
+
+**Respuesta correcta:** 3
+
+**Explicación (correcta):**  
+¡Muy bien! La utilización, copia o reproducción de los programas informáticos instalados en los equipos informáticos de la Administración de Justicia solo puede ser utilizada para fines extraprofesionales con previa autorización expresa.
+
+**Explicación (errada):**  
+Lamentablemente, tu respuesta no es correcta. Según el art. 6.3 de la Instrucción 2/2003, la utilización, copia o reproducción de los programas informáticos solo puede ser utilizada para fines extraprofesionales con previa autorización expresa. (Respuesta correcta 3)
+
+---
+
+## Pregunta 56
+**Los programas y aplicaciones de gestión procesal, para uso de la Administración de Justicia, deben ser aprobados por:**
+
+**Opciones:**
+- 1)El CGPJ.
+- 2)Las Comunidades Autónomas.
+- 3)El Ministro de Justicia.
+- 4)El Gobierno.
+
+**Respuesta correcta:** 1
+
+**Explicación (correcta):**  
+¡Muy bien! Los programas y aplicaciones de gestión procesal para uso de la Administración de Justicia deben ser aprobados por el CGPJ.
+
+**Explicación (errada):**  
+Lamentablemente, tu respuesta no es correcta. Según el art. 230.1 de la LOPJ, los programas y aplicaciones de gestión procesal para uso de la Administración de Justicia deben ser aprobados por el CGPJ. (Respuesta Correcta 1)
+
+---
+
+## Pregunta 57
+**Con anterioridad al 1 de octubre de 2003 deberán constar registrados la totalidad de los procedimientos pendientes ante el órgano judicial correspondiente, con indicación precisa y clara de la fase procesal en que se encuentren. Transcurrida dicha fecha:**
+
+**Opciones:**
+- 1)Las Salas de Gobierno elaborarán un informe sobre el grado de cumplimiento, con indicación, en su caso de los órganos judiciales que no hubiesen llevado a cabo la totalidad del registro.
+- 2)El CGPJ elaborará un informe sobre el grado de cumplimiento, con indicación, en su caso de los órganos judiciales que no hubiesen llevado a cabo la totalidad del registro.
+- 3)Las CCAA con competencias transferidas elaborarán un informe sobre el grado de cumplimiento con indicación, en su caso de los órganos judiciales que hubiesen llevado a cabo la totalidad del registro.
+- 4)El ministerio de Justicia elaborará un informe sobre el grado de cumplimiento, con indicación en su caso de los órganos judiciales que no han llevado a cabo la totalidad del registro.
+
+**Respuesta correcta:** 1
+
+**Explicación (correcta):**  
+¡Muy bien! Tras el 1 de octubre de 2003, las Salas de Gobierno deben elaborar un informe sobre el grado de cumplimiento respecto a los procedimientos registrados, indicando, si es necesario, los órganos judiciales que no han completado el registro.
+
+**Explicación (errada):**  
+Lamentablemente, tu respuesta no es correcta. Según el art. 6.4 de la Instrucción 2/2003, tras el 1 de octubre de 2003, son las Salas de Gobierno las que deben elaborar un informe sobre el grado de cumplimiento respecto a los procedimientos registrados. (Respuesta correcta 1)
+
+---
+
+## Pregunta 58
+**¿Quién y en qué plazo se examinarán los listados de alarde que proporcionan las aplicaciones informáticas, al objeto de hacer un seguimiento periódico del estado de los procedimientos que pendan ante su oficina judicial?**
+
+**Opciones:**
+- 1)Por el juez mensualmente.
+- 2)Por el juez trimestralmente.
+- 3)Por el LAJ mensualmente.
+- 4)Por el LAJ trimestralmente.
+
+**Respuesta correcta:** 3
+
+**Explicación (correcta):**  
+¡Muy bien! Los listados de alarde que proporcionan las aplicaciones informáticas serán examinados por el LAJ, mensualmente.
+
+**Explicación (errada):**  
+Lamentablemente, tu respuesta no es correcta. Según el art. 6.6 de la Instrucción 2/2003, los listados de alarde serán examinados por el LAJ, mensualmente. (Respuesta correcta 3)
+
+---
+
+## Pregunta 59
+**¿Se podrá establecer el uso obligatorio de un manual de estilo en cuanto a marcado, formato, forma de realizar las citas jurisprudenciales y legislativas?**
+
+**Opciones:**
+- 1)Sí, por el CGPJ en coordinación con las administraciones competentes y siempre que en ningún caso afecte al contenido de las resoluciones.
+- 2)Sí, por el Ministerio de justicia en coordinación con el CGPJ y siempre que en ningún caso afecte al contenido de las resoluciones.
+- 3)No, en ningún caso.
+- 4)Sí, por el ministerio de justicia, en coordinación con las CCA con competencias transferidas.
+
+**Respuesta correcta:** 1
+
+**Explicación (correcta):**  
+¡Muy bien! El uso obligatorio de un manual de estilo puede ser establecido por el CGPJ, siempre en coordinación con las Administraciones competentes y sin afectar el contenido de las resoluciones.
+
+**Explicación (errada):**  
+Lamentablemente, tu respuesta no es correcta. Según el art. 6.7 de la Instrucción 2/2003, el CGPJ puede establecer el uso obligatorio de un manual de estilo en coordinación con las Administraciones competentes. (Respuesta correcta 1)
+
+---
+
+## Pregunta 60
+**Señale la respuesta incorrecta en relación a la Instrucción 2/2003:**
+
+**Opciones:**
+- 1)En cada órgano judicial se llevará una réplica informática del libro de registro de sentencias y/o autos.
+- 2)La forma de numerar las sentencias se establecerá desde el CGPJ en coordinación con las administraciones competentes responsables de las dotaciones informáticas.
+- 3)La inspección de juzgados y tribunales velará por el cumplimiento de código de conducta, a fin de que se adopten las medidas pertinentes.
+- 4)En ningún caso se autorizará la entrada en los sistemas informáticos de otros usuarios usando un login y password de otro usuario.
+
+**Respuesta correcta:** 4
+
+**Explicación (correcta):**  
+¡Muy bien! La respuesta incorrecta en relación a la Instrucción 2/2003 es que en ningún caso se autorizará la entrada en los sistemas informáticos de otros usuarios utilizando un login y password de otro usuario.
+
+**Explicación (errada):**  
+Lamentablemente, tu respuesta no es correcta. Según el art. 6.10 de la Instrucción 2/2003, está prohibida la entrada en los sistemas informáticos utilizando las credenciales de otro usuario, salvo supuestos excepcionales de soporte técnico. (Respuesta correcta 4)
+
+---
+
+## Pregunta 61
+**Una vez se ha finalizado la vinculación funcionarial o laboral con la Administración de Justicia, no se podrá tener acceso a los equipos informáticos y consiguientes archivos. En el supuesto de que el usuario tenga en su poder determinados medios informáticos:**
+
+**Opciones:**
+- 1)Podrá devoverlos a la finalización de su relación.
+- 2)Tendrá que devolverlos en el plazo de 48h a la finalización de su relación.
+- 3)Deberá devolverlos inmediatamente a la finalización de su relación.
+- 4)Ninguna es correcta.
+
+**Respuesta correcta:** 3
+
+**Explicación (correcta):**  
+¡Muy bien! Cuando finaliza la relación funcionarial o laboral con la Administración de Justicia, y si el usuario tiene medios informáticos en su poder, debe devolverlos inmediatamente.
+
+**Explicación (errada):**  
+Lamentablemente, tu respuesta no es correcta. Según el art. 6.11 de la Instrucción 2/2003, cuando finaliza la relación, y si se tienen medios informáticos, estos deben ser devueltos inmediatamente. (Respuesta correcta 3)
+
+---
+
+## Pregunta 62
+**Si un usuario finaliza su relación con la Administración o se traslada de puesto, deberá dejar intactos todos los archivos y documentos que hayan tenido un fin profesional. En el supuesto de que existan archivos de carácter personal:**
+
+**Opciones:**
+- 1)El usuario deberá eliminarlos antes de que se persone el servicio de soporte informático.
+- 2)El servicio de soporte informático competente deberá eliminarlos
+- 3)El usuario deberá eliminarlos bajo la supervisión del servicio de soporte competente.
+- 4)Ninguna es correcta.
+
+**Respuesta correcta:** 3
+
+**Explicación (correcta):**  
+¡Muy bien! En caso de existir archivos de carácter personal, el usuario deberá eliminarlos, pero siempre bajo la supervisión del Servicio de Soporte competente.
+
+**Explicación (errada):**  
+Lamentablemente, tu respuesta no es correcta. Según el art. 6.11 de la Instrucción 2/2003, si hay archivos de carácter personal, el usuario debe eliminarlos bajo la supervisión del Servicio de Soporte competente. (Respuesta correcta 3)
+
+---
+
+## Pregunta 63
+**¿Puede un usuario crear una página web de contenido jurídico, sirviéndose para ello de los medios y herramientas aportadas por la Administración de Justicia?**
+
+**Opciones:**
+- 1)No, en ningún caso.
+- 2)Sí, pero deberá ponerlo previamente en conocimiento del CGPJ con puesta a disposición del proyecto quien elevará un informe a la comisión informática para que acuerde lo procedente.
+- 3)Sí, pero deberá ponerlo previamente en conocimiento de la correspondiente Sala de Gobierno, con aportación del proyecto elaborado, la cual elevará un informe a la comisión de informática judicial para que por esta se acuerde lo procedente.
+- 4)La situación que relata la pregunta no está regulada jurídicamente.
+
+**Respuesta correcta:** 3
+
+**Explicación (correcta):**  
+¡Muy bien! Si un usuario quiere crear una página web de contenido jurídico con medios de la Administración de Justicia, debe notificarlo a la Sala de Gobierno correspondiente y aportar el proyecto elaborado.
+
+**Explicación (errada):**  
+Lamentablemente, tu respuesta no es correcta. De acuerdo al art. 13 de la Instrucción 2/2003, el usuario debe notificar a la Sala de Gobierno y presentar el proyecto. (Respuesta correcta 3)
+
+---
+
+## Pregunta 64
+**¿Quién y en qué plazo de tiempo se elaborará el informe de Recursos Tecnológicos de la Información en la Administración de Justicia (IRTAJ)?**
+
+**Opciones:**
+- 1)El CGPJ cada 2 años.
+- 2)El CGPJ anualmente.
+- 3)El ministerio de justicia semestralmente.
+- 4)Las CCAA con competencias transferidas, anualmente.
+
+**Respuesta correcta:** 1
+
+**Explicación (correcta):**  
+¡Muy bien! El IRTAJ será elaborado por el CGPJ cada dos años.
+
+**Explicación (errada):**  
+Lamentablemente, tu respuesta no es correcta. Según el art. 16 de la Instrucción 2/2003, el CGPJ elaborará el IRTAJ cada dos años. (Respuesta correcta 1)
+
+---
+
+## Pregunta 65
+**Con el fin de facilitar el acercamiento de la Justicia al ciudadano y prestar determinados servicios profesionales, ¿quién ha desarrollado el portal de internet http://www.PoderJudicial.es?**
+
+**Opciones:**
+- 1)El ministerio de justicia.
+- 2)El CGPJ
+- 3)Las CCAA con competencias transferidas en la materia.
+- 4)Todas son correctas.
+
+**Respuesta correcta:** 2
+
+**Explicación (correcta):**  
+¡Muy bien! El portal http://www.PoderJudicial.es ha sido desarrollado por el CGPJ.
+
+**Explicación (errada):**  
+Lamentablemente, tu respuesta no es correcta. El portal http://www.PoderJudicial.es fue creado por el CGPJ según el art. 17 de la Instrucción 2/2003. (Respuesta correcta 2)
+
+---
+
+## Pregunta 66
+**A tenor del artículo 26 de la Ley 18/2011, de 5 de julio, se entiende por Expediente Judicial Electrónico:**
+
+**Opciones:**
+- 1)El conjunto de datos, documentos, trámites y actuaciones electrónicas, así como de grabaciones audiovisuales correspondientes a un procedimiento judicial, cualquiera que sea el tipo de información que contenga y el formato en que se hayan generado.
+- 2)El conjunto de datos, documentos trámites y actuaciones electrónicas. Así como de grabaciones audiovisuales correspondientes a un procedimiento gubernativo o judicial, cualquiera que sea el tipo de información que contenga y el formato en que se hayan generado.
+- 3)El conjunto de datos, documentos, trámites y actuaciones electrónicas, así como de grabaciones sonoras correspondientes a un procedimiento judicial cualquiera que sea el tipo de información que contenga y el formato en que se hayan generado.
+- 4)El conjunto de datos correspondientes a un procedimiento judicial, cualquiera que sea el tipo de información que contenga y el formato en que se hayan generado.
+
+**Respuesta correcta:** 1
+
+**Explicación (correcta):**  
+¡Muy bien! El Expediente Judicial Electrónico comprende datos, documentos, trámites, actuaciones y grabaciones audiovisuales de un procedimiento judicial.
+
+**Explicación (errada):**  
+Lamentablemente, tu respuesta no es correcta. Según el art. 26 de la Ley 18/2011, el Expediente Judicial Electrónico incluye datos, documentos, trámites, actuaciones y grabaciones audiovisuales de un procedimiento judicial. (Respuesta correcta 1)
+
+---
+
+## Pregunta 67
+**Señale la respuesta incorrecta en relación a las causas de extinción de la vigencia de un certificado electrónico mediante revocación:**
+
+**Opciones:**
+- 1)Será causa de extinción de la vigencia de un certificado electrónico la resolución judicial o administrativa que lo ordene.
+- 2)Será causa de extinción de la vigencia de un certificado electrónico el fallecimiento del firmante.
+- 3)Será causa de extinción de la vigencia de un certificado electrónico el cese en la actividad del prestador de servicios de confianza en todo caso.
+- 4)Será causa de extinción de la vigencia de un certificado electrónico la pérdida de control sobre el nombre de dominio en el supuesto de un certificado de autenticación de sitio web.
+
+**Respuesta correcta:** 3
+
+**Explicación (correcta):**  
+¡Muy bien! La respuesta incorrecta es que el cese en la actividad del prestador de servicios de confianza será causa de extinción de la vigencia del certificado en todo caso.
+
+**Explicación (errada):**  
+Lamentablemente, tu respuesta no es correcta. Según el art. 5 de la Ley 6/2020, el cese en la actividad del prestador es causa de extinción, pero existen previsiones para la transferencia de los certificados a otro prestador. (Respuesta correcta 3)
+
+---
+
+## Pregunta 68
+**Según la Ley reguladora de determinados aspectos de los servicios electrónicos de confianza, ¿cómo se consignará la identidad del titular en los certificados cualificados?**
+
+**Opciones:**
+- 1)Por su nombre y apellidos y su número de DNI, número de identidad de extranjero o número de identificación fiscal.
+- 2)Por su denominación o razón social y su número de identificación fiscal.
+- 3)A través de un pseudónimo que conste como tal de manera inequívoca.
+- 4)Todas son correctas.
+
+**Respuesta correcta:** 4
+
+**Explicación (correcta):**  
+¡Muy bien! Según el art. 6 de la Ley 6/2020, todas las opciones son correctas.
+
+**Explicación (errada):**  
+Lamentablemente, tu respuesta no es correcta. Según el art. 6 de la Ley 6/2020, todas las opciones son correctas. (Respuesta correcta 4)
+
+---
+
+## Pregunta 69
+**¿Cómo se comprobará la identidad de la persona física que solicite un certificado cualificado?**
+
+**Opciones:**
+- 1)Se exigirá su personación ante los encargados de verificarla y se acreditará mediante el DNI, pasaporte u otros medios admitidos en Derecho.
+- 2)Se exigirá su personación ante los encargados de verificarla y se acreditará mediante el certificado de nacimiento u otros medios admitidos en Derecho.
+- 3)Se exigirá que la firma haya sido legitimada en presencia notarial.
+- 4)Ninguna es correcta.
+
+**Respuesta correcta:** 1
+
+**Explicación (correcta):**  
+¡Muy bien! Según el art. 7.1 de la Ley 6/2020, la identidad se comprobará mediante la personación y la presentación de documentos como el DNI o pasaporte.
+
+**Explicación (errada):**  
+Lamentablemente, tu respuesta no es correcta. Según el art. 7.1 de la Ley 6/2020, la identidad se comprobará mediante personación y acreditación por DNI, pasaporte u otros medios válidos. (Respuesta correcta 1)
+
+---
+
+## Pregunta 70
+**¿Qué órgano será competente para controlar el cumplimiento de las obligaciones por los prestadores de servicios electrónicos de confianza cualificados y no cualificados?:**
+
+**Opciones:**
+- 1)El ministerio de asuntos económicos y transformación digital.
+- 2)El ministerio de justicia.
+- 3)El ministerio de ciencia e innovación.
+- 4)El ministerio de trabajo y economía social.
+
+**Respuesta correcta:** 1
+
+**Explicación (correcta):**  
+¡Correcto! El órgano competente es el Ministerio de Asuntos Económicos y Transformación Digital, según el art. 12 de la Ley 6/2020.
+
+**Explicación (errada):**  
+Lo siento, no es correcto. El órgano competente es el Ministerio de Asuntos Económicos y Transformación Digital, según el art. 12 de la Ley 6/2020. (Respuesta correcta 1)
+
+---
+
+## Pregunta 71
+**El foliado de los expedientes judiciales electrónicos se llevará a cabo mediante:**
+
+**Opciones:**
+- 1)Un índice electrónico, firmado por la oficina judicial actuante, según proceda.
+- 2)Un índice digital, rubricado por el LAJ según proceda.
+- 3)Un índice cosido, rubricado con la firma del juez o titular del órgano jurisdiccional.
+- 4)Un índice electrónico, firmado por el Decano titular del órgano jurisdiccional, según proceda.
+
+**Respuesta correcta:** 1
+
+**Explicación (correcta):**  
+¡Muy bien! Según el art. 26 de la Ley 18/2011, el foliado de los expedientes judiciales electrónicos se llevará a cabo mediante un índice electrónico.
+
+**Explicación (errada):**  
+Lamentablemente, tu respuesta no es correcta. Según el art. 26 de la Ley 18/2011, el foliado de los expedientes judiciales electrónicos se llevará a cabo mediante un índice electrónico. (Respuesta correcta 1)
+
+---
+
+## Pregunta 72
+**De conformidad con la Ley 18/2011, respecto a la remisión de expedientes:**
+
+**Opciones:**
+- 1)No se sustituirán a efectos legales por la puesta a disposición del expediente judicial electrónico, salvo excepciones.
+- 2)La remisión de expedientes se sustituirá a todos los efectos legales por la puesta a disposición del expediente judicial electrónico.
+- 3)La respuesta 2 es correcta, pero además, tienen derecho a obtener copia electrónica del mismo todos aquellos que lo tengan conforme a lo dispuesto en las normas procesales.
+- 4)No se sustituirán a efectos legales por la puesta a disposición del expediente judicial electrónico en ningún caso.
+
+**Respuesta correcta:** 3
+
+**Explicación (correcta):**  
+¡Correcto! Según el art. 26.4 de la Ley 18/2011, la remisión se sustituye por la puesta a disposición del expediente electrónico, y las partes tienen derecho a obtener copia.
+
+**Explicación (errada):**  
+Lo siento, no es correcto. Según el art. 26.4 de la Ley 18/2011, la remisión se sustituye por la puesta a disposición del expediente electrónico, y las partes pueden obtener copia. (Respuesta correcta 3)
+
+---
+
+## Pregunta 73
+**Tendrán la consideración de documentos judiciales electrónicos:**
+
+**Opciones:**
+- 1)El conjunto de datos, documentos, trámites y actuaciones electrónicas así como de grabaciones audiovisuales correspondientes a un procedimiento judicial, cualquiera que sea el tipo de información que contenga y el formato en que se hayan generado.
+- 2)Las resoluciones y actuaciones que se generen en los sistemas de gestión procesal, así como toda información que tenga acceso de otra forma al expediente, cuando incorporen datos firmados electrónicamente.
+- 3)El documento electrónico que incluya la fecha electrónica y que incorpore la firma electrónica reconocida del LAJ, siempre que actúe en el ejercicio de sus competencias conforme a lo dispuesto en las leyes procesales.
+- 4)Las copias realizadas por medios electrónicos de documentos electrónicos emitidos por las oficinas judiciales, siempre que mantengan el formato original.
+
+**Respuesta correcta:** 2
+
+**Explicación (correcta):**  
+¡Muy bien! Según el art. 27 de la Ley 18/2011, la opción 2 es la correcta respecto a la consideración de documentos judiciales electrónicos.
+
+**Explicación (errada):**  
+Lamentablemente, tu respuesta no es correcta. Según el art. 27 de la Ley 18/2011, la opción 2 es la correcta respecto a la consideración de documentos judiciales electrónicos. (Respuesta correcta 2)
+
+---
+
+## Pregunta 74
+**Las copias realizadas en soporte papel de documentos judiciales electrónicos y firmados electrónicamente por el LAJ:**
+
+**Opciones:**
+- 1)Tendrán la consideración de copias electrónicas, siempre que incluyan la impresión de un código de barras seguro de verificación que permita contrastar su autenticidad.
+- 2)En ningún caso tendrán la consideración de copias electrónicas.
+- 3)Tendrán la consideración de copias auténticas, siempre que incluyan la impresión de un código seguro de verificación que permita contrastar su autenticidad.
+- 4)Deberán tener la consideración de copias auténticas, siempre que incluyan un código alfa-numérico seguro de verificación que permita contrastar su autenticidad.
+
+**Respuesta correcta:** 3
+
+**Explicación (correcta):**  
+¡Perfecto! De acuerdo con el art. 28 de la Ley 18/2011, estas copias en papel tendrán la consideración de auténticas si incluyen un código seguro de verificación.
+
+**Explicación (errada):**  
+Lamentablemente, te has equivocado. Según el art. 28 de la Ley 18/2011, la opción 3 es la adecuada respecto a las copias realizadas en soporte papel de documentos judiciales electrónicos. (Respuesta correcta 3)
+
+---
+
+## Pregunta 75
+**Los Libros de Registro se obtendrán a través de las aplicaciones informáticas de gestión procesal, imprimiéndose y autenticándose mediante:**
+
+**Opciones:**
+- 1)La rúbrica del LAJ.
+- 2)La firma del LAJ.
+- 3)La rúbrica del ponente del tribunal.
+- 4)La firma del ponente del tribunal.
+
+**Respuesta correcta:** 2
+
+**Explicación (correcta):**  
+¡Correcto! Según el art. 6.4 de la Instrucción 2/2003, los Libros de Registro se autentican mediante la firma del LAJ.
+
+**Explicación (errada):**  
+Desafortunadamente, no es correcto. De acuerdo con el art. 6.4 de la Instrucción 2/2003, la opción 2 es la correcta en relación con los Libros de Registro. (Respuesta correcta 2)
+
+---
+
+## Pregunta 76
+**¿Qué es el N.I.G?**
+
+**Opciones:**
+- 1)El número de identificación fiscal.
+- 2)El número de identificación de gestión.
+- 3)El número de identificación general.
+- 4)Ninguna es correcta.
+
+**Respuesta correcta:** 3
+
+**Explicación (correcta):**  
+¡Bien hecho! Según el art. 6.4 de la Instrucción 2/2003, el N.I.G se refiere al Número de Identificación General de un procedimiento.
+
+**Explicación (errada):**  
+Has fallado en esta ocasión. El art. 6.4 de la Instrucción 2/2003 indica que el N.I.G es el Número de Identificación General. (Respuesta correcta 3)
+
+---
+
+## Pregunta 77
+**¿Quién adoptará las medidas internas de organización del trabajo del personal de la oficina judicial que estimen precisas para que la situación de los procedimientos esté constantemente actualizada?**
+
+**Opciones:**
+- 1)El Juez o Tribunal correspondiente, o por quienes en cada momento tengan competencia.
+- 2)El Gestor Procesal, o por quienes en cada momento tengan competencia.
+- 3)El LAJ, o por quienes en cada momento tengan competencia.
+- 4)El Ministerio Fiscal, o por quienes en cada momento tengan competencia.
+
+**Respuesta correcta:** 3
+
+**Explicación (correcta):**  
+¡Exacto! Según el art. 6.6 de la Instrucción 2/2003, es el LAJ quien adoptará las medidas internas de organización del trabajo del personal de la oficina judicial.
+
+**Explicación (errada):**  
+Lo siento, esa no es la respuesta correcta. Según el art. 6.6 de la Instrucción 2/2003, es el LAJ quien adoptará las medidas internas. (Respuesta correcta 3)
+
+---
+
+## Pregunta 78
+**No estará obligado a comunicarse con la Administración de Justicia, en todo caso, a través de canales electrónicos, uno de los siguientes sujetos:**
+
+**Opciones:**
+- 1)Las personas jurídicas.
+- 2)Las entidades sin personalidad jurídica.
+- 3)Los notarios y registradores.
+- 4)Los funcionarios de las administraciones públicas para los trámites y actuaciones que realicen por razón de su cargo.
+
+**Respuesta correcta:** 2
+
+**Explicación (correcta):**  
+¡Exacto! Las entidades sin personalidad jurídica no están obligadas a comunicarse con la Administración de Justicia a través de canales electrónicos en todo caso.
+
+**Explicación (errada):**  
+Esa no es la respuesta correcta. Según el art. 4 RD 1065/2015, las entidades sin personalidad jurídica no están obligadas a comunicarse por canales electrónicos en todo caso. (Respuesta correcta 2)
+
+---
+
+## Pregunta 79
+**¿Qué podemos entender por Canales Electrónicos?**
+
+**Opciones:**
+- 1)Aquellas vías mediante las cuales se va a verificar la presentación de escritos y documentos, así como las comunicaciones y notificaciones.
+- 2)Aquellas vías mediante las cuales va a transcurrir las comunicaciones entre la oficina judicial y los abogados y procuradores.
+- 3)Aquellas vías de comunicación mediante las cuales va a transcurrir las comunicaciones entre el ministerio de justicia y los ciudadanos legitimados.
+- 4)Todas son correctas.
+
+**Respuesta correcta:** 1
+
+**Explicación (correcta):**  
+¡Bien hecho! Los canales electrónicos se refieren principalmente a las vías mediante las cuales se verifica la presentación de escritos y documentos, así como las comunicaciones y notificaciones, según el art. 8 RD 1065/2015.
+
+**Explicación (errada):**  
+Lo siento, esa no es la respuesta correcta. Según el art. 8 RD 1065/2015, los canales electrónicos son las vías mediante las cuales se verifica la presentación de escritos y documentos, así como las comunicaciones y notificaciones. (Respuesta correcta 1)
+
+---
+
+## Pregunta 80
+**Señale la respuesta incorrecta respecto a qué podemos considerar Canales Electrónicos:**
+
+**Opciones:**
+- 1)A través de la sede judicial electrónica correspondiente se prestará el servicio de comunicación y notificaciones por comparecencia electrónica al ciudadano.
+- 2)El servicio compartido de gestión de notificaciones electrónicas y la carpeta ciudadana provistos por el ministerio de justicia se considera un canal electrónico siempre que los medios electrónicos lo permitan y se trate de ciudadanos que no estando asistidos o representados por profesionales de la justicia opten por comunicarse con la administración de justicia.
+- 3)Otras vías de comunicación lo constituyen los mensajes de texto teléfonos móviles o direcciones de correo electrónico.
+- 4)Todas son correctas.
+
+**Respuesta correcta:** 2
+
+**Explicación (correcta):**  
+¡Exacto! La opción 2 es incorrecta según el art. 8 RD 1065/2015.
+
+**Explicación (errada):**  
+Esa opción no es la respuesta correcta según el art. 8 RD 1065/2015. La opción 2 es la incorrecta. (Respuesta correcta 2)
+
+---
+
+## Pregunta 81
+**Si se consignare un pseudónimo en el certificado electrónico:**
+
+**Opciones:**
+- 1)Los prestadores de servicios de certificación deberán constatar su verdadera identidad sin necesidad de conservar la documentación que la acredite.
+- 2)Los prestadores de servicios de certificación no estarán obligados a revelar la identidad de los firmantes cuando lo soliciten los órganos judiciales.
+- 3)Los prestadores de servicios de certificación estarán obligados a consignar la verdadera identidad en el certificado electrónico.
+- 4)Los prestadores de servicios deberán constatar la verdadera identidad del titular del certificado y conservar la documentación que la acredite.
+
+**Respuesta correcta:** 4
+
+**Explicación (correcta):**  
+¡Bien hecho! De acuerdo con el art. 8 Ley 6/2020, si se consigna un pseudónimo, los prestadores de servicios deben constatar la verdadera identidad y conservar la documentación.
+
+**Explicación (errada):**  
+Esa opción no es correcta. Según el art. 8 Ley 6/2020, si se utiliza un pseudónimo, los prestadores de servicios deben constatar la verdadera identidad y conservar la documentación que la acredite. (Respuesta correcta 4)
+
+---
+
+## Pregunta 82
+**Los sistemas electrónicos de información y comunicación deberán dejar constancia de:**
+
+**Opciones:**
+- 1)La transmisión y recepción de las presentaciones y de las comunicaciones y notificaciones.
+- 2)De la fecha y hora en que se produzca la salida y de la puesta a disposición del interesado.
+- 3)Del contenido íntegro y del acceso al mismo.
+- 4)De la identificación del remitente y el destinatario, además de todas las anteriores.
+
+**Respuesta correcta:** 4
+
+**Explicación (correcta):**  
+¡Excelente! Los sistemas electrónicos de información y comunicación deben dejar constancia de la identificación del remitente y del destinatario, además de todas las demás anteriores.
+
+**Explicación (errada):**  
+Lo siento, tu respuesta no es la correcta. Según el art. 3 RD 1065/2015, los sistemas electrónicos de información y comunicación deben dejar constancia de la identificación del remitente y del destinatario, además de todas las demás anteriores. (Respuesta correcta 4)
+
+---
+
+## Pregunta 83
+**Para asegurar el acceso, integridad, disponibilidad, autenticidad, confidencialidad, trazabilidad y conservación de los datos, informaciones y servicios utilizados en las presentaciones y en las comunicaciones y notificaciones electrónicas en la Administración de Justicia, se aplicará:**
+
+**Opciones:**
+- 1)Códigos cerrados de operatividad.
+- 2)Claves con códigos cerrados.
+- 3)El esquema judicial de interoperabilidad y seguridad.
+- 4)Los esquemas de seguridad.
+
+**Respuesta correcta:** 3
+
+**Explicación (correcta):**  
+¡Muy bien! Para garantizar estos aspectos se aplicará el Esquema judicial de interoperabilidad y seguridad.
+
+**Explicación (errada):**  
+Lamentablemente, esa no es la respuesta correcta. De acuerdo al art. 7 RD 1065/2015, se aplicará el Esquema judicial de interoperabilidad y seguridad. (Respuesta correcta 3)
+
+---
+
+## Pregunta 84
+**Los órganos y oficinas judiciales y fiscales realizarán los actos de comunicación con las partes procesales y, en su caso, con los terceros intervinientes, mediante los siguientes canales electrónicos:**
+
+**Opciones:**
+- 1)El sistema Lexnet.
+- 2)La sede judicial electrónica.
+- 3)El servicio compartido de gestión de notificaciones electrónicas y la carpeta ciudadana.
+- 4)Todas son correctas.
+
+**Respuesta correcta:** 4
+
+**Explicación (correcta):**  
+¡Excelente! Todos los medios mencionados son correctos para la comunicación en órganos y oficinas judiciales y fiscales.
+
+**Explicación (errada):**  
+Lamentablemente, tu respuesta no es correcta. Según el art. 8 RD 1065/2015, todos los medios son válidos. (Respuesta correcta 4)
+
+---
+
+## Pregunta 85
+**¿Quién garantizará el correcto funcionamiento, la custodia y la seguridad del sistema, sin perjuicio de las atribuciones correspondientes a las Comunidades Autónomas que hayan recibido los traspasos de funciones?**
+
+**Opciones:**
+- 1)El CGPJ.
+- 2)El ministerio de justicia.
+- 3)El ministerio de hacienda.
+- 4)Todas son correctas.
+
+**Respuesta correcta:** 2
+
+**Explicación (correcta):**  
+¡Correcto! El Ministerio de Justicia es el que garantizará estos aspectos.
+
+**Explicación (errada):**  
+Lo siento, tu respuesta no es la correcta. De acuerdo con el art. 15 RD 1065/2015, el responsable es el Ministerio de Justicia. (Respuesta correcta 2)
+
+---
+
+## Pregunta 86
+**Una vez depositados en los buzones virtuales de los usuarios los escritos, las comunicaciones y notificaciones, así como cualquier otro documento procesal transmitido por medios electrónicos, se encontrarán accesibles por un período de:**
+
+**Opciones:**
+- 1)10 días.
+- 2)20 días.
+- 3)30 días.
+- 4)60 días.
+
+**Respuesta correcta:** 4
+
+**Explicación (correcta):**  
+¡Muy bien! Los documentos estarán accesibles por un período de 60 días.
+
+**Explicación (errada):**  
+No es correcto. Según el art. 16 RD 1065/2015, los documentos estarán accesibles por 60 días. (Respuesta correcta 4)
+
+---
+
+## Pregunta 87
+**Cuando se produzca una acumulación masiva de comunicaciones y notificaciones a enviar después de un período inhábil o por concurrir circunstancias excepcionales:**
+
+**Opciones:**
+- 1)Habrá que reiniciar el sistema y se bloquearán las comunicaciones con la administración de justicia por un período de tiempo de 48h.
+- 2)El propio sistema impedirá que se supere en más del 60% al día el volumen de salida ordinaria de actos de comunicación.
+- 3)Si no fuera posible que el sistema impidiera la salida ordinaria de actos de comunicación regulado normativamente, se repartirá de forma gradual el exceso acumulado en remisiones consecutivas durante los 7 días posteriores al período de inhabilidad.
+- 4)Todas son incorrectas.
+
+**Respuesta correcta:** 4
+
+**Explicación (correcta):**  
+¡Exacto! Todas las opciones son incorrectas. El art. 16.2 del RD 1065/2015 establece que el sistema repartirá de forma gradual el exceso en los 3 días hábiles siguientes.
+
+**Explicación (errada):**  
+Lo siento, tu respuesta es incorrecta. Según el art. 16.2 RD 1065/2015, el sistema repartirá gradualmente el exceso acumulado durante los 3 días hábiles posteriores. (Respuesta correcta 4)
+
+---
+
+## Pregunta 88
+**Los usuarios del sistema presentarán sus escritos utilizando:**
+
+**Opciones:**
+- 1)La forma electrónica autentificada.
+- 2)La firma digital electrónica.
+- 3)La firma electrónica cualificada.
+- 4)Papel oficial, nunca mediante remisión digital.
+
+**Respuesta correcta:** 3
+
+**Explicación (correcta):**  
+¡Correcto! Los usuarios del sistema utilizarán la firma electrónica cualificada.
+
+**Explicación (errada):**  
+Lamentablemente, tu respuesta no es correcta. Según el art. 17 RD 1065/2015, los usuarios utilizarán la firma electrónica cualificada. (Respuesta Correcta 3)
+
+---
+
+## Pregunta 89
+**Para la acreditación de la presentación de los escritos y documentos y la realización de los actos de comunicación, el sistema devolverá al usuario:**
+
+**Opciones:**
+- 1)Su propio escrito con estampado digital de la hora y día de presentación del documento.
+- 2)Un resguardo electrónico acreditativo de la remisión.
+- 3)Un resguardo electrónico que deberá firmar y enviar por correo certificado.
+- 4)El enlace digital donde podrá descargar su documento rubricado.
+
+**Respuesta correcta:** 2
+
+**Explicación (correcta):**  
+¡Exacto! El sistema devolverá un resguardo electrónico acreditativo de la remisión.
+
+**Explicación (errada):**  
+Desafortunadamente, no es correcto. Según el art. 17.5 RD 1065/2015, el sistema devuelve un resguardo electrónico acreditativo de la remisión. (Respuesta correcta 2)
+
+---
+
+## Pregunta 90
+**Señale la respuesta correcta respecto a la responsabilidad de los prestadores de servicios electrónicos de confianza:**
+
+**Opciones:**
+- 1)Asumirán toda la responsabilidad frente a terceros por la actuación de las personas u otros prestadores en los que deleguen la ejecución de actuaciones de comprobación de identidad previas a la expedición de un certificado cualificado.
+- 2)Asumirán toda la responsabilidad frente a terceros por la actuación de las personas u otros prestadores en los que deleguen algunas de las funciones necesarias para la prestación de servicios electrónicos de confianza.
+- 3)No asumirán la responsabilidad de las actuaciones que deleguen.
+- 4)Las dos primeras opciones son correctas.
+
+**Respuesta correcta:** 1
+
+**Explicación (correcta):**  
+¡Muy bien! Asumirán toda la responsabilidad frente a terceros por las actuaciones mencionadas en la opción 1.
+
+**Explicación (errada):**  
+Lo siento, no es correcto. De acuerdo con el art. 10 Ley 6/2020, asumirán toda la responsabilidad como se describe en la opción 1. (Respuesta correcta 1)
+
+---
+
+## Pregunta 91
+**Según la LOPJ, los tribunales podrán tratar datos de carácter personal con fines jurisdiccionales:**
+
+**Opciones:**
+- 1)No será necesario el consentimiento del interesado para que se proceda al tratamiento de los datos personales en el ejercicio de la actividad jurisdiccional, cuando sean facilitados por las partes.
+- 2)No será necesario el consentimiento del interesado para que se proceda al tratamiento de los datos personales en el ejercicio de la actividad jurisdiccional cuando sean recabados a solicitud de los órganos competentes.
+- 3)En todo caso será necesario el consentimiento del interesado para que se proceda al tratamiento de los datos personales en el ejercicio de la actividad jurisdiccional.
+- 4)Las dos primeras opciones son correctas.
+
+**Respuesta correcta:** 4
+
+**Explicación (correcta):**  
+¡Correcto! Las opciones 1 y 2 describen correctamente las circunstancias bajo las cuales no es necesario el consentimiento del interesado.
+
+**Explicación (errada):**  
+No es correcto. Según el art. 236 ter LOPJ, las opciones 1 y 2 son correctas. (Respuesta correcta 4)
+
+---
+
+## Pregunta 92
+**Los prestadores de servicios de certificación que expidan certificados reconocidos deberán constituir un seguro de responsabilidad civil por importe de al menos:**
+
+**Opciones:**
+- 1)15.000€
+- 2)150.000€
+- 3)1.500.000€
+- 4)15.000.000€
+
+**Respuesta correcta:** 3
+
+**Explicación (correcta):**  
+¡Bien hecho! Deben constituir un seguro de responsabilidad civil por un importe de 1.500.000€.
+
+**Explicación (errada):**  
+Lamentablemente, tu respuesta es incorrecta. De acuerdo con el art. 9.3 Ley 6/2020, el importe es de 1.500.000€. (Respuesta correcta 3)
+
+---
+
+## Pregunta 93
+**Según la LOPJ, señale la respuesta incorrecta respecto a la protección de datos de carácter personal en el ámbito de la Administración de Justicia:**
+
+**Opciones:**
+- 1)El tratamiento de los datos personales solo podrá realizarse con fines jurisdiccionales.
+- 2)Tendrá fines jurisdiccionales el tratamiento de los datos que se encuentren incorporados a los procesos que tengan por finalidad el ejercicio de la actividad jurisdiccional.
+- 3)El tratamiento de los datos personales en la administración de justicia se llevará a cabo por el órgano competente y, dentro de él, por quien tenga la competencia atribuida por la normativa vigente.
+- 4)Cuando se proceda al tratamiento con fines no jurisdiccionales se estará a lo dispuesto en el RGPD, la LO 3/2018 y su normativa de desarrollo.
+
+**Respuesta correcta:** 1
+
+**Explicación (correcta):**  
+¡Exacto! La opción A es incorrecta en relación con la protección de datos en el ámbito de la Administración de Justicia.
+
+**Explicación (errada):**  
+Lo siento, tu respuesta no es correcta. La opción 1 es la incorrecta según el art. 236 bis LOPJ. (Respuesta correcta 1)
+
+---
+
+## Pregunta 94
+**Según la LOPJ, ¿quiénes podrán adoptar las medidas que sean necesarias para la supresión de los datos personales de los documentos a los que puedan acceder las partes?**
+
+**Opciones:**
+- 1)Los jueces y magistrados.
+- 2)Los LAJ.
+- 3)Los fiscales.
+- 4)Todas son correctas.
+
+**Respuesta correcta:** 4
+
+**Explicación (correcta):**  
+¡Muy bien! Todas las opciones (Jueces, LAJ y Fiscales) pueden adoptar estas medidas.
+
+**Explicación (errada):**  
+No es correcto. Según el art. 236 quinquies.2 LOPJ, todas las opciones son correctas. (Respuesta correcta 4)
+
+---
+
+## Pregunta 95
+**Según la LOPJ, ¿a quién se deberán comunicar los datos tratados con fines jurisdiccionales que sean estrictamente necesarios para el ejercicio de las funciones de inspección y control?**
+
+**Opciones:**
+- 1)El CGPJ.
+- 2)El ministerio de justicia.
+- 3)A empresas de tratamiento de datos especializadas.
+- 4)Las dos primeras opciones son correctas.
+
+**Respuesta correcta:** 4
+
+**Explicación (correcta):**  
+¡Correcto! Los datos deben ser comunicados tanto al CGPJ como al Ministerio de Justicia.
+
+**Explicación (errada):**  
+Lamentablemente, tu respuesta es incorrecta. Según el art. 236 quinquies.4 LOPJ, los datos se deben comunicar tanto al CGPJ como al Ministerio de Justicia. (Respuesta correcta 4)
+
+---
+
+## Pregunta 96
+**Según la Ley 39/2015, ¿qué se considera documento electrónico?**
+
+**Opciones:**
+- 1)A la información de cualquier naturaleza en forma electrónica, archivada en soporte electrónico, según un formato determinado y susceptible de identificación y tratamiento diferenciado.
+- 2)A la información de naturaleza jurídica en forma electrónica, archivada en soporte electrónico, según un formato determinado y susceptible de identificación y tratamiento diferenciado.
+- 3)A la información de naturaleza jurídica en forma electrónica, archivada en soporte electrónico, según un formato indeterminado y susceptible de identificación y tratamiento diferenciado.
+- 4)Ala información de naturaleza jurídica en forma digital, archivada en soporte electrónico, según un formato determinado y susceptible de identificación y tratamiento diferenciado.
+
+**Respuesta correcta:** 1
+
+**Explicación (correcta):**  
+¡Bien hecho! Se considera documento electrónico a la información de cualquier naturaleza en forma electrónica como se describe en la opción 1.
+
+**Explicación (errada):**  
+Lo siento, tu respuesta es incorrecta. Según el art. 26 Ley 39/2015, se refiere a la información de cualquier naturaleza como se indica en la opción 1. (Respuesta correcta 1)
+
+---
+
+## Pregunta 97
+**Según la LOPJ, ¿a quién corresponde supervisar el cumplimiento de la normativa de protección de datos personales respecto a las operaciones de tratamiento efectuadas con fines jurisdiccionales para los Juzgados y Tribunales?**
+
+**Opciones:**
+- 1)El CGPJ y la fiscalía general del estado.
+- 2)El gobierno.
+- 3)El ministerio de justicia y las comunidades con competencias asumidas en sus respectivos ámbitos.
+- 4)El CGPJ.
+
+**Respuesta correcta:** 1
+
+**Explicación (correcta):**  
+¡Exacto! La supervisión corresponde al CGPJ y a la Fiscalía General del Estado.
+
+**Explicación (errada):**  
+Desafortunadamente, no es correcto. Según el art. 236 octies.1 LOPJ, la supervisión es responsabilidad del CGPJ y de la Fiscalía General del Estado. (Respuesta Correcta 1) (Respuesta correcta 1)
+
+---
+
+## Pregunta 98
+**No estará obligado a comunicarse con la Administración de Justicia, en todo caso, a través de canales electrónicos, uno de los siguientes sujetos:**
+
+**Opciones:**
+- 1)Las personas jurídicas.
+- 2)Las entidades sin personalidad jurídica.
+- 3)Los notarios y registradores.
+- 4)Los funcionarios de las administraciones públicas para los trámites y actuaciones que realicen por razón de su cargo.
+
+**Respuesta correcta:** 2
+
+**Explicación (correcta):**  
+¡Exacto! Las entidades sin personalidad jurídica no están obligadas a comunicarse con la Administración de Justicia a través de canales electrónicos en todo caso.
+
+**Explicación (errada):**  
+Esa no es la respuesta correcta. Según el art. 4 RD 1065/2015, las entidades sin personalidad jurídica no están obligadas a comunicarse por canales electrónicos en todo caso. (Respuesta correcta 2)
+
+---
+

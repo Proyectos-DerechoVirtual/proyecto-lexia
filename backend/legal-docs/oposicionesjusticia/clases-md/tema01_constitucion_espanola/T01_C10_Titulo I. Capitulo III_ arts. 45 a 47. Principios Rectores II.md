@@ -1,0 +1,71 @@
+# Constitución Española
+
+## Titulo I. Capitulo III  arts. 45 a 47. Principios Rectores II
+
+**Tema:** Constitución Española  
+**Clase:** T01_C10  
+**Archivo:** T01_C10_Titulo I. Capitulo III_ arts. 45 a 47. Principios Rectores II.txt  
+**Tipo:** Material de Clase  
+**Categoría:** Oposiciones de Justicia  
+
+---
+
+Hola a todos y a todas, bienvenidos a la segunda clase sobre el capítulo tercero del título primero de la Constitución. Hoy nos toca continuar con los principios rectores de la política económica y social, por lo que nos centraremos específicamente en los artículos 45 a 47 de la Constitución, que tratan sobre el medioambiente, el patrimonio histórico y la vivienda. Todos ellos tienen un fundamento en común que nos podemos imaginar.
+
+
+Buscan la protección del entorno en el que vivimos y nos desarrollamos, sea por el medioambiente, que es el medio natural, por el patrimonio de nuestra tierra y de nuestras sociedades, que es precisamente nuestro entorno cultural, o por la vivienda en la que habitamos. Vamos a partir del artículo 45 de la Constitución. Este artículo se refiere a la protección del medioambiente.
+
+
+En particular dice que todos tenemos derecho a disfrutar de un medioambiente adecuado para el desarrollo de la persona, así como el deber de conservarlo. Mucho cuidado. Como afirmó el profesor Blanco Piqueras, este artículo no quiere decir que tengamos derecho a un medioambiente perfecto, sino, más bien, que tenemos derecho a que los poderes públicos velen por su adecuada conservación.
+
+
+El Tribunal Constitucional, en su sentencia 102.995, dijo que este principio rector emana constitucionalmente de la dignidad de la persona. Pues bien, para hacer efectivo este principio rector, el artículo 45 contiene un mandato para los poderes públicos, por el cual éstos deberán velar por la utilización racional de todos los recursos naturales, para proteger, mejorar y defender la calidad de vida y restaurar el medioambiente. Las medidas adoptadas han sido numerosas.
+
+
+Vamos a partir del PRTR, ya que su primer eje es, precisamente, la transición ecológica. Para lograrla, mejorando en el proceso la calidad del medioambiente, se ha creado el Plan Nacional de Adaptación al Cambio Climático 2021-2030, la Estrategia de Descarbonización a Largo Plazo, y se han aprobado numerosas leyes. Recuerda, particularmente, la Ley 7-2021 de Cambio Climático y Transición Energética, la Ley 21-2013 de Evaluación Ambiental, la Ley 7-2022 de Residuos y Suelos Contaminados para una Economía Circular o el Real Decreto Legislativo 1-2016, por el que se aprueba el artículo refundido de la Ley de Prevención y Control Integrador de la Contaminación.
+
+
+Por último, el artículo 45 también crea un mecanismo correctivo. En su epígrafe tercero nos dice que se crearán sanciones penales o administrativas y una obligación de reparar el daño causado para todos aquellos que actúen en contra del medioambiente. Particularmente, es importante que te quedes con un principio europeo que se denomina quien contamina paga.
+
+
+En base al mismo, si una empresa, por ejemplo, decide tirar vértigos tóxicos a un río, vulnerando la normativa ambiental, será sancionada económicamente por ello pagando por la contaminación que ha llevado a cabo. Visto esto, continuaremos con el artículo 46 de la Constitución. Este trata del patrimonio histórico, cultural y artístico de los pueblos de España.
+
+
+El artículo 46 crea un mandato por el que los poderes públicos garantizarán la conservación y promoverán el enriquecimiento del patrimonio histórico. Además, se crearán delitos contra los atentados contra él mismo. Hay varias cosas que debes tener en cuenta en relación con este principio rector.
+
+
+La primera es su indiscutible relación con el principio rector de la cultura del artículo 44 de la Constitución. La segunda es reconocer la importancia que tiene el patrimonio histórico español. Estamos hablando, como afirma el preámbulo de la Ley de Patrimonio Histórico, de la contribución histórica de los españoles a la civilización universal.
+
+
+Piensa que España es el cuarto país con mayor número de bienes declarados como patrimonio mundial por la Unesco. Por ser breves, piensa en Doñana, Atapuerca, Altamira, el Acueducto de Segovia, el Centro Histórico de Córdoba, la Catedral de Burgos o el Puente de Vizcaya, entre muchísimos otros. España es rica en patrimonio cultural porque, además de los anteriores, no debemos perder de vista nuestro patrimonio documental y bibliográfico, además de los bienes muebles, como cuadros o decoraciones históricas, y el patrimonio material.
+
+
+El flamenco suele ser uno de los ejemplos paradigmáticos de este último. En tercer lugar, debes conocer la normativa que rige para el patrimonio histórico artístico. Esta se compone de la Ley 16.1985 del Patrimonio Histórico Artístico Español, el Real Decreto 111.1986, que desarrolla parcialmente el anterior, la Ley 10.2015 de Salpaguardia del Patrimonio Cultural Inmaterial y la legislación autonómica.
+
+
+Por último, quédate con los siguientes ejemplos sobre las actuaciones que las administraciones públicas llevan a cabo para proteger el patrimonio histórico cultural español. Tenemos los avales del Estado, la protección frente al expolio, las actuaciones inspectoras, la declaración de bienes de interés cultural o la existencia del Consejo de Patrimonio Histórico como órgano de colaboración. Vamos a por el artículo 47 de la Constitución.
+
+
+Este artículo es una completa novedad en la historia del constitucionalismo histórico español. Como tal, es un principio rector que dice que todos los españoles tienen derecho a disfrutar de una vivienda digna y adecuada. Es un artículo importante, sobre todo si tenemos en cuenta los problemas de vivienda que existen actualmente, como su encarecimiento, las burbujas inmobiliarias, la ausencia de vivienda suficiente para la población o las viviendas de alquiler turístico.
+
+
+No obstante, el artículo no crea exactamente un derecho, sino un mandato para los poderes públicos de hacerlo efectivo, como señaló la sentencia del Tribunal Constitucional 152.1988. En otras palabras, los poderes públicos deben promover las condiciones necesarias para que las personas puedan disfrutar de una vivienda adecuada y regularán la utilización del suelo de acuerdo con el interés general para evitar la especulación. Esto crea, por tanto, dos líneas de actuación de los poderes públicos. La primera se refiere a la regulación de las condiciones para que los españoles puedan disfrutar de una vivienda digna y adecuada.
+
+
+Por ejemplo, en nuestro país se ha creado la vivienda de protección oficial, se ha regulado el alquiler de viviendas y se ha protegido a los deudores hipotecarios. Piensa, por ejemplo, en la Ley 1.2013, de medidas para reforzar la protección de los deudores hipotecarios, que, a raíz de las consecuencias de la crisis económica de 2008, suspendió los desahucios de las familias en especial riesgo de exclusión por un plazo de dos años. Durante la pandemia de la COVID también se activó esta medida, que estará en vigor, salvo prórrogas, hasta el 31 de diciembre de 2024.
+
+
+Por último, no podemos perder de vista la Ley 1.212.023, por el derecho a la vivienda, que crea una serie de derechos y deberes de los ciudadanos y regula la vivienda protegida, incentiva la vivienda asequible y regula la acción del Estado en materia de vivienda, rehabilitación, regeneración y renovación urbana. El segundo tipo de medidas que han llevado a cabo los poderes públicos ha consistido en la regulación de los usos del suelo, esto es, la creación del derecho urbanístico. Debes tener en cuenta que, conforme al artículo 148.1.3 de la Constitución, las comunidades autónomas asumieron la competencia de regular el uso del suelo en su territorio, respetando las competencias locales, que se centran, sobre todo, en la creación del Plan General de Ordenación Municipal como principal instrumento de organización del suelo.
+
+
+El Estado, como tiene numerosas competencias conexas con este asunto, como, por ejemplo, el medioambiente, los ferrocarriles o cualquier tipo de infraestructura que pase por más de dos comunidades autónomas, ha dictado normativa básica. Este es el Real Decreto Legislativo 7.2015, por el que se regula el texto refundido de la Ley del Suelo. De forma muy sencilla e introductoria, debes saber que esta ley organiza el suelo en categorías según el destino que se le pueda dar.
+
+
+Así tenemos suelo rural y suelo urbano y suelo urbanizable y no urbanizable. También regula el conjunto de derechos y deberes de los propietarios del suelo y los métodos de intervención pública que existen, como, por ejemplo, la regulación de los precios, la creación de un régimen sancionador o la concesión de las licencias urbanísticas para poder construir. Con esto acabamos la clase de hoy.
+
+
+Lo más importante es que te quedes con que estos tres artículos, el 45, el 46 y el 47, protegen elementos fundamentales del hábitat de las personas, el medioambiente, la herencia patrimonial de nuestra tierra y cultura y la vivienda. En los tres casos encontramos leyes muy actuales y novedosas que es importante que conozcas, como la Ley 7.021 de Cambio Climático y Transición Energética o la Ley 12.023 por el Derecho a la Vivienda. Nos vemos en la siguiente clase, en la que acabaremos de referirnos a los principios rectores que nos quedan.
+
+
+Allí nos vemos.
+

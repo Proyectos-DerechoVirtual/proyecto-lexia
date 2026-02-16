@@ -1,0 +1,50 @@
+# Carta de Derechos de los Ciudadanos
+
+## La Carta de los Derechos de los Ciudadanos ante la Administracion de Justicia
+
+**Tema:** Carta de Derechos de los Ciudadanos  
+**Clase:** T10_C01  
+**Archivo:** T10_C01_La Carta de los Derechos de los Ciudadanos ante la Administracion de Justicia.txt  
+**Tipo:** Material de Clase  
+**Categoría:** Oposiciones de Justicia  
+
+---
+
+Muy buenas, en este vídeo vamos a ver una introducción a la Carta de los Derechos de los Ciudadanos en un ámbito específico como es la justicia. Para ello veremos en qué momento se produjo, cuál es su fecha de aprobación, en qué partes se divide y por último la eficacia que tiene. Comenzamos.
+
+
+Lo primero que tienes que saber es en qué momento se produjo, que tienes que remontar al año 2002, primeros años del siglo XXI. Los españoles demandaban con urgencia una justicia más abierta que fuera capaz de dar servicio a los ciudadanos con mayor agilidad, calidad y eficacia, incorporando para ello métodos de organización e instrumentos procesales más modernos y avanzados. Para que este proyecto fuera al menos viable tenía que contarse con un amplio acuerdo de todas las fuerzas políticas que aseguraran la unidad y continuidad de los esfuerzos y garantizaran el consenso.
+
+
+Este fue precisamente el objeto y la finalidad del Pacto de Estado para la Reforma de la Justicia, firmado el 28 de mayo de 2001. Entre las prioridades del Pacto de Estado figuraba la elaboración de una Carta de Derechos de los Ciudadanos ante la Justicia que atienda a los principios de transparencia, información y atención adecuada y que establezca los derechos. El Pleno del Congreso de los Diputados, el 16 de abril del 2002, aprobó por unanimidad de todos los grupos parlamentarios, como proposición no de ley, el texto de la Carta de Derechos de los Ciudadanos ante la Justicia, que establece un catálogo de derechos de los usuarios de la justicia.
+
+
+La carta fue redactada por un grupo de trabajo, constituidor en seno de la Comisión de Seguimiento del Pacto de Estado, por acuerdo unánime de todos sus integrantes, en el que intervinieron los representantes de los distintos grupos parlamentarios y del Ministerio de Justicia. Este grupo recogió las iniciativas presentadas por las fuerzas políticas de la Cámara, así como las opiniones y sugerencias de las instituciones y organizaciones relacionadas con la Administración de Justicia. De hecho, buena parte de estas aportaciones se han integrado en el contenido de esta Carta.
+
+
+La Carta se divide en cuatro apartados, con la finalidad de conseguir una justicia moderna y abierta a los ciudadanos. La Carta desarrolla en su primer parte los principios de transparencia, información y atención adecuada contemplados en el Pacto de Estado, destacando la importancia de conseguir una Administración de Justicia responsable ante los ciudadanos, quienes podrán formular sus quejas y sugerencias sobre el funcionamiento de la misma y exigir, en caso necesario, las reparaciones a que hubiera lugar. La segunda parte de la Carta se centra en la necesidad de prestar una especial atención y cuidado en la relación de la Administración de Justicia con aquellos ciudadanos que se encuentran más desprotegidos, en primer lugar la víctima del delito, sobre todo en los supuestos de violencia doméstica y de género.
+
+
+En segundo término, los menores de edad, para evitar que se vea afectado su correcto desarrollo evolutivo. En tercer lugar, las personas que sufren una discapacidad sensorial, física o psíquica, para superar sus problemas de comunicación y acceso a los edificios judiciales. Finalmente, los extranjeros inmigrantes en España, a quienes se debe asegurar la aplicación de los principios y derechos recogidos en esta Carta.
+
+
+La Carta se ocupa en su tercera parte de aquellos derechos que son característicos de la relación de un ciudadano con los abogados y procuradores, habiendo resultado especialmente útiles en esta materia las aportaciones recibidas del Consejo General de la Abogacía y del Consejo General del Colegio de Procuradores de los Tribunales de España. Finalmente, la Carta de Derechos concluye con una previsión relativa a las condiciones necesarias para su eficacia. De este modo, se proclama la exigibilidad de los derechos reconocidos y la vinculación a los mismos de jueces, magistrados, fiscales, letrados de la Administración de Justicia, abogados, procuradores y demás personas e instituciones que cooperen con la Administración de Justicia.
+
+
+Asimismo, se encomienda a la Comisión de Justicia Interior del Congreso de los Diputados el seguimiento y evaluación del desarrollo y cumplimiento de esta Carta. Veamos la eficacia de la Carta. Los ciudadanos tienen derecho a exigir el cumplimiento de los derechos reconocidos en esta Carta.
+
+
+Estarán vinculados a ella jueces, magistrados, fiscales, letrados de la Administración de Justicia, médicos forenses, funcionarios públicos, abogados, procuradores y demás personas e instituciones que cooperan con la Administración de Justicia. Quienes adoptarán las disposiciones oportunas y proveerán de medios necesarios para garantizar el pleno respeto de los derechos. El Ministerio de Justicia y las Comunidades Autónomas con competencia en la materia, el Consejo General del Poder Judicial, la Fiscalía General del Estado y los colegios profesionales competentes.
+
+
+Quienes llevarán el seguimiento y la evaluación del desarrollo y el cumplimiento de la Carta. El Congreso de los Diputados a través de la Comisión de Justicia Interior. Será regularmente informado por el Gobierno y los órganos del Estado e instituciones públicas a los que se solicite.
+
+
+La memoria anual elevada por el Consejo General del Poder Judicial a las Cortes Generales incluirá una referencia específica y suficiente detallada de las quejas, reclamaciones y su sugerencias formuladas por los ciudadanos sobre el funcionamiento de la Administración de Justicia. Como resumen, ¿cuál es la finalidad de la Carta? Por un lado, conseguir una Administración de Justicia moderna y abierta que fuera responsable ante la ciudadanía a quienes se den la posibilidad de formular sus quejas y sugerencias sobre el funcionamiento de la misma y exigir, en su caso, las reparaciones a que hubiere lugar. Por otro lado, prestar especial atención a aquellas personas que se encuentran más desprotegidas, como las víctimas de una violencia doméstica, los menores de edad, las personas con discapacidad o los inmigrantes.
+
+
+Además, esta Carta cinta las bases para que la ciudadanía pueda exigir sus derechos también frente a los abogados y las abogadas, los procuradores, una conducta ideontológicamente correcta, una información clara sobre el coste aproximado de su intervención profesional, un asesoramiento gratuito, de calidad cuando la persona tenga derecho a la asistencia jurídica gratuita. La Carta de Derecho de los Ciudadanos ante la Justicia vincula a todas las personas que trabajan al servicio de la Administración de Justicia. Nos vemos en el siguiente vídeo.
+
+
+Subtítulos realizados por la comunidad de Amara.org
+

@@ -1,0 +1,98 @@
+# Constitución Española
+
+## Titulo V Relaciones Gobierno Cortes Arts 112 a 114
+
+**Tema:** Constitución Española  
+**Clase:** T01_C45  
+**Archivo:** T01_C45_Titulo V Relaciones Gobierno Cortes Arts 112 a 114.txt  
+**Tipo:** Material de Clase  
+**Categoría:** Oposiciones de Justicia  
+
+---
+
+Hola opositores, bienvenidos a la clase de hoy en la que vamos a centrarnos en el segundo tipo de control que el Congreso de los Diputados puede ejercer según el título quinto de la Constitución. Este es el denominado control-sanción y, como ya hemos dicho, sólo puede ser ejercido por el Congreso de los Diputados. Como ya te estás imaginando, nos estamos refiriendo a la moción de censura del artículo 113 de la Constitución.
+
+
+Junto con este mecanismo, el título quinto dibuja otro en su artículo 112, que sería algo así como la otra cara de la moneda de la moción de censura, la cuestión de confianza. Es importante no confundirlas. Recuerda que la cuestión de confianza no es un mecanismo de control del Congreso hacia el Gobierno, porque funciona justo al revés.
+
+
+Es el Gobierno el que le pide la confianza al Congreso y se la juega a cesar si no la consigue. Para respetar el orden de la Constitución, vamos a empezar por el artículo 112 de la Constitución, que regula la cuestión de confianza. Lo que nos dice el artículo es lo siguiente.
+
+
+El presidente del Gobierno, previa deliberación del Consejo de Ministros, puede plantear ante el Congreso de los Diputados la cuestión de confianza sobre su programa o sobre una declaración de política general. La confianza se entenderá otorgada cuando vote a favor de la misma la mayoría simple de los diputados. Vamos a desgranar este artículo por partes.
+
+
+Lo primero, la cuestión de confianza es un mecanismo que puede activar el presidente del Gobierno y sirve para pedir la confianza del Congreso. Lo segundo, en este mecanismo sólo participa el Congreso de los Diputados, así que el Senado se queda fuera porque no participa de ninguna manera. Vamos a ver, en tercer lugar, cómo se tramita.
+
+
+Para esto tenemos que estar en el artículo 174 del reglamento del Congreso de los Diputados. Para empezar, la decisión sobre plantear la cuestión de confianza corresponde al presidente del Gobierno. Así lo dice el artículo 112 de la Constitución, pero también el artículo 2 de la ley 50.997 del Gobierno.
+
+
+El presidente tiene que comentarlo antes con el Consejo de Ministros, pero no está vinculado por lo que opinen los ministros. Una vez que decida plantear la cuestión de confianza, el presidente tiene que dirigir un escrito motivado a la Mesa del Congreso. Tiene que acompañar este escrito con la certificación del Consejo de Ministros.
+
+
+Con esto se prueba que se está respetando la previsión constitucional de la que acabamos de hablar. A partir de aquí, la Mesa del Congreso estudiará el escrito y lo admitirá a trámite. La Presidencia del Congreso tiene que dar cuenta de esto a la Junta de Portavoces y procederá después a convocar el Pleno.
+
+
+En el Pleno se llevará a cabo un debate que tiene las mismas reglas que los debates de investidura, que vimos en la clase sobre el artículo 99 de la Constitución. Cuando termine el debate, se debe someter a votación la propuesta de confianza. Para ello, el presidente dirá a qué hora será la votación y, como mínimo, debe mediar un periodo de 24 horas entre que se presentó la cuestión de confianza y entre que se produce la votación sobre la misma.
+
+
+A partir de aquí, se entiende que el presidente del Gobierno ha conseguido la confianza cuando han votado favorablemente la mayoría simple de los diputados. Si lo consigue, estupendo, pero ¿qué ocurre si no logra esta mayoría? Pues tenemos que estar al artículo 114 de la Constitución, que nos dice las consecuencias. El presidente del Gobierno debe presentar su dimisión al Rey, lo cual comporta que caiga el Gobierno, que se deban disolver las Cortes y convocarse a nuevas elecciones.
+
+
+Una precisión. Recuerda que la cuestión de confianza no puede plantearse cuando el Gobierno esté en funciones, conforme el artículo 21 de la ley 50.997 del Gobierno. Y, por último, la cuestión de confianza ha sido utilizada muy poco en la historia de nuestra democracia.
+
+
+Tan solo dos veces. Una fue en 1980, por el presidente Suárez, y otra en 1990, por el presidente González. Vamos a pasar a ver la moción de censura.
+
+
+Esta, como hemos visto, se regula en el artículo 113 de la Constitución. Este artículo nos dice varias cosas. La primera es que la moción de censura sirve para que el Congreso de los Diputados pueda exigir al Gobierno responsabilidad política.
+
+
+En otras palabras, si se plantea la moción de censura y ésta prospera, el Gobierno tendrá que cesar y se nombrará automáticamente al candidato de la moción como nuevo presidente. Lo siguiente que nos dice el artículo 113 son cuestiones relativas a su tramitación. Antes de que entremos a ver el procedimiento, debes saber qué cuestiones están constitucionalizadas.
+
+
+Apunta. El artículo 113 hace una mención expresa a las siguientes cuestiones. La moción es presentada por un décimo de los diputados y debe llevar un candidato alternativo a la presidencia.
+
+
+Entre que se presenta la moción y se vota, debe pasar un plazo de cinco días. En los dos primeros días de este plazo se pueden plantear mociones alternativas. Por último, si la moción no es aprobada, sus signatarios no pueden presentar otra durante el mismo periodo de sesiones.
+
+
+Dicho esto, vamos a ver cuál es el procedimiento para plantearlas. Para ello, debemos tener en cuenta lo anterior y, además, los artículos 175 a 179 del Reglamento del Congreso. Lo primero ya lo hemos dicho.
+
+
+Las mociones deben ser presentadas al menos por un décimo de los diputados. Recuerda que este conjunto de diputados sólo puede plantear una moción por periodo de sesiones. Vamos, ¿qué otro grupo que represente un décimo de los diputados si podría presentar otra ese mismo periodo de sesiones sin problema alguno? Para presentar una moción, es necesario dirigir a la mesa del Congreso un escrito motivado que tiene que incluir, necesariamente, un candidato alternativo a la presidencia del Gobierno.
+
+
+Por eso se suele decir que nuestra moción de censura es constructiva. Sería destructiva si no tuviese un candidato alternativo, porque entonces habría que convocar elecciones. A partir de aquí, cuando la mesa del Congreso reciba el escrito con la moción de censura, comprobará que éste cumple todos los requisitos que hemos mencionado.
+
+
+Si lo hace, lo admite a trámite y dará cuenta al presidente del Gobierno y a los portavoces de los grupos parlamentarios de que se ha presentado. Ten en cuenta que, conforme al artículo 113, en los dos primeros días desde que se presentó esta moción de censura, otros grupos de diputados que somen un décimo del total pueden presentar otras mociones alternativas. A partir de aquí, se convocará al Pleno para llevar a cabo un debate.
+
+
+En éste, uno de los diputados firmantes de la moción deberá defenderla sin límite de tiempo. También puede intervenir el candidato alternativo propuesto en la moción, con el objetivo de exponer el programa político del Gobierno que pretende formar. Recuerda que, si se han planteado varias mociones de censura, el presidente de la Cámara, oída a la Junta de Portavoces, puede acordar el debate conjunto de todas las mociones incluidas en el orden del día, pero se votarán siempre por separado.
+
+
+Celebrado el debate, toca llevar a cabo la votación. Es importante que sepas que la votación sólo puede celebrarse si han transcurrido, como mínimo, cinco días desde que la moción se presentó. Es el denominado período de enfriamiento.
+
+
+La fecha y horas exactas las fijará la presidenta del Congreso de los Diputados. Llegado el momento, la moción, para prosperar, necesitará una mayoría absoluta favorable en el Congreso. Si esto ocurre, la presidenta del Congreso lo pone en conocimiento del rey y del presidente del Gobierno.
+
+
+Este último deberá presentar su dimisión y se entenderá que el candidato alternativo que figuraba en la moción ha conseguido la confianza parlamentaria para ser investido presidente. Por tanto, será nombrado presidente del Gobierno para el tiempo que quede de la legislatura. Por último, y como dato, te comento que en España la moción de censura se ha utilizado hasta cinco veces, pero sólo ha prosperado una vez, en 2018.
+
+
+Aquel año, prosperó la moción de censura planteada por Pedro Sánchez contra el Gobierno de Mariano Rajoy, con 180 votos a favor. Por último, el artículo 114 de la Constitución señala las consecuencias de la cuestión de confianza y de la moción de censura. Ya las hemos comentado, pero a modo de recordatorio.
+
+
+En el caso de la cuestión de confianza, debemos estar al artículo 114.1 de la Constitución. Si ésta no prospera, el presidente deberá presentar su dimisión al Rey, se disolverán las Cortes y se celebrarán elecciones. Para nombrar a un nuevo Gobierno, se seguirán las reglas del artículo 99 de la Constitución.
+
+
+En el caso de la moción de censura, debemos centrarnos en el artículo 114.2, que nos dice que, en caso de que ésta prospere, el Gobierno presentará su dimisión al Rey y el candidato alternativo de la moción será nombrado presidente del Gobierno por el Rey. Con esto acabamos la clase de hoy. Recuerda que los artículos 112 y 113 prevén dos mecanismos a través de los cuales se puede hacer caer al Gobierno.
+
+
+El primero, el del 112, es la cuestión de confianza, que es presentada por el presidente del Gobierno. El segundo, el del 113, es la moción de censura, que es planteada por los diputados del Congreso. Por último, el artículo 114 contempla las consecuencias de estas dos herramientas.
+
+
+Nos vemos en la próxima clase. ¡Ánimo con el estudio!
+

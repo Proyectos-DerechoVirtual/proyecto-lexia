@@ -1,0 +1,83 @@
+# Proceso Civil
+
+## T17a19 C11 Cuestiones generales del procedimiento
+
+**Tema:** Proceso Civil  
+**Clase:** T17a19_C11_Cuestiones generales del procedimiento  
+**Archivo:** T17a19_C11_Cuestiones generales del procedimiento.txt  
+**Tipo:** Material de Clase  
+**Categoría:** Oposiciones de Justicia  
+
+---
+
+Hola a todos y bienvenidos a Prime Opositores, el Netflix de los opositores. Hoy vamos a continuar la explicación sobre los artículos 6 a 18 de la ley de enjuiciamiento civil, en la que estamos viendo conceptos procesales básicos como la capacidad para ser parte, la capacidad procesal, la legitimación, la pluralidad de partes en el proceso, etc. Algunos de estos artículos han sido modificados por el decreto ley 6.2023, que entrará en vigor el 20 de marzo de 2024 y que ya vamos adelantando sus modificaciones por aquí.
+
+
+Como son muchas cosas que ver, lo hemos dividido en unas cuantas clases para que no se haga demasiado denso y puedas ir asimilando poco a poco. Dicho esto y sin más dilación, vamos allá. En la anterior clase ya hablamos lo que era ser parte, es decir, sujeto de un proceso, y de la capacidad para ser parte, que la definimos como la aptitud para poder ser titular de derechos y obligaciones procesales y la capacidad procesal, o también conocida como capacidad para comparecer en juicio, como aptitud para ejercitar esos derechos procesales.
+
+
+Hoy vamos a continuar con los conceptos de representación y legitimación. En primer lugar, respecto a la representación, la posesión de capacidad para ser parte y la capacidad procesal puede no ser suficiente para actuar en un proceso y, por tanto, se añade la necesidad de tener que intervenir por medio de un representante, el procurador. Esta representación es la conocida como capacidad de postulación, aunque no cubre todos los supuestos posibles.
+
+
+Hay que añadir la representación de que han de valerse determinadas personas, como por ejemplo los menores y de las que actúan las personas jurídicas, que también ya de ello hablamos en la clase anterior. Así que, sin más rodeos, vamos a ir con cada uno de estos tipos de representación. Respecto a la representación legal, como vimos al tratar la capacidad procesal, algunas personas físicas han de comparecer en el proceso a través de sus representantes legales, como sucede con los menores de edad no emancipados.
+
+
+En estos supuestos, el representante legal puede intervenir en el proceso como demandante o como demandado de dos maneras diferentes, pero con un significado igual, encabezando las actuaciones que sean necesarias y haciendo constar que interviene como representante legal o encabezando el representante y haciendo constar que actúa por medio del representante legal que es quien la firma. Del mismo modo, el poder otorgado en favor del procurador ha de ser otorgado por el representante legal, ya sea para que el interesado lo represente a él en su condición de representante legal del mismo. El representante legal tenemos que puede intervenir en el proceso.
+
+
+A continuación, tenemos respecto a la representación necesaria, que la representación necesaria es de la que sí que hablamos en la clase anterior también. Se trataría de aquellas personas que para el ejercicio de los derechos procesales de las personas jurídicas tienen que intervenir, puesto que una empresa no puede materialmente concurrir a un juicio al ser un elemento abstracto. Es considerada por la doctrina mayoritaria que no deriva de incapacidad procesal, que esto también lo adelantamos, sino de la necesidad que tiene toda persona jurídica de presentarse así en el tráfico jurídico en general y en el proceso en particular por medio de personas físicas.
+
+
+En la clase anterior poníamos de ejemplo una empresa de juguetes. La empresa de juguetes no puede entrar por la puerta de un juzgado, que llevamos la factoría y hablan los ladrillos. Iría, por ejemplo, el dueño de la empresa.
+
+
+Y luego tenemos la representación técnica, que esta es la que llamamos capacidad de postulación. Cuando se habla en derecho procesal de representación, el supuesto más típico sería este. La tecnificación de los actos procesales y la considerable dificultad para los que no se dedican al derecho suponen las actuaciones procesales y el inconveniente que podría suponer el encomendárselo a los abogados, que tendrían que desviar gran parte de sus esfuerzos y de su atención a este tipo de actuaciones, ha motivado que algunas legislaciones, como la española, impongan la necesidad de que el litigante otorgue su representación a un tercero que actúa en su nombre ante los órganos jurisdiccionales y mantenga informado al abogado de todas las vicisitudes del proceso.
+
+
+Estas personas no van a ser otras que los procuradores. Como podemos ver, la capacidad de postulación no guarda relación con la capacidad jurídica ni con la capacidad de obrar, que son cualidades subjetivas, es decir, se tiene en cuenta el sujeto, sino que se impone por razones objetivas o técnicas y hace referencia al conocimiento provisional que se entiende necesario para la realización de los actos de que se componen los procesos, dado la complejidad y el tecnicismo de éstos, en beneficio de las propias partes y del buen funcionamiento de la Administración de Justicia. La relación que liga al procurador y su cliente se configura desde un punto de vista jurídico como un mandato, pero el mandatario no sólo se obliga a actuar por cuenta de un cargo del mandante, sino también a actuar en su nombre.
+
+
+Se trata de un mandato representativo, si tenemos en cuenta la clasificación que se hace en derecho civil de los tipos de mandato, y el acto por el que se confiere la representación es el poder, aunque la ley se hace un lío a veces con lo que es poder y apoderamiento, es decir, entre el documento y lo que es el contenido de este negocio jurídico o esta facultad de representación de la persona. Por ejemplo, en la clase anterior hablábamos de una señora, María, que demandaba a una empresa de juguetes para exigir una indemnización por un producto defectuoso, pues María actuaría por medio del procurador, para lo cual daría un poder al procurador, por el que podría representarla en el proceso, y esta relación jurídica se constituía como mandato. ¿Qué tratamiento procesal tiene lo que hemos visto hasta ahora en estas dos clases? La capacidad para ser parte, la capacidad procesal y la representación.
+
+
+Visto todo lo que hemos hecho hasta ahora, pasamos ahora a ver, por tanto, cómo lo ve la ley de enjuiciamiento civil las tres características que hemos explicado, y para ello podemos distinguir entre capacidad para ser parte y capacidad procesal por un lado y la representación por otro. Respecto al tratamiento procesal de la capacidad para ser parte y capacidad procesal, hemos visto que estas dos características son presupuestos subjetivos del proceso referentes a las partes y son requisitos procesales necesarios, puesto que sólo si concurre el tribunal puede examinar la cuestión de fondo planteada en el proceso. Lo primero que nos podemos plantear es si hay que justificarlas, es decir, si se tiene que demostrar que se tienen dichas capacidades.
+
+
+Partiendo de la amplitud con que la ley de enjuiciamiento civil lo reconoce a las personas físicas la capacidad para ser parte, pues no existe una norma ninguna que exija acreditar su concurrencia, y lo mismo cabe decir respecto a la capacidad procesal, cuando la persona física litiga por sí misma. Por ello, con la demanda con la constatación a la demanda, no hay que acompañar el documento relativo a ninguno de estos extremos. Por ejemplo, María no tendría que justificar su capacidad para ser parte ni su capacidad procesal.
+
+
+Cuando existe alguna representación ilegal o se actúa por un órgano de la persona jurídica por ella, de las que ya hemos hablado de la ley enjuiciamiento civil, sí que se exige que junto con la demanda o la contestación se acompañe del documento documentos que acreditan esta representación que el litigante se atribuye y por la que se presenta en juicio, con lo que se está comprendiendo la representación legal y voluntaria de las personas físicas, por ejemplo, respecto a los menores y respecto de las personas jurídicas. Es decir, como hemos visto antes, por ejemplo, el dueño de la empresa, su existencia en la condición de órgano con la facultad de comparecer en juicio, en su caso la representación voluntaria, es lo que se tiene que demostrar. Por el contrario, por tanto, en el caso del dueño de la empresa, con respecto a lo que hemos visto de María, sí que tiene que demostrar que ostenta esta posición en la empresa para poder actuar en su nombre.
+
+
+¿Qué ocurre si alguien no tiene alguna de estas capacidades y se descubre en el proceso? Pues respecto a la denuncia de los defectos de capacidad, la del enjuiciamiento civil establece en el artículo 9 que con carácter general la falta de capacidad para ser parte y la capacidad procesal podrá ser apreciada de oficio por el tribunal en cualquier momento del proceso y podrá ser también alegada por la contraparte. Por ende, debemos distinguir según el defecto de capacidad se aprecie de oficio por el juez o que sea instancia de aparte, es decir, que se denuncia por alguna de las partes. Si es de oficio, el juez puede pronunciarse sobre los defectos de capacidad del demandante en cualquier momento del proceso.
+
+
+Si le hicieran el trámite de admisión no a la demanda, debe declarar la inadmisión de la demanda, ya que es uno de los vicios que se considera como insubsanable. Por ejemplo, si interviene una sociedad irregular, que ya se hablamos en la clase anterior y por tanto no me detengo a explicarlas, fuera de los supuestos permitidos por la ley sería un vicio insubsanable. Si lo que ocurre es que se considera que no está debidamente justificada la representación en los casos en que también, como ya hemos visto, esta justificación es necesaria, por ejemplo, respecto a la empresa de juguetes y el dueño o director, debe también declararse la inadmisión de la demanda, pero se trata de un defecto insubsanable en este caso, por lo que ha de concederse antes al demandante la oportunidad de su subsanación.
+
+
+Por ejemplo, se le daría un plazo de tiempo al dueño de la empresa de juguetes para suplir el defecto. El juez puede también poner de manifiesto a las partes en la audiencia previa al juicio ordinario, es decir, en otro momento procesal al que venimos ahora mismo de ver, los defectos de capacidad de representación de cualquiera de ellos y decidir lo que estime pertinente, aunque las partes no los hubieran denunciado. Por otro lado tenemos, como hemos dicho, que también puede ser visto a instancia de parte.
+
+
+El demandado puede alegar en la contestación a la demanda los defectos en la capacidad para ser parte y procesal del demandante y éste en la comparecencia previa puede poner de manifiesto los defectos de aquel en cuanto a la representación en que con qué comparece. ¿Qué efectos produce? Pues la falta de capacidad para ser parte y la de capacidad procesal determinan que no puede dictarse una sentencia sobre el fondo y, como os he dicho, se trata de defectos insubsanables. Si esto ocurre, el tribunal dictará según el momento del proceso en que lo aprecie, o bien un auto de inadmisión de la demanda o una sentencia de absolución en la instancia, que esta última no impide que se pueda abrir un nuevo proceso sobre el mismo objeto, puesto que no se ha resuelto sobre el fondo del asunto, no se ha podido llegar a conocer por el órgano jurisdiccional del mismo.
+
+
+Los defectos en la representación legal o la actuación del órgano de la persona jurídica que comparezca que no se subsana producen un efecto distinto según afecta al demandante o al demandado. Si afecta al demandante a dedictarse un auto poniendo fin al proceso y, si afecta al demandado, se le declarará en rebeldía y el proceso seguirá su curso sin su intervención. Respecto al tratamiento procesal de la representación procesal, que en cierto modo lo hemos visto ya, la ley o el juzgamiento civil exige que con la demanda y la contestación se presente, entre otras, el poder notarial conferido al procurador siempre que se intervenga en la representación que nos otorgue a pudacta.
+
+
+¿Qué ocurre si no se hace? Pues si el demandante, María, no presenta el documento de poder de la demanda, se declarará la inadmisión de la demanda y, si esta cuestión o la relativa a la representación del demandado, volvemos a repetir, se suscitará en la audiencia previa y no fuera subsanada, puesto que ya hemos visto que se trata de efectos subsanables, el tribunal dictará auto poniendo fin al proceso si afectará al demandante o la rebeldía si es al demandado, si afecta a este. Con esto terminamos la segunda clase, la segunda parte, sobre la explicación de los artículos 6 a 18 de la ley de enjuiciamiento civil. Espero que te haya quedado claro lo que hemos explicado hasta ahora.
+
+
+En la próxima clase continuaremos con los demás conceptos procesales esenciales que vienen contenidos a lo largo de estos artículos. En resumidas cuentas, hoy hemos visto, en primer lugar, la representación. Respecto a la representación tenemos tres tipos.
+
+
+La legal, que son aquellas personas que no pueden ejercer la capacidad de comparecer por sí mismas y se les nombra un representante, por ejemplo los menores de edad no emancipados. La necesaria, que es la que hace referencia a las personas jurídicas, puesto que estas no pueden concurrir al juicio ya que son entes abstractos. Y la representación técnica, o capacidad de postulación, que se fundamenta en razones objetivas o técnicas, a diferencia de la capacidad para ser parte y capacidad procesal que habíamos visto hasta ahora y que supone la necesidad de ser representado en el proceso por un profesional, debido a la complejidad y tecnicismo que suponen los actos procesales para un ciudadano común que no tiene nada que ver con el mundo jurídico.
+
+
+A continuación hemos visto el tratamiento procesal que tiene la ley de enjuiciamiento civil. Los tres conceptos procesales vistos hasta este momento. En el caso de la capacidad para ser parte y la capacidad procesal no se tiene que justificar, pero la representación sí.
+
+
+La falta de alguna de estas capacidades supone un vicio insubsanable que se pueda proteger tanto de oficio como instancia de parte, es decir, que se denuncia por una de las partes y que supondrá, según el momento en que se verifique, auto de sobresalimiento o auto de absolución en la instancia. Respecto a la representación es un defecto subsanable, pero si no se subsana el efecto será diferente. Se afecta al demandante, dará lugar a auto de sobresalimiento y si es al demandado la declaración de rebeldía, pero se podrá continuar con el proceso.
+
+
+En las próximas clases seguiremos viendo, como ya hemos dicho, estos artículos 6 a 18. Así que nada, te espero en ellas. Hasta la próxima.
+

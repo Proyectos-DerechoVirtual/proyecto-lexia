@@ -1,0 +1,131 @@
+# Puntos Clave – Cortes Generales (Arts. 66 a 72 CE)
+
+**📚 Tema:** Constitución Española  
+**🎓 Clase:**  Cortes Generales  
+**🎯 Tipo:** Pregunta trampa / Punto clave  
+**📋 Archivo:** T01_C23_Cortes Generales_TRAMPA.txt
+
+---
+
+Puntos Clave – Cortes Generales (Arts. 66 a 72 CE)
+
+1. Artículo 66 CE – Funciones de las Cortes
+RECUERDA
+- Representan al pueblo español.
+- Ejercen poder legislativo, función presupuestaria y control del Gobierno.
+
+TEN CUIDADO
+- No confundir con funciones del Gobierno.
+
+MNEMOTÉCNICA
+LEPRECO: LEgislación, PREsupuestos, COntrol
+📌 "LEPRECO: el Parlamento hace leyes, controla y aprueba presupuestos".
+
+---------------------------------------------------
+
+2. Arts. 66.2, 99 y 113 CE – Bicameralismo asimétrico
+RECUERDA
+- Congreso y Senado forman Cortes, pero no tienen mismo peso.
+- Congreso: última palabra legislativa, investidura y censura Gobierno.
+
+TEN CUIDADO
+- No todas las decisiones colegiadas: Congreso manda más.
+
+MNEMOTÉCNICA
+CONSE: CONgreso SE impone
+📌 "CONSE: si hay conflicto, el Congreso se impone".
+
+---------------------------------------------------
+
+3. Artículo 69 CE – Composición del Senado
+RECUERDA
+- Senadores por sufragio (4 por provincia).
+- Senadores designados por CCAA (1 + 1 por millón hab.).
+
+TEN CUIDADO
+- No todos electos directamente, composición mixta.
+
+MNEMOTÉCNICA
+MITESE: MIxta, TErritorial, SEnado
+📌 "MITESE: el Senado mezcla votos y territorios".
+
+---------------------------------------------------
+
+4. Artículo 72 CE – Autonomía Cámaras
+RECUERDA
+- Cada Cámara: reglamento, presupuesto propio y poder disciplinario.
+
+TEN CUIDADO
+- Funciones autónomas dentro del marco constitucional.
+
+MNEMOTÉCNICA
+REAU: REglamento, Autonomía, Unidad
+📌 "REAU: cada Cámara se rige a su modo".
+
+---------------------------------------------------
+
+5. Artículo 71.1 CE – Inviolabilidad parlamentaria
+RECUERDA
+- Diputados/senadores inviolables por votos y opiniones en ejercicio del cargo.
+
+TEN CUIDADO
+- No confundir con aforamiento o inmunidad procesal.
+
+MNEMOTÉCNICA
+INVO: INViolables por Votar u Opinar
+📌 "INVO: lo que se dice en el Congreso, no se juzga fuera".
+
+---------------------------------------------------
+
+6. Artículo 71.3 CE – Aforamiento institucional ante Supremo
+RECUERDA
+- Decisiones de órganos internos de Cámaras → Sala Contencioso Supremo.
+
+TEN CUIDADO
+- También instituciones parlamentarias aforadas.
+
+MNEMOTÉCNICA
+AFORSUP: AFORamiento ante el SUPremo
+📌 "AFORSUP: si lo decide Parlamento, lo juzga Supremo".
+
+---------------------------------------------------
+
+7. Artículo 69 CE – Representación territorial Senado
+RECUERDA
+- Senado representa territorios (provincias y CCAA), no al pueblo en conjunto.
+
+TEN CUIDADO
+- No cumple misma función representativa que Congreso.
+
+MNEMOTÉCNICA
+RESTE: REpresenta Solo TErritorios
+📌 "RESTE: Senado voz de tierra, no del censo".
+
+---
+
+## 📊 **Información del chunk:**
+
+- **Chunk 1** de 1
+- ❌ Sin recordatorios
+- ❌ Sin advertencias  
+- ❌ Sin mnemotécnica
+
+## 🔍 **Metadata:**
+
+```json
+{
+  "topicName": "tema01_constitucion_espanola",
+  "topicTitle": "Constitución Española",
+  "topicNumber": 1,
+  "classTitle": " Cortes Generales",
+  "classNumber": "T01_C23",
+  "questionTitle": "Puntos Clave – Cortes Generales (Arts. 66 a 72 CE)",
+  "questionNumber": null,
+  "chunkType": "question",
+  "chunkIndex": 0,
+  "hasReminder": false,
+  "hasWarning": false,
+  "hasMnemonic": false,
+  "embeddingModel": "text-embedding-3-large"
+}
+```

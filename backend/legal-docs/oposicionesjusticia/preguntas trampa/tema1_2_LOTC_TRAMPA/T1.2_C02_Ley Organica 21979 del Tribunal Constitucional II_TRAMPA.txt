@@ -1,0 +1,45 @@
+
+ORGANIZACIÓN DEL TRIBUNAL CONSTITUCIONAL
+
+1. Estructura tripartita del TC
+RECUERDA: La jurisdicción se organiza en Pleno (12 magistrados), 2 Salas (6+6) y 4 Secciones (3 cada una). El Pleno resuelve asuntos nucleares, las Salas conocen amparo y las Secciones filtran admisibilidad. Garantiza especialización y rapidez (arts. 2 y 8 LOTC).
+TEN CUIDADO: No confundir Sala con Sección. Las Secciones no dictan leyes; solo deciden admisión.
+REGLA MNEMOTÉCNICA: TPS: Tripartita-Pleno-Salas
+
+2. Orden de presidencia y sustitución
+RECUERDA: Preside el Presidente; si falta, el Vicepresidente; luego el magistrado más antiguo y, en última instancia, el de mayor edad. Aplica en Pleno, Salas y Secciones (arts. 9–12 LOTC).
+TEN CUIDADO: Saltarse al Vicepresidente invalida convocatorias.
+REGLA MNEMOTÉCNICA: PVAE: Presidente-Vicepresidente-Antigüedad-Edad
+
+3. Quórums y mayorías de adopción
+RECUERDA: 
+- Pleno: mínimo 8 magistrados (2/3) y mayoría simple, salvo cese (¾).  
+- Sala: mínimo 4; si empatan, decide Presidente.  
+- Sección: basta 2 para deliberar (art. 14 LOTC).
+TEN CUIDADO: No aplicar quórum del Pleno a las Salas.
+REGLA MNEMOTÉCNICA: Q82: Quórum-8 en Pleno, 2 en Sección
+
+4. Función-filtro de las Secciones
+RECUERDA: Las Secciones admiten/inadmiten recursos de amparo. Solo dictan sentencia si hay doctrina consolidada y fundada; en caso contrario, elevan a Sala (arts. 7 y 50 LOTC).
+TEN CUIDADO: Presentar escrito a Sala sin pasar por Sección provoca archivo.
+REGLA MNEMOTÉCNICA: FAS: Filtro-Admisión-Sección
+
+5. Competencias exclusivas del Pleno
+RECUERDA: El Pleno resuelve sobre control previo de tratados, inconstitucionalidad de leyes orgánicas, conflictos de competencia relevantes, recusaciones y cumplimiento de sentencias. También suspende magistrados (arts. 10 y 31 LOTC).
+TEN CUIDADO: No atribuir a Sala anulación de leyes orgánicas.
+REGLA MNEMOTÉCNICA: CEL: Competencias-Exclusivas-Ley
+
+6. Composición fija y presidencias de las Salas
+RECUERDA: Sala 1ª la preside el Presidente; Sala 2ª, el Vicepresidente. Cada Sala tiene 6 magistrados repartidos en 2 Secciones dependientes (1+1) (art. 8 LOTC).
+TEN CUIDADO: Alterar reparto sin base oficial vulnera juez predeterminado (art. 24 CE).
+REGLA MNEMOTÉCNICA: P6V: Presidente-6-Vicepresidente
+
+7. Votos concurrentes y disidentes
+RECUERDA: Cualquier magistrado puede emitir voto concurrente (mismo fallo, distinta motivación) o disidente (desacuerdo). Se publican en BOE junto a la sentencia (art. 90 LOTC).
+TEN CUIDADO: Omitir votos particulares vulnera el art. 90 LOTC.
+REGLA MNEMOTÉCNICA: VCD: Voto-Concurrente-Disidente
+
+8. Principio de continuidad y reparto equilibrado
+RECUERDA: Sustituciones regladas: pasa el siguiente por antigüedad. Se reparten ponencias equitativamente para evitar sobrecarga y asegurar funcionamiento (arts. 9.2 y 11 LOTC).
+TEN CUIDADO: Si Presidencia concentra ponencias, se vulnera igualdad colegiada.
+REGLA MNEMOTÉCNICA: SRE: Sustitución-Reparto-Equilibrado

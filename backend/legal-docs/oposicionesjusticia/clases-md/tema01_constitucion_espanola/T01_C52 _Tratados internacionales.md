@@ -1,0 +1,59 @@
+# Constitución Española
+
+## T01 C52  Tratados internacionales
+
+**Tema:** Constitución Española  
+**Clase:** T01_C52 _Tratados internacionales  
+**Archivo:** T01_C52 _Tratados internacionales.txt  
+**Tipo:** Material de Clase  
+**Categoría:** Oposiciones de Justicia  
+
+---
+
+Muy buenas a todos y bienvenido o bienvenida a esta nueva clase. Ya hemos visto prácticamente todo el sistema de fuentes, pero aparte de todas las normas que hemos visto, hay otras normas que van a ser supranacionales, que van a escapar al control estatal y que sin embargo se van a encontrar incluidas en el sistema de fuentes. Sí, van a ser los tratados internacionales y van a ser normas que nos van a obligar, nos van a vincular y van a tener muchísima fuerza e importancia en nuestro ordenamiento jurídico.
+
+
+Para que lo entiendas bien, vamos a verlo con un ejemplo. El gobierno de España está muy contento porque, reunido con otros 50 países, han acordado firmar un acuerdo internacional por el que se van a obligar de forma conjunta a bajar las emisiones de CO2 en el plazo de 5 años. Sin embargo, hay un primer problema y es que en nuestro país ya existe una ley que establece que las emisiones de CO2 pueden superar ciertos límites.
+
+
+¿Qué crees que va a pasar? Para empezar, este tratado internacional, ojo y muy importante, va a prevalecer solo en nuestro ordenamiento jurídico interno y una vez España lo adopte, las normas que sean contrarias a este quedarán derogadas. Y lo más importante, el poder legislativo no va a poder dictar ninguna nueva norma que contradiga lo establecido en el tratado internacional. La única norma que dentro de nuestro ordenamiento jurídico interno va a seguir siendo superior a los tratados internacionales es la Constitución Española, siendo necesaria su reforma en caso de que el tratado internacional contenga estipulaciones contrarias a esta.
+
+
+Genial, y visto lo anterior, ¿qué tendría que hacer el gobierno para que el tratado internacional de medio ambiente entrara en vigor? Bueno, pues muy atento, porque lo que viene ahora es oro y te lo tienes que aprender. Hay que distinguir entre los siguientes supuestos. Primer supuesto, el tratado internacional tiene estipulaciones que son contrarias a nuestra Constitución Española.
+
+
+Imagínate que el tratado internacional que España quiere celebrar prevé la disolución de las Fuerzas Armadas. Esto sería contrario a nuestra Constitución. Y es por ello que primero habría que modificar la Carta Magna y luego el tratado internacional podría entrar en vigor.
+
+
+Si por cualquier cosa España aprueba un tratado internacional que es contrario a su Constitución, el Tribunal Constitucional lo tiraría atrás y éste quedaría sin entrar en vigor. Bien, segundo caso, el tratado internacional afecta materias con reservas de ley orgánica. Esto ya lo hemos visto.
+
+
+Vale, imaginemos que el Tratado de Medio Ambiente obliga a tener un listado con todos y cada uno de nosotros los españoles para ver cuánto contaminamos cada uno de nosotros. ¿Qué pasaría? Que esto afectaría a nuestro derecho a la intimidad y sería necesario una ley orgánica. De esta manera, al afectar el tratado internacional a materias de derechos fundamentales sería necesario que se aprobara con la mayoría absoluta de las Cortes Generales.
+
+
+Bien, tercer caso, o supuesto, se celebra un tratado internacional por el que España va a ceder competencias suyas a un organismo internacional, como por ejemplo puede ser la Unión Europea. La cesión de competencias implica que un organismo superior a nosotros puede dictar normas que directamente nos vinculen y nos obliguen, estemos o no de acuerdo. En este caso, siempre va a ser necesaria una ley orgánica si se ceden competencias.
+
+
+¿Entendido? Bien, siguiente caso, cuarto caso, el tratado internacional afecta a determinadas materias que vienen recogidas en el artículo 94 de nuestra Constitución y, por tanto, debe ser aceptado por las cámaras mediante mayoría simple. ¿Cuándo es esto? Bueno, pues cuando estemos en alguno de los siguientes supuestos. El primero de ellos, cuando estemos ante un tratado de naturaleza política.
+
+
+Por ejemplo, España acuerda con Marruecos el libre tránsito de personas. Siguiente caso, cuando estemos ante un tratado militar. Por ejemplo, España acuerda el envío de tropas a Irak.
+
+
+Siguiente supuesto, tratados que afecten a derechos fundamentales, como, por ejemplo, el que veíamos antes con el medio ambiente. Siguiente supuesto, que estemos ante un tratado que implique obligaciones financieras. Imaginemos que en el tratado de medio ambiente se va a recaudar una parte del IVA para un FMI en la lucha contra el cambio climático.
+
+
+Ese sería otro supuesto. Y, por último, quinto caso, se dará cuando no estemos ante ninguno de los supuestos anteriores. En estos casos, no será necesario que el tratado pase por las Cortes y tenga que ser aprobado.
+
+
+Bastará simplemente con informarlas. Aunque destacar que estos casos suelen ser muy minoritarios. Lo normal es que sea necesario que estas Cortes, el poder legislativo dé su consentimiento.
+
+
+Por último, y una cuestión donde muchos fallan. ¿Desde cuándo va a quedar España obligada a cumplir un tratado? ¿Es necesario que las Cortes lo aprueben? Vale, y esto es un error importantísimo. Desde que España firma un tratado, y esto se da desde que el Gobierno y el Jefe del Estado, es decir, el Rey, lo firman, ya estamos obligados a cumplirlo.
+
+
+Sin embargo, desde el punto de vista de nuestro ordenamiento jurídico, solo desde que las Cortes lo aprueban en su caso, éste tendrá eficacia. De esta manera, el tratado de medio ambiente puede quedar firmado por el Gobierno en una determinada fecha, pero hasta que no sea aprobado por las Cortes Generales, para nuestro ordenamiento jurídico no va a tener eficacia alguna. Y bueno, en principio eso es todo.
+
+
+Como ves, ha sido un temita un poco más light, un temita un poco más corto, pero quédate sobre todo con los distintos supuestos que hemos visto, cuándo es necesario el consentimiento de las Cortes Generales y cuándo no. Y en principio eso es todo. Espero que el curso te esté ayudando muchísimo y nos vemos en la próxima clase.
+

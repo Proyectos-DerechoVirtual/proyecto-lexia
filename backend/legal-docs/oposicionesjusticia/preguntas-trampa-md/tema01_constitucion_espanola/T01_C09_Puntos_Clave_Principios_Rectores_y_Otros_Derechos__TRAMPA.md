@@ -1,0 +1,144 @@
+# Puntos Clave: Principios Rectores y Otros Derechos (Arts. 39 a 53 CE)
+
+**📚 Tema:** Constitución Española  
+**🎓 Clase:**  Titulo I Capitulo III Arts. 3944  
+**🎯 Tipo:** Pregunta trampa / Punto clave  
+**📋 Archivo:** T01_C09_Titulo I Capitulo III Arts. 3944_TRAMPA.txt
+
+---
+
+Puntos Clave: Principios Rectores y Otros Derechos (Arts. 39 a 53 CE)
+
+1. Artículo 39 CE – Protección de la familia y de los hijos
+RECUERDA
+- Los poderes públicos deben proteger la familia y los hijos (cualquiera sea filiación).
+- Especial protección a madres.
+- Protección no vinculada solo a matrimonio: políticas de conciliación, ayudas, estabilidad familiar.
+- Permite medidas de discriminación positiva.
+
+TEN CUIDADO
+- Impone deberes concretos a progenitores (asistencia, alimentos, educación).
+- Vinculado al Código Civil y a tratados internacionales (Convención Derechos del Niño).
+
+MNEMOTÉCNICA
+FAM: Filiación protegida, Ayuda estatal, Menores garantizados
+📌 "FAM: familia asistida, menores amparados".
+
+---------------------------------------------------
+
+2. Artículo 40 CE – Progreso económico, empleo y condiciones laborales
+RECUERDA
+- Estado debe promover pleno empleo, distribución equitativa de renta y condiciones laborales dignas.
+- Precepto programático con exigencia de acciones concretas.
+
+TEN CUIDADO
+- No confundir con principios meramente declarativos: exige acción pública.
+
+MNEMOTÉCNICA
+PELEA: Progreso, Empleo, Laboral digno, Equidad, Actuación pública
+📌 "PELEA por un empleo digno y justo".
+
+---------------------------------------------------
+
+3. Artículo 41 CE – Seguridad Social
+RECUERDA
+- Estado debe garantizar régimen público de Seguridad Social universal ante necesidad.
+- Cubre asistencia sanitaria, pensiones y prestaciones (maternidad, incapacidad, desempleo).
+- Destaca protección del desempleo.
+
+TEN CUIDADO
+- No se limita a pensiones: abarca más contingencias.
+
+MNEMOTÉCNICA
+SEGURO: Situaciones protegidas, Empleo, Garantía pública, Universal, Renta, Obligación estatal
+📌 "SEGURO: si hay necesidad, el Estado responde".
+
+---------------------------------------------------
+
+4. Artículo 42 CE – Españoles en el extranjero
+RECUERDA
+- Estado debe proteger derechos laborales de españoles emigrados y favorecer retorno.
+- Medidas: red consular, convenios Seguridad Social, combate a discriminación laboral.
+- Deben gozar de prestaciones equiparables a España.
+
+TEN CUIDADO
+- Incluye acción internacional (convenios) y vinculación con UE (libertad circulación, no discriminación).
+
+MNEMOTÉCNICA
+RETO: Retorno, Expatriados, Tratados, Oportunidades
+📌 "RETO: volver también es un derecho".
+
+---------------------------------------------------
+
+5. Artículo 43 CE – Protección de la salud
+RECUERDA
+- Derecho a protección de salud, no a estar sano.
+- Estado organiza sistema sanitario eficaz y universal.
+- Incluye prevención, control epidemiológico y reducción desigualdades.
+- Obliga a administraciones a cobertura efectiva, universal y financiada.
+
+TEN CUIDADO
+- Es principio rector, no derecho fundamental.
+- Implica sistema organizado, no derecho absoluto.
+
+MNEMOTÉCNICA
+SANO: Servicios sanitarios, Acción pública, Normativa de base, Organización territorial
+📌 "SANO no es estar bien, es tener sistema".
+
+---------------------------------------------------
+
+6. Artículo 44 CE – Cultura y ciencia
+RECUERDA
+- Estado debe promover acceso a cultura, investigación científica y técnica.
+- Impone eliminar trabas económicas/sociales y garantizar accesibilidad (bibliotecas, museos, teatros, archivos).
+
+TEN CUIDADO
+- Es mandato constitucional claro. Competencia concurrente entre Estado y CCAA.
+
+MNEMOTÉCNICA
+ARTE: Acceso, Recursos, Tutela, Estudios científicos
+📌 "ARTE: ciencia y cultura en manos públicas".
+
+---------------------------------------------------
+
+7. Artículo 53.3 CE – Valor jurídico de los principios rectores
+RECUERDA
+- Principios rectores no son directamente exigibles como derechos fundamentales.
+- Sí vinculan la actuación pública.
+
+TEN CUIDADO
+- Solo alegables ante tribunales según desarrollo legal.
+- Pueden confundirse con derechos fundamentales (arts. 14-29 CE).
+
+MNEMOTÉCNICA
+NOLEX: NO son derechos, Legislación Enmarca su uso, X (sin acceso directo al TC)
+📌 "NOLEX: no derecho, sí deber del legislador".
+
+---
+
+## 📊 **Información del chunk:**
+
+- **Chunk 1** de 1
+- ❌ Sin recordatorios
+- ❌ Sin advertencias  
+- ❌ Sin mnemotécnica
+
+## 🔍 **Metadata:**
+
+```json
+{
+  "topicName": "tema01_constitucion_espanola",
+  "topicTitle": "Constitución Española",
+  "topicNumber": 1,
+  "classTitle": " Titulo I Capitulo III Arts. 3944",
+  "classNumber": "T01_C09",
+  "questionTitle": "Puntos Clave: Principios Rectores y Otros Derechos (Arts. 39 a 53 CE)",
+  "questionNumber": null,
+  "chunkType": "question",
+  "chunkIndex": 0,
+  "hasReminder": false,
+  "hasWarning": false,
+  "hasMnemonic": false,
+  "embeddingModel": "text-embedding-3-large"
+}
+```

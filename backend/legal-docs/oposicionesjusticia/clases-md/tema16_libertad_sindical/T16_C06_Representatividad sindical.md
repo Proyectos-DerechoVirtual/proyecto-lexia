@@ -1,0 +1,41 @@
+# Libertad Sindical
+
+## Representatividad sindical
+
+**Tema:** Libertad Sindical  
+**Clase:** T16_C06  
+**Archivo:** T16_C06_Representatividad sindical.txt  
+**Tipo:** Material de Clase  
+**Categoría:** Oposiciones de Justicia  
+
+---
+
+Hola a todos y a todas y bienvenidos. En la clase de hoy vamos a hablar de la representatividad sindical y de los sindicatos más representativos y es que la representatividad sindical es una técnica de selección de candidatos para lograr una mayor eficacia de la acción sindical. La representatividad sindical selecciona de manera objetiva a unos candidatos sobre otros en determinadas actividades sindicales y el criterio de medición de la representatividad sindical en nuestro ordenamiento jurídico es el de la audiencia electoral conforme a lo que se establece en los artículos 6 y 7 de la LOMS.
+
+
+Pero no te preocupes porque ahora entraremos en detalles sobre lo que significa audiencia electoral en el criterio de medición de la representatividad sindical y es muy importante que tengas en cuenta también que el legislador en el ordenamiento jurídico español utiliza la técnica de la irradiación. Esto quiere decir que los sindicatos afiliados o federados a una organización sindical más representativa participan también de la cualidad de sindicatos más representativos. En definitiva la figura de los sindicatos más representativos responde a la necesidad de seleccionar la organización u organizaciones sindicales que estén legitimadas para representar intereses generales de los trabajadores y no sólo de aquellas personas afiliadas al sindicato.
+
+
+Y los criterios para determinar la mayor representatividad son los siguientes. En primer lugar podemos hablar de mayor representatividad originaria o de origen que deriva del porcentaje de representantes del personal que el sindicato ha obtenido en las elecciones a comité de empresa y a delegados de personal y este porcentaje deberá ser como mínimo del 10% en los sindicatos de ámbito nacional y del 15% en las centrales de ámbito de la comunidad autónoma. Pero es que además en estos sindicatos de ámbito autonómico se exige también que se tenga las cifras de 1.500 representantes lo cual es muy difícil de conseguir en algunos casos.
+
+
+Por otra parte también existe lo que se conoce como representatividad por adhesión que deriva del hecho de haberse adherido, afiliado, federado o confederado a un sindicato más representativo como ya hemos explicado previamente. Por lo que podemos observar que la representatividad de los sindicatos no se basa en el número de afiliados sino en el número de representantes que obtienen en los comités de empresa y en los delegados de personal de las empresas y estas figuras las explicaremos en lecciones posteriores. Los sindicatos más representativos gozan de una posición jurídica que les concede las siguientes ventajas.
+
+
+Representación institucional ante las administraciones públicas, negociación colectiva, participación en la determinación de las condiciones de trabajo en las administraciones públicas a través de los oportunos procedimientos de consulta o negociación. También pueden participar en los sistemas no jurisdiccionales de solución de conflictos como la conciliación, la mediación y el arbitraje. También podrán promover elecciones para representantes unitarios en las administraciones públicas y también podrán obtener cesiones temporales del uso de inmuebles patrimoniales públicos.
+
+
+Además es muy importante el tema de la representatividad sindical en cuanto al reparto proporcional de las subvenciones públicas y es muy importante destacar que las asociaciones que estén afiliadas a una organización sindical más representativa, aunque no cumplan con el criterio de audiencia electoral, también serán consideradas más representativas. Esto es lo que hemos explicado antes y lo que se conoce como irradiación de la representatividad. Y ahora vamos a analizar pormenorizadamente lo que se exige a los sindicatos a nivel estatal, a nivel de comunidad autónoma y a nivel de empresa para ser considerado más representativo.
+
+
+A nivel estatal se exigirá que acrediten el 10% o más del total de delegados de personal, de los miembros de comités de empresa y de los correspondientes órganos de las administraciones públicas. Además los delegados de personal y los miembros del comité de empresa con mandato prorrogado no se computarán a efecto de determinar la capacidad representativa. A nivel de comunidad autónoma, como ya hemos explicado, se exigirá que los sindicatos acrediten el 15% de los delegados de personal, de los representantes de los trabajadores en los comités de empresa y en los órganos correspondientes de las administraciones públicas.
+
+
+Y ojo, porque es muy importante señalar que deben contar con un mínimo de 1.500 representantes que no estén federados o confederados con organizaciones sindicales de ámbito estatal. Y además los delegados de personal y los miembros del comité de empresa con mandato prorrogado, en este caso, tampoco se computan a efecto de determinar la capacidad representativa. Y por último, en las empresas que ocupen a más de 250 trabajadores, sea cual sea el contrato de éstos, se constituyen las secciones sindicales por parte de los trabajadores.
+
+
+Pero en las secciones sindicales profundizaremos más pormenorizadamente en otras lecciones. Y esto ha sido todo por la clase de hoy. Espero que te haya gustado y nos vemos en la próxima.
+
+
+¡Un saludo!
+

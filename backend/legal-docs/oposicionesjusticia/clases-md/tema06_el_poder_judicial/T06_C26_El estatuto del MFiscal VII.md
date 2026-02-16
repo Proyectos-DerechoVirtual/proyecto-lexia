@@ -1,0 +1,80 @@
+# El Poder Judicial
+
+## El estatuto del MFiscal VII
+
+**Tema:** El Poder Judicial  
+**Clase:** T06_C26  
+**Archivo:** T06_C26_El estatuto del MFiscal VII.txt  
+**Tipo:** Material de Clase  
+**Categoría:** Oposiciones de Justicia  
+
+---
+
+Muy buenos días opositores, bienvenidos a una nueva clase de Derecho Virtual. Ya no queda nada para acabar con el Ministerio Fiscal, ya estamos muy cerca. Hemos terminado con todos los órganos que componen su estructura.
+
+
+Como bien sabes, hemos visto sus diferentes fiscalías y es hora de ocuparnos de sus diferentes sedes y competencias. Recordad, tener siempre delante la Ley 50.981, es lo que os servirá de guía para estas clases. En este caso, vamos a movernos entre los artículos 22 a 28.
+
+
+Comenzamos. Según el artículo 21 del Estatuto, la Fiscalía del Tribunal Supremo, Tribunal de Cuenta, Fiscalía Togada, la Fiscalía de la Audiencia Nacional y las Fiscalías Especiales tienen su sede en Madrid y tienen jurisdicción nacional. La Fiscalía del Tribunal Militar Central también cuenta con sede en Madrid, pero actúa ante dicho tribunal y juzgados togados militares centrales.
+
+
+En lo respectivo a la Fiscalía de los Tribunales Militares Territoriales, se ubican donde está el tribunal correspondiente. Sin embargo, cuando existan salas de tribunales superiores de justicia con jurisdicción limitada a provincias, el Fiscal General del Estado puede proponer al Ministerio de Justicia, siempre previa consulta, la creación de una Selección Territorial de la Fiscalía Superior de la Comunidad Autónoma. Las Fiscalías Provinciales, por su parte, con sede en la misma localidad de la Audiencia Provincial, tienen competencia en toda la provincia, salvo que exista disposición estatutaria contraria.
+
+
+Debes saber que en esta ocasión los fiscales pueden actuar en cualquier lugar dentro de su territorio. En casos de necesidad, el Fiscal General del Estado puede destacar temporalmente fiscales a una Fiscalía específica. Pero debes tener en cuenta algo muy importante.
+
+
+En momentos de discrepancias entre la Fiscalía Europea y la Española, la decisión final la toma el Fiscal General del Estado, tras consultar a la Junta de Fiscales de Sala, según indica el artículo 21 bis de la ley. Imaginemos que la Fiscalía Europea decide investigar un caso de fraude financiero que involucra a ciudadanos españoles y empresas con sede en España. La Fiscalía Europea considera que la sede adecuada para llevar a cabo la investigación es en Bruselas, donde se encuentra su sede principal.
+
+
+Sin embargo, la Fiscalía Española prefiere que la investigación se lleve a cabo en España, argumentando que la mayoría de las pruebas y testigos están en el país, y que sería más eficiente realizar la investigación desde allí. Pues será entonces el Fiscal General del Estado el encargado de tomar la decisión final, tras consultar a la Junta de Fiscales de Sala, considerando los argumentos presentados por ambas partes y buscando la mejor opción para garantizar una investigación justa y efectiva. Pues bien, como ya sabes, el Fiscal General es la máxima autoridad del Ministerio Fiscal y su representante en todo el territorio español, y así se refleja en el artículo 22.
+
+
+Tiene la responsabilidad de impartir órdenes e instrucciones para el funcionamiento interno de la institución y supervisar así su dirección en general. Además, puede delegar ciertas funciones a los Fiscales de Sala, quienes actuarán dentro de los límites establecidos y bajo su autoridad. Bien, toca centrarnos en los Fiscales Superiores de las Comunidades Autónomas, que tienen la dirección de sus respectivas fiscalías y representan al Ministerio Fiscal en todo el territorio de la comunidad, presidiendo la Junta de Fiscales Jefes y ejerciendo funciones específicas delegadas por el Fiscal General del Estado.
+
+
+Y te preguntarás, ¿qué papel tienen realmente los Fiscales Jefes de cada órgano? Pues estos tienen la misión de dirigir su unidad y actuar en representación del Ministerio Fiscal, bajo la supervisión de sus superiores jerárquicos. Tienen facultades como organizar los servicios, conceder permisos, ejercer las disciplinas, hacer propuestas de recompensa y otras funciones asignadas por el propio Estatuto. Como te estarás imaginando, los miembros del Ministerio Fiscal tienen autoridad y actúan en representación de la misma institución, pero también pueden ser sustituidos por su superior jerárquico en cualquier momento, prevaleciendo así, en caso de discrepancia, la decisión de este último.
+
+
+Otro dato importante dentro de las funciones y competencias es el siguiente. Se establecen procedimientos para mantener la unidad de criterios a través de juntas periódicas, donde se debaten asuntos de importancia y complejidad. Debes tener en cuenta que los acuerdos tomados en estas juntas tienen carácter informativo y la opinión del Fiscal Jefe prevalece.
+
+
+Sin embargo, los temas que afectan directamente a cualquier miembro de gobierno deben ser discutidos previamente con la Junta de Fiscales de Sala. Pues bien, quiero que tengas claro todo esto. Por ello, si te está resultando algo farragoso, quédate con que el Fiscal General del Estado y los fiscales superiores tienen la facultad de impartir órdenes e instrucciones a sus subordinados y éstos deben acatarlas en sus dictámenes, aunque mantienen libertad en sus intervenciones orales.
+
+
+De esta forma, si un fiscal considera una orden contraria a las leyes o improcedente, puede informarse al respecto y elevar la cuestión a su superior jerárquico. Y en última instancia, a la Junta correspondiente, según establece el artículo 25. Para poderte aclarar un poco más, te pongo un ejemplo.
+
+
+Imagina que en una fiscalía provincial se está llevando a cabo una investigación sobre un caso de corrupción política que ha generado gran repercusión mediática y social. El Fiscal Jefe de esta provincia, como máximo responsable de la fiscalía a nivel local, dirige y coordina las acciones del equipo de fiscales encargados del caso. Sin embargo, debido a la complejidad y la importancia del asunto, el Fiscal Jefe decide convocar una Junta Extraordinaria de Fiscales para discutir estrategias, compartir información relevante y tomar decisiones con Junta.
+
+
+En esta Junta participan todos los fiscales asignados al caso, así como otros fiscales de la provincia con experiencia y conocimientos relevantes. Durante la reunión, se debata aclaradamente sobre las posibles líneas de investigación, las pruebas recopiladas y los posibles implicados. El Fiscal Jefe, como líder del equipo, escucha atentamente todas las opiniones y finalmente toma una decisión sobre cómo proceder en el caso.
+
+
+Esta decisión se basa en el consenso alcanzado en la Junta y en su propio criterio profesional. Una vez tomada la decisión, el Fiscal Jefe comunica las instrucciones al equipo de fiscales y supervisa su implementación. Además, informa al Fiscal Superior de la comunidad autónoma sobre los avances en la investigación y solicita así su apoyo si fuese necesario.
+
+
+Pues bien, vamos ahora a centrar la atención de la clase en otra cuestión importante, como es la recusación de los miembros del Ministerio Fiscal, donde se abordan los artículos 26 a 28. Debes saber que la recusación de un fiscal es un procedimiento legal mediante el cual se solicita que un fiscal sea apartado de intervenir en un caso específico debido a la existencia de circunstancias que podrían afectar su imparcialidad o su objetividad en el proceso judicial. Una vez visto esto y refrescado el concepto, tienes que saber que los miembros del Ministerio Fiscal no pueden ser recusados, pero sí deben abstenerse de intervenir en los mismos casos de abstención previstos para los jueces y magistrados.
+
+
+Las partes, en su caso, pueden solicitar al superior jerárquico del fiscal que se abtenga de intervenir. En el caso en el que el sujeto en el que ocurre la causa de abstención sea el fiscal general del Estado, la decisión la tomará la Junta de Fiscales de Sala, presidida por el Teniente Fiscal del Tribunal Supremo. Y tal como te estás imaginando, contra estas decisiones no cabe recurso algún.
+
+
+Ahora bien, ¿Quién es realmente este fiscal general? Pues el fiscal general del Estado es un candidato propuesto por el Gobierno tras recibir un informe del Consejo General del Poder Judicial. Después, en Congreso de los Diputados, puede convocar al candidato propuesto para valorar sus méritos e idoneidad. Una vez nombrado, el fiscal general del Estado prestará juramento ante el Rey y tomará posesión del cargo ante el Pleno del Tribunal Supremo.
+
+
+Además, como ya debes saber, el fiscal general del Estado tiene autoridad en todo el territorio español y se le otorga el respeto y las consideraciones correspondientes a su cargo. Su mandato dura cuatro años y sólo puede cesar por ciertos motivos, como la renuncia, incompatibilidad, incapacidad, incumplimiento grave de funciones o por el cese del Gobierno que lo nombró. Además, su mandato no puede ser renovado, excepto en caso donde haya ocupado el cargo por menos de dos años.
+
+
+El fiscal general del Estado está sujeto a las mismas incompatibilidades que los demás miembros del Ministerio Fiscal y su régimen retributivo es similar al del Presidente del Tribunal Supremo. Y si el nombramiento recae en un miembro de la carrera fiscal, éste quedará en situación de servicio especial. Por ejemplo, imaginemos que en un proceso judicial una de las partes considera que el fiscal asignado al caso tiene un conflicto de intereses debido a una relación personal con la parte contraria.
+
+
+En este caso, la parte podría solicitar al superior jerárquico del fiscal que se obtenga de intervenir en el caso. Posteriormente, la Junta de Fiscales de Sala, presidida por el Teniente Fiscal del Tribunal Supremo, evaluaría esta solicitud y tomaría una decisión al respecto. Si la solicitud fue aceptada, el fiscal sería apartado del caso y reemplazado por otro fiscal designado por el superior jerárquico.
+
+
+¡Bien, chicos! Hagamos un resumen de la clase de hoy. Hemos visto, entre otras cuestiones, que los miembros del Ministerio Fiscal no pueden ser reposados, pero deben abstenerse en casos de incompatibilidades previstas en la ley. También hemos analizado la figura del fiscal general del Estado y sus diferentes vicis y tours.
+
+
+Esto sería todo. ¡Mucho ánimo y nos vemos en la siguiente clase!
+

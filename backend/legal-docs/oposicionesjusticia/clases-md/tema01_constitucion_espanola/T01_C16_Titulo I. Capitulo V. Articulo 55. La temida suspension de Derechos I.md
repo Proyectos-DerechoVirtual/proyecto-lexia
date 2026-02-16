@@ -1,0 +1,65 @@
+# Constitución Española
+
+## Titulo I. Capitulo V. Articulo 55. La temida suspension de Derechos I
+
+**Tema:** Constitución Española  
+**Clase:** T01_C16  
+**Archivo:** T01_C16_Titulo I. Capitulo V. Articulo 55. La temida suspension de Derechos I.txt  
+**Tipo:** Material de Clase  
+**Categoría:** Oposiciones de Justicia  
+
+---
+
+Hola a todos y a todas, ¿qué tal estáis? Estamos a puntito de cerrar el título primero de la Constitución. Solo nos queda un capítulo, el quinto, que contiene apenas un artículo, el 55. Este trata una cuestión que muchas veces nos pasa desapercibida.
+
+
+Algunos derechos fundamentales pueden ser suspendidos. Sí, como lo oyes. El artículo 55 se encarga precisamente de regular esta cuestión.
+
+
+Para ello, contemplad dos supuestos generales, la suspensión individual y la suspensión colectiva. La individual suena a lo que suena, quiere decir que se pueden suspender algunos derechos fundamentales de personas individuales y en casos muy concretos. La suspensión colectiva, en cambio, supone limitar ciertos derechos fundamentales para el conjunto de la población.
+
+
+En la clase de hoy vamos a centrarnos en el primer tipo de suspensión, la individual. Esta se regula en el apartado segundo del artículo 55, que dice que se pueden suspender tres derechos fundamentales para las personas que estén siendo investigadas por delitos relacionados con la actuación de bandas armadas o con el terrorismo. Por tanto, estamos hablando específicamente de legislación antiterrorista, pensada para garantizar la seguridad y el orden público.
+
+
+Por esta razón y con las debidas garantías, se pueden suspender tres derechos fundamentales para este tipo de personas. Su regulación se encuentra actualmente en la Ley de Adjudicamiento Criminal. Vamos a verlos.
+
+
+El primero es la detención preventiva del artículo 17.2 de la Constitución. Como regla general, este derecho fundamental dice que las personas sólo podemos estar en detención preventiva el tiempo estrictamente necesario para realizar las actuaciones que esclarezcan los hechos delictivos cometidos y que, como máximo, en 72 horas desde la detención habrá que liberar al detenido o ponerlo a disposición judicial. Por tanto, ¿en qué consiste la suspensión de este derecho fundamental? Imagínate que han detenido a Marieta por su posible implicación en una causa terrorista.
+
+
+En su caso, este periodo de 72 horas puede alargarse otras 48 horas más, siempre que la autoridad competente solicite al juez esta ampliación dentro de las primeras 48 horas de la detención preventiva. El juez, además, debe autorizarlo motivadamente en las 24 horas siguientes para que se haga efectivo o denegarlo en su caso. Por tanto, la suspensión de este derecho fundamental consiste en que la detención preventiva puede llegar a durar cinco días para las personas que están siendo investigadas en relación con delitos terroristas o relacionados con bandas armadas, siempre que la autorice el juez tal y como hemos dicho.
+
+
+Quédate con el artículo 520 bis de la Ley de Adjuiciamiento Criminal. El segundo derecho fundamental que se puede suspender de forma individual es la inviolabilidad del domicilio, que se ubica en el artículo 18.2 de la Constitución. De serie, todos tenemos el derecho a que las fuerzas de seguridad no irrumpan en nuestro domicilio sin consentimiento.
+
+
+Esto implica que, si nos negamos a que entren, será necesaria una orden judicial. Es más, como regla general sólo pueden irrumpir en nuestro domicilio si hay un mandamiento de prisión contra nosotros o si nos han pillado cometiendo un delito con las manos en la masa, lo que comúnmente se denomina flagrante delito. Por tanto, ¿cómo se suspende este derecho? Pues sencillamente el artículo 553 de la Ley de Adjuiciamiento Criminal dispone que los agentes de policía pueden proceder, de propia autoridad, a la inmediata detención de las personas en casos de excepcional o urgente necesidad cuando se trate de personas integradas o relacionadas con bandas armadas o terroristas.
+
+
+Es más, nos da incluso igual de quién sea el domicilio. La policía podrá entrar y registrar esos lugares deteniendo a la persona que se encuentra oculta allí. Eso sí, recuerda que tiene que hacerse con las debidas garantías.
+
+
+Aunque no necesiten una orden judicial para hacerlo, sí tienen que dar cuenta inmediata al juez del registro efectuado, señalando cuáles fueron las causas, los resultados, los detenidos y cualquier incidente que se hubiera producido. Vamos a por el tercer derecho fundamental que se puede suspender individualmente. Este se ubica en el artículo 18.3 de la Constitución y es el secreto de las comunicaciones.
+
+
+Este tipo de suspensión se desarrolla en el artículo 579 de la Ley de Adjuiciamiento Criminal. Veréis, de serie el artículo 18.3 dice que se garantiza el secreto de las comunicaciones, sobre todo las postales telegráficas y telefónicas, salvo resolución judicial. Esto se debe a que el juez puede acordar la detención de la correspondencia privada, postal y telegráfica de los procesados, si gracias a ello se fueran a descubrir hechos importantes para las causas penales e incluso también podrá acordar la observación de las comunicaciones de las personas sobre las que existan indicios de responsabilidad criminal durante un plazo de tres meses prorrogable por iguales periodos.
+
+
+Por tanto, ¿en qué consiste la suspensión de este derecho fundamental? Pues consiste en lo siguiente. Imagínate que Raúl está siendo investigado, pero no por cualquier delito, sino por un delito relacionado con el terrorismo. En este caso, como se considera una situación urgente, ni siquiera hace falta que el juez acuerde la observación de sus comunicaciones.
+
+
+De hecho, podrá hacerlo directamente el ministro del Interior o, en su defecto, el director de la Seguridad del Estado. Eso sí, lo tendrán que hacer en una resolución motivada. El plazo por el cual se podrá acordar esta observancia de las comunicaciones o intervención de las mismas será de máximo tres meses, prorrogable por otros periodos iguales, esto es, también de tres meses.
+
+
+Ten en cuenta que, en todo caso, el ministro o el director van a tener que comunicarlo directamente al juez competente mediante una resolución motivada y el juez va a tener 72 horas desde que se ordena una observación para confirmar o revocar esta resolución, siempre de forma motivada. Por último, ten en cuenta que el artículo 55.2 de la Constitución dice que el uso injustificado o abusivo de estas facultades producirá responsabilidad penal porque, de hecho, supondrá una violación de los derechos y libertades reconocidos por las leyes. Como conclusión, recuerda que la Constitución Española permite que, en casos puntuales, se suspenden algunos derechos fundamentales.
+
+
+En la clase de hoy hemos visto cuándo procede la suspensión individual, que sólo aplica para las personas que están relacionadas con bandas terroristas o de delincuencia organizada. Recuerda, además, que esta suspensión individual se refiere sólo a tres derechos fundamentales. El primero, la detención preventiva del artículo 17 de la Constitución.
+
+
+El segundo, la inviolabilidad del domicilio del artículo 18 de la Constitución. Y el tercero y último, el secreto de las comunicaciones, también del artículo 18 de la Constitución. Para suspender estos derechos, en todo caso, habrán de respetarse las garantías establecidas en la ley de adjudicamiento criminal que hemos visto.
+
+
+Nos vemos en la siguiente clase, en la que nos centraremos en la suspensión colectiva de los derechos fundamentales.
+

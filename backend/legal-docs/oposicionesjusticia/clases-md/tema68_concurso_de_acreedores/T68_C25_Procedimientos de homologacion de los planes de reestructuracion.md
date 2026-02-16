@@ -1,0 +1,98 @@
+# Concurso de Acreedores
+
+## Procedimientos de homologacion de los planes de reestructuracion
+
+**Tema:** Concurso de Acreedores  
+**Clase:** T68_C25  
+**Archivo:** T68_C25_Procedimientos de homologacion de los planes de reestructuracion.txt  
+**Tipo:** Material de Clase  
+**Categoría:** Oposiciones de Justicia  
+
+---
+
+Muy buenas, bienvenido a un nuevo vídeo de Praenopositores. En esta ocasión vamos a ver los procedimientos de homologación de los planes de reestructuración. Es una novedad legislativa y es un poco compleja, así que lo veremos en varios vídeos para que lo entiendas bien.
+
+
+Veamos un índice. En este vídeo veremos cuándo será necesaria, como regla general, la homologación del plan de reestructuración. Veremos el presupuesto objetivo de la homologación, la posibilidad de suspensión de la solicitud de concurso voluntario.
+
+
+Por último, veremos los requisitos para la homologación del plan en tres aspectos diferentes, cuando sea aprobado por todas las clases de acreedores, cuando no sea aprobado por todas las clases de acreedores y cuando sea aprobado por el deudor y, en su caso, por los socios. Ahora sí comenzamos. Veamos una noción general de qué es homologar.
+
+
+La homologación de un plan de reestructuración es un proceso legal en el que un juez aprueba un plan propuesto por una empresa en dificultades financieras para reorganizar sus deudas y operaciones. Este plan se negocia con los acreedores de la empresa y, una vez homologado por el juez, se vuelve vinculante para todos los acreedores involucrados, incluso para aquellos que no estuvieron de acuerdo con el plan inicialmente. El objetivo de la homologación es permitir que la empresa reestructure sus finanzas de manera ordenada, evitando la quiebra y permitiendo su recuperación y continuidad.
+
+
+Para que te sitúes en la ley concursal, estamos en los artículos 635 y siguientes. Como regla general, la homologación judicial del plan de reestructuración será necesaria en cualquiera de los siguientes casos. En primer lugar, cuando se pretenda extender sus efectos a acreedores o clases de acreedores que no hubieran votado a favor del plan o a los socios del deudor persona jurídica.
+
+
+Por ejemplo, una empresa necesita que su plan de reestructuración se aplique también a un grupo de acreedores que no votaron a favor del plan, así como a sus socios minoritarios. En segundo lugar, cuando se pretenda la resolución de contratos en interés de la reestructuración. Por ejemplo, la empresa busca anular un contrato de alquiler costoso como parte de su estrategia de reestructuración para reducir gastos.
+
+
+Y en tercer lugar, cuando se pretenda proteger la financiación interina y la nueva financiación que prevea el plan, así como los actos, operaciones o negocios realizados en el contexto de éste frente a acciones rescisorias en los términos previstos en este título y reconocer a esa financiación las preferencias de cobro previstas. Por ejemplo, la empresa quiere asegurar que los fondos obtenidos recientemente para mantenerse a flote durante la reestructuración estén protegidos de posibles reclamaciones legales y tengan prioridad en el cobro de las deudas. Veamos el presupuesto objetivo de la homologación.
+
+
+Cuando el deudor se encuentre en probabilidad de insolvencia o en estado de insolvencia inminente, se podrá solicitar la homologación del plan aprobado. Cuando el deudor se encuentre en estado de insolvencia actual, se podrá solicitar la homologación del plan, siempre que no hubiera sido admitida trámite solicitud de concurso necesario. Recuerda que concurso necesario es un concurso cuya solicitud la llevan a cabo los acreedores del deudor u otras personas legitimadas.
+
+
+Veamos la posibilidad de suspensión de la solicitud del concurso voluntario. Recuerda, concurso voluntario es el concurso en el cual la solicitud para que sea iniciado la presenta el propio deudor. El artículo 637 viene a decir que la solicitud de concurso voluntario de un deudor puede suspenderse si éste está negociando un plan de reestructuración.
+
+
+Esta suspensión puede ser solicitada por un experto en reestructuración o acreedores que representen más del 50% del pasivo afectado. La suspensión se levanta automáticamente después de un mes si no se ha solicitado la homologación del plan. Esto no se aplica a deudores individuales o a sociedades con socios legalmente responsables de las deudas sociales.
+
+
+Ahora vamos a ver los requisitos para la homologación del plan en tres aspectos diferentes. Aprobado por todas las clases de acreedores. No aprobado por todas las clases de acreedores o aprobado por el deudor o en su caso por los socios.
+
+
+El plan de reestructuración para ser homologado por todas las clases de acreedores deberá reunir los siguientes requisitos. Estado del deudor. La empresa debe estar al borde de la insolvencia o ser insolvente y el plan debe ofrecer una solución realista para evitar la quiebra y mantener la empresa viable a corto y medio plazo.
+
+
+Requisitos legales. El plan debe seguir las normas específicas establecidas en la ley en cuanto a su contenido y forma. Aprobación de acreedores.
+
+
+Debe ser aprobado por todos los grupos de acreedores afectados, así como por el deudor o sus socios, de acuerdo con lo establecido en la ley. Trato equitativo. Todos los créditos dentro de una misma categoría deben ser tratados de manera equitativa en el plan.
+
+
+Comunicación a acreedores. El plan debe ser notificado a todos los acreedores afectados de la forma que estipula la ley. También podrá ser homologado el plan de reestructuración que no haya sido aprobado por todas las clases de créditos si ha sido aprobado por.
+
+
+Aprobación de la mayoría. Si el plan es aprobado por una mayoría simple de las clases de acreedores y al menos una de estas clases está compuesta por acreedores con créditos que tengan privilegio especial o general en caso de concurso. Aprobación de una clase específica.
+
+
+Si al menos una clase de acreedores que razonablemente se espera recibiría algún pago en caso de liquidación de la empresa, aprueba el plan. En este caso es necesario adjuntar un informe de un espectro en reestructuraciones que evalúe el valor de la empresa en funcionamiento. Te pongo un ejemplo para que lo entiendas mejor.
+
+
+Imaginemos una empresa ficticia, tecnologías innovadoras, que enfrenta dificultades financieras y decide implementar un plan de reestructuración para evitar la liquidación. La empresa tiene varios tipos de acreedores, incluyendo bancos con créditos con privilegio especial, hipotecas sobre propiedades, proveedores con créditos con privilegio general, deudas por suministros y otros acreedores no privilegiados. El escenario de aprobación del plan sería el siguiente.
+
+
+Aprobación por mayoría simple de clases de créditos. En la primera votación, el plan de reestructuración es aprobado por dos de tres clases de acreedores. Una clase que aprueba es la de los bancos que tienen créditos con privilegio especial.
+
+
+Aunque no todas las clases de créditos aprueban, el plan es considerado para homologación porque una clase con crédito privilegiado ha votado a favor. Aprobación por una clase con posible pago en liquidación. En un escenario alternativo, solo una clase de acreedores, por ejemplo los proveedores, aprueban el plan.
+
+
+Estos proveedores podrían razonablemente esperar recibir algún pago en caso de liquidación concursal dado que sus créditos son clasificados con privilegio general. Para que este plan sea homologado, la empresa debe presentar un informe de un experto en reestructuración que evalúe el valor de tecnologías innovadoras como empresa en funcionamiento, demostrando que la reestructuración es viable y beneficiosa. Por último, veamos la aprobación por el deudor y, en su caso, los socios.
+
+
+Se necesita que la homologación haya sido aprobada por el deudor en caso de que sea persona natural. Pongamos un ejemplo. Imagina a Juan Pérez, una empresaria individual que posee una pequeña cadena de cafeterías.
+
+
+Debido a una serie de malas inversiones y a la disminución de clientes, Juan enfrenta graves problemas financieros. Para evitar la quiebra, elabora un plan de reestructuración que incluye la reorganización de deudas y la venta de algunos activos. Dado que Juan es una persona natural, la homologación de su plan de reestructuración depende únicamente de su aprobación.
+
+
+Una vez que Juan aprueba el plan, puede presentarlo para su homologación. Si el deudor fuera una persona jurídica, la homologación del plan de reestructuración requerirá que haya sido aprobada por los socios legalmente responsables de las deudas sociales. Pongamos otro ejemplo.
+
+
+Supongamos una empresa de tecnología, Innovatech, que está experimentando dificultades financieras. La empresa es una sociedad limitada con varios socios que son legalmente responsables de las deudas sociales. Para que el plan de reestructuración de Innovatech sea homologado, es necesario que los socios responsables aprueben el plan.
+
+
+Después de negociaciones, los socios acuerdan un plan que incluye medidas como la reducción de costos y la reestructuración de deudas y proceden a aprobarlo para su homologación. En caso de que estos socios no existieran y el plan contuviera medidas que requieran acuerdo de la Junta de Socios, el plan de reestructuración se podrá homologar, aunque no haya sido aprobado por los socios si la sociedad se encuentra en situación de insolvencia actual o inminente. Pongamos un ejemplo de uno de dos personas jurídicas sin socios responsables en situación de insolvencia.
+
+
+Considera una empresa constructora Construcciones XYZ que se encuentra en una situación de insolvencia inminente. La empresa es una sociedad anónima y no tiene socios legalmente responsables de las deudas sociales. El plan de reestructuración propuesto incluye medidas que normalmente requerirían la aprobación de la Junta de Socios como la emisión de nuevas acciones.
+
+
+Sin embargo, dado que la empresa está en insolvencia y no tiene socios responsables, el plan puede ser homologado sin su aprobación, facilitando un proceso más rápido para intentar salvar a la empresa de la quiebra. Y hasta aquí el primer vídeo relativo a la homologación del plan de reestructuración. Has podido ver los requisitos necesarios para la homologación por todas las clases de acreedores, también cuando no haya sido aprobado por todas las clases de créditos y si ha sido aprobado en determinadas circunstancias.
+
+
+Y por último, la aprobación por el deudor y, en su caso, por los socios. ¡Mucha suerte en el estudio! ¡Nos vemos en el siguiente vídeo!
+

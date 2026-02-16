@@ -1,0 +1,77 @@
+# Proceso Civil
+
+## T17a19 C12 Cuestiones generales del proceso civi
+
+**Tema:** Proceso Civil  
+**Clase:** T17a19_C12_Cuestiones generales del proceso civi  
+**Archivo:** T17a19_C12_Cuestiones generales del proceso civi.txt  
+**Tipo:** Material de Clase  
+**Categoría:** Oposiciones de Justicia  
+
+---
+
+Hola a todos y bienvenidos a Prime Opositores, el Netflix de los opositores. Hoy vamos a continuar la explicación sobre los artículos 6 a 18 de la Ley de Enjuiciamiento Civil, en la que estamos viendo conceptos procesales básicos como la capacidad para ser parte, la capacidad procesal, la legitimación, la pluralidad de partes en el proceso, etc. Algunos de estos artículos han sido modificados por el Decreto Ley 6.2023, que entrará en vigor el 20 de marzo de 2024, y que vamos adelantando sus modificaciones por aquí.
+
+
+Como son muchas cosas que ver, lo hemos dividido en unas cuantas clases para que no se haga demasiado denso y puedas ir asimilándolo poco a poco. Dicho esto y sin más dilación, ¡vamos allá! En las anteriores clases ya hablamos de lo que es ser parte, sujeto de un proceso, de la capacidad para ser parte, que la definimos como la aptitud para poder ser titular de derechos y obligaciones procesales, la capacidad procesal, o también conocida como capacidad de comparecer en juicio, como la aptitud para ejercer esos derechos procesales, y también de los diferentes tipos de representación, la legal, la necesaria y la técnica, esta última conocida también como capacidad de postulación, así como el tratamiento procesal por el lingüizamiento civil que hace de estos tres conceptos, y por último, la legitimación, que es la capacidad de poder actuar como demandante o demandado en un proceso concreto por la relación que se tiene con el objeto de la misma. En caso de que no lo hayas visto, te invito a hacerlo para ir en orden.
+
+
+Hoy vamos a continuar con la pluralidad de partes, que, bueno, esta pluralidad de partes se va a extender en otras dos clases, lo más seguro, pero en concreto hoy vamos a comenzar por el litis consorcio. Antes de nada, tienes que saber que uno de los principios básicos que rige en el proceso es el de la dualidad de partes. Esto supone que en todo proceso ha de haber dos partes, y es que sin demandante o demandado no sería concebible un proceso, incluso aunque se desarrolle en rebeldía, puesto que en tales casos actúa como si la persona estuviera presente.
+
+
+El principio de dualidad de partes implica que una parte solicita en el proceso frente a otra la actuación de una pretensión. Ahora bien, esto no significa que hayan de ser sujetos individuales, en cada una de las posiciones puede haber varios sujetos, y en esto consiste el litis consorcio que vamos a explicar. Siguiendo el ejemplo que hemos tomado en las clases anteriores, en las que hablábamos de María, una ciudadana que demandaba a una empresa de juguetes para ser indemnizada por los daños sufridos por un producto defectuoso.
+
+
+En este proceso, en la posición de demandante tendríamos a María, y en la de demandado a la empresa de juguetes. Sin embargo, si por ejemplo este juguete se vendió a ella y a su prima Isabel, entonces habría un litis consorcio en la parte de los demandantes, a la continuación vemos cómo se llama eso. Si por el contrario, hubiera que demandar a la empresa de juguetes que lo produjo y por ejemplo a la tienda que lo vendió, entonces sería otro tipo de litis consorcio que a la continuación no voy a adelantarme, pero veremos cómo se llama.
+
+
+Vamos a ver los litis consorcios con mayor detalle. El litis consorcio, como ya hemos dicho, podemos definirlo como aquella situación en la que la posición de las partes principales de un proceso comparece en varias personas y que se recoge en el artículo 12 de la Ley de Enjuiciamiento Civil. La característica principal del litis consorcio, que lo diferencia de la intervención que veremos a continuación en otra clase, lo más seguro, porque no creo que hoy me dé tiempo a podértelo explicar, es que las distintas personas actúan en un mismo plano, es decir, en una actuación coordinada por el que se persigue un mismo fin.
+
+
+Cabe distinguir, en primer lugar, entre los litis consorcios activo, pasivo y mixto, cuando son varios los demandantes, cabe hablar del litis consorcio activo, sería el caso de María y su prima, si son varios los demandados del litis consorcio pasivo, que sería el caso de la empresa que produce el juguete y la tienda que lo vende, por ejemplo, y son varios los demandantes y los demandados del litis consorcio mixto, es decir, una mezcla de los dos anteriores, sería el caso de que fuera María y su prima en la parte activa y la empresa productora de los juguetes y la tienda que lo vendió en la parte pasiva. Desde el punto de vista procesal, existe una clasificación más importante que atiende a la forma en que se constituye el litis consorcio, distinguiéndose entre el litis consorcio voluntario y necesario, según sea una elección o bien una obligación impuesta para las partes el litis consorcio. En primer lugar, vamos con el litis consorcio voluntario.
+
+
+Este se produce cuando la ley permite, pero no obliga, que haya varios demandantes o demandados, es decir, es una elección, por tanto, y no una obligación. El artículo 12 de la ley en juiciamiento civil dispone que podrán comparecer en juicio varias personas como demandantes o como demandados cuando las acciones que se ejerciten provengan de un mismo título o causa de pedir. ¿Qué efecto produce este litis consorcio? Bueno, en general, el litis consorcio es una acumulación de pretensiones, producirá el efecto de discutirse todas en un mismo procedimiento y que se resuelvan por una misma sentencia.
+
+
+Por ejemplo, en el caso del que hablábamos de María y su prima Isabel, teníamos que decir que no será necesario que haya un proceso con respecto al daño que se hubiera producido Isabel por el juguete y otro por el de María, sino que ambas pretensiones se van a ver en un mismo proceso y son resueltas por una misma sentencia. Según el Tribunal Supremo, no cabe hablar del litis consorcio activo necesario, que es el que vemos ahora a continuación, sino únicamente respecto al litis consorcio pasivo necesario, que es el que nos vamos a referir y el que vamos a explicar. Por tanto, el caso de María y su prima sería un litis consorcio, en todo caso, activo voluntario.
+
+
+No se puede obligar a la prima de María a demandar para obtener la indemnización, sino que si ella quiere bien y si no, pues ella se pierde la oportunidad de poder adquirir la indemnización. Respecto al litis consorcio necesario, tenemos que el litis consorcio pasivo necesario, ya hemos dicho que el activo no existe, tiene lugar cuando por la naturaleza de la relación jurídica material que se discute en el proceso, el efecto de la sentencia obligatoriamente se va a extender a una serie de personas que intervenir como partes. La ley de enjuiciamiento civil, es decir, tenemos que decir que tienen que intervenir como partes, puesto que les va a afectar.
+
+
+La ley de enjuiciamiento civil se refiere al litis consorcio pasivo necesario en el apartado segundo del artículo 12 de la ley de enjuiciamiento civil, cuando dispone que, cuando por razón de lo que sea objeto del juicio, la tutela jurisdiccional solicitada sólo pueda hacerse efectiva frente a varios sujetos conjuntamente considerados, todos ellos habrían de ser demandados como litis consorte, salvo que la ley disponga otra cosa. Entonces, ocurre que puede que el actor, al formular la demanda, haya dirigido su pretensión contra todos los que puedan y deban ser demandados para poder conseguir la tutela judicial efectiva de sus derechos, pero puede suceder lo contrario, que no lo haya hecho así, en cuyo supuesto la ley de enjuiciamiento civil regula lo que ella llama la posible integración voluntaria de la litis en el artículo 420 de la ley de enjuiciamiento civil, que no es más que la subsonación de la falta del litis consorcio pasivo necesario, que como ya hemos dicho se trata de una obligación para el demandante y no simplemente de una facultad. El artículo dice así, cuando el demandado haya alegado en la contestación la falta del debido litis consorcio, podrá el actor, en la audiencia, presentar con las copias correspondientes, escrito dirigiendo la demanda, los sujetos que el demandado considerase que habían de ser sus litis consortes y el tribunal.
+
+
+Si estima procedente del litis consorcio, lo declarará así, ordenando emplazar a los nuevos demandados para que contesten a la demanda con suspensión de la audiencia. El demandante, al dirigir la demanda a los litis consortes, sólo podrá añadir a las alegaciones de la demanda inicial aquellas otras imprescindibles para justificar las pretensiones contra los nuevos demandados sin alterar sustancialmente la causa de pedir. Si el actor se opusiere a la falta de litis consorcio aducida por el demandado, el tribunal oirá las partes sobre este punto y, cuando la dificultad o complejidad del asunto lo aconseje, podrá resolverlo mediante auto que deberá dictar en el plazo de cinco días siguientes a la audiencia.
+
+
+En todo caso, éste deberá proseguir para sus restantes finalidades. Si el tribunal entendiere procedente el litis consorcio, concederá al actor el plazo que estime oportuno para constituirlo, que no podrá ser inferior a diez días. Los nuevos demandados podrán contestar a la demanda dentro del plazo establecido en artículo 404, quedando entre tanto en suspenso para el demandante y el demandado iniciales el curso de las actuaciones.
+
+
+Transcurrido el plazo otorgado al actor para constituir el litis consorcio sin haber aportado copias de la demanda y documentos anejos dirigidos a nuevos demandados, se pondrá fin al proceso por medio de auto y se procederá al archivo definitivo de las actuaciones. Vamos a verlo con nuestro ejemplo. Imagínate que María interpone la demanda para ser indemnizada contra la empresa de juguetes y está alega que es necesaria para ser demandada también la tienda que las vendió.
+
+
+En este caso, María podría oponerse, pero si el tribunal estima que es necesario, se suspende el proceso. María realizará copia de la demanda para la tienda de juguetes a la que sólo podrá añadir respecto a la original las alegaciones necesarias para justificar su pretensión contra la tienda. Por ejemplo, el defecto de juguete podría deberse a una negligencia de la tienda en su cuidado y no de la producción.
+
+
+La tienda tendría un plazo de diez días para contestarla. Si no lo hiciera así, María se pondría fin al procedimiento, puesto que, como ya hemos dicho, es una obligación por parte de la misma. Con esto terminamos esta nueva clase sobre la explicación de los artículos 6 a 18 de la ley en juiciamiento civil.
+
+
+Como ves, ha sido cortita. Espero que te haya quedado claro lo que hemos explicado. En la próxima clase continuaremos con otros temas relacionados con la polaridad de partes en el proceso, en concreto con la intervención procesal.
+
+
+En resumidas cuentas, lo que hemos visto hoy en el proceso existe al principio de dualidad de partes. Siempre tiene que haber demandante y demandado. Sin embargo, estas posiciones pueden ser ocupadas por más de una persona.
+
+
+Es decir, no es necesario que sea un sujeto individual. Cuando esto es así, estaríamos ante un litis consorcio. En el caso de que haya una polaridad de demandantes, será un litis consorcio activo.
+
+
+En el caso de que sea polaridad de demandados, pasivo, es de demandantes y demandados mixtos. Por otro lado, hemos visto que el litis consorcio en algunas ocasiones es opcional constituirlo, llamándose así el litis consorcio voluntario, mientras que en otras ocasiones es una obligación en cuyo caso se llama litis consorcio necesario. Solo existe este último tipo de litis consorcio respecto a los demandados.
+
+
+Es decir, no hay un litis consorcio activo necesario, solo pasivo necesario, entre otras cosas porque no se puede obligar a una persona a ejercer una pretensión. Cuando no se cumple con la obligación impuesta por la ley de constituir litis consorcio, la ley antes de que se dicte un auto de sobreseguramiento, permite la integración de la litis de acuerdo con lo establecido en el artículo 420 de la ley en juiciamiento civil, en el que no vuelvo a entrar, pero sería esta última parte que hemos explicado en la clase. Con esto terminamos el litis consorcio y nada, te veo en la siguiente clase.
+
+
+¡Hasta la próxima!
+

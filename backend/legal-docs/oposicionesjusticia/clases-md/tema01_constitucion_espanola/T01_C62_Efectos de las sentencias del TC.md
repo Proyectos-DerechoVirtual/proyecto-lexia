@@ -1,0 +1,56 @@
+# Constitución Española
+
+## Efectos de las sentencias del TC
+
+**Tema:** Constitución Española  
+**Clase:** T01_C62  
+**Archivo:** T01_C62_Efectos de las sentencias del TC.txt  
+**Tipo:** Material de Clase  
+**Categoría:** Oposiciones de Justicia  
+
+---
+
+Muy buenas a todos, gente. Bienvenidos a otra clase más. En esta clase vamos a estudiar los efectos de las sentencias del Tribunal Constitucional en lo referente a los procesos de inconstitucionalidad.
+
+
+La verdad es que esta clase va a ser bastante breve y vamos a ir directos al grano. Así, en las sentencias del Tribunal Constitucional podemos distinguir dos tipos de efectos. ¿Cuáles son estos? Por un lado, los efectos generales, que aparecen en el artículo 164 de la Constitución.
+
+
+Y este artículo dispone que las sentencias del Tribunal Constitucional se publicarán en el Boletín Oficial del Estado con los votos particulares, si los hubiere. Tienen valor de causa juzgada a partir del día siguiente de su publicación y no cabe recurso alguno contra ellas. Esto implica que estos efectos generales se peredican de cualquier tipo de sentencia del Tribunal Constitucional, ya sea una sentencia por un recurso de inconstitucionalidad, por una cuestión de inconstitucionalidad o por un conflicto en defensa de la autonomía local, por poner algún ejemplo.
+
+
+Todas estas sentencias se van a publicar en el Boletín Oficial del Estado y no va a caber recurso alguno contra ellas, teniendo valor de causa juzgada a partir del día siguiente de la publicación. Ahora bien, respecto a la causa juzgada, ¿sabéis en qué consiste la misma? Se trata de un efecto que producen las sentencias y que implica estar a lo resuelto en ellas, de manera que no se puede plantear un procedimiento con un objeto idéntico al que ya fue resuelto previamente. Así, un ejemplo de esto sería que el recurso de inconstitucionalidad contra el plan de ahorro de eficiencia energética que vimos en la clase anterior, en el recurso de inconstitucionalidad, si fuese desestimatoria dicha sentencia, no podría plantearse por parte de la Comunidad de Madrid ni por cualquier otro sujeto legitimado para interponer el recurso de inconstitucionalidad un recurso precisamente que tuviese un objeto idéntico, que sería básicamente impugnar este plan de ahorro y eficiencia energética, argumentando los mismos motivos para ver si esta vez hay más suerte.
+
+
+A continuación, vamos a ver los efectos específicos en los procesos de inconstitucionalidad. ¿Recordáis cuáles eran estos? Se trata del recurso de inconstitucionalidad y de la cuestión de inconstitucionalidad que vimos en las clases anteriores. La primera cuestión es, ¿dónde aparece regulada esta materia? Esta aparece regulada en el artículo 164 de la Constitución y en los artículos 38-40 de la Ley Orgánica del Tribunal Constitucional.
+
+
+Y así, lo primero que hay que tener en cuenta es que el artículo 164 de la Constitución dispone que las sentencias del Tribunal Constitucional que declaren la inconstitucionalidad de una ley o de una norma con fuerza de ley y todas las que no se limiten a la estimación subjetiva de un derecho tienen plenos efectos frente a todos. Entonces, ¿qué implica esto? Esto supone que va a vincular a todos los poderes públicos, incluido el Congreso de los Diputados, el Senado, el Gobierno o las Comunidades Autónomas, que deberán respetar su contenido. Así, imaginémonos el caso de la sentencia del Tribunal Constitucional que declara la inconstitucionalidad de varios puntos del Estatuto de Autonomía de Cataluña.
+
+
+El efecto de vinculación general va a impedir que la comunidad autónoma correspondiente, en este caso Cataluña, aplique estos puntos declarados inconstitucionales por parte de nuestro Tribunal Constitucional. Lo siguiente a examinar son los efectos específicos de las sentencias estimatorias. Así, ¿cuáles son estos? El artículo 39 indica que cuando la sentencia declare la inconstitucionalidad, declarará igualmente la nulidad de los preceptos impugnados, así como, en su caso, la de aquellos otros de la misma ley, disposición o acto con fuerza de ley a los que deba extenderse por conexión o consecuencia.
+
+
+Esto supone, en nuestro ejemplo que vimos en la clase del recurso de inconstitucionalidad en que se presentaba dicho recurso contra el Plan de Ahorro y Eficiencia Energética, que era el Real Decreto Ley 14-2022 de 1 de agosto, que si este fuese declarado inconstitucional, debería indicar qué artículos específicos de dicho Real Decreto Ley van a ser considerados inconstitucionales. Ahora bien, ¿qué motivos puede haber para hacer esto? Esta alusión a los artículos se debe a que la ley va a subsistir en la parte no afectada por la inconstitucionalidad. Así, en el caso que citamos antes del ejemplo del Real Decreto Ley 14-2022 de 1 de agosto, si se declarasen inconstitucionales, por ejemplo, los 10 primeros artículos, los artículos 11 y siguientes, van a seguir siendo aplicables porque no son inconstitucionales.
+
+
+Ahora bien, muchísimo ojo con esto, porque la sentencia del Tribunal Constitucional va a tener que respetar el valor de cosa juzgada de las sentencias firmes anteriores. Esto implica, fundamentalmente, que los procedimientos finalizados con sentencia firme en que se haya aplicado dicha ley, norma o disposición con fuerza de ley, no van a ser afectados por esta declaración de inconstitucionalidad. Ahora bien, supongamos el siguiente caso.
+
+
+Imaginémonos una persona que es condenada por un delito previsto en un artículo concreto del Código Penal que posteriormente es declarado inconstitucional. Entonces, pese a declararse inconstitucional el artículo del Código Penal que fundamentó la condena de esta persona, sólo por el hecho de que la sentencia sea firme, esta persona va a tener que soportar la condena que se le impuso, aplicando esta norma inconstitucional. La respuesta es clarísimamente negativa, ya que el artículo 40 de la Ley Orgánica del Tribunal Constitucional exceptúa del deber de respeto de la cosa juzgada a los procedimientos penales o sancionadores que, por aplicación de esta declaración de inconstitucionalidad, supongan una limitación o exención de pena, sanción o exclusión, exención o limitación de responsabilidad.
+
+
+Por tanto, en el caso que citamos, el sujeto va a quedar exento de responsabilidad al tratarse de una condena fundamentada en una norma inconstitucional. Pasamos ahora a ver los efectos de las sentencias desestimatorias. ¿Cuáles son estos? Pues es un único efecto y básicamente es impedir el planteamiento ulterior de la cuestión en el caso del recurso de inconstitucionalidad si se funda en la infracción del mismo artículo.
+
+
+Así, en el caso del recurso de la Comunidad de Madrid frente al Plan de Ahorro y Eficiencia Energética de la Administración General del Estado, si este es desestimado, no podrá volver a plantearse dicha cuestión alegando el mismo motivo, que era básicamente la invasión de competencias de la Comunidad Autónoma de Madrid. Y para terminar, vamos a ver un pequeño aspecto de la cuestión de inconstitucionalidad y habríamos finalizado la clase. En estos procedimientos se va a comunicar la sentencia del Tribunal Constitucional al órgano judicial para que resuelva teniendo en cuenta lo dispuesto en dicha sentencia del Tribunal Constitucional.
+
+
+Así, vamos a aplicar esto en el ejemplo de la clase anterior en que una magistrada interponía una cuestión de inconstitucionalidad frente al párrafo cuarto del artículo 94 del Código Civil. Ésta entendía que este artículo vulneraba la presunción de inocencia. Bien, pues cuando el tribunal resuelva esta cuestión de inconstitucionalidad, lo que va a hacer es decir si efectivamente se vulnera o no esta presunción de inocencia.
+
+
+Por tanto, si el Tribunal Constitucional declara inconstitucional el párrafo cuarto del artículo 94 del Código Civil por entender que efectivamente vulnera la presunción de inocencia, el órgano judicial ya no podrá resolver aplicando dicho artículo. Mientras que, por el contrario, si entiende que efectivamente este artículo es respetuoso con la presunción de inocencia del artículo 24.2 de la Constitución, el órgano judicial deberá tenerlo en cuenta a la hora de dictar la sentencia o resolución judicial que corresponda. Y con esto finaliza la clase.
+
+
+Espero que te haya gustado y nos vemos en la próxima.
+

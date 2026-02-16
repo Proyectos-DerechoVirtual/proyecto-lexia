@@ -1,0 +1,53 @@
+# El Poder Judicial
+
+## Prohibiciones de Jueces y Magistrados
+
+**Tema:** El Poder Judicial  
+**Clase:** T06_C05  
+**Archivo:** T06_C05_Prohibiciones de Jueces y Magistrados.txt  
+**Tipo:** Material de Clase  
+**Categoría:** Oposiciones de Justicia  
+
+---
+
+Muy buenas a todos gente, bienvenidos a otra clase más. En esta clase seguimos con el estatuto de jueces y magistrados, que va a dar para largo y vamos a examinar hoy las prohibiciones impuestas a jueces y magistrados. La primera cuestión, como siempre, es dónde encontramos su regulación en la constitución.
+
+
+En la constitución aparece regulado todo esto en el artículo 127, el cual dispone que los jueces y magistrados, así como los fiscales, mientras se hayan inactivo no podrán desempeñar otros cargos públicos ni pertenecer a partidos políticos o sindicatos. La ley establecerá el sistema y las modalidades de asociación profesional de los jueces, magistrados y fiscales. Además, el apartado segundo del artículo 127 dispone que la ley establecerá el régimen de incompatibilidades de los miembros del Poder Judicial, que deberá asegurar la total independencia de los mismos.
+
+
+Bien, este régimen de incompatibilidades lo veremos en la próxima clase. En esta, vamos a centrarnos en las prohibiciones. A continuación, vamos a hacernos aquí una pregunta.
+
+
+¿Qué motivo puede haber para imponer a los jueces y magistrados prohibiciones e incompatibilidades? Pues el motivo es muy sencillo. Estas prohibiciones e incompatibilidades tienen por objeto reforzar su independencia y que así no tengan ningún tipo de vinculación. Bien, comencemos entonces con las prohibiciones.
+
+
+¿Dónde aparecen reguladas las mismas? En la Ley Orgánica del Poder Judicial. Estas aparecen previstas en los artículos 395 y 396, disponiendo el primero de ellos que no podrán los jueces y magistrados pertenecer a partidos políticos o sindicatos o tener empleo al servicio de los mismos. Esta prohibición, como habéis podido ver, es bastante facililla y no plantea problema alguno.
+
+
+Ahora bien, ¿qué sucede con un juez o magistrado que tenga, por ejemplo, un empleo al servicio de un partido político o que esté afiliado a alguno, como por ejemplo al PSOE? Esto lo vimos en la clase anterior. ¿Recordáis qué sucedía? Esta situación sería considerada como una falta muy grave por parte del juez o magistrado y daría lugar a responsabilidad disciplinaria, pudiendo imponérsela incluso la sanción de separación de la carrera judicial y fiscal, lo que implicaría la pérdida automática de la condición de juez o magistrado. Por ahora, como podéis ver, esto no es más que una repetición de lo que indica el artículo 127 de la Constitución, pero ahora adicionalmente el artículo 395 de la Ley Orgánica del Poder Judicial indica que a los jueces o magistrados les está prohibido, entre otros, dirigirse a los poderes, autoridades, funcionarios públicos o corporaciones oficiales felicitaciones o censuras por sus actos.
+
+
+Así, un ejemplo de esto sería que un juez o magistrado felicitase a los miembros del Congreso de los Diputados por haber aprobado en su día la moción de censura contra Mariano Rajoy. Un acto de este estilo iría en contra del artículo 395 de la Ley Orgánica del Poder Judicial. Además, este artículo prohíbe a los jueces o magistrados concurrir en su calidad de miembros del Poder Judicial a cualquier acto o reunión pública que no tenga carácter judicial.
+
+
+Así, por ejemplo, un juez no puede acudir con su condición de poder del Estado a una manifestación, por ejemplo, que juez en contra de las corridas de toros, alegando que acude en esa condición. Ahora bien, sí que puede acudir a título particular. A lo anterior hay que añadir que esta prohibición conoce dos excepciones.
+
+
+¿Cuáles son estas? En primer lugar, aquellas que tengan por objeto cumplimentar al rey. Y en segundo lugar, aquellas a las que fueran convocados o autorizados para asistir por el Consejo General del Poder Judicial. Por tanto, si al juez que mencionamos antes se le autoriza por parte del Consejo General del Poder Judicial para acudir a esa manifestación antitaurina en su condición, sí que podrá hacerlo.
+
+
+Y vamos con lo que sería la última prohibición de este artículo, que es tomar en las elecciones legislativas o locales más parte que la de emitir su voto personal. ¿Y qué implica esto? Pues que un juez, por ejemplo, en las elecciones al Congreso de los Diputados y al Parlamento, no puede, en un período de campaña electoral, intervenir en la misma realizando campañas a favor de cualquier partido político. Lo único que puedan hacer tan solo es votar a favor del partido que ellos consideren oportuno.
+
+
+Pero nada más allá de eso, tal y como indica el propio artículo. Y vamos, por fin, con la última prohibición que veremos en esta clase. Aparece en el artículo 396 de la Ley Orgánica del Poder Judicial y dispone que los jueces o magistrados no podrán revelar hechos o noticias referentes a personas físicas o jurídicas de los que hayan tenido noticia en el ejercicio de sus funciones o cargos.
+
+
+Este artículo establece una de las obligaciones fundamentales de todo profesional. ¿Cuál creéis que es? Se trata del famoso secreto profesional y, por tanto, los jueces no podrán revelar ningún hecho del que tengan noticia en el ejercicio de su cargo o función. Así, imaginemos que hay un caso de violación en el que la identidad de la víctima es desconocida, pero que ésta finalmente acaba siendo descubierta por parte del juez de instrucción que, precisamente, está realizando la investigación judicial referente a estos hechos en el municipio correspondiente.
+
+
+Este, a salir de su jornada laboral, queda con unos colegas a tomar algo y decide revelar la identidad de la víctima de los mismos. Esto, lógicamente, ya sabemos que no es correcto, pero ¿qué sucede si el juez lo hace? Pues en el caso del juez estaría cometiendo un delito de difusión y revelación de secretos del artículo 198 del Código Penal, a la que habría que añadir que se trata de una falta disciplinaria muy grave que da lugar a este tipo de responsabilidad, tal y como dispone el artículo 417 de la Ley Orgánica del Poder Judicial. Y con esto, damos por finalizada la clase.
+
+
+¡Un saludo y nos vemos en la próxima!
+

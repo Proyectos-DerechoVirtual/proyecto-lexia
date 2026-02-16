@@ -1,0 +1,86 @@
+# Concurso de Acreedores
+
+## Los organos del concurso II
+
+**Tema:** Concurso de Acreedores  
+**Clase:** T68_C08  
+**Archivo:** T68_C08_Los organos del concurso II.txt  
+**Tipo:** Material de Clase  
+**Categoría:** Oposiciones de Justicia  
+
+---
+
+Hey, muy buenas tardes. ¿Qué tal? ¿Cómo vas? ¿Cómo llevas los órganos concursales que vimos en la clase anterior? ¿Bien? Seguro que sí. Bueno, como anticipábamos en el vídeo anterior, en esta clase vamos a ver el papel de la administración concursal en el concurso de acreedores.
+
+
+Como ya vimos, junto con el juez del concurso, la administración concursal es el órgano concursal más importante y se regula en el título segundo, en un capítulo específico, a partir del artículo 57 y siguientes. ¿Pero sabes lo que es? Pues, en definitiva, la administración concursal es un órgano de gestión y control, aunque veremos esto más a fondo a lo largo de la clase. Antes de ver sus funciones, vamos a hablar de algunas de sus características.
+
+
+Lo primero que te estarás preguntando es ¿quién compone la administración concursal? Pues vamos a verlo. Para empezar, es en el auto de declaración de concurso donde se establece quién formará la administración concursal y las facultades que tendrá. Por otra parte, en cuanto a su organización, la administración puede ser única o dual, dependiendo de si está formada por uno o dos administradores concursales.
+
+
+Pero lo más normal será que haya un único administrador. ¿Y quién será? Pues será el que por turno corresponda. Aunque en los concursos de gran tamaño el juez podrá nombrar a un administrador distinto que se adecúe mejor a las características del concurso por su experiencia o especialización.
+
+
+Eso sí, ojo que no puede ser lo cualquiera. El administrador no podrá haber prestado servicios ni al deudor ni a personas especialmente relacionadas con él en los últimos tres años. Además, deberá estar inscrito en la sección cuarta del registro público concursal, con constancia del ámbito territorial específico en el que puede ejercer las funciones propias del cargo.
+
+
+No puedo dejar de mencionar que actualmente sólo podrán inscribirse en el registro público concursal como administradores concursales las personas naturales que tengan la titulación y superen el examen de actitud profesional que se establezca en el reglamento de la administración concursal. Con las personas jurídicas, al final pasa un poco lo mismo. Sus socios o sus representantes legales tendrán que tener el examen aprobado.
+
+
+También decir que en la inscripción se especificará las clases de concursos en las que puede ser nombrado el administrador concursal, que hay tres niveles de complejidad pero no vamos a entrar ahí. Ya te puedes imaginar que ahora hay diferentes categorías de administrador concursal según la dificultad de concursos que la ley te permita acoger. Por otra parte, los administradores concursales tienen el deber de aceptación, pero ¿qué significa esto? Muy fácil, una vez se les comunique el cargo, el administrador deberá ir al juzgado y aceptarlo, puesto que si no lo hace, no podrá ser administrador durante los tres años siguientes.
+
+
+Es una penalización un poco grande, pero a ver estudiado. Otra pregunta que podemos hacernos es si el administrador concursal es independiente y la respuesta vuelve a ser que no. A pesar de que deba actuar con imparcialidad e independencia respecto del deudor y de los acreedores, la administración concursal está sometida a la supervisión del juez del concurso, quien podrá pedir en cualquier momento a la administración concursal una información específica sobre el estado del procedimiento o sobre cualquier otra cuestión relacionada con el concurso.
+
+
+Artículos 80 y 82 de la Ley Concursal. Otro aspecto importante es la responsabilidad del administrador concursal frente al deudor y los acreedores por los actos que afecten a la masa activa del concurso. De que tiene un seguro de responsabilidad civil o una garantía equivalente.
+
+
+Y bueno, ahora que sabemos un poco más sobre la administración concursal, es momento de saber cuáles son sus funciones. Pues bien, este órgano concursal lleva a cabo tres funciones básicas. Por una parte, desempeñará funciones de auxilio al juez.
+
+
+Por otra, será el encargado de emitir el informe en el que se determina la masa activa y la masa pasiva del concurso con el inventario de los bienes del deudor y una lista de sus acreedores. Es decir, deberá señalar lo que tiene y lo que debe el concursado. Con este informe se cerrará la fase común y se abrirá la siguiente fase, pero esto lo veremos más adelante.
+
+
+Y por último, será el órgano encargado de representar al deudor cuando se le limiten o suspendan sus facultades procesales. ¿Pero qué supone esto? ¿Cuándo ocurre? ¿En qué consisten esas restricciones? Vamos a verlo más a fondo. El administrador concursal se hace cargo de la representación y defensa del concursado conforme a los artículos 119 y 120 de la ley concursal.
+
+
+Ahora bien, ¿cuándo ocurre esto? Te lo explico. Cuando se declara el concurso de acreedores, hay casos en los que las facultades del deudor quedan limitadas, pero no todas las limitaciones son iguales, por lo que la ley distingue dos supuestos distintos. Uno, en caso de intervención de estas facultades y otro, en caso de suspensión de las mismas.
+
+
+¿Pero en qué consiste cada una de ellas? ¿Qué consecuencias tienen en el concurso? Eso es justo lo que vamos a ver ahora. Para empezar, ¿qué supone que se intervengan las facultades del deudor? Muy sencillo. El deudor, Luis por ejemplo, sigue teniendo la capacidad de administración de su patrimonio.
+
+
+Sin embargo, si pretende ir a juicio, por ejemplo, para disolver y liquidar la sociedad de gananciales a rey de su divorcio, necesitará la autorización de la administración concursal para presentar demandas, recursos y demás actuaciones procesales, puesto que el proceso podría afectar a la más activa de Luis, es decir, a su patrimonio. Pasaría a parecerse a un menor emancipado. Si, por el contrario, la administración concursal creyera conveniente presentar una demanda y el concursado se opusiera, para ello deberá pedir la autorización del juez que se ocupe del concurso.
+
+
+Es lo que ocurriría, supongamos, si el administrador cree necesario que Luis demande a Laura por el dinero que le debe y Luis se niega porque es muy buena amiga suya. En este caso, el administrador podrá pedir al juez del concurso que lo autorice para presentar la demanda en representación del deudor, lo que haga falta para pagar a los acreedores. Además, la intervención de las facultades del deudor aparece en casos en los que, por decirlo de alguna forma, podemos fiarnos de éste.
+
+
+Por eso suele coincidir con los supuestos de concurso voluntario. Pero ojo, tienes que saber que es que estas limitaciones no son definitivas. El juez podrá modificar del régimen de suspensión al de intervención, o al contrario, dependiendo de las circunstancias concretas del concursado.
+
+
+Es decir, si Luis es quien solicita el concurso, supondremos que nos podemos fiar de él y se le permitirá gestionar su propio patrimonio. Pero en caso de que sospechemos, por ejemplo, de que Luis está intentando ocultar sus bienes para que los acreedores no puedan cobrar su deuda, o lo que es lo mismo, si está cometiendo delito de alzamiento de bienes, el juez podrá cambiar la intervención de sus facultades por la suspensión. En segundo lugar, tenemos el supuesto de la suspensión de las facultades del deudor.
+
+
+¿En qué se diferencia de la intervención? Pues bueno, si en la intervención era necesaria la autorización de la administración concursal, en este caso es directamente la administración quien debe presentar las demandas y concursos en interés del concurso en representación del concursado. Eso sí, seguirá necesitando la autorización del juez del concurso para allanarse o desistir en litigios planteados antes de la declaración del concurso. Digamos que se convierte en su deudor legal y Luis tiene la misma capacidad que un menor de edad.
+
+
+Por otra parte, si lo normal es que los supuestos de intervención se correspondan con los concursos voluntarios, por el contrario, los casos de suspensión están muy relacionados con los concursos necesarios. Sin embargo, igual que ocurría antes, el juez podrá cambiar al régimen de intervención si lo considera oportuno. Pues bueno, ahora que ya sabemos en qué consisten los regímenes de intervención y suspensión de los derechos y facultades del deudor, veremos que existe una excepción en el artículo 121 de la ley en la que el deudor podrá tener su representación procesal propia separada de la representación de la administración concursal.
+
+
+Para ello, el concursado y un tercero deberán garantizar ante el juez del concurso que los gastos que podrán derivarse de ese proceso no recaerán sobre la masa activa del concurso. Pero atención porque, aun así, el deudor no podrá realizar las acciones que correspondan a la administración concursal con autorización del juez ni impedir o dificultar que se realicen. Y esto es todo por hoy, gente.
+
+
+Ahora, si te parece, vamos a hacer un breve resumen para que te queden mucho más claras las ideas principales de esta clase. Para empezar, la administración concursal estará compuesta normalmente por un administrador que tendrá el deber de aceptación del cargo y que estará supervisado por el juez del concurso. Además, este administrador deberá tener un seguro de responsabilidad civil debido a la gran responsabilidad que tiene en el concurso, siendo suficiente en concordancia al nivel de los concursos que puede llevar.
+
+
+Las tres categorías que te mencioné antes. La administración concursal tiene funciones de auxilio judicial, pero, además, también es la encargada de elaborar el informe que pondrá fin a la fase común con la determinación de la masa activa y la masa pasiva del concurso. Por último, debemos saber que la declaración del concurso de acreedores no lleva aparejada la restricción de la capacidad procesal del deudor, aunque en ocasiones es necesario que se implanten restricciones a la capacidad de obra del concursado.
+
+
+Además, estas restricciones tendrán mayor o menor intensidad dependiendo de cada caso y podrán ir desde la suspensión del ejercicio de las facultades patrimoniales hasta la sujeción del deudor a un régimen de simple intervención. Y ahora sí, ya está todo. Seguiremos en la próxima clase, pero ahora te toca descansar un poco del derecho concursal.
+
+
+Un saludo y hasta la próxima clase.
+
