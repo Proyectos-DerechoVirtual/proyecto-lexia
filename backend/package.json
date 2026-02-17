@@ -12,7 +12,7 @@
     "test": "jest"
   },
   "dependencies": {
-    "@google/genai": "^1.37.0",
+    "@google/genai": "1.37.0",
     "@supabase/supabase-js": "^2.53.0",
     "@types/compression": "^1.8.1",
     "compression": "^1.8.1",
@@ -23,6 +23,9 @@
     "nodemailer": "^6.9.16",
     "openai": "^4.24.1",
     "winston": "^3.11.0"
+  },
+  "overrides": {
+    "p-retry": "5.1.2"
   },
   "devDependencies": {
     "@types/cors": "^2.8.17",
