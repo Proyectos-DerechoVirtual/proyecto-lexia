@@ -154,7 +154,8 @@ app.get('/health', (_req, res) => {
     status: 'ok',
     timestamp: new Date().toISOString(),
     mode: 'supabase-backend',
-    ragMode: USE_GEMINI ? 'gemini' : 'supabase'
+    ragMode: USE_GEMINI ? 'gemini' : 'supabase',
+    version: '1.1.0'
   });
 });
 
